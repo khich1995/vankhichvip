@@ -735,7 +735,7 @@ https://1.org.vn/Khíctv-sctv21mpd|Referer=http://sctvonline.vn/
 https://263.org.vn/Khichtv-80-sctv22-fhd-mpd
 #EXTINF:-1 tvg-id="sctv22hd" group-title="SCTV" tvg-logo="https://i.ibb.co/TLN4qLm/khichtv-logo-sctv22-fhd.png", SCTV22 FHD
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) 
-
+http://iptv.hainghia.net:6789/rtp/239.12.251.8:5000
 #EXTINF:-1 tvg-logo="https://img.upanh.tv/2024/10/24/kmc_20241023_225855.png" tvg-id="vtv1hd",TROAMI FHD
 #EXTINF: -1 tvg-id = "sctvhdpth" group-title = "💚 Khich TiVi | SCTV" tvg-logo = "https://i.ibb.co/B67KfWW/SCTV-PTP-logo-khichtv.webp", SCTV HD Phim Tổng Hợp
 #EXTVLCOPT:http-user-agent=khichtivi
