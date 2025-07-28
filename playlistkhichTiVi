@@ -1661,7 +1661,7 @@ https://amg01259-lemeilleurducin-universcine-rakuten-bifrz.amagi.tv/hls/amagi_hl
 #EXTVLCOPT:http-user-agent=khichtv/19-03
 http://php.jdshipin.com/smt.php?id=Celestial2
 #EXTINF:0 tvg-id="popc" tvg-logo="https://i.ibb.co/5Ww8CvZV/popc-logo-khichtv.png" group-title="Quốc Tế", POPC🇰🇷
-https://s1.m16tv.cfd/aktv/popc/AKTV.m3u8
+https://fr-us7.jdiptv.cc/live/popc.m3u8
 #https://live.tvfix.org/live/popc/2/v4000000/index.m3u8
 #EXTINF:0 tvg-id="bsntv" tvg-logo="https://static.wikia.nocookie.net/logos/images/d/d4/Celestial_Movies.png/revision/latest?cb=20220325092339&path-prefix=vi" group-title="Quốc Tế", Celestial Movies 🇬🇧
 http://php.jdshipin.com/smt.php?id=Celestial
