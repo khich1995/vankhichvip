@@ -134,22 +134,22 @@ https://hls.cdnokvip.com/live/KHONGMINH/index.m3u8?=khíchtivi⚽
 #EXTINF:-1 tvg-id="kcine" group-title="khíchTV| K+" tvg-logo="https://i.ibb.co/Jfz5MNc/kcinehd-logo-khichtivi.jpg", K+CINE
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0  
 #EXTVLCOPT:http-user-agent=Player (Linux; Android 11) 
-http://113.177.113.147:4022/232.84.1.96:8550
+http://14.254.35.238:4022/rtp/232.84.1.96:8550
 #http://14.247.58.26:4022/rtp/232.84.1.38:8202
 #EXTINF:-1 id-xtream="56457" tvg-id="kaction" plan="VIP,K+,VN,Basic" group-title="K+" tvg-logo="https://i.ibb.co/qrrD9GT/Khich-Ti-Vi-K-action.png", K+ACTION
 #http://113.177.113.147:4022/
-http://14.229.232.52:4022/rtp/232.84.1.97:8556
+http://14.254.35.238:4022/rtp/232.84.1.97:8556
 #EXTINF:-1 tvg-id="kkidshd" group-title="khichTV Bong Da" tvg-logo="https://i.ibb.co/wx01Dnx/khichtvbong-da-live-2026.jpg",K+KIDS
 #EXTINF:0 tvg-id="ksport1hd" group-title="khichTiVi K+" tvg-logo="https://i.ibb.co/0VJ9k3X/logo-ksport1-hd-khich-plus.jpg", K+SPORT1
 http://14.229.232.52:4022/rtp/232.84.1.98:8562
 #https://canvato.net/9bRvp?=get:khichtivi=&k+ksport1hd
 #https://1.org.vn/Khichtv-80-k-sport1-FHD
 #EXTINF:0 tvg-id="ksport2hd" group-title="khichTiVi K+" tvg-logo="https://i.imgur.com/zxK3jmf.jpg", K+SPORT2
-http://14.229.232.52:4022/rtp/232.84.1.98:8562
+http://14.254.35.238:4022/rtp/232.84.1.98:8562
 #https://1.org.vn/Khíchtv-80-Ksport2-FHD
 #EXTVLCOPT:http-user-agent=ExoPlayerLib/2.14.1
 #EXTINF:-1 tvg-id="kkidshd" group-title="K+" tvg-logo="https://i.imgur.com/nogNfPe.jpg", K+ KIDS
-http://14.229.232.52:4022/rtp/232.84.3.43:11794
+http://14.254.35.238:4022/rtp/232.84.3.43:11794
 #http://bentre5.hoangai.vn:8086/stream/b1RVOGdOM05helVRcHVlb0FwWnlWUT09/RzlXS1Zsd0dzQ3BFRGJPbEFUS0VNY3gvTklMM1daak9WY2R5NXJlbG15WWNwSlJhYlE5QTlQVVB1L3FyNDg5OU8veUxRYVBmTE0rOU9Sc3liM3lVS0E9PQ==/khichtv/77332/playlist.mpegts
 #https://z215ymcm4tliv.vcdn.cloud/s4/hls/KPlusKid/index.m3u8
 #_"_khich plus
