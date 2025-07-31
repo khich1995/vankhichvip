@@ -1513,7 +1513,7 @@ https://smart.pendy.dpdns.org/Smart.php?id=Hbohitshd
 #EXTINF:-1 tvg-id="blueantext" group-title="Khích TiVi" tvg-logo="https://i.ibb.co/pdXJvJc/ROCK-Action-khich-TV.jpg" ,ROCK Action FHD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-
+http://s1.an94tv.cfd/aktv/rockaction/AKTV.m3u8
 #EXTINF:-1 tvg-id="blueantent" group-title="🎬 Khích TiVi" tvg-logo="https://i.ibb.co/j6vx4SJ/Rock-Entertainment-khichTV.png" ,Rock Entertainment HD
 
 #https://stream1.cinerama.uz/1232/tracks-v1a1/mono.m3u8
@@ -1559,8 +1559,7 @@ http://fl5.moveonjoy.com/AMC_NETWORK/index.m3u8
 
 #EXTINF:-1 tvg-id="blueantext" group-title="KhíchTiVi" tvg-logo="https://i.ibb.co/ZdQJD65/Rock-Entertainment-p-500.png",Rock Extreme
 #EXTINF:-1COPT:http-user-agent=Dalvik/2.1.0
-http://61.163.58.154:1321/ms/IPTV.php?id=159
-
+http://s1.an94tv.cfd/aktv/rockaction/AKTV.m3u8
 #×'c×=%Quốc Tế kix-":-#
 
 #EXTINF: -1 tvg-id = "kix" group-title = "🎬 khichtivi| Giải trí" tvg-logo ="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2022/02/21/h8hfr6y8_thumbnail-kix-copy_296_168.webp", KIX HD sia🇲🇾 
