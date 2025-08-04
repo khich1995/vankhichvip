@@ -2083,25 +2083,25 @@ https://lb1-live-mv.v2h-cdn.com/hls/ffca/true24/true24.m3u8
 #------CCTV------#
 #EXTINF:-1 group-title="CCTV1" tvg-logo="https://epg.iill.top/logo/CCTV1.png",CCTV1 FHD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-http://27.11.104.122:8006/udp/225.0.4.74:7980
+http://www.v5b7.com.cn:7088/udp/233.18.204.216:5140
 #EXTINF:-1 group-title="CCTV" tvg-id="cctv2" tvg-logo="https://epg.iill.top/logo/CCTV2.png",CCTV2 FHD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-http://116.26.7.53:8088/udp/239.253.43.17:5146
+http://www.v5b7.com.cn:7088/udp/239.253.43.17:5146
 #EXTINF:-1 group-title="kênh CCTV3" tvg-id="DiemaSport3.bg" tvg-logo="https://epg.iill.top/logo/CCTV3.png",CCTV3 FHD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-http://116.26.7.53:8088/udp/239.77.0.175:5146
+http://www.v5b7.com.cn:7088/udp/239.77.0.175:5146
 #EXTINF:-1 group-title="kênh CCTV4" tvg-logo="https://epg.iill.top/logo/CCTV4.png",CCTV4 FHD
 http://123.245.17.116:8181/udp/239.33.4.224:22240
 #EXTINF:-1 group-title="kênh CCTV5" tvg-logo="https://epg.iill.top/logo/CCTV5.png",CCTV5 FHD
-http://171.213.218.120:82/udp/239.93.0.158:5140
+http://www.v5b7.com.cn:7088/udp/239.93.0.158:5140
 #EXTINF:-1 tvg-id="CCTV5+" tvg-name="CCTV" tvg-logo="https://epg.iill.top/logo/CCTV5+.png" group-title="•央视「IPV6」",CCTV5+ FHD
-http://171.213.218.120:82/udp/239.93.0.158:5140
+http://www.v5b7.com.cn:7088/udp/239.93.0.158:5140
 #EXTINF:-1 group-title="kênh CCTV6" tvg-logo="https://epg.iill.top/logo/CCTV6.png",CCTV6 FHD
 http://221.225.54.138:60000/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="CCTV7" tvg-logo="https://epg.iill.top/logo/CCTV7.png",CCTV7 FHD
-http://182.119.23.35:23456/rtp/225.1.4.76:1105
+http://www.v5b7.com.cn:7088/udp/225.1.4.76:1105
 #EXTINF:-1 group-title="cctv8hd" tvg-logo="https://epg.iill.top/logo/CCTV8.png",CCTV8 FHD
-http://182.119.23.35:23456/rtp/225.1.4.161:1197
+http://www.v5b7.com.cn:7088/udp/225.1.4.161:1197
 #EXTINF:-1 group-title="CCTV9" tvg-lorrrrgo="https://epg.iill.top/logo/CCTV9.png",CCTV9 FHD
 http://182.119.23.35:23456/rtp/225.1.4.77:1106
 
