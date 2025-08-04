@@ -1392,7 +1392,8 @@ https://live.fptplay53.net/fnxhd2/kixhd_vhls.smil/chunklist_b5000000.m3u8
 #EXTVLCOPT: http-user-agent = KhichTivi
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-http://14.229.232.52:4022/rtp/232.84.2.131:9582
+https://live.tvfix.org/live/kix/index.m3u8
+#http://14.229.232.52:4022/rtp/232.84.2.131:9582
 #😁http://202.150.172.3:5000/rtp/239.1.2.207:9190
 #http://bentre5.hoangai.vn:8086/stream/T05sc0x5ajlkMm5BVlAvVHVYVTZCZz09/S1BDamZsMDBMaHEyM2paRFh4dnMwQT09/khichtv/fhwuw@4216/playlist.mpegts
 #http://live.netmaxtv.com:8080/live/live/HasBahCa.m3u8
@@ -1563,11 +1564,11 @@ http://s1.an94tv.cfd/aktv/rockaction/AKTV.m3u8
 #×'c×=%Quốc Tế kix-":-#
 
 #EXTINF: -1 tvg-id = "kix" group-title = "🎬 khichtivi| Giải trí" tvg-logo ="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2022/02/21/h8hfr6y8_thumbnail-kix-copy_296_168.webp", KIX HD sia🇲🇾 
-https://live.tvfix.org/live/kix/index.m3u8
+http://s1.an94tv.cfd/aktv/kix/AKTV.m3u8
 #EXTINF: -1 tvg-id = "kix" group-title = "🎬 khichtivi| Giải trí" tvg-logo ="https://autenticatv.pe/wp-content/uploads/2021/01/logo-web.png", Auténtica HD
 https://live.obslivestream.com/autenticatvmux/index.m3u8
 #EXTINF: -1 tvg-id = "kix" group-title = "🎬 khichtivi| Giải trí" tvg-logo ="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2022/02/21/h8hfr6y8_thumbnail-kix-copy_296_168.webp", KIX HD ID
-http://php.jdshipin.com:8880/smt.php?id=kixhd_twn
+
 #EXTINF:-1 tvg-id="cinemaworldhd" group-title="🎬Test khichtivi| Giải trí" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/05/27/k40j9xch_cinema-world6b652603623c2f38eb586f156e9f4ac8_296_168.webp", CinemaWorld (HD 🇱🇷
 #EXTVLCOPT:http-user-agent=KhichTivi
 https://familyhls.avatv.live/hls/stream.m3u8
@@ -1583,12 +1584,12 @@ https://moviesphereuk-samsunguk.amagi.tv/1080p-vtt/index.m3u8
 #EXTINF: -1 tvg-id = "MyCinemaAsia.id" tvg-logo ="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSy2T5UdC6iPsSpODH8Ivv-9DVqSwYaKxsxUg&usqp=CAU" group-title = "Phim", My Cinema fc Asia (1080p) [MCA ]
 http://cdn.163.dedyn.io/live/tvbp/stream.m3u8
 #EXTINF: -1 tvg-id = "MyCinemaAsia.id" tvg-logo ="https://i.ibb.co/RP55VLm/20231123-khichtivi-mykidz.png" group-title = "Phim",my kidz
-http://aktv-stream.m16tv.cfd/stream/astro_a1/tvbxinghe/AKTV.m3u8
+https://smart.pendy.dpdns.org/Smart.php?id=videolandmovie
 #EXTINF:-1 tvg-id="hbohd" group-title="🎞|Khích TiVi HBO" tvg-logo="https://i.ibb.co/p2Z7Cbg/hbo.png",HBO
-http://aktv-stream.m16tv.cfd/stream/aktv/channel8hd/AKTV.m3u8
+http://s1.an94tv.cfd/aktv/channel8hd/AKTV.m3u8
 #EXTINF:-1 tvg-id="boxmovie1" group-title="📦||KhichTiviMovies" tvg-logo="https://i.ibb.co/7b7bwr2/20231124-khichtivi-cinemax.png" , cinemax fhd
 #EXTVLCOPT:http-user-agent=khichtivi
-https://lagenceducourtmetrage-brefcinema-01-eu.rakuten.wurl.tv/playlist.m3u8
+https://k44991.kylintv.tv/live/chinamovie_iphone.m3u8
 #EXTINF:-1 tvg-id="inthebox" group-title="📦|KhichTiviMovies" tvg-logo="https://i.ibb.co/TtVn7rJ/20231124-khichtivi-star-movie.jpg",star move laotv🇱🇦
 https://lagenceducourtmetrage-brefcinema-01-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="boxhits" group-title="📦|KhichTiviMovies" tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/star-world-hd-logo-300x300.jpg",star world hd
