@@ -1788,7 +1788,7 @@ http://118.68.201.207:8183/udp/225.1.2.231:30120
 https://canlitvulusal.xyz/live/cartoonnetwork/index.m3u8
 #EXTINF:-1 tvg-id="dreamworks" group-title="🌈KhichTivi| Hoạt hình" tvg-logo="https://i.ibb.co/YTHh0L6/khichtivi-logo-Dreamworks-HD.jpg", Dreamworks
 #EXTVLCOPT:http-user-agent=khíchivi
-http://118.68.201.207:8183/udp/udp/225.1.4.39:30120
+http://118.68.201.207:8183/udp/225.1.4.39:30120
 #EXTINF:-1 tvg-id="dreamworks" group-title="🌈KhichTivi| Hoạt hình" tvg-logo="https://i.ibb.co/hsJ3f9T/khichtv-logo-Dreamworks-FHD.jpg", Dreamworks
 #EXTVLCOPT:http-user-agent=khíchivi
 https://stmv6.voxtvhd.com.br/xtremacartoons/xtremacartoons/playlist.m3u8
@@ -1860,12 +1860,13 @@ https://rfe-ingest.akamaized.net/hls/live/2033043/tvmc05/master.m3u8
 https://helga.iptv2022.com/France24_fr/index.m3u8
 #EXTINF:-1 tvg-id="kbsworld" group-title="🌏KhichTivi| Quốc tế" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2022/02/21/qepbcwxy_microsoftteams-image7b2588fb851ee306d3ab77caa6e19d79_296_168.webp", KBS World
 https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/master.m3u8?=khichtivi
-#EXTINF:-1 tvg-id="animalhd" group-title="🌿KhichTivi| Khám phá" tvg-logo="https://dpho.tmsimg.com/assets/p14248193_b_h9_af.jpg" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/animalplanet_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", Animal Planet🐘🇻🇳 FHDhttp://118.68.201.207:8183/udp/225.1.4.209:30120
+#EXTINF:-1 tvg-id="animalhd" group-title="🌿KhichTivi| Khám phá" tvg-logo="https://dpho.tmsimg.com/assets/p14248193_b_h9_af.jpg" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/animalplanet_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", Animal Planet🐘🇻🇳 FHD
+http://118.68.201.207:8183/udp/225.1.4.209:30120
 #http://41.205.93.154/ANIMALPLANET/index.m3u8
 #EXTINF:-1 tvg-id="animalhd" group-title="🌿KhichTivi| Khám phá" tvg-logo="https://dpho.tmsimg.com/assets/p14248193_b_h9_af.jpg" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/animalplanet_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", Animal Planet🐘 FHD
 #EXTVLCOPT:http-user-agent=KhichTivi
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-http://50.7.234.10:8278/animalplanet_twn/playlist.m3u8?tid=ME1E7303496773034967&ct=19225&tsum=07b0edc521a4edcb7a00d7e943b8aa72
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/ rtp mytv
+http://14.254.35.238:4022/rtp/232.84.3.139:10702
 #EXTINF:-1 tvg-id="animalhd" group-title="🌿KhichTivi| Khám phá" tvg-logo="https://i.ibb.co/h1s6ZR1/Khich-Ti-Vi-Animal-Planet.jpg" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/animalplanet_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", Animal Planet HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
