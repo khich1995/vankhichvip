@@ -81,7 +81,7 @@ https://1.org.vn/Khíchvip📺-SCTV😉PHIM-TÔNG-HỢP-FHD-LIVE🔐
 
 #-""-update khích TiVi*-'-#
 
-#EXTINF:0 tvg-id="sctv15hd" group-title="❤️0️⃣7️⃣/0️⃣8️⃣/2️⃣0️⃣2️⃣5️⃣|UPDATE By khích📺" tvg-logo="https://i.ibb.co/grKqtMt/Up-Da-Te-khich-Tivi-png.jpg" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtc1_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8",UPDATE khích TiVi|⏰12:43:55|📆/07/08/2025 FHD
+#EXTINF:0 tvg-id="sctv15hd" group-title="❤️1️⃣1️⃣/0️⃣8️⃣/2️⃣0️⃣2️⃣5️⃣|UPDATE By khích📺" tvg-logo="https://i.ibb.co/grKqtMt/Up-Da-Te-khich-Tivi-png.jpg" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtc1_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8",UPDATE khích TiVi|⏰12:43:55|📆/11/08/2025 FHD
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) 
 #xem ok khichtivi
 #http://14.229.232.52:4022/rtp/232.84.3.22:11920
@@ -552,7 +552,7 @@ https://xem.hoiquan.Click/TichHop/OnLive/LIVE/?user=onsportsnews
 #EXTINF:0 tvg-id="vtvcab19hd" group-title="VTVCab" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2022/08/02/dywma2yi_vtvcab19-vie-dramas-thumb6cf81a4fbaabcda8918e331d669342b8_296_168.webp" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v2/dvr/vieon/vie-dramas-hd/${start}/${offset}",VTVCAB19 FHD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://sgchill.io.vn/360/177/index.m3u8
+http://dvrfl05.bozztv.com/vch_vchannel18/index.m3u8
 #EXTINF:0 tvg-id="vtvcab19hd" group-title="VTVCab" tvg-logo="https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/540x300x1713251467/cmc_new/img.live_channel/0/0/0/0/309.jpg" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v2/dvr/vieon/vie-dramas-hd/${start}/${offset}",VTVCAB1-Giải TRÍ
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 = 175
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
