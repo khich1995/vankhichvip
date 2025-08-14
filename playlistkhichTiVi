@@ -290,7 +290,7 @@ https://vc.101vn.com/htv/htvcmb.php?id=2631|Referer=http://sctvonline.vn/
 #EXTINF:-1 tvg-id="htv1hd" group-title="💛|Khích📺 HTV" tvg-logo="https://static.vieon.vn/vieplay-image/avatar/2020/12/15/yxyqf42p_htv1.png",HTV1 HD
 https://live.fptplay53.net/epzhd1/htv1_hls.smil/chunklist_b1800000.m3u8
 #EXTINF:-1 tvg-id="htv2hd" group-title="💛|Khích📺 HTV" tvg-logo="https://i.ibb.co/DDprm2Dm/khichtv-logo-HTV2-HD.webp",Vie Channel HTV2 HD
-https://1.org.vn/KhíchTV📺🤔HTV2-HD-LIVE
+https://liveh12.seenow.vn/hls/HTV2/03.m3u8
 #EXTINF:-1 tvg-id="htv2hd" group-title="💛|Khích📺 HTV" tvg-logo="https://static.vieon.vn/vieplay-image/avatar/2020/12/15/n2uwpyq8_htv2_viechannel.png",Vie Channel HTV2 FHD
 #EXTVLCOPT: http-user-agent = KhichTivi
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
