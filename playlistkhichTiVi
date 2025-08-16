@@ -28,8 +28,7 @@ https://live.fptplay53.net//fnxch2/vtv4hd_abr.smil/chunklist_b3000000.m3u8.m3u8
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 https://1.org.vn/Khích-📺-vtv5-HD-LIVE
-#chao anh em iptv nhe
-#EXTINF:-1 tvg-id="vtv6hd" group-title="Khích📺2️⃣0️⃣2️⃣5️⃣|VTV" tvg-logo="https://i.ibb.co/VY86j22/VTV-can-tho-khichtv.jpg",❤️VTV Cần Thơ HD
+##EXTINF:-1 tvg-id="vtv6hd" group-title="VTV" tvg-logo="https://i.ytimg.com/vi/u3oLNrB_WDM/maxresdefault.jpg" catchup="default" catchup-days="2" catchup-source="http://sv.cvtv.xyz:3000/mytvod.m3u8?id=212&time=${start}&offset=${duration}, ❤️VTV Cần Thơ HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 https://live.fptplay53.net/fnxhd1/vtvcantho_vhls.smil/chunklist_b5000000.m3u8
