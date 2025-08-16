@@ -305,10 +305,10 @@ https://vc.101vn.com/htv/htvcmb.php?id=2535
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 https://liveh12.seenow.vn/hls/HTV3/03.m3u8
-#EXTINF:-1 tvg-id="htvkey" group-title="💛|Khích📺 HTV" tvg-logo="https://assets2.htv.com.vn/Images/1/Channel/14/htvkey.png",HTV Key FHD
+#EXTINF:-1 tvg-id="htvkey" group-title="💛|Khích📺 HTV" tvg-logo="https://static.vieon.vn/vieplay-image/avatar/2020/12/15/mndic8hi_htv_key.png",HTV Key FHD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://vc.101vn.com/htv/htvcmb.php?id=2528
-#EXTINF:-1 tvg-id="htvkey" group-title="💛|Khích📺 HTV" tvg-logo="https://static.vieon.vn/vieplay-image/avatar/2020/12/15/mndic8hi_htv_key.png",HTV Key
+#EXTINF:-1 tvg-id="htvkey" group-title="💛|Khích📺 HTV" tvg-logo="https://i.ibb.co/1hXN37r/logo-bolero-khichtv.jpg",HTV BOLERO
 #EXTVLCOPT: http-user-agent = KhichTivi
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
