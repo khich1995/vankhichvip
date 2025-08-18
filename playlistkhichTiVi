@@ -576,7 +576,7 @@ https://1.org.vn/Khích-📺-online-on-music-LIVE🔓
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://xem.hoiquan.Click/CoBan/vtvcab-21-cartoon-kids-hd/TuyetDoiKhongKinhDoanh.m3u8
 #EXTINF:-1 tvg-id="haivolohd" group-title="VTVcab" tvg-logo="https://i.ibb.co/3myPY7zR/Vie-Channel-by-Dat-Viet-VAC-logo-khichtv.png" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon/vtvcab21-cartoon-kid/${start}/${offset}", ON vie channel
-https://xem.hoiquan.Click/NguonOnliveTV/haivolo/ToChaThangVThanh
+https://1.org.vn/Khichtv-viết-channel-m3u8
 #EXTINF:-1 tvg-id="happykids" group-title="khichtv| VTVCab" tvg-logo="https://assets-vtvcab.gviet.vn/images/v2/channel/20220613/2022061306/Happykids_150x902_1675158913.webp", HAPPY KIDS
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #EXTVLCOPT:http-user-agent=KhichTivi
