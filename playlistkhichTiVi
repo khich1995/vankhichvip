@@ -131,7 +131,7 @@ https://hls.cdnokvip.com/live/KHONGMINH/index.m3u8?=khíchtivi⚽
 #EXTINF:-1 tvg-id="kcine" group-title="khíchTV| K+" tvg-logo="https://i.ibb.co/Jfz5MNc/kcinehd-logo-khichtivi.jpg", K+CINE
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0  
 #EXTVLCOPT:http-user-agent=Player (Linux; Android 11) 
-http://183.63.152.54:12346/rtp/239.77.0.1:5146
+http://121.60.59.194:10001/rtp/239.69.1.241:11088
 #http://14.247.58.26:4022/rtp/232.84.1.38:8202
 #EXTINF:-1 id-xtream="56457" tvg-id="kaction" plan="VIP,K+,VN,Basic" group-title="K+" tvg-logo="https://i.ibb.co/qrrD9GT/Khich-Ti-Vi-K-action.png", K+ACTION
 #http://113.177.113.147:4022/
