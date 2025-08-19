@@ -250,9 +250,9 @@ https://sgchill.io.vn/360/2458/index.m3u8
 
 #EXTINF:-1 tvg-id="vtc10" group-title="THỬ NHIỆM - KHICHTV" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/09/24/y19zhvhx_vtc-1028537230304be426238d420dbf890d77_296_168.webp", VTC10 FHD
 #EXTVLCOPT:http-user-agent="khichrTV"
-
+http://live.urren.net/live/a001588520a6f4a7b113f96b6cbfb0ab.flv
 #EXTINF:-1 tvg-id="vtc10" group-title="THỬ NHIỆM - KHICHTV" tvg-logo="https://media.vov.vn/sites/default/files/2020-12/vtc10.png", VTC10 FHD
-http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_hoy77.flv
+http://live.urren.net/live/95752691dec60c603e57864a259b718d.flv
 #EXTINF:-1 fileid="vtc11" group-title="THỬ NHIỆM - Khích📺" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/09/24/z9b9cvne_kids-family-tvc19224d3ab441b38e0872a45d49e46b3_296_168.webp", VTC11 FHD
 #EXTVLCOPT:http-user-agent="Khích📺"
 
