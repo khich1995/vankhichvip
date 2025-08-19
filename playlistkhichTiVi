@@ -251,7 +251,7 @@ https://sgchill.io.vn/360/2458/index.m3u8
 #EXTVLCOPT:http-user-agent="khichrTV"
 
 #EXTINF:-1 tvg-id="vtc10" group-title="THỬ NHIỆM - KHICHTV" tvg-logo="https://media.vov.vn/sites/default/files/2020-12/vtc10.png", VTC10 FHD
-
+http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_hoy77.flv
 #EXTINF:-1 fileid="vtc11" group-title="THỬ NHIỆM - Khích📺" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/09/24/z9b9cvne_kids-family-tvc19224d3ab441b38e0872a45d49e46b3_296_168.webp", VTC11 FHD
 #EXTVLCOPT:http-user-agent="Khích📺"
 
