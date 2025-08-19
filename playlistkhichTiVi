@@ -148,7 +148,8 @@ http://222.254.57.160:8889/nero.php?id=495005
 #https://1.org.vn/Khíchtv-80-Ksport2-FHD
 #EXTVLCOPT:http-user-agent=ExoPlayerLib/2.14.1
 #EXTINF:-1 tvg-id="kkidshd" group-title="K+" tvg-logo="https://i.imgur.com/nogNfPe.jpg", K+ KIDS
-http://113.177.113.147:4022/rtp/232.84.3.43:11794
+https://mt01.utako.moe/AT-X/index.m3u8
+#http://113.177.113.147:4022/rtp/232.84.3.43:11794
 #http://bentre5.hoangai.vn:8086/stream/b1RVOGdOM05helVRcHVlb0FwWnlWUT09/RzlXS1Zsd0dzQ3BFRGJPbEFUS0VNY3gvTklMM1daak9WY2R5NXJlbG15WWNwSlJhYlE5QTlQVVB1L3FyNDg5OU8veUxRYVBmTE0rOU9Sc3liM3lVS0E9PQ==/khichtv/77332/playlist.mpegts
 #https://z215ymcm4tliv.vcdn.cloud/s4/hls/KPlusKid/index.m3u8
 #_"_khich plus
