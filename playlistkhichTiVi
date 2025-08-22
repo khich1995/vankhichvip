@@ -985,7 +985,7 @@ https://live.fptplay53.net/epzsd1//binhdinh_hls.smil/chunklist_b2500000.m3u8
 https://live.fptplay53.net/epzsd1/camau_hls.smil/chunklist_b1800000.m3u8
 #EXTINF: -1 tvg-id = "camau" group-title = "🇻🇳Khích TiVi|Địa phương" tvg-logo = "https://static.vieon.vn/vieplay-image/avatar/2021/03/15/azxwra5f_camautv.png",Cà Mau FHD
 #EXTVLCOPT: http-user-agent = KhichTivi
-https://cmcdp3.vtvdigital.vn/hls/BACLIEUTV/02.m3u8
+#https://cmcdp3.vtvdigital.vn/hls/BACLIEUTV/02.m3u8
 #EXTINF: -1 tvg-id = "cantho" group-title = "🇻🇳Khích TiVi|Địa phương" tvg-logo = "https://static.vieon.vn/vieplay-image/avatar/2020/12/15/hx9rtms3_can_tho.png",Cần Thơ HD
 #EXTVLCOPT: http-user-agent = KhichTivi
 https://live.fptplay53.net/epzsd1/cantho_hls.smil/chunklist_b1800000.m3u8
