@@ -78,7 +78,7 @@ https://1.org.vn/Khíchvip📺-SCTV😉PHIM-TÔNG-HỢP-FHD-LIVE🔐
 
 #-""-update khích TiVi*-'-#
 
-#EXTINF:0 tvg-id="sctv15hd" group-title="❤️2️⃣0️⃣/0️⃣8️⃣/2️⃣0️⃣2️⃣5️⃣|UPDATE By khích📺" tvg-logo="https://i.ibb.co/grKqtMt/Up-Da-Te-khich-Tivi-png.jpg" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtc1_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8",UPDATE khích TiVi|⏰12:43:55|📆/20/08/2025 FHD
+#EXTINF:0 tvg-id="sctv15hd" group-title="❤️2️⃣4️⃣3️⃣/0️⃣8️⃣/2️⃣0️⃣2️⃣5️⃣|UPDATE By khích📺" tvg-logo="https://i.ibb.co/grKqtMt/Up-Da-Te-khich-Tivi-png.jpg" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtc1_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8",UPDATE khích TiVi|⏰12:26:55|📆/23/08/2025 FHD
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) 
 #xem ok khichtivi
 #http://14.229.232.52:4022/rtp/232.84.3.22:11920
@@ -898,7 +898,7 @@ http://123.31.36.68/live.m3u8?c=vstv360&q=high&type=tv&token=LX-ibJYRUq9pflRtYAx
 https://live.fptplay53.net/epzsd1/baclieu_hls.smil/chunklist_b1800000.m3u8 
 #EXTINF: -1 tvg-id = "baclieu" group-title = "🇻Khích TiVi🇳|Địa phương" tvg-logo = "https://static.vieon.vn/vieplay-image/avatar/2020/12/15/xqmy3zen_bac_lieu.png",Bạc Liêu
 #EXTVLCOPT:http-user-agent=Moliza
-https://tv.thbl.vn/live/tv/tv.m3u8
+#😁https://tv.thbl.vn/live/tv/tv.m3u8
 #EXTINF:-1 tvg-id="bentre" tvg-logo="https://static.vieon.vn/vieplay-image/avatar/2020/12/15/yqwgmubo_ben_tre.png",Bến Tre
 #EXTVLCOPT: http-user-agent = KhichTivihttps://ott1.sgchill.io.vn/vstv521/xemden29012025/40/index.m3u8
 #EXTINF: -1 tvg-id = "binhdinh" group-title = "🇻🇳Khích TiVi|Địa phương" tvg-logo = "https://static.vieon.vn/vieplay-image/avatar/2020/12/15/odg53y2f_binh_dinh.png",Bình Định
