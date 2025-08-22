@@ -1208,7 +1208,7 @@ https://live.la34.com.vn/la34/tv-transmux.m3u8
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; Khichtivi) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://live.fptplay53.net/epzsd1/namdinh_hls.smil/chunklist_b1800000.m3u8
+#😭https://live.fptplay53.net/epzsd1/namdinh_hls.smil/chunklist_b1800000.m3u8
 #EXTINF: -1 tvg-id = "nghean" group-title = "🇻🇳 Khích TiVi| Địa phương" tvg-logo = "https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/01/14/2f96yu6e_nghe-anc59b1eb4f19eb9b3ab6ec12ffd77dd69_296_168.webp", NTV HD | TH Nghệ An
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
@@ -1220,11 +1220,10 @@ https://live.mediatech.vn/live/28597f8fd7ea5064d0f84ab00b3699dfd86/playlist.m3u8
 #EXTINF: -1 tvg-id = "ninhthuan" group-title = "🇻🇳 Khích TiVi| Địa phương" tvg-logo = "https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/03/22/nt29fpd8_ninhthuan_296_168.png", NTV HD | TH Ninh Thuận
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://live.fptplay53.net/epzsd1/ninhthuan_hls.smil/chunklist_b1800000.m3u8
+#😭https://live.fptplay53.net/epzsd1/ninhthuan_hls.smil/chunklist_b1800000.m3u8
 #EXTINF: -1 tvg-id = "ninhthuan" group-title = "🇻🇳 Khích TiVi| Địa phương" tvg-logo = "https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/03/22/nt29fpd8_ninhthuan_296_168.png", NTV FHD | TH Ninh Thuận
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://60acee235f4d5.streamlock.net/live/mystream/playlist.m3u8
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3https://618b88f69e53b.streamlock.net/NTV/ntvtv/playlist.m3u8
 #EXTINF: -1 tvg-id = "phutho" group-title = "🇻🇳 Khích TiVi| Địa phương" tvg-logo = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzO0-Bw3ziMRcwYmTfI1pF5d2XtnVAFG6sMg&usqp=CAU", PTV HD | TH Phú Thọ
 https://live.fptplay53.net/fnxsd1/phutho_hls.smil/chunklist_b1800000.m3u8
 #EXTINF: -1 tvg-id = "soctrang" group-title = "🇻🇳 Khích TiVi| Địa phương" tvg-logo = "https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/03/01/4jjr657s_soctrang_296_168.webp", Cần Thơ 1 FHD
