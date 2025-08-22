@@ -987,8 +987,8 @@ https://live.fptplay53.net/epzsd1//binhdinh_hls.smil/chunklist_b2500000.m3u8
 https://live.fptplay53.net/epzsd1/camau_hls.smil/chunklist_b1800000.m3u8
 #EXTINF: -1 tvg-id = "camau" group-title = "🇻🇳Khích TiVi|Địa phương" tvg-logo = "https://static.vieon.vn/vieplay-image/avatar/2021/03/15/azxwra5f_camautv.png",Cà Mau FHD
 #EXTVLCOPT: http-user-agent = KhichTivi
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://cmcdp3.vtvdigital.vn/hls/BACLIEUTV/02.m3u8
+#EXTVLCOPT:http-user-agent=Moliza
+
 #EXTINF: -1 tvg-id = "cantho" group-title = "🇻🇳Khích TiVi|Địa phương" tvg-logo = "https://static.vieon.vn/vieplay-image/avatar/2020/12/15/hx9rtms3_can_tho.png",Cần Thơ HD
 #EXTVLCOPT: http-user-agent = KhichTivi
 https://live.fptplay53.net/epzsd1/cantho_hls.smil/chunklist_b1800000.m3u8
@@ -1002,7 +1002,7 @@ http://118.107.85.4:1935/live/smil:CRTV.smil/playlist.m3u8
 #EXTINF: -1 tvg-id = "danang1" group-title = "🇻🇳Khích TiVi|Địa phương" tvg-logo = "https://static.vieon.vn/vieplay-image/avatar/2020/12/15/zjyau63m_da_nang_1.png",Đà Nẵng 1
 #EXTVLCOPT: http-user-agent = KhichTivi
 https://live.mediatech.vn/live/285b59a111d76974225a8e3004bfc31a509/playlist.m3u8
-#EXTINF: -1 tvg-id = "danang2" group-title = "🇻🇳Khích TiVi|Địa phương" tvg-logo = "https://static.vieon.vn/vieplay-image/avatar/2020/12/15/2vo0dv8a_da_nang_2.png",Đà Nẵng 2
+#EXTINF: -1 tvg-id https://cmcdp3.vtvdigital.vn/hls/BACLIEUTV/index.m3u8= "danang2" group-title = "🇻🇳Khích TiVi|Địa phương" tvg-logo = "https://static.vieon.vn/vieplay-image/avatar/2020/12/15/2vo0dv8a_da_nang_2.png",Đà Nẵng 2
 #EXTVLCOPT: http-user-agent = KhichTivi
 https://live.mediatech.vn/live/2859145290d0d7947ef88b6240123b62474/playlist.m3u8
 #EXTINF: -1 tvg-id = "daklak" group-title = "🇻🇳 Khích TiVi|Địa phương" tvg-logo = "https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/01/14/dyrxfpju_dak-lak_296_168.webp",ĐĂK  LĂK FHD
@@ -1015,16 +1015,16 @@ https://vtvgolive-daklak.vtvdigital.vn/live/285a27750861b964c27af22091662a74f2f/
 #EXTVLCOPT: http-user-agent = KhichTivi
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://cloudstreamthdn.tek4tv.vn/live/smil:daknong.smil/playlist.m3u8
+#😭https://cloudstreamthdn.tek4tv.vn/live/smil:daknong.smil/playlist.m3u8
 #EXTINF: -1 tvg-id = "daknong" group-title = "🇻🇳Khích TiVi|Địa phương" tvg-logo = "https://static.vieon.vn/vieplay-image/avatar/2020/12/15/ys472buj_dak_nong.png",ĐĂK NÔNG HD
 #EXTVLCOPT:http-user-agent=Moliza
-https://cloudstreamthdn.tek4tv.vn/live/smil:daknong.smil/playlist.m3u8
+#😭https://cloudstreamthdn.tek4tv.vn/live/smil:daknong.smil/playlist.m3u8
 #EXTINF: -1 tvg-id = "kontum" group-title = "🇻🇳 Khích TiVi| Địa phương" tvg-logo = "https://kontumtv.vn/wp-content/themes/kontum/imgs/logo.png", KON TUM HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 
 #EXTVLCOPT:http-user-agent=Moliza
-https://tv.kontumtv.vn/live/kontumtv/kontumtv.m3u8&ua=Moliza
+#😭https://tv.kontumtv.vn/live/kontumtv/kontumtv.m3u8&ua=Moliza
 #EXTINF: -1 tvg-id = "kontum" group-title = "🇻🇳 Khích TiVi| Địa phương" tvg-logo = "https://i.ibb.co/Q8KDg3Q/c9d0dd11d418-640-360.png", KON TUM FHD
-https://live.fptplay53.net/epzsd1/kontum_hls.smil/chunklist_b1800000.m3u8
+#😭https://live.fptplay53.net/epzsd1/kontum_hls.smil/chunklist_b1800000.m3u8
 #EXTINF: -1 tvg-id = "dienbien" group-title = "🇻🇳Khích TiVi|Địa phương" tvg-logo = "https://static2.vieon.vn/vieplay-image/avatar/2021/11/15/z4bse9hi_dien_bien.png",Điện Biên SD
 #EXTVLCOPT: http-user-agent = KhichTivi
 https://truyenhinh.vnptvas.vn/live.m3u8?c=vstv362&q=high&type=tv&token=LX-ibJYRUq9pflRtYAxfYQ&time=1586395820&gcId=1532&userId=&deviceId=&deviceType=&location=NA&requestTime=1586309420781&pkg=pkg11.hni
