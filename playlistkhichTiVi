@@ -839,7 +839,7 @@ https://live.fptplay53.net/fnxhd2/anninhtv_vhls.smil/chunklist_b1800000.m3u8
 #EXTINF:-1 tvg-id="vovtvhd" group-title="Thiết Yếu" tvg-logo="https://i.ibb.co/pQCygJC/organizational-structure-of-the-voice-of-vietnam-2211155315.webp", VOVTV FHD-25
 https://stream-cdn.vov.vn/live/vov1-audio_only.m3u8
 #EXTINF:-1 tvg-id="vovtvhd" group-title="Thiết Yếu" tvg-logo="https://i.ibb.co/rMKpSBy/Dai-truyen-hinh-vov-tv.png",Du lịch-Trang tin tức của Truyền hình VOVTV HD|30
-https://live.fptplay53.net/fnxsd1/vovtvsd_hls.smil/chunklist_b2500000.m3u8
+#😭https://live.fptplay53.net/fnxsd1/vovtvsd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="travinh" group-title="💛khich📺|Địa phương" tvg-logo="https://i.ibb.co/WKNcFMq/THTV-HD.png", THTV | Truyền Hình Trà Vinh
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;)
@@ -880,7 +880,7 @@ https://hls.mskycdn.online/tv/vtv5tnbfhd/index.m3u8
 https://hls.mskycdn.online/tv/vtv5fhd/index.m3u8
 #EXTINF:-1 tvg-id="baria" group-title="🇻🇳Khích TiVi| Địa phương" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/01/14/vmq8dni1_ba-ria-vung-tau_296_168.webp",Bà Rịa Vũng Tàu
 #EXTVLCOPT: http-user-agent = KhichTivi
-http://113.163.216.23:1935/live/tv2.stream/playlist.m3u8
+https://1288207023.pop.vnptcdn.com/-eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImQ0OWY0MzljLWQyOTctNGI5Yi1iNmYwLWZmNDZkZmU1MWU5NSIsImV4cCI6MTc1NTkwMjcwNiwidXJpIjoiL0JSVCIsImlhdCI6MTc1NTg4MTEwNn0.PYrZ81ycsiOseWUKNVYq2FR5azjgktsRhVIKQp6KR2I-/BRT/playlist.m3u8
 #EXTINF: -1 tvg-id = "bacgiang" group-title = "🇻🇳Khích TiVi|Địa phương" tvg-logo = "https://static.vieon.vn/vieplay-image/avatar/2020/12/15/xkkqdvxq_bac_giang.png",Bắc Giang HD
 #EXTVLCOPT: http-user-agent = KhichTivi
 https://live.mediatech.vn/live/285f5f227e988ab4445a2138091d3d62e8d/chunklist.m3u8
@@ -917,11 +917,11 @@ https://live.fptplay53.net/epzhd2/btv2_hls.smil/chunklist_b2500000.m3u8
 #EXTVLCOPT: http-user-agent = khichTivi
 #EXTVLCOPT:http-user-agent=khichtivi
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; KhichTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://e3.endpoint.cdn.sctvonline.vn/hls/btv1/index.m3u8|Referer=http://sctvonline.vn/
+
 #EXTINF: -1 tvg-id = "binhduong2" group-title = "🇻🇳Khích TiVi|Địa phương" tvg-logo = "https://static2.vieon.vn/vieplay-image/avatar/2020/12/15/g4ovu8f3_binh_duong_2.webp",Bình Dương 2 HD
 #EXTVLCOPT: http-user-agent = khichTivi
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; KhichTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://e3.endpoint.cdn.sctvonline.vn/hls/btv2/index.m3u8|Referer=http://sctvonline.vn/
+
 #EXTINF: -1 group-title = "🇻🇳 Khích TiVi| Địa phương" tvg-logo = "https://i.ibb.co/Brsz0XR/Btv3-hd-khichtv.png", Bình Dương 3 HD
 #EXTVLCOPT: http-user-agent = KhichTivi
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
