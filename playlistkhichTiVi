@@ -138,12 +138,12 @@ http://42.118.41.181:9955/udp/232.84.1.38:8202
 http://113.175.168.246:8182/rtp/239.69.1.241:11088
 #EXTINF:-1 tvg-id="kkidshd" group-title="khichTV Bong Da" tvg-logo="https://i.ibb.co/wx01Dnx/khichtvbong-da-live-2026.jpg",K+KIDS
 #EXTINF:0 tvg-id="ksport1hd" group-title="khichTiVi K+" tvg-logo="https://i.ibb.co/0VJ9k3X/logo-ksport1-hd-khich-plus.jpg", K+SPORT1
-http://113.175.168.246:8182/rtp/232.84.1.98:8562
+https://1.org.vn/Khichtv-80-k-sport1-FHD
 #http://113.177.113.147:4022/rtp/232.84.1.98:8562
 #https://canvato.net/9bRvp?=get:khichtivi=&k+ksport1hd
 #https://1.org.vn/Khichtv-80-k-sport1-FHD
 #EXTINF:0 tvg-id="ksport2hd" group-title="khichTiVi K+" tvg-logo="https://i.imgur.com/zxK3jmf.jpg", K+SPORT2
-http://113.175.168.246:8182/rtp/232.84.1.98:8562
+https://1.org.vn/Khíchtv-80-Ksport2-FHD
 #http://113.177.113.147:4022/rtp/232.84.1.98:8562
 #https://1.org.vn/Khíchtv-80-Ksport2-FHD
 #EXTVLCOPT:http-user-agent=ExoPlayerLib/2.14.1
