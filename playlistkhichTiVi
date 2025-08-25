@@ -1501,9 +1501,9 @@ http://198.16.100.186:8278/Axn/playlist.m3u8?tid=MF5F8488555684885556&ct=19254&t
 #EXTVLCOPT: http-user-agent = KhichTivi
 
 #EXTINF:-1 tvg-id="hits" group-title="Quốc Tế" tvg-logo="https://i.ibb.co/5cx42Md/hits-khichtv.jpg", HITS
-https://smart.pendy.dpdns.org/Smart.php?id=Hits
+https://s8.sky4k.top/stream/astro/hits/master.m3u8?u=cvappuser&p=0f573e68e00dff8dca0ea6fb2e78c1b9b490a64e8d103112965404558fc00aa8
 #EXTINF:-1 tvg-id="hits" group-title="Quốc Tế" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/391_144.png",HITS MOVIES
-https://smart.pendy.dpdns.org/Smart.php?id=Hitsmovie
+https://s8.sky4k.top/stream/astro/hitsmovies/master.m3u8?u=cvappuser&p=0f573e68e00dff8dca0ea6fb2e78c1b9b490a64e8d103112965404558fc00aa8
 #EXTINF:-1 tvg-id="hits" group-title="Quốc Tế" tvg-logo="https://img-zlr1.tv360.vn/image1/2020_09_23/1600822031726/ae85cde5214a_640_360.png", HITS khíchTV
 
 #EXTINF:-1 tvg-id="hits" group-title="Quốc Tế" tvg-logo="https://i.ibb.co/4ZJ47RYV/HITS-Movies-logo-Khich-TV.png",HITS MOVIES khích TV
