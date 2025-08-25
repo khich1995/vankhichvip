@@ -78,7 +78,7 @@ https://1.org.vn/Khíchvip📺-SCTV😉PHIM-TÔNG-HỢP-FHD-LIVE🔐
 
 #-""-update khích TiVi*-'-#
 
-#EXTINF:0 tvg-id="sctv15hd" group-title="❤️2️⃣5️⃣/0️⃣8️⃣/2️⃣0️⃣2️⃣5️⃣|UPDATE By khích📺" tvg-logo="https://i.ibb.co/grKqtMt/Up-Da-Te-khich-Tivi-png.jpg" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtc1_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8",UPDATE khích TiVi|⏰10:56:55|📆/25/08/2025 FHD
+#EXTINF:0 tvg-id="sctv15hd" group-title="❤️2️⃣6️⃣/0️⃣8️⃣/2️⃣0️⃣2️⃣5️⃣|UPDATE By khích📺" tvg-logo="https://i.ibb.co/grKqtMt/Up-Da-Te-khich-Tivi-png.jpg" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtc1_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8",UPDATE khích TiVi|⏰10:56:55|📆/26/08/2025 FHD
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) 
 #xem ok khichtivi
 #http://14.229.232.52:4022/rtp/232.84.3.22:11920
@@ -1536,15 +1536,15 @@ https://stream1.cinerama.uz/1231/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="starch1" group-title="❤|HBO" tvg-logo="https://i.ibb.co/cx0DcJq/kh-ch-TV-logo-HBO.jpg", HBO FHD🇨🇳
 
 #EXTINF:-1 tvg-id="starch1" group-title="❤|HBO" tvg-logo="https://i.ibb.co/f4TSctD/Khichtv-hbo-hd.jpg", HBO HD🇨🇳
-https://smart.pendy.dpdns.org/Smart.php?id=hbohd_twn
+https://s8.sky4k.top/stream/astro/hbo/master.m3u8?u=cvappuser&p=0f573e68e00dff8dca0ea6fb2e78c1b9b490a64e8d103112965404558fc00aa8
 #EXTINF:-1 tvg-id="starch2" group-title="❤|HBO" tvg-logo="https://i.ibb.co/Tv3RzdF/HBO-HITS-Khich-TV.png", HBO HITS HD🇨🇳
-https://smart.pendy.dpdns.org/Smart.php?id=Hbohitshd
+https://s8.sky4k.top/stream/astro/hbohits/master.m3u8?u=cvappuser&p=0f573e68e00dff8dca0ea6fb2e78c1b9b490a64e8d103112965404558fc00aa8
 #EXTINF:-1 tvg-id="starch2" group-title="❤|HBO" tvg-logo="https://i.ibb.co/Tv3RzdF/HBO-HITS-Khich-TV.png", HBO HITS HD🇨🇳
 https://smart.pendy.dpdns.org/Smart.php?id=Hbo
 #EXTINF:-1 tvg-id="starch3" group-title="❤|HBO" tvg-logo="https://i.ibb.co/YfkWh1p/Khich-TV-HBO-FAMILY.png", HBO FAMILY HD🇨🇳
-http://50.7.234.10:8278/fyi_twn/playlist.m3u8?tid=MFCF7312728573127285&ct=18393&tsum=bc4d3db9ca83c3765cc75512a1bbbbe3
+https://s8.sky4k.top/stream/astro/hbofamlily/master.m3u8?u=cvappuser&p=0f573e68e00dff8dca0ea6fb2e78c1b9b490a64e8d103112965404558fc00aa8
 #EXTINF:-1 tvg-id="starch3" group-title="❤|HBO" tvg-logo="https://i.ibb.co/km8Tfkz/20231219-113613.jpg", HBO SINATUE HD🇨🇳
-http://50.7.234.10:8278/hbosignature_twn/playlist.m3u8?tid=m48ee99a5dacb15948906&ct=17874&tsum=3d127801d49fa098b4118400117b4fbb
+
 #EXTINF:-1 tvg-id="vtv1hd" group-title="❤️| KÊNH Cinexam ASIA" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2022/08/04/ygyxarf0_cinemax_ngang_296_168.webp", CINEMAX 🇨🇳 
 https://smart.pendy.dpdns.org/Smart.php?id=Cinemax
 #EXTINF:-1 tvg-id="animax" group-title="❤️| KÊNH Cinexam ASIA" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2022/08/04/ygyxarf0_cinemax_ngang_296_168.webp", CINEMAX 🇨🇳
