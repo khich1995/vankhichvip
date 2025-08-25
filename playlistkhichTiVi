@@ -1479,11 +1479,11 @@ https://436f59579436473e8168284cac5d725f.mediatailor.us-east-1.amazonaws.com/v1/
 #-'z-phim ma kinh dj-#
 
 #EXTINF:-1 tvg-id="phutho" group-title="Khích TiVi Quốc Tế" tvg-logo="https://i.ibb.co/0j6VZBz/2023-11-23-khichtv-thrill.png",THRILL HD
-http://198.16.100.186:8278/Thrill/playlist.m3u8?tid=MB8B6377453463774534&ct=19249&tsum=028c286ac4f8ee635f9e502bd1e2e2ab
+https://s8.sky4k.top/stream/astro/thrill/master.m3u8?u=cvappuser&p=0f573e68e00dff8dca0ea6fb2e78c1b9b490a64e8d103112965404558fc00aa8
 #EXTINF:-1 group-title="Kênh Jungo (Thử Nghiệm)" tvg-logo="https://i.ibb.co/s3zD2WC/image.png" tvg-id="", Screamflix HD
 https://zylo-screamin-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-zylo-screamin-rakuten/CDN/master.m3u8
 #EXTINF:-1 tvg-id="MY38WSBK.us" tvg-name="khichtv:BOO" tvg-logo="https://i.ibb.co/34psJCd/Kenh-Boo-khich-TV.png"group-title="Malaysia",BOO HD
-https://smart.pendy.dpdns.org/Smart.php?id=Boo
+https://s8.sky4k.top/stream/astro/astroboo/master.m3u8?u=cvappuser&p=0f573e68e00dff8dca0ea6fb2e78c1b9b490a64e8d103112965404558fc00aa8
 #EXTINF:-1 tvg-id="MY38WSBK.us" tvg-name="khichtv:BOO" tvg-logo="https://i.ibb.co/W4bBHfc7/Astro-Boo-khichtv-Nov-2025.png"group-title="Malaysia",BOO FHD
 https://smart.pendy.dpdns.org/Smart.php?id=Cinemax
 #EXTINF: -1 group-title = "🔴 |Khích TiVi QUỐC TẾ " tvg-logo = "https://i.ibb.co/YcccLY7/image.png",Ghost Kinh Di
