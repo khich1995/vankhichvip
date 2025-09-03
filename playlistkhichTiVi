@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="http://lichphatsong.xyz/schedule/epg.xml.gz,https://vnepg.site/epg.xml.gz,http://epg.ra1n.lol/jp.xml,https://epg.pw/api/epg.json?lang=en&timezone=QXNpYS9WaWVudGlhbmU%3D&date=20250330&channel_id=368322,https://epg.pw/api/epg.xml?lang=en&timezone=QXNpYS9WaWVudGlhbmU%3D&date=20250330&channel_id=368322,https://akkradet.github.io/IPTV-THAI/guide.xml,https://epg.iill.top/epg" tvg-shift=0 m3uautoload=g1 đurl="=https://xemtv.vn/,https://xem.li/khichtiviplaylist⭐⭐⭐⭐⭐chính thức,https://lambassvn.github.io/"
+loop#EXTM3U url-tvg="http://lichphatsong.xyz/schedule/epg.xml.gz,https://vnepg.site/epg.xml.gz,http://epg.ra1n.lol/jp.xml,https://epg.pw/api/epg.json?lang=en&timezone=QXNpYS9WaWVudGlhbmU%3D&date=20250330&channel_id=368322,https://epg.pw/api/epg.xml?lang=en&timezone=QXNpYS9WaWVudGlhbmU%3D&date=20250330&channel_id=368322,https://akkradet.github.io/IPTV-THAI/guide.xml,https://epg.iill.top/epg" tvg-shift=0 m3uautoload=g1 đurl="=https://xemtv.vn/,https://xem.li/khichtiviplaylist⭐⭐⭐⭐⭐chính thức,https://lambassvn.github.io/"
 
 #--*xem tiVi chúc các bạn xem vui vẻ cảm ơn nhé
 
@@ -345,7 +345,7 @@ https://1.org.vn/Khích📺-80-HTV9HD-LIVE
 #EXTVLCOPT: http-user-agent = KhichTivi
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-http://42.113.21.106:9000/udp:/225.1.1.165:30120
+http://42.118.41.181:9955/udp/225.1.1.165:30120
 #EXTINF:-1 tvg-id="htvthethaohd" group-title="💛Khích📺| HTV" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2024/06/14/x0vjhk64_htv-the-thao-new_296_168.png",HTV THỂ THAO HD SV1
 #EXTVLCOPT: http-user-agent = KhichTivi
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
