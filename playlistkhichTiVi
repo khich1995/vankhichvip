@@ -1343,7 +1343,7 @@ https://5dcab9aed5331.streamlock.net/SET1/livestream/chunklist_w1484987801.m3u8
 #EXTVLCOPT: http-user-agent = KhichTivi
 #EXTVLCOPT:http-user-agent=ANTmekhichtv/17-03-24
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-http://113.22.88.123:13579/udp/225.1.1.112:30120
+http://123.145.22.25:8004/udp/225.1.1.112:30120
 #http://live247.freem3u.xyz:21585/hbo/index.m3u8
 #http://42.113.181.143:8090/udp/225.1.1.112:30120
 #https://canvato.net/BkMV3?get:khichtivi=&hbohd
@@ -1365,7 +1365,7 @@ https://s8.sky4k.top/stream/astro/hbohits/master.m3u8?u=cvappuser&p=0f573e68e00d
 #https://linear-82.frequency.stream/dist/localnow/82/hls/master/playlist.m3u8
 #https://freem3u.xyz/r/cnjsupng?=khichtivi=hbohits
 #EXTINF:-1 group-title="Quốc Tê" tvg-logo="https://i.imgur.com/NzROY7r.png" tvg-id="dabe06d5e4ded0a7f47ed44c1f49c10b",Cinemax FHD
-http://113.22.88.123:13579/udp/225.1.2.86:30120
+http://123.145.22.25:8004/udp/225.1.2.86:30120
 #EXTINF:-1 tvg-id="cinemaxhd" group-title="🎞|Khích TiVi HBO" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2022/08/04/ygyxarf0_cinemax_ngang_296_168.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/mytv/210/hd/dvr-${start}-${offset}.m3u8",CINEMAX🇻🇳
 #EXTVLCOPT: http-user-agent = KhichTivi
 #EXTVLCOPT:http-user- http-user-age thể
