@@ -714,9 +714,8 @@ https://1.org.vn/Khichtv-08-sctv15-fhd-m3u8|Referer=http://sctvonline.vn/
 https://1.org.vn/Khichtv-sctv-mytv-sctv16-mpd|Referer=http://sctvonline.vn/
 #EXTINF: -1 tvg-id="sctv16hd" group-title="💚Khich TiVi | SCTV" tvg-logo="https://i.ibb.co/939qpxnk/SCTV16-logo-khichtivi.png", SCTV16 HD
 #EXTVLCOPT: http-user-agent = KhichTivi
-#EXTVLCOPT:http-user-agent=Player (Linux; Android 13)
-#EXTVLCOPT:http-referrer=https://sctvonline.vn
-http://bentre5.hoangai.vn:8086/stream/V295dlBURm9GN0hsME1kRWxxQW5PQT09/RjlYVFB0ditVMGFjOWZzVTV0QlJWUT09/khichtv/fhwuw@4216/playlist.mpegts
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://freem3u.xyz/api/live/play.m3u8?tid=sctv16
 #EXTINF: -1 tvg-id = "sctv17hd" group-title = "💚 Khich TiVi | SCTV" tvg-logo = "https://i.ibb.co/44NbrD4/SCTV17-HD.webp", SCTV17 FHD
 #EXTVLCOPT: http-user-agent = KhichTivi
 #EXTVLCOPT:hgttp-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) 
