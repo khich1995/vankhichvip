@@ -1509,14 +1509,15 @@ https://cdn3.skygo.mn/live/disk1/Moviebox/HLS-FTA/Moviebox.m3u8
 http://37.27.111.214:8080/live/94/hls.m3u8
 #EXTINF: -1 tvg-id = "blueantext" group-title = "🎬 Khích TiVi| Giải trí" tvg-logo = "https://i.ibb.co/jgvBsL9/hbo-xtreme.png",hbo xtreme
 #EXTVLCOPT:http-user-agent=KhichTivi
-https://smart.pendy.dpdns.org/Smart.php?id=Hbohitshd
+
 #EXTINF:-1 tvg-id="blueantent" group-title="🎬 Khích TiVi" tvg-logo="https://i.ibb.co/j6vx4SJ/Rock-Entertainment-khichTV.png" ,Rock Entertainment FHD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/
+http://cnlive.org/channel/n7c651060/index.m3u8
 #EXTINF:-1 tvg-id="blueantext" group-title="Khích TiVi" tvg-logo="https://i.ibb.co/pdXJvJc/ROCK-Action-khich-TV.jpg" ,ROCK Action FHD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-http://152.32.229.52:5050/4gtv-live138/index.m3u8?proxy=true
+https://cnlive.org/channel/nd96d6ed/index.m3u8
 #EXTINF:-1 tvg-id="blueantent" group-title="🎬 Khích TiVi" tvg-logo="https://i.ibb.co/j6vx4SJ/Rock-Entertainment-khichTV.png" ,Rock Entertainment HD
 #https://stream1.cinerama.uz/1232/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="blueantext" group-title="Khích TiVi" tvg-logo="https://i.ibb.co/v1ByMFd/64e856a6acfdaa1696434e93-icons-action-p-800.webp" ,ROCK Action HD
