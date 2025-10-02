@@ -1477,9 +1477,9 @@ https://s8.sky4k.top/stream/astro/thrill/master.m3u8?u=cvappuser&p=0f573e68e00df
 #EXTINF:-1 group-title="Kênh Jungo (Thử Nghiệm)" tvg-logo="https://i.ibb.co/s3zD2WC/image.png" tvg-id="", Screamflix HD
 https://zylo-screamin-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-zylo-screamin-rakuten/CDN/master.m3u8
 #EXTINF:-1 tvg-id="MY38WSBK.us" tvg-name="khichtv:BOO" tvg-logo="https://i.ibb.co/34psJCd/Kenh-Boo-khich-TV.png"group-title="Malaysia",BOO HD
-https://s8.sky4k.top/stream/astro/astroboo/master.m3u8?u=cvappuser&p=0f573e68e00dff8dca0ea6fb2e78c1b9b490a64e8d103112965404558fc00aa8
+http://cnlive.org/channel/fa511d2/index.m3u8
 #EXTINF:-1 tvg-id="MY38WSBK.us" tvg-name="khichtv:BOO" tvg-logo="https://i.ibb.co/W4bBHfc7/Astro-Boo-khichtv-Nov-2025.png"group-title="Malaysia",BOO FHD
-https://smart.pendy.dpdns.org/Smart.php?id=Cinemax
+http://free.cnlive.club/channel/fa511d2/index.m3u8?q=1752629214236
 #EXTINF: -1 group-title = "🔴 |Khích TiVi QUỐC TẾ " tvg-logo = "https://i.ibb.co/YcccLY7/image.png",Ghost Kinh Di
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/64e561a4354251000823a0e0/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c28f177-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=15d446c5-1e1e-4ecb-8d96-6d0b45104d20&checkedby:iptvcat.com
 #EXTINF: -1 group-title = "🔴 |Khích TiVi QUỐC TẾ " tvg-logo = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQf9t1-hnljxvxnwGYGMAqc2VY3Lx9mTn-lTw&usqp=CAU",sreen
