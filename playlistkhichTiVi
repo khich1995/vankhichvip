@@ -416,7 +416,7 @@ https://live.fptplay53.net/epzhd1/htvcmovieshd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="spotv"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtNJuoEhY0tRrMU8wcsu-oOBhmEhRWFT7RwjO-Q0XaMw&s" group-title=" FPT play" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/htvcmovieshd_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8",SPOTV1
 http://cnlive.org/channel/n7cf4bd6f/index.m3u8
 #EXTINF:-1 tvg-id="spotv2"tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSn2czfn2fkp9rzA0YXI3lZXslKUt9c3GjNvAiGIT6L&s" group-title="Mytv" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/htvcmovieshd_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8",SPOTV2
-https://s8.sky4k.top/stream/astro/spotv2/master.m3u8?u=cvappuser&p=0f573e68e00dff8dca0ea6fb2e78c1b9b490a64e8d103112965404558fc00aa8
+http://cnlive.org/channel/n552b885b/index.m3u8
 #EXTINF:-1 tvg-id="htvcplushd" group-title="💛Khích📺| HTV" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2022/03/31/v2ga72jr_htvc_296_168.webp",HTVC+ HD
 #EXTVLCOPT: http-user-agent = KhichTivi
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
