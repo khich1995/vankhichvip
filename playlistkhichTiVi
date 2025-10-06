@@ -809,7 +809,7 @@ https://bom.so/KhichTV-live-phim-hay-m3u8
 https://abr.de1se01.v2beat.live/live/live6/chunks.m3u8
 #EXTINF:-1 tvg-id="ttqtv" group-title="💕| Hanoicab" tvg-logo="https://www.viettv24.com/main/images/ttqtv_logo.jpg",TTQ
 https://fr-1.galaxyott.com/streamer/ttq/playlist.m3u8
-#EXTINF:-1 tvg-id="vietnamtoday" tvg-logo="https://static.vieon.vn/vieplay-image/avatar/2020/12/15/t5zot40u_vnews.png",VIÊT NAM TODOY HD
+#EXTINF:-1 tvg-id="vietnamtoday" tvg-logo="https://i.ibb.co/mCQh7HDy/khichtv-logo-vietnamtoday.jpg",VIÊT NAM TODOY HD
 #EXTVLCOPT:http-user-agent=KhichTivi
 https://live.fptplay53.net/fnxhd1/vntoday_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="vtv1hd" tvg-logo="https://images.danet.vn/images/thumbs/960x540/3e/28c/a291015a5e02a648ece30e5e5ee51fd2.jpg",VTV1 DANET
