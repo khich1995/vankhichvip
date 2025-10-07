@@ -351,7 +351,8 @@ https://1.org.vn/Khích📺-80-HTV9HD-LIVE
 #EXTVLCOPT: http-user-agent = KhichTivi
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-http://42.118.41.181:9955/udp/225.1.1.165:30120
+https://1011154949.vnns.net/CDN-FPT/HTVC-CANHAC-HD-ABR/HTV-ABR/HTVC-CANHAC-HD-1080p/chunks.m3u8
+#http://42.118.41.181:9955/udp/225.1.1.165:30120
 #EXTINF:-1 tvg-id="htvthethaohd" group-title="💛Khích📺| HTV" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2024/06/14/x0vjhk64_htv-the-thao-new_296_168.png",HTV THỂ THAO HD SV1
 #EXTVLCOPT: http-user-agent = KhichTivi
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
