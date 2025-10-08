@@ -2360,23 +2360,21 @@ https://s4zen.myclip.vn/video1/2024/06/26/15/e4a53567/e4a53567-ba21-4be1-a4bd-9a
 
 #=-=zing-mp3-×-'c#
 #EXTINF:-1 group-title="Radio" tvg-logo="https://photo-zmp3.zmdcdn.me/cover_rect/5/0/8/f/508fb88137284723e67c83b9c9fede28.jpg", Zing MP3 - Vpop
-https://multi-playlist-zmp3.zmdcdn.me/wTSwRIGOON0/zhls/playback-realtime/6eeb692c5569bc37e578/index.m3u8
-#EXTINF:-1 group-title="Radio" tvg-logo="https://photo-zmp3.zmdcdn.me/cover_rect/8/1/d/6/81d6bc7e9ced5d11d01f6da4b440f146.jpg", Zing MP3 - Acoustic
-https://multi-playlist-zmp3.zmdcdn.me/ktkT8IgzcQQ/zhls/playback-realtime/08aae96dd5283c766539/index.m3u8
-#EXTINF:-1 group-title="Radio" tvg-logo="https://photo-zmp3.zmdcdn.me/cover_rect/d/6/7/4/d6746d1bbff609111133449abb9e622b.jpg", Zing MP3 - Bolero
-https://multi-playlist-zmp3.zmdcdn.me/BtRvAOtW5jk/zhls/playback-realtime/e3b9f87ec43b2d65742a/index.m3u8
+
+#EXTINF:-1 group-title="Radio" tvg-logo="https://photo-zmp3.zmdcdn.me/cover_rect/8/1/d/6/81d6bc7e9ced5d11d01f6da4b440f146.jpg", Zing MP3 - 
+#EXTINF:-1 group-title="Radio" tvg-logo="https://photo-zmp3.zmdcdn.me/cover_rect/d/6/7/4/d6746d1bbff609111133449abb9e622b.jpg", Zing MP3 - B
 #EXTINF:-1 group-title="Radio" tvg-logo="https://photo-zmp3.zmdcdn.me/cover_rect/0/c/2/e/0c2ee7cb5ef72b5db673341864312a2a.jpg", Zing MP3 - Rap Việt
-https://multi-playlist-zmp3.zmdcdn.me/Itsn5VCb5Uo/zhls/playback-realtime/4f2980eebcab55f50cba/index.m3u8
+
 #EXTINF:-1 group-title="Radio" tvg-logo="https://photo-zmp3.zmdcdn.me/cover_rect/e/1/8/8/e1887a2c79f9d3d04984905cbf443a29.jpg", Zing MP3 - Kpop
-https://multi-playlist-zmp3.zmdcdn.me/94rxZ-Dfzro/zhls/playback-realtime/ff294ded71a898f6c1b9/index.m3u8
+https://nhacremixs.com/wp-content/uploads/2021/08/co-don-danh-cho-ai-remix-nonstop-dj-2021-vinahouse-viet-mix-bass-lk-viet-remix-bass-cang.mp3
 #EXTINF:-1 group-title="Radio" tvg-logo="https://photo-zmp3.zmdcdn.me/cover_rect/3/1/0/d/310df4f53c1026d4cb2844dc96cc01d3.jpg", Zing MP3 - USUK
-https://multi-playlist-zmp3.zmdcdn.me/RckDo1XPsU4/zhls/playback-realtime/111c87d8bb9d52c30b8c/index.m3u8
+https://nhacremixs.com/wp-content/uploads/2021/05/nonstop-vinahouse-2021-anh-mat-ta-cham-nhau-chi-muon-ngam-anh-lau-that-lau-remix.mp3
 #EXTINF:-1 group-title="Radio" tvg-logo="https://thumbnailer.mixcloud.com/unsafe/200x200/profile/2/4/1/5/4e7a-ec5d-4c9a-bbe0-fe22eb297dc4", Nonstop - Rên Là Lên - NDJ by DJ Mèo Béo
 https://audio3.mixcloud.com/secure/dash2/a/4/7/c/f0f8-30c7-4c2f-9c1c-57089529ea5f.m4a/manifest.mpd
 #EXTINF:-1 group-title="Radio" tvg-logo="https://thumbnailer.mixcloud.com/unsafe/200x200/extaudio/a/b/2/6/a22a-1bda-417f-8882-026dd8da71f9", Nonstop - Để Cho Em Khóc - DJ Mèo Béo
 https://audio3.mixcloud.com/secure/dash2/8/9/0/4/4f68-94ab-4d5e-8712-f200e8573c8a.m4a/manifest.mpd
 #EXTINF:-1 group-title="Radio" tvg-logo="https://i1.sndcdn.com/artworks-Vrzimb5fua7CqUYb-EIGXyg-t240x240.jpg, Nonstop - Việt Mix - Sai Cách Yêu - BêTô Mix
-https://bom.so/tVjwcM?=tre5x9
+https://nhacremixs.com/wp-content/uploads/2021/05/ho-yeu-ai-mat-roi-remix-tiktok-du-ngay-mai-bao-giong-ngap-troi-du-em-da.mp3
 #EXTINF:-1 group-title="Radio" tvg-logo="https://www.nhactrutinhmp3.net/cpanel/upload-img/lk-hoa-no-ve-dem-giong-ca-nhac-tru-tinh-tre-mp3-_thumb.jpg",Lk Hoa Nở Về Đêm Giọng Ca Nhạc Trữ Tình Trẻ Siêu Hay Ngọt Ngào
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 https://media1.nhactrutinhmp3.net/drhffgj5678he90/lk-hoa-no-ve-dem-giong-ca-nhac-tru-tinh-tre-mp3.mp3
