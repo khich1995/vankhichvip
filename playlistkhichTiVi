@@ -78,7 +78,7 @@ https://1.org.vn/Khíchvip📺-SCTV😉PHIM-TÔNG-HỢP-FHD-LIVE🔐
 
 #-""-update khích TiVi*-'-#
 
-#EXTINF:0 tvg-id="sctv15hd" group-title="❤️0️⃣7️⃣/1️⃣0️⃣/2️⃣0️⃣2️⃣5️⃣|UPDATE By khích📺" tvg-logo="https://i.ibb.co/grKqtMt/Up-Da-Te-khich-Tivi-png.jpg" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtc1_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8",UPDATE khích TiVi|⏰03:36:55|📆/07/10/2025 FHD
+#EXTINF:0 tvg-id="sctv15hd" group-title="❤️0️⃣8️⃣/1️⃣0️⃣/2️⃣0️⃣2️⃣5️⃣|UPDATE By khích📺" tvg-logo="https://i.ibb.co/grKqtMt/Up-Da-Te-khich-Tivi-png.jpg" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtc1_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8",UPDATE khích TiVi|⏰03:36:55|📆/08/10/2025 FHD
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) 
 #xem ok khichtivi
 #http://14.229.232.52:4022/rtp/232.84.3.22:11920
@@ -2376,10 +2376,12 @@ https://audio3.mixcloud.com/secure/dash2/a/4/7/c/f0f8-30c7-4c2f-9c1c-57089529ea5
 #EXTINF:-1 group-title="Radio" tvg-logo="https://thumbnailer.mixcloud.com/unsafe/200x200/extaudio/a/b/2/6/a22a-1bda-417f-8882-026dd8da71f9", Nonstop - Để Cho Em Khóc - DJ Mèo Béo
 https://audio3.mixcloud.com/secure/dash2/8/9/0/4/4f68-94ab-4d5e-8712-f200e8573c8a.m4a/manifest.mpd
 #EXTINF:-1 group-title="Radio" tvg-logo="https://i1.sndcdn.com/artworks-Vrzimb5fua7CqUYb-EIGXyg-t240x240.jpg, Nonstop - Việt Mix - Sai Cách Yêu - BêTô Mix
-https://bom.so/tVjwcM?=tre 5x9
+https://bom.so/tVjwcM?=tre5x9
 #EXTINF:-1 group-title="Radio" tvg-logo="https://www.nhactrutinhmp3.net/cpanel/upload-img/lk-hoa-no-ve-dem-giong-ca-nhac-tru-tinh-tre-mp3-_thumb.jpg",Lk Hoa Nở Về Đêm Giọng Ca Nhạc Trữ Tình Trẻ Siêu Hay Ngọt Ngào
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 https://media1.nhactrutinhmp3.net/drhffgj5678he90/lk-hoa-no-ve-dem-giong-ca-nhac-tru-tinh-tre-mp3.mp3
 #EXTINF:-1 group-title="Radio" tvg-logo="https://https://www.nhactrutinhmp3.net/cpanel/upload-img/lk-nhac-tru-tinh-bolero-nhe-nhang-mo-ca-xom-cung-phe-mp3-_thumb.jpg", LK Nhạc Trữ Tình Bolero Nhẹ Nhàng Mở Cả Xóm Cùng PHÊ
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 https://media1.nhactrutinhmp3.net/drhffgj5678he90/lk-nhac-tru-tinh-bolero-nhe-nhang-mo-ca-xom-cung-phe-mp3.mp3
 #EXTINF:-1 group-title="Radio" tvg-logo="https://thumbnailer.mixcloud.com/unsafe/200x200/extaudio/a/a/a/1/107d-83cc-4fea-82d3-9e2758e579cb",VIỆT & HOA 2023 - TẤT CẢ HOẶC KO LÀ GÌ CẢ & GẤP ĐÔI YÊU THƯƠG - DJ THUYẾT MUZIK
 https://audio11.mixcloud.com/secure/dash2/6/1/d/7/a786-0dc2-4cba-b31a-5323933bfd15.m4a/manifest.mpd
