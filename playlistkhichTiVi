@@ -1532,7 +1532,8 @@ https://smt.passwdword.xyz/Smart.php?id=Rockentertain
 #EXTINF:-1 tvg-id="blueantext" group-title="Khích TiVi" tvg-logo="https://i.ibb.co/pdXJvJc/ROCK-Action-khich-TV.jpg" ,ROCK Action FHD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-
+http://152.32.229.52:5050/4gtv-live138/index.m3u8?proxy=true
+#×'c×=%Quốc Tế kix-":-#
 #EXTINF:-1 tvg-id="blueantent" group-title="🎬 Khích TiVi" tvg-logo="https://i.ibb.co/j6vx4SJ/Rock-Entertainment-khichTV.png" ,Rock Entertainment HD
 #https://stream1.cinerama.uz/1232/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="blueantext" group-title="Khích TiVi" tvg-logo="https://i.ibb.co/v1ByMFd/64e856a6acfdaa1696434e93-icons-action-p-800.webp" ,ROCK Action HD
@@ -1576,8 +1577,7 @@ http://fl5.moveonjoy.com/AMC_NETWORK/index.m3u8
 
 #EXTINF:-1 tvg-id="blueantext" group-title="KhíchTiVi" tvg-logo="https://i.ibb.co/ZdQJD65/Rock-Entertainment-p-500.png",Rock Extreme
 #EXTINF:-1COPT:http-user-agent=Dalvik/2.1.0
-http://152.32.229.52:5050/4gtv-live138/index.m3u8?proxy=true
-#×'c×=%Quốc Tế kix-":-#
+
 
 #EXTINF: -1 tvg-id = "kix" group-title = "🎬 khichtivi| Giải trí" tvg-logo ="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2022/02/21/h8hfr6y8_thumbnail-kix-copy_296_168.webp", KIX HD sia🇲🇾 
 https://smt.passwdword.xyz/Smart.php?id=kix
