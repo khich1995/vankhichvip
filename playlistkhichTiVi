@@ -1607,7 +1607,7 @@ http://s1.an94tv.cfd/aktv/channel8hd/AKTV.m3u8
 #EXTVLCOPT:http-user-agent=khichtivi
 https://k44991.kylintv.tv/live/chinamovie_iphone.m3u8
 #EXTINF:-1 tvg-id="inthebox" group-title="📦|KhichTiviMovies" tvg-logo="https://i.ibb.co/TtVn7rJ/20231124-khichtivi-star-movie.jpg",star move khichtv
-https://smt.passwdword.xyz/Smart.php?id=starmaamovies_raj
+https://smt.passwdword.xyz/Smart.php?id=starmovies_raj
 #https://lagenceducourtmetrage-brefcinema-01-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="boxhits" group-title="📦|KhichTiviMovies" tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/star-world-hd-logo-300x300.jpg",star world hd
 
@@ -1743,15 +1743,15 @@ http://66.160.192.241/cineboxcinehd/index.m3u8
 #EXTINF:-1 tvg-id="animaxhd" group-title="🌈KhichTivi | Hoạt hình" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/07/23/8wcri9wb_animax1e3f298dbfc93d461638c8b9594d25a3_296_168.webp", Animax sv1 HD🇻🇳
 #EXTVLCOPT:http-user-agent=KhichTivi
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-http://cnlive.org/channel/n51fcb664/index.m3u8
+https://smt.passwdword.xyz/Smart.php?id=Animax
 #EXTINF:-1 tvg-id="animaxhd" group-title="🌈KhichTivi | Hoạt hình" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/07/23/8wcri9wb_animax1e3f298dbfc93d461638c8b9594d25a3_296_168.webp", Animax sv2 HD🇻🇳
 #EXTVLCOPT:http-user-agent=KhichTivi
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-http://cnlive.org/channel/n51fcb664/index.m3u8
+
 #EXTINF:-1 tvg-id="animaxhd" group-title="🌈KhichTivi | Hoạt hình" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/07/23/8wcri9wb_animax1e3f298dbfc93d461638c8b9594d25a3_296_168.webp", Animax sv3 HD🇻🇳
 #EXTVLCOPT:http-user-agent=KhichTivi
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-http://s1.an94tv.cfd/aktv/animaxhk/AKTV.m3u8
+https://smt.passwdword.xyz/Smart.php?id=Animax
 #EXTINF:-1 tvg-id="animaxhd" group-title="🌈KhichTivi | Hoạt hình" tvg-logo="https://i.ibb.co/8DtnjqfX/khichtv-play-logo-Nickelodeon-hd-png.png",Nickelodeon HD 🇻🇳
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://fl1.moveonjoy.com/NICKELODEON/index.m3u8
