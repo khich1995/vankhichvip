@@ -1261,12 +1261,11 @@ https://media.qbtv.vn/LiveApp/streams/UfqMzQUuZFxD69275138146969.m3u8
 #EXTINF: -1 tvg-id = "quangbinh" group-title = "🇻🇳 Khích TiVi| Địa phương" tvg-logo = "https://i.ibb.co/MB5Kwpg/20231120-khichtv-QBinh-Tv.png", QBTV SD
 https://live.fptplay53.net/epzsd1/quangbinh_hls.smil/chunklist.m3u8
 #EXTINF: -1 tvg-id = "quangtri" group-title = "🇻🇳 Khích TiVi| Địa phương" tvg-logo = "https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/06/17/ayvc9udv_quangtri_296_168.webp", QRTV FHD | TH Quảng Trị
-http://quangtritv.vn/tv/tvvnpt2024.m3u8
+https://tructuyen.baoquangtri.vn:5443/LiveApp/streams/20VcR6dL2B9Krwob13486956694488871.m3u8
 #EXTINF: -1 tvg-id = "quangtri" group-title = "🇻🇳 Khích TiVi| Địa phương" tvg-logo = "https://i.ibb.co/qdKdydK/truyen-hinh-Quang-tri-khichtv.jpg", QRTV HD
-http://quangtritv.vn/tv/tvvnpt2024.m3u8
+#😭http://quangtritv.vn/tv/tvvnpt2024.m3u8
 #EXTINF: -1 tvg-id = "quangtri" group-title = "🇻🇳 Khích TiVi| Địa phương" tvg-logo = "https://i.ibb.co/tJsvcP3/20231120-khichtv-QTritv.j http-user-age thểTH Quảng Trị SD
-#khichtv xem miễn phí
-https://live.fptplay53.net/epzsd1/quangtri_hls.smil/chunklist.m3u8
+#https://live.fptplay53.net/epzsd1/quangtri_hls.smil/chunklist.m3u8
 #EXTINF: -1 tvg-id = "quangnam" group-title = "🇻🇳 Khích TiVi| Địa phương" tvg-logo = "https://i.ibb.co/0BFDjS6/khichtv-logo-quang-nam.jpg", QRT FHD | TH Quảng Nam
 #EXTVLCOPT: http-user-agent = khích Tivi
 http://113.161.6.157:8081/hls-live/livepkgr/_definst_/liveevent/livestream.m3u8
