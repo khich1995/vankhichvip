@@ -1423,32 +1423,32 @@ https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/wtv.smil/manifest.mpd
 #EXTVLCOPT:http-user=Gia Hưng
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 #EXTVLCOPT:http-referer=https://sctvonline.vn/ =159
-https://freem3u.xyz/api/live/play.m3u8?vid=159
+http://14.177.57.111:8889/ace/tv360mpd.php?id=159
 #EXTINF:-1 tvg-id="hollywoodclassics" group-title="📦| In The Box" tvg-logo="https://i.ibb.co/8ddQ7FG/images-1.jpg", Hollywood Classics
 #EXTVLCOPT:http-user-agent=Gia Hưng 
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 #EXTVLCOPT:http-referer=https://sctvonline.vn/=160
-https://freem3u.xyz/api/live/play.m3u8?vid=160
+http://14.177.57.111:8889/ace/tv360mpd.php?id=160
 #EXTINF:-1 tvg-id="musicbox" group-title="📦| In The Box" tvg-logo="https://www.intheboxtv.eu/content/uploads/2018/10/MUSICBOX_KARTICA_V4.jpg", Music Box
 #EXTVLCOPT:http-user-agent=Gia Hưng 
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 #EXTVLCOPT:http-referer=https://sctvonline.vn/
-https://freem3u.xyz/api/live/play.m3u8?vid=188
+http://14.177.57.111:8889/ace/tv360mpd.php?id=188
 #EXTINF:-1 tvg-id="happykid" group-title="📦| In The Box" tvg-logo="https://www.intheboxtv.eu/content/uploads/2019/01/channel_card_happy_kids.jpg", happykid HD
 #EXTVLCOPT:http-user-agent=Gia Hưng 
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 #EXTVLCOPT:http-referer=https://sctvonline.vn/=212
-https://freem3u.xyz/api/live/play.m3u8?vid=212
+http://14.177.57.111:8889/ace/tv360mpd.php?id=212
 #EXTINF:-1 tvg-id="drfithd" group-title="📦| In The Box" tvg-logo="https://www.intheboxtv.eu/content/uploads/2018/10/540x540_FIT3GIRLS_FRUITS.png", Dr.Fit
 #EXTVLCOPT:http-user-agent=Gia Hưng23=162
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://freem3u.xyz/api/live/play.m3u8?vid=162
+http://14.177.57.111:8889/ace/tv360mpd.php?id=162
 #EXTINF:-1 tvg-id="planetearthhd" group-title="📦khích TiVi| In The Box" tvg-logo="https://i.ibb.co/qCrPwQS/khichtv-logo-Planet-Earth.png", Planet Earth
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0=135
-https://freem3u.xyz/api/live/play.m3u8?vid=135
+http://14.177.57.111:8889/ace/tv360mpd.php?id=135
 #EXTINF:-1 tvg-id="woman" group-title="📦khích TiVi| In The Box" tvg-logo="https://i.ibb.co/WzcyfHX/khichtivi-2025-logo-WOMAN.png", Woman
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0=163
-https://freem3u.xyz/api/live/play.m3u8?vid=163
+http://14.177.57.111:8889/ace/tv360mpd.php?id=163
 #EXTINF: -1 tvg-id = "boxmovie1" group-title = "📦 Khích TiVi| In The Box" tvg-logo = "https://i.ibb.co/vkVLJwz/images-1.jpg", Box Movie1 HD👌khíchTV
 https://1.org.vn/Khich-TiVi-online-boxmovies1-index-m3u8
 #EXTINF: -1 tvg-id = "inthebox" group-title = "📦 Khích TiVi| In The Box" tvg-logo = "https://i.ibb.co/DV1TpCb/images.png", In The Box👌khíchTV
