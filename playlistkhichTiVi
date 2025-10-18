@@ -438,7 +438,7 @@ https://59d39900ebfb8.streamlock.net/8298/8298/playlist.m3u8
 https://live.relentlessinnovations.net:1936/saigontv/saigontv/playlist.m3u8
 #EXTINF: -1 tvg-id = "htv1hd" group-title = "💛Khích📺|HTV" tvg-logo = "https://i.ibb.co/J7TX4Ps/Kenh-khich-TV-YSTV.jpg",HTVC VSTV HD
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://59d39900ebfb8.streamlock.net/8014/8014/playlist.m3u8
+http://dvrfl05.bozztv.com/vch_vchannel1/index.m3u8
 #EXTINF: -1 tvg-id ="htvcgiadinhhd" group-title = "💛Khích📺|HTV" tvg-logo = "https://vietprocast.relentlessinnovations.dev/uploads/tv_image/sm/vbs-tv.png",HTVC VBSTV HD
 https://59d39900ebfb8.streamlock.net/8014/8014/playlist.m3u8
 #EXTINF:-1 tvg-id="htvcplushd" group-title="💛Khích📺| HTV" tvg-logo="https://procasttv.com/app/uploads/tv_image/sm/ibc-tv.png",HTVC IBC TV HD
