@@ -1336,7 +1336,7 @@ https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/hbo.smil/manifest.mpd
 #EXTVLCOPT: http-user-agent = KhichTivi
 #EXTVLCOPT:http-user-agent=ANTmekhichtv/17-03-24
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-http://1.52.72.132:13579/udp/225.1.1.112:30120
+https://smt.passwdword.xyz/Smart.php?id=Hbo
 #http://free.cnlive.club/channel/2d329e1c/index.m3u8?q=http://free.cnlive.club/channel/n41a855c1/index.m3u8?q=1752629214236
 #EXTINF:-1 tvg-id="hbohd" tvg-name="HBO" tvg-logo="https://i.ibb.co/NZLST1s/hbo-khich-Tivi-online-png.jpg" group-title="Quốc Tế",HBO khich TV Online🇻🇳
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.2
@@ -1359,7 +1359,7 @@ https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/max.smil/manifest.mpd
 #EXTVLCOPT:http-user- http-user-age thể
 #EXTVLCOPT:http-use  zmr-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36http://free.cnlive.club/channel/7c7a1311/index.m3u8?q=1752629214236
 #EXTINF:-1 tvg-id="cinemaxhd" tvg-name="Cinemax" tvg-logo="https://i.ibb.co/Wz8NkG2/khichtv-live-Cinemax.jpg" group-title="Quốc Tế",Cinemax khích Tivi Online🇻🇳
-http://1.52.72.132:13579/udp/225.1.1.142:30120
+https://smt.passwdword.xyz/Smart.php?id=Cinemax
 #EXTINF:-1 tvg-id="cinemaxhd" group-title="🎞|Khích TiVi HBO" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2022/08/04/ygyxarf0_cinemax_ngang_296_168.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/mytv/210/hd/dvr-${start}-${offset}.m3u8",CINEMAX🇻🇳
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
@@ -1374,11 +1374,11 @@ http://42.114.161.248:9000/225.1.1.139:30120
 #EXTINF:0 tvg-id="AXN" group-title="Quốc Tế" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaQpHIUtT-gc4IOao3FlqkFy3H-gr9xdp6XRcppZ5wpQ&s",AXN HD 🇻🇳
 #EXTVLCOPT:http-user-agent="khichTiVi 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36http://free.cnlive.club/channel/n66e1336b/index.m3u8?q=1752629214236
-http://cnlive.org/channel/n66e1336b/index.m3u8
+https://smt.passwdword.xyz/Smart.php?id=axn
 #EXTINF:0 tvg-id="AXN" group-title="Quốc Tế" tvg-logo="https://i.ibb.co/5YfsYc8/khichtv-live-axn.png",AXN HD 🇻🇳
 #EXTVLCOPT:http-user-agent="khichTiVi 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-#http://live247.freem3u.xyz:21585/axn/index.m3u8
+#http://live247.freem3u.xyz:21585/Axn/index.m3u8
 http://1.52.72.132:13579/udp/225.1.2.225:30120
 #EXTINF:-1 tvg-id="cinemaworldhd" group-title="🎬Test khichtivi| Giải trí" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/05/27/k40j9xch_cinema-world6b652603623c2f38eb586f156e9f4ac8_296_168.webp", CinemaWorld (HD🇨🇳
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
@@ -1388,7 +1388,7 @@ http://152.32.229.52:5050/4gtv-live069/index.m3u8?proxy=true
 #EXTINF:-1 tvg-id="cinemaworldhd" group-title="🎬Test khichtivi| Giải trí" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/05/27/k40j9xch_cinema-world6b652603623c2f38eb586f156e9f4ac8_296_168.webp", CinemaWorld (HD🇻🇳
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-http://1.52.72.132:13579/udp/225.1.1.142:30120
+https://smt.passwdword.xyz/Smart.php?id=Cinemaworld
 #EXTINF:-1 tvg-id="Cinemaworldhd" group-title="🎞|Khích TiVi HBO" tvg-logo="https://i.ibb.co/zgkGXJP/Cinema-World-logo-khichtv.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/mytv/210/hd/dvr-${start}-${offset}.m3u8",CinemaWorld🇻🇳
 
 #😁http://50.7.234.10:8278/cinemax_twn/playlist.m3u8?tid=MFEF8256939882569398&ct=19225&tsum=b6faed73a920c75f873a0c8f511eeba2
@@ -1401,7 +1401,7 @@ https://live.fptplay53.net/fnxhd2/kixhd_vhls.smil/chunklist_b5000000.m3u8
 #EXTVLCOPT: http-user-agent = KhichTivi
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-http://1.52.72.132:13579/udp/225.1.2.144:30120
+https://smt.passwdword.xyz/Smart.php?id=Kix
 #http://14.229.232.52:4022/rtp/232.84.2.131:9582
 #😁http://202.150.172.3:5000/rtp/239.1.2.207:9190
 #http://bentre5.hoangai.vn:8086/stream/T05sc0x5ajlkMm5BVlAvVHVYVTZCZz09/S1BDamZsMDBMaHEyM2paRFh4dnMwQT09/khichtv/fhwuw@4216/playlist.mpegts
@@ -1409,7 +1409,7 @@ http://1.52.72.132:13579/udp/225.1.2.144:30120
 #EXTINF: -1 tvg-id = "warnertvhd" group-title = "🎬 khichtivi| Giải trí" tvg-logo ="https://e7.pngegg.com/pngimages/978/84/png-clipart-warner-tv-television-channel-logo-television-show-others-television-emblem.png", WBTV HD khich TiVi online 🇻🇳
 #EXTVLCOPT:http-user-agent=khích TiVi
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-#https://tv.ddns.vn/tv/warnertvhd/index.m3u8
+https://smt.passwdword.xyz/Smart.php?id=WarnerTV
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
