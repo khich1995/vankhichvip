@@ -159,7 +159,7 @@ https://mt01.utako.moe/AT-X/index.m3u8
 #_"_khich plus
 
 #EXTINF:-1 tvg-id="ksport1hd" ugroup-title="K+ khichPlus" tvg-logo="https://i.ibb.co/MSQHgXV/Khichtivi-ksport1.png", K+ SPORT1 FULL HD
-https://bom.so/2aip31?khichtv-k1
+http://123.20.82.172:6606/udp/232.84.1.98:8562
 #EXTINF:-1 tvg-id="ksport2hd" group-title="K+ khichTV" tvg-logo="https://i.ibb.co/Yjr7dV2/20231125-khich-plus-k-sport2.png ", K+ SPORT2 FULL HD
 http://113.177.113.147:4022/rtp/232.84.1.176:10374
 #https://canvato.net/bnpO9?=getkhichtv=&k+sport2
