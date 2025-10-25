@@ -1426,22 +1426,22 @@ https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/wtv.smil/manifest.mpd
 #EXTVLCOPT:http-user=Gia Hưng
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 #EXTVLCOPT:khíchTV=159
-http://113.160.33.158:889/ace/tv360mpd.php?id=159
+https://vnshort.com/Khichtv-movies?id=159
 #EXTINF:-1 tvg-id="hollywoodclassics" group-title="📦| In The Box" tvg-logo="https://i.ibb.co/8ddQ7FG/images-1.jpg", Hollywood Classics
 #EXTVLCOPT:http-user-agent=Gia Hưng 
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 #EXTVLCOPT:khíchTV=160
-http://113.160.33.158:8889/ace/tv360mpd.php?id=160
+https://vnshort.com/Khichtv-hollywood-classic-hd?id=160
 #EXTINF:-1 tvg-id="musicbox" group-title="📦| In The Box" tvg-logo="https://www.intheboxtv.eu/content/uploads/2018/10/MUSICBOX_KARTICA_V4.jpg", Music Box
 #EXTVLCOPT:http-user-agent=Gia Hưng 
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 #EXTVLCOPT:khíchTV:=289
-http://113.160.33.158:8889/ace/tv360mpd.php?id=289
+https://vnshort.com/Khichtv-music-box?id=289
 #EXTINF:-1 tvg-id="happykid" group-title="📦| In The Box" tvg-logo="https://www.intheboxtv.eu/content/uploads/2019/01/channel_card_happy_kids.jpg", happykid HD
 #EXTVLCOPT:http-user-agent=Gia Hưng 
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 #EXTVLCOPT:=khíchTV/=212
-http://113.160.33.158:8889/ace/tv360mpd.php?id=212
+https://vnshort.com/Khichtv-happy-kids-hd?id=212
 #EXTINF:-1 tvg-id="drfithd" group-title="📦| In The Box" tvg-logo="https://www.intheboxtv.eu/content/uploads/2018/10/540x540_FIT3GIRLS_FRUITS.png", Dr.Fit
 #EXTVLCOPT:http-user-agent=Gia Hưng23=162
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
