@@ -511,7 +511,7 @@ https://freem3u.xyz/api/live/play.m3u8?vid=135
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3=178
 https://toiyeuvietnam.dpdns.org/CoBan/vtvcab-21-cartoon-kids-hd/TuyetDoiKhongKinhDoanh.m3u8
 #EXTINF:0 tvg-id="vtvcab8hd" group-title="VTVCab" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2022/12/22/pj2zc5vj_vtvcab-bibi_296_168.webp",ON BIBI
-https://freem3u.xyz/api/live/play.m3u8?vid=136
+https://freem3u.xyz/api/live/play.m3u8?vid=178
 #EXTINF:0 tvg-id="vtvcab9hd" group-title="VTVCab" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2023/03/06/muq35ckg_vtvcab972bb1cda7c551a4dca108969ee17fb8a_296_168.webp" ,VTVCab9
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 =189
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
@@ -588,7 +588,7 @@ https://1.org.vn/Khích-📺-online-on-music-LIVE🔓
 #EXTINF:-1 tvg-id="vtvcab21hd" group-title="VTVCab" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2022/12/22/apxqcysc_vtvcab-kids_296_168.webp" ,ON KIDS
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://toiyeuvietnam.dpdns.org/coban/vtvcab-21-cartoon-kids-hd/TuyetDoiKhongKinhDoanh.m3u8
+https://freem3u.xyz/api/live/play.m3u8?vid=136
 #EXTINF:-1 tvg-id="haivolohd" group-title="VTVcab" tvg-logo="https://i.ibb.co/3myPY7zR/Vie-Channel-by-Dat-Viet-VAC-logo-khichtv.png" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon/vtvcab21-cartoon-kid/${start}/${offset}", ON vie channel
 https://1.org.vn/Khichtv-viết-channel-m3u8
 #EXTINF:-1 tvg-id="happykids" group-title="khichtv| VTVCab" tvg-logo="https://assets-vtvcab.gviet.vn/images/v2/channel/20220613/2022061306/Happykids_150x902_1675158913.webp", HAPPY KIDS
