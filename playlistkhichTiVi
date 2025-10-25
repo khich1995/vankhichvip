@@ -1426,7 +1426,7 @@ https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/wtv.smil/manifest.mpd
 #EXTVLCOPT:http-user=Gia Hưng
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 #EXTVLCOPT:khíchTV=159
-http://113.160.33.158:889/aec/tv360mpd.php?id=159
+http://113.160.33.158:889/ace/tv360mpd.php?id=159
 #EXTINF:-1 tvg-id="hollywoodclassics" group-title="📦| In The Box" tvg-logo="https://i.ibb.co/8ddQ7FG/images-1.jpg", Hollywood Classics
 #EXTVLCOPT:http-user-agent=Gia Hưng 
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
