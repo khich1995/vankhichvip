@@ -1419,7 +1419,7 @@ https://smt.passwdword.xyz/Smart.php?id=WarnerTV
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"NPGQjP4uBe4GAEbUDxSuyQ","kid":"CG0JpAv/OgCqbdTbr5wTsg"}],"type":"temporary"}
 https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/wtv.smil/manifest.mpd
 #http://113.22.88.123:13579/udp/225.1.1.139:30120
-#=*==_==BOX QT-_=*#
+#=*==_==BOX QT🎬-_=*#
 
 
 #EXTINF:-1 tvg-id="boxmovie1" group-title="📦| In The Box" tvg-logo="https://www.intheboxtv.eu/content/uploads/2018/10/540x540_BM1_2.png", Box Movie 1
@@ -1448,10 +1448,12 @@ https://vnshort.com/Khichtv-happy-kids-hd?id=212
 #EXTINF:-1 tvg-id="planetearthhd" group-title="📦khích TiVi| In The Box" tvg-logo="https://i.ibb.co/qCrPwQS/khichtv-logo-Planet-Earth.png", Planet Earth
 #EXTVLCOPT:khíchTV=135
 https://vnshort.com/Khichtivi-toiyeuvietnam-planet-earth-hd?id=135
-#EXTINF:-1 tvg-id="woman" group-title="📦khích TiVi| In The Box" tvg-logo="https://i.ibb.co/WzcyfHX/khichtivi-2025-logo-WOMAN.png", Woman
+#EXTINF:-1 tvg-id="womanhd" group-title="📦| In The Box" tvg-logo="https://i.ibb.co/WzcyfHX/khichtivi-2025-logo-WOMAN.png",Woman
 #EXTVLCOPT:khíchTV=163
 https://vnshort.com/KhichtiviVIP-Woman-HD?id=163
-#BOX *******#####
+
+#****""'🎞️BOX In The Box *******#####
+
 #EXTINF: -1 tvg-id = "boxmovie1" group-title = "📦 Khích TiVi| In The Box" tvg-logo = "https://i.ibb.co/vkVLJwz/images-1.jpg", Box Movie1 HD👌khíchTV
 https://1.org.vn/Khich-TiVi-online-boxmovies1-index-m3u8
 #EXTINF: -1 tvg-id = "inthebox" group-title = "📦 Khích TiVi| In The Box" tvg-logo = "https://i.ibb.co/DV1TpCb/images.png", In The Box👌khíchTV
