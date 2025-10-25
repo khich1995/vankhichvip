@@ -504,8 +504,8 @@ https://1.org.vn/Khich-TiVi-online-vtvcab6-HD-mpd
 #EXTINF:-1 tvg-id="vtvcab7hd" group-title="| VTVcab" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2023/03/21/zpx4hq02_vtvcab7eec7b524f840cba47a6266583660a9ec_296_168.webp" ,ON O2TV
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 =135
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://freem3u.xyz/api/live/play.m3u8?vid=135
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3?=
+https://toiyeuvietnam.dpdns.org/CoBan/o2tv/TuyetDoiKhongKinhDoanh.m3u8
 #EXTINF:-1 tvg-id="vtvcab8hd" group-title="VTVcab" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2022/12/22/pj2zc5vj_vtvcab-bibi_296_168.webp" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon/vtvcab8-bibi/${start}/${offset}",VTVCAB8
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0=136
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3=178
