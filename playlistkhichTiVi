@@ -488,7 +488,7 @@ https://freem3u.xyz/api/live/play.m3u8?vid=181
 #EXTINF:0 tvg-id="vvtvcab5hd" pgroup-title="VTVCab" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2023/06/21/tv61ia9i_vtvcab5c557e8386f9cda54f4215da0e89c0cd7_296_168.webp",VTVCab5 - E Channel
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0=182
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://freem3u.xyz/api/live/play.m3u8?vid=182
+https://toiyeuvietnam.dpdns.org/CoBan/vtvcab-5-e-channel-hd/TuyetDoiKhongKinhDoanh.m3u8
 #EXTINF:-1 tvg-id="vtvcab6hd" group-title="VTVCab" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2022/08/02/wtvyhnuq_vtvcab6-on-sports-thumbfc228c44db49351f512be995a0770c3b_296_168.webp",ON SPORTS +
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; KhichTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
@@ -509,7 +509,7 @@ https://freem3u.xyz/api/live/play.m3u8?vid=135
 #EXTINF:-1 tvg-id="vtvcab8hd" group-title="VTVcab" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2022/12/22/pj2zc5vj_vtvcab-bibi_296_168.webp" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon/vtvcab8-bibi/${start}/${offset}",VTVCAB8
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0=136
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3=178
-https://freem3u.xyz/api/live/play.m3u8?vid=136
+https://toiyeuvietnam.dpdns.org/CoBan/vtvcab-21-cartoon-kids-hd/TuyetDoiKhongKinhDoanh.m3u8
 #EXTINF:0 tvg-id="vtvcab8hd" group-title="VTVCab" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2022/12/22/pj2zc5vj_vtvcab-bibi_296_168.webp",ON BIBI
 https://freem3u.xyz/api/live/play.m3u8?vid=136
 #EXTINF:0 tvg-id="vtvcab9hd" group-title="VTVCab" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2023/03/06/muq35ckg_vtvcab972bb1cda7c551a4dca108969ee17fb8a_296_168.webp" ,VTVCab9
@@ -518,10 +518,10 @@ https://freem3u.xyz/api/live/play.m3u8?vid=136
 https://freem3u.xyz/api/live/play.m3u8?vid=189
 #EXTINF:0 tvg-id="vtvcab7hd" group-title="VTVCab" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2022/08/02/53opprfc_vtvcab10-on-cine-thumb_296_168.webp",ON CINE
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://freem3u.xyz/api/live/play.m3u8?vid=175
+https://toiyeuvietnam.dpdns.org/CoBan/vtvcab10-on-cine-hd/TuyetDoiKhongKinhDoanh.m3u8
 #EXTINF:-1 group-title="vtvcab10hd" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2023/08/15/6qd3yx7u_echannel_thumb14bb6471bf25a239b0b528ab0f151404_296_168.webp",ON E Channel
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0?=176
-https://freem3u.xyz/api/live/play.m3u8?vid=176
+https://toiyeuvietnam.dpdns.org/CoBan/vtvcab-5-e-channel-hd/TuyetDoiKhongKinhDoanh.m3u8
 #EXTINF:0 tvg-id="vtvcab12hd" group-title="VTVCab" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2023/03/06/zg64gsxt_on-styleb8f508c8edc69dbf75b318ea1bc04f6c_296_168.webp" ,VTVCAB12 - STYLE TV
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #khichtivi=184
