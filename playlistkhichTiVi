@@ -596,7 +596,7 @@ https://1.org.vn/Khichtv-viết-channel-m3u8
 #EXTVLCOPT:http-user-agent=KhichTivi
 #EXTVLCOPT:http-user-agent=KhichTivi
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://freem3u.xyz/api/live/play.m3u8?vid=107
+https://toiyeuvietnam.dpdns.org/CoBan/happy-kids-hd/TuyetDoiKhongKinhDoanh.m3u8
 #EXTINF:-1 tvg-id="vtvcab22hd" group-title="VTVCab" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2022/12/22/i0zj1wvg_vtvcablife_296_168.webp", ON LIFE
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 =188
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
