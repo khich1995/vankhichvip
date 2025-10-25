@@ -375,7 +375,7 @@ https://live.fptplay53.net/epzhd1/htvcthuanviethd_vhls.smil/chunklist_b5000000.m
 #EXTVLCOPT: http-user-agent = KhichTivi
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://xem.hoiquan.Click/CoBan/htvc-gia-dinh/TuyetDoiKhongKinhDoanh.m3u8
+https://toiyeuvietnam.dpdns.org/CoBan/htvc-gia-dinh/TuyetDoiKhongKinhDoanh.m3u8
 #EXTINF:-1 tvg-id="htvcgiadinhhd" group-tile="💛Khích📺| HTV" tvg-logo="https://images.fptplay53.net/media/photo/OTT/2024/07/27/logo-web_1722013430942.png",FPT Play 1 HD
 https://live5.k8v4dh4.app/live/75915087.m3u8
 #EXTINF:-1 tvg-id="htvcgiadinhhd" group-tile="💛Khích📺| HTV" tvg-logo="https://images.fptplay53.net/media/photo/OTT/2024/07/27/logo-web_1722013430942.png",FPT Play 2 HD
@@ -384,7 +384,7 @@ https://live5.k8v4dh4.app/live/43612277.m3u8
 #EXTVLCOPT: http-user-agent = KhichTivi
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://xem.hoiquan.Click/CoBan/htvc-phu-nu/TuyetDoiKhongKinhDoanh.m3u8
+https://toiyeuvietnam.dpdns.org/CoBan/htvc-phu-nu/TuyetDoiKhongKinhDoanh.m3u8
 #EXTINF:-1 group-title="💛Khích📺| HTV" tvg-id="htvcphunuhd" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2022/03/31/962h3dtj_htvcphunu_296_168.webp", HTVC PHỤ NỮ FHD
 #EXTVLCOPT: http-user-agent = KhichTivi
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
@@ -393,7 +393,7 @@ https://live.fptplay53.net/epzhd1/htvcphunu_vhls.smil/chunklist_b5000000.m3u8
 #EXTVLCOPT: http-user-agent = KhichTivi
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://xem.hoiquan.Click/CoBan/htvc-du-lich-cuoc-song/TuyetDoiKhongKinhDoanh.m3u8
+https://toiyeuvietnam.dpdns.org/CoBan/htvc-du-lich-cuoc-song/TuyetDoiKhongKinhDoanh.m3u8
 #EXTINF:-1 tvg-id="htvccanhac onhd" group-title="💛Khích📺| HTV" tvg-logo="https://static.vieon.vn/vieplay-image/avatar/2020/12/15/kba10f9g_htvc_ca_nhac.png",HTVC CA NHẠC HD
 #EXTVLCOPT: http-user-agent = KhichTivi
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
@@ -406,7 +406,7 @@ http://14.229.232.52:4022/rtp232.84.2.133:9594
 #EXTINF:-1 tvg-id="htvcphimhd ViettelTV" group-title="HTVc" tvg-logo="https://img-zlr1.tv360.vn/image1/2020/12/25/10/160886616399/c002b68d052e_640_360.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/htvcmovieshd_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", HTVC PLUS
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; KhichTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://xem.hoiquan.Click/CoBan/htvc/TuyetDoiKhongKinhDoanh.m3u8
+https://toiyeuvietnam.dpdns.org/CoBan/htvc/TuyetDoiKhongKinhDoanh.m3u8
 #EXTINF:-1 tvg-id="htvcphimhd" group-title="HTV Online" tvg-logo="https://img-zlr1.tv360.vn/image1/2021/07/01/15/1625129239161/48401c7a9ce3_640_360.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/htvcmovieshd_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", HTVC PHIM HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
@@ -588,7 +588,7 @@ https://1.org.vn/Khích-📺-online-on-music-LIVE🔓
 #EXTINF:-1 tvg-id="vtvcab21hd" group-title="VTVCab" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2022/12/22/apxqcysc_vtvcab-kids_296_168.webp" ,ON KIDS
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://xem.hoiquan.Click/CoBan/vtvcab-21-cartoon-kids-hd/TuyetDoiKhongKinhDoanh.m3u8
+https://toiyeuvietnam.dpdns.org/coban/vtvcab-21-cartoon-kids-hd/TuyetDoiKhongKinhDoanh.m3u8
 #EXTINF:-1 tvg-id="haivolohd" group-title="VTVcab" tvg-logo="https://i.ibb.co/3myPY7zR/Vie-Channel-by-Dat-Viet-VAC-logo-khichtv.png" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon/vtvcab21-cartoon-kid/${start}/${offset}", ON vie channel
 https://1.org.vn/Khichtv-viết-channel-m3u8
 #EXTINF:-1 tvg-id="happykids" group-title="khichtv| VTVCab" tvg-logo="https://assets-vtvcab.gviet.vn/images/v2/channel/20220613/2022061306/Happykids_150x902_1675158913.webp", HAPPY KIDS
