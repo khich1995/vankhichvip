@@ -1359,7 +1359,7 @@ https://smt.passwdword.xyz/Smart.php?id=Cinemax
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-http://cnlive.org/channel/5c8dcc41/index.m3u8
+https://live.saileitv.com/channel/2420c041/index.m3u8?q=1761733668909
 #EXTINF: -1 tvg-id = "warnertvhd" group-title = "🎬 khichtivi| Giải trí" tvg-logo ="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/07/23/c37bx4qh_warner-tvd0ed4cb02178a26ee0b01a30f94e47e4_296_168.webp", Warner TV 🇻🇳
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.https://live.saileitv.com/channel/23b884fc/index.m3u8?q=1761733075543
 #EXTINF: -1 tvg-id = "warnertvhd" group-title = "🎬 khichtivi| Giải trí" tvg-logo ="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/07/23/c37bx4qh_warner-tvd0ed4cb02178a26ee0b01a30f94e47e4_296_168.webp", Warner TV 🇻🇳
