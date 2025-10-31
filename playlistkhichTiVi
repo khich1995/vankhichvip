@@ -569,13 +569,13 @@ http://dvrfl05.bozztv.com/vch_vchannel18/index.m3u8
 #EXTINF:0 tvg-id="vtvcab19hd" group-title="VTVCab" tvg-logo="https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/540x300x1713251467/cmc_new/img.live_channel/0/0/0/0/309.jpg" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v2/dvr/vieon/vie-dramas-hd/${start}/${offset}",VTVCAB1-Giải TRÍ
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 = 175
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://1.org.vn/KhíchTiVi📺🤫VTVCab1-LIVE🔓
+#https://1.org.vn/KhíchTiVi📺🤫VTVCab1-LIVE🔓
 #EXTINF:0 tvg-id="vtvcab19hd"group-title="VTVCab" tvg-logo="https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/540x300x1713251495/cmc_new/img.live_channel/0/0/0/0/310.jpg" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v2/dvr/vieon/vie-dramas-hd/${start}/${offset}",ON KHÍCH
 http://60.246.171.122:8891/bysid/92
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36https://live5.k8v4dh4.app/live/41943555.m3u8?txSecret=30fe8de7f0c10b332ca0224c6657212b&txTime=1950B72BD75
 #EXTINF:0 tvg-id="vtvcab19hd" group-title="VTVCab" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2023/06/20/jwnhipn3_vie-dramasae064da43e53e1159713dee84d357599_296_168.png" catchup="append" catchup-days="2" catchup-source="https://api.khichtivi.pw/v2/dvr/vieon/vie-dramas-hd/${start}/${offset}",VTVCAB 19 FHD
-https://d.org.vn/KhíchTiVi📺-VTVCAB19-LIVE🔓
+#https://d.org.vn/KhíchTiVi📺-VTVCAB19-LIVE🔓
 #EXTINF:0 tvg-id="vtvcab20hd" group-title="khichtv VTVCab" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2023/03/06/s0vy2pmh_vtvcab20a434829b87edb836c91a9f364b5d56d8_296_168.webp",VTVCAB20 - V FAMILY
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #EXTVLCOPT:http-user-agent="khich TV"
