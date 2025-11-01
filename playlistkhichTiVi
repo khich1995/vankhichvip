@@ -1622,18 +1622,20 @@ https://vivo.solumedia.com:19360/lapacho/lapacho.m3u8
 https://live.tvfix.org/live/axn/index.m3u8
 #EXTINF:-1 tvg-id="tvn" group-title="🎬|Khích TiVi Phim" tvg-logo="https://i.ibb.co/MGqP4h9/khich-tivi-logo-tv-N.jpg",TVN SV1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-http://1.25.119.107:4022/udp/239.1.2.211:9202
+https://smt.passwdword.xyz/Smart.php?id=TVN
 #EXTINF:-1 tvg-id="tvn" group-title="🎬|Khích TiVi Phim" tvg-logo="https://i.ibb.co/MGqP4h9/khich-tivi-logo-tv-N.jpg",TVN SV2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://fl3.moveonjoy.com/FXX/index.m3u8
 #EXTINF:0 tvg-id="tvmovie" tvg-name="" tvg-logo="https://i.ibb.co/hL4qgr1/logo-khichtv-tv-Nmovies.jpg" group-title="Khích TiVi Phim",TVN MOVES 🇺🇸
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-http://198.16.100.186:8278/TVN/playlist.m3u8?tid=ME8E2207086222070862&ct=19249&tsum=b7f602e68174a03e917c7b354788bce9
+https://smt.passwdword.xyz/Smart.php?id=Tvnmovie?tid=ME8E2207086222070862&ct=19249&tsum=b7f602e68174a03e917c7b354788bce9
 #EXTINF:0 tvg-id="sone" tvg-name="" tvg-logo="https://images.indihometv.com/logo_sone_small.png?v=2.0.0.13" group-title="Khích TiVi Phim",sone🇺🇸
-https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/06862a07-6a92-4b4d-abc3-5fea131713b5/manifest.m3u8
+https://smt.passwdword.xyz/Smart.php?id=One
+#https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/06862a07-6a92-4b4d-abc3-5fea131713b5/manifest.m3u8
 #EXTINF:0 tvg-id="kplus" tvg-name="" tvg-logo="https://images.indihometv.com/logo_kplus_ver2.png" group-title="KhíchTiVi",➕ plus🇺🇸
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://5ee1ec6f32118.streamlock.net/live/livetv/playlist.m3u8
+https://smt.passwdword.xyz/Smart.php?id=Kplus
+#https://5ee1ec6f32118.streamlock.net/live/livetv/playlist.m3u8
 #EXTINF:0 tvg-id="tvasahi" tvg-name="" tvg-logo="https://i.ibb.co/MZkXS0Q/asiancrush-logo-khichtivi.png" group-title="Khích TiVi Phim",ASIANCRSH🇺🇸
 https://d32khooduen8y3.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-p170vbjf0s68a-ssai-prd/2e874342_9a2c_48e9_9066_7ab3a3284a80/hls/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name
 #EXTINF:0 tvg-id="ntv" tvg-name="" tvg-logo="https://i.ibb.co/52bKffN/hollywood-movies-khich-TV.jpg" group-title="Khích TiVi Phim",OLLYWOOD MOVIES HD
@@ -1647,9 +1649,9 @@ http://epg.112114.xyz/douyu/20415
 http://php.jdshipin.com:8880/smt.php?id=meiyamovie_twn
 #https://cinehls.persiana.live/hls/stream.m3u8
 #EXTINF:0 tvg-id="tvasahi" tvg-name="" tvg-logo="https://i.ibb.co/tDHKvBy/meiyamovie.jpg" group-title="Khích TiVi Phim",ettvmovie|东森电影
-http://50.7.234.10:8278/ettvmovie/playlist.m3u8?tid=MDED1943740419437404&ct=19225&tsum=120834a4218c4b5c3bb19efb8116f859
+https://smt.passwdword.xyz/Smart.php?id=ettvmovie?tid=MDED1943740419437404&ct=19225&tsum=120834a4218c4b5c3bb19efb8116f859
 #EXTINF:0 tvg-id="tvasahi" tvg-name="" tvg-logo="https://i.ibb.co/5xnJXwFP/warner-bros-movie-world-logo-twbc-au-by-yellowpen2009-dj3icqe-fullview.png" group-title="Khích TiVi Phim",hollywoodmovies
-http://50.7.234.10:8278/hollywoodmovies_twn/playlist.m3u8?tid=MF6F7143280071432800&ct=19211&tsum=c0bc00f05a03eb1bef16741e9fd9737e
+https://smt.passwdword.xyz/Smart.php?id=hollywoodmovies_twn?tid=MF6F7143280071432800&ct=19211&tsum=c0bc00f05a03eb1bef16741e9fd9737e
 #EXTINF:-1 tvg-id="tokyomx" group-title="🎬|Khích TiVi"" tvg-logo=" https://kruketwimon.com/wp-content/uploads/2022/04/k-plus.png" group-title="Khích TiVi Phim",K Plus 🇺🇸
 https://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8
 
