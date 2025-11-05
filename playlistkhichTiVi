@@ -350,16 +350,15 @@ https://1.org.vn/Khích📺-80-HTV9HD-LIVE
 #EXTVLCOPT: http-user-agent = KhichTivi
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; Khichtivi) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/
-https://vc.101vn.com/htv/htvcmb.php?id=4009
+
 #EXTINF:-1 tvg-id="htvthethaohd" group-title="💛Khích📺| HTV" tvg-logo="https://i.ibb.co/gMz4BnNt/khichtivi-htv-thethao-2.png",HTV THỂ THAO HD SV2
 #EVLCOPT:http-user-agent=Dalvik/2.1.0
 https://live.fptplay53.net/epzhd1/htvcthethao_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="htvthethaohd" group-title="💛Khích📺| HTV" tvg-logo="https://static2.vieon.vn/vieplay-image/avatar/2025/02/13/y1w5wgtj_htv_thethao.webp",HTV THỂ THAO HD SV3
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://vc.101vn.com/htv/htvcmb.php?id=4009
+#EXTVLCOPT:http-user-agent=Dal
 #EXTINF:-1 tvg-id="htvthethaohd" group-title="💛Khích📺| HTV" tvg-logo="https://static.vieon.vn/vieplay-image/avatar/2020/12/15/5esq78z8_htv_the_thao.png",HTV THỂ THAO HD SV4
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.:=195
-https://1011154949.vnns.net/CDN-FPT/HTV-THETHAO-HD-1080p/playlist.m3u8
+https://d.org.vn/KhichTV-VIP-htv-thể-thao?=&195
 #EXTINF:-1 tvg-id="htvcthuanviet" group-title="💛|Khích📺 HTV" tvg-logo="https://i.upanh.org/2024/10/29/images28c6f690f3d0ce7d.jpeg",HTVC THUẦN VIỆT
 https://live.fptplay53.net/epzhd1/htvcthuanviethd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="htvcthuanviethd" group-title="💛|Khích📺 HTV" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2022/03/31/f1awhyku_htvcthuanviet_296_168.webp",HTVC THUẦN VIỆT HD
