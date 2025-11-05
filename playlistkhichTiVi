@@ -353,14 +353,14 @@ https://1.org.vn/Khích📺-80-HTV9HD-LIVE
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; Khichtivi) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/
 
 #EXTINF:-1 tvg-id="htvthethaohd" group-title="💛Khích📺| HTV" tvg-logo="https://i.ibb.co/gMz4BnNt/khichtivi-htv-thethao-2.png",HTV THỂ THAO HD SV2
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#EVLCOPT:http-user-agent=Dalvik/2.1.0
 https://live.fptplay53.net/epzhd1/htvcthethao_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="htvthethaohd" group-title="💛Khích📺| HTV" tvg-logo="https://static2.vieon.vn/vieplay-image/avatar/2025/02/13/y1w5wgtj_htv_thethao.webp",HTV THỂ THAO HD SV3
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://tinyurl.com/Khichtivi?/80&htvthethao/playlist.mpegts
 #EXTINF:-1 tvg-id="htvthethaohd" group-title="💛Khích📺| HTV" tvg-logo="https://static.vieon.vn/vieplay-image/avatar/2020/12/15/5esq78z8_htv_the_thao.png",HTV THỂ THAO HD SV4
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.
-https://xem.hoiquan.Click/CoBan/htv-the-thao/TuyetDoiKhongKinhDoanh.m3u8
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.:=195
+https://freem3u.xyz/api/live/play.m3u8?vid=195
 #EXTINF:-1 tvg-id="htvcthuanviet" group-title="💛|Khích📺 HTV" tvg-logo="https://i.upanh.org/2024/10/29/images28c6f690f3d0ce7d.jpeg",HTVC THUẦN VIỆT
 https://live.fptplay53.net/epzhd1/htvcthuanviethd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="htvcthuanviethd" group-title="💛|Khích📺 HTV" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2022/03/31/f1awhyku_htvcthuanviet_296_168.webp",HTVC THUẦN VIỆT HD
@@ -388,9 +388,9 @@ https://toiyeuvietnam.dpdns.org/CoBan/htvc-phu-nu/TuyetDoiKhongKinhDoanh.m3u8
 https://live.fptplay53.net/epzhd1/htvcphunu_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="htvcdulichhd" group-title="💛Khích📺| HTV" tvg-logo="https://static.vieon.vn/vieplay-image/avatar/2020/12/15/u7nk6mz2_htvc_du_lich_cuoc_song.png",HTVC Du lịch & Cuộc sống HD
 #EXTVLCOPT: http-user-agent = KhichTivi
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0:=133
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://toiyeuvietnam.dpdns.org/CoBan/htvc-du-lich-cuoc-song/TuyetDoiKhongKinhDoanh.m3u8
+https://freem3u.xyz/api/live/play.m3u8?vid=133
 #EXTINF:-1 tvg-id="htvccanhac onhd" group-title="💛Khích📺| HTV" tvg-logo="https://static.vieon.vn/vieplay-image/avatar/2020/12/15/kba10f9g_htvc_ca_nhac.png",HTVC CA NHẠC HD
 #EXTVLCOPT: http-user-agent = KhichTivi
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
@@ -452,7 +452,7 @@ https://live.relentlessinnovations.net:1936/ibc/ibc/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36 
 https://live.relentlessinnovations.net:1936/vietmtv/vietmtv/laylist.m3u8
 #EXTINF: -1 tvg-id ="htv7hd" group-title = "💛Khích📺|HTV" tvg-logo = "https://i.ibb.co/Y3rkhtH/htv-7.png",HTV7 HD
-https://freem3u.xyz/api/live/play.m3u8?oid=ligue1
+https://freem3u.x3yz/api/live/play.m3u8?oid=ligue1
 
 #×Dự Phòng VTVcab*×-'#
 
