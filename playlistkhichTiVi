@@ -867,7 +867,7 @@ https://hls.mskycdn.online/tv/vtv5tnbfhd/index.m3u8
 https://hls.mskycdn.online/tv/vtv5fhd/index.m3u8
 #EXTINF:-1 tvg-id="baria" group-title="🇻🇳Khích TiVi| Địa phương" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/01/14/vmq8dni1_ba-ria-vung-tau_296_168.webp",Bà Rịa Vũng Tàu
 #EXTVLCOPT: http-user-agent = KhichTivi
-https://1288207023.pop.vnptcdn.com/-eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6ImQ0OWY0MzljLWQyOTctNGI5Yi1iNmYwLWZmNDZkZmU1MWU5NSIsImV4cCI6MTc1NTkwMjcwNiwidXJpIjoiL0JSVCIsImlhdCI6MTc1NTg4MTEwNn0.PYrZ81ycsiOseWUKNVYq2FR5azjgktsRhVIKQp6KR2I-/BRT/playlist.m3u8
+https://cmcdp2.vtvdigital.vn/hls/VUNGTAUTV/index.m3u8
 #EXTINF: -1 tvg-id = "bacgiang" group-title = "🇻🇳Khích TiVi|Địa phương" tvg-logo = "https://static.vieon.vn/vieplay-image/avatar/2020/12/15/xkkqdvxq_bac_giang.png",Bắc Giang HD
 #EXTVLCOPT: http-user-agent = KhichTivi
 https://live.mediatech.vn/live/285f5f227e988ab4445a2138091d3d62e8d/chunklist.m3u8
