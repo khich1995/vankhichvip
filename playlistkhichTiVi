@@ -1284,20 +1284,20 @@ https://cmcdp3.vtvdigital.vn/hls/THANHHOATV/02.m3u8
 #EXTINF: -1 tvg-id = "thanhhoa" group-title = "🇻🇳 Khích TiVi| Địa phương" tvg-logo = "https://static2.vieon.vn/vieplay-image/thumbnail_v4/2022/03/24/60jv709d_thanh-hoa_296_168.webp", TTV HD | TH Thanh Hóa
 #EXTINF: -1 tvg-id = "thanhhoa" group-title = "🇻🇳 Khích TiVi| Địa phương" tvg-logo = "https://static2.vieon.vn/vieplay-image/thumbnail_v4/2022/03/24/60jv709d_thanh-hoa_296_168.webp", Thanh Hóa SV2 khích TV live
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;)
-https://cmcdp3.vtvdigital.vn/hls/THANHHOATV/index.m3u8
+http://42.115.231.239:8989/udp/225.1.2.184:30120
 #EXTINF: -1 tvg-id = "tuyenquang" group-title = "🇻🇳 Khích TiVi| Địa phương" tvg-logo = "https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/03/22/y3k1ecmp_tuyenquang_296_168.webp", TTV FHD SV1| TH Tuyên Quang
 #EXTVLCOPT: http-user-agent =KhichTivi
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;)
 https://streaming.tuyenquangtv.vn/channel/tuyenquang/chunks.m3u8
 #EXTINF: -1 tvg-id = "tuyenquang" group-title = "🇻🇳 Khích TiVi| Địa phương" tvg-logo = "https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/03/22/y3k1ecmp_tuyenquang_296_168.webp", TTV FHD | TH Tuyên Quang sv2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;)
-https://vtvgo-kenhdp-zend.vtvdigital.vn/kenhdp/tuyenquangtv.m3u8
+http://42.115.231.239:8989/udp/225.1.2.188:30120
 #EXTINF: -1 tvg-id = "hue" group-title = "🇻🇳 Khích TiVi| Địa phương" tvg-logo = "https://i.ibb.co/HtJpyxw/trt1-hd-khichtv.png", TRT1 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://live.fptplay53.net/epzsd1/hue_hls.smil/chunklist_b2500000.m3u8
 #EXTINF: -1 tvg-id = "hue" group-title = "🇻🇳 Khích TiVi| Địa phương" tvg-logo = "https://i.ibb.co/vBywzYG/TRT2-logo-khichtv.png", TRT2 HD
 #EXTVLCOPT:http-user-agent=Moliza
-http://42.115.231.239:8989/udp/225.1.1.118:30120
+http://42.115.231.239:8989/udp/225.1.1.161:30120
 #EXTINF: -1 tvg-id = "hue" group-title = "🇻🇳 Khích TiVi| Địa phương" tvg-logo = "https://i.ibb.co/52HDD5k/vtv-Hue-khichtv.png", VTV HUẾ HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://live.huetv.com.vn/TRT-Online/playlist.m3u8
