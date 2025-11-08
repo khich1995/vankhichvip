@@ -1323,7 +1323,7 @@ https://5dcab9aed5331.streamlock.net/SET1/livestream/chunklist_w1484987801.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"PeDzjc8BSCff1b7Dh0PGog","kid":"Cd3+PWOGPK+ut50FRrCYqw"}],"type":"temporary"}
 #https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/hbo.smil/manifest.mpd
-http://113.22.39.64:8090/udp/225.1.1.112:30120
+http://42.115.231.239:8989/udp/225.1.1.112:30120
 #https://canvato.net/BkMV3?get:khichtivi=&hbohd
 #EXTINF:-1 tvg-id="hbohd" group-title="🎞|Khích TiVi HBO" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2022/08/04/16cwuz5j_hbo_ngang_296_168.png",HBO🇻🇳
 #EXTVLCOPT: http-user-agent = KhichTivi
@@ -1362,7 +1362,7 @@ https://live.saileitv.com/channel/2420c041/index.m3u8?q=1761733668909
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.https://live.saileitv.com/channel/23b884fc/index.m3u8?q=1761733075543
 #EXTINF: -1 tvg-id = "warnertvhd" group-title = "🎬 khichtivi| Giải trí" tvg-logo ="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/07/23/c37bx4qh_warner-tvd0ed4cb02178a26ee0b01a30f94e47e4_296_168.webp", Warner TV 🇻🇳
 #EXTVLCOPT:http-user-agent=ExoPlayerLib/2.14.1
-#http://42.114.161.248:9000/225.1.1.139:30120
+#http://42.115.231.239:8989/udp/225.1.1.139:30120
 #EXTINF:0 tvg-id="AXN" group-title="Quốc Tế" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaQpHIUtT-gc4IOao3FlqkFy3H-gr9xdp6XRcppZ5wpQ&s",AXN HD 🇻🇳
 #EXTVLCOPT:http-user-agent="khichTiVi 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36http://free.cnlive.club/channel/n66e1336b/index.m3u8?q=1752629214236
@@ -1407,7 +1407,7 @@ https://smt.passwdword.xyz/Smart.php?id=Kix
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"NPGQjP4uBe4GAEbUDxSuyQ","kid":"CG0JpAv/OgCqbdTbr5wTsg"}],"type":"temporary"}
 #https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/wtv.smil/manifest.mpd
-http://113.22.39.64:8090/udp/225.1.1.139:30120
+http://42.115.231.239:8989/udp/225.1.1.139:30120
 #=*==_==BOX QT🎬-_=*#
 
 
