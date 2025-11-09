@@ -1306,7 +1306,7 @@ http://123.25.238.45:1935/live/thtg/chunklist.m3u8
 #EXTINF: -1 tvg-id = "vinhphuc" group-title = "🇻🇳 Khích TiVi| Địa phương" tvg-logo = "https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/01/14/j8fjg1uj_vinh-phuc_296_168.webp", VP HD | TH Vĩnh Phúc
 #😭http://vinhphuctv.vn:8090/vinhphuclive/web.stream/playlist.m3u8
 #EXTINF: -1 tvg-id = "hungyen" group-title = "🇻🇳Khích TiVi|Địa phương" tvg-logo = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXb4spi7-IexQNZ41dWNjY1OosLyAIvCebWH2uiauGwQ&s", HYTV HD | TH Hưng Yên
-
+https://liveh12.vtvprime.vn/hls/HUNGYENTV/index.m3u8
 #EXTINF:-1 tvg-id="thaibinh" group-title="🇻🇳|Live Khích Tivi Đặt TV" tvg-logo="https://i.ytimg.com/vi/kifc_4Y-W8U/maxresdefault.jpg", ĐẶT 1 TV
 https://5dcab9aed5331.streamlock.net/SET1/livestream/chunklist_w1484987801.m3u8
 
