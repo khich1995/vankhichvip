@@ -1284,14 +1284,14 @@ https://cmcdp3.vtvdigital.vn/hls/THANHHOATV/02.m3u8
 #EXTINF: -1 tvg-id = "thanhhoa" group-title = "🇻🇳 Khích TiVi| Địa phương" tvg-logo = "https://static2.vieon.vn/vieplay-image/thumbnail_v4/2022/03/24/60jv709d_thanh-hoa_296_168.webp", TTV HD | TH Thanh Hóa
 #EXTINF: -1 tvg-id = "thanhhoa" group-title = "🇻🇳 Khích TiVi| Địa phương" tvg-logo = "https://static2.vieon.vn/vieplay-image/thumbnail_v4/2022/03/24/60jv709d_thanh-hoa_296_168.webp", Thanh Hóa SV2 khích TV live
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;)
-http://42.115.231.239:8989/udp/225.1.2.184:30120
+http://42.116.143.51:13579/udp/225.1.2.184:30120
 #EXTINF: -1 tvg-id = "tuyenquang" group-title = "🇻🇳 Khích TiVi| Địa phương" tvg-logo = "https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/03/22/y3k1ecmp_tuyenquang_296_168.webp", TTV FHD SV1| TH Tuyên Quang
 #EXTVLCOPT: http-user-agent =KhichTivi
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;)
 https://streaming.tuyenquangtv.vn/channel/tuyenquang/chunks.m3u8
 #EXTINF: -1 tvg-id = "tuyenquang" group-title = "🇻🇳 Khích TiVi| Địa phương" tvg-logo = "https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/03/22/y3k1ecmp_tuyenquang_296_168.webp", TTV FHD | TH Tuyên Quang sv2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;)
-http://42.115.231.239:8989/udp/225.1.2.188:30120
+http://42.116.143.51:13579/udp/225.1.2.188:30120
 #EXTINF: -1 tvg-id = "hue" group-title = "🇻🇳 Khích TiVi| Địa phương" tvg-logo = "https://i.ibb.co/HtJpyxw/trt1-hd-khichtv.png", TRT1 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://live.fptplay53.net/epzsd1/hue_hls.smil/chunklist_b2500000.m3u8
@@ -1322,7 +1322,7 @@ https://5dcab9aed5331.streamlock.net/SET1/livestream/chunklist_w1484987801.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"PeDzjc8BSCff1b7Dh0PGog","kid":"Cd3+PWOGPK+ut50FRrCYqw"}],"type":"temporary"}
 #https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/hbo.smil/manifest.mpd
-http://113.22.39.64:8090/udp/225.1.1.112:30120
+http://42.116.143.51:13579/udp/225.1.1.112:30120
 #https://canvato.net/BkMV3?get:khichtivi=&hbohd
 #EXTINF:-1 tvg-id="hbohd" group-title="🎞|Khích TiVi HBO" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2022/08/04/16cwuz5j_hbo_ngang_296_168.png",HBO🇻🇳
 #EXTVLCOPT: http-user-agent = KhichTivi
@@ -1355,7 +1355,7 @@ https://smt.passwdword.xyz/Smart.php?id=Cinemax
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-http://42.115.231.239:8989/udp/225.1.2.86:30120
+http://42.116.143.51:13579/udp/225.1.2.86:30120
 #EXTINF: -1 tvg-id = "warnertvhd" group-title = "🎬 khichtivi| Giải trí" tvg-logo ="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/07/23/c37bx4qh_warner-tvd0ed4cb02178a26ee0b01a30f94e47e4_296_168.webp", Warner TV 🇻🇳
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.https://live.saileitv.com/channel/23b884fc/index.m3u8?q=1761733075543
 #EXTINF: -1 tvg-id = "warnertvhd" group-title = "🎬 khichtivi| Giải trí" tvg-logo ="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/07/23/c37bx4qh_warner-tvd0ed4cb02178a26ee0b01a30f94e47e4_296_168.webp", Warner TV 🇻🇳
@@ -1369,7 +1369,7 @@ https://smt.passwdword.xyz/Smart.php?id=axn
 #EXTVLCOPT:http-user-agent="khichTiVi 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #http://live247.freem3u.xyz:21585/Axn/index.m3u8
-http://42.115.231.239:8989/udp/225.1.2.225:30120
+http://42.116.143.51:13579/udp/225.1.2.225:30120
 #EXTINF:-1 tvg-id="cinemaworldhd" group-title="🎬Test khichtivi| Giải trí" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/05/27/k40j9xch_cinema-world6b652603623c2f38eb586f156e9f4ac8_296_168.webp", CinemaWorld (HD🇨🇳
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
@@ -1378,7 +1378,7 @@ http://152.32.229.52:5050/4gtv-live069/index.m3u8?proxy=true
 #EXTINF:-1 tvg-id="cinemaworldhd" group-title="🎬Test khichtivi| Giải trí" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/05/27/k40j9xch_cinema-world6b652603623c2f38eb586f156e9f4ac8_296_168.webp", CinemaWorld (HD🇻🇳
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-http://42.115.231.239:8989/udp/225.1.1.142:30120
+http://42.116.143.51:13579/udp/225.1.1.142:30120
 https://smt.passwdword.xyz/Smart.php?id=Cinemaworld
 #EXTINF:-1 tvg-id="Cinemaworldhd" group-title="🎞|Khích TiVi HBO" tvg-logo="https://i.ibb.co/zgkGXJP/Cinema-World-logo-khichtv.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/mytv/210/hd/dvr-${start}-${offset}.m3u8",CinemaWorld🇻🇳
 
@@ -1392,7 +1392,7 @@ https://live.fptplay53.net/fnxhd2/kixhd_vhls.smil/chunklist_b5000000.m3u8
 #EXTVLCOPT: http-user-agent = KhichTivi
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-http://42.115.231.239:8989/udp/225.1.2.144:30120
+http://42.116.143.51:13579/udp/225.1.2.144:30120
 #http://14.229.232.52:4022/rtp/232.84.2.131:9582
 #😁http://202.150.172.3:5000/rtp/239.1.2.207:9190
 #http://bentre5.hoangai.vn:8086/stream/T05sc0x5ajlkMm5BVlAvVHVYVTZCZz09/S1BDamZsMDBMaHEyM2paRFh4dnMwQT09/khichtv/fhwuw@4216/playlist.mpegts
@@ -1406,7 +1406,7 @@ http://42.115.231.239:8989/udp/225.1.2.144:30120
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"NPGQjP4uBe4GAEbUDxSuyQ","kid":"CG0JpAv/OgCqbdTbr5wTsg"}],"type":"temporary"}
 #https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/wtv.smil/manifest.mpd
-http://42.115.231.239:8989/udp/225.1.1.139:30120
+http://42.116.143.51:13579/udp/225.1.1.139:30120
 #=*==_==BOX QT🎬-_=*#
 
 
