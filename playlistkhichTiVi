@@ -819,8 +819,8 @@ https://wowza.danet.vn/live/quocphong/playlist.m3u8
 https://live.fptplay53.net/fnxhd2/quocphongvnhd_vhls.smil/chunklist_b1800000.m3u8
 #EXTINF:-1 tvg-id="antvhd" tvg-logo="https://i.ibb.co/1nX3zfC/An-ninhtv-khichtv.jpg",AN NNH HD
 https://live.fptplay53.net/fnxhd2/anninhtv_vhls.smil/chunklist_b1800000.m3u8
-#EXTINF:-1 tvg-id="qk7hd" group-title="| Quân khu7" tvg-logo="https://i.ibb.co/4mgNwrV/truyenhinh-Qu-n-Khu7.jpg",Quân Khu7 HD
- 
+#EXTINF:-1 tvg-id="qpvntvhd" group-title="QPTV" tvg-logo="https://i.ibb.co/4mgNwrV/truyenhinh-Qu-n-Khu7.jpg", QUỐC PHONG HD
+ https://qpvn.vn/live/qpvn/index.m3u8
 #EXTINF:-1 tvg-id="qpvnhd" tvg-logo="https://static.vieon.vn/vieplay-image/avatar/2020/12/15/y9fdxa11_quoc_phong_vn.png",Quốc Phòng
  
 #EXTINF:-1 tvg-id="vovtvhd" group-title="Thiết Yếu" tvg-logo="https://i.ibb.co/pQCygJC/organizational-structure-of-the-voice-of-vietnam-2211155315.webp", VOVTV FHD-25
