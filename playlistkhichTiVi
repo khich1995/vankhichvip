@@ -736,7 +736,7 @@ https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
 https://amg01868-amg01868c3-tvbanywhere-us-4491.playouts.now.amagi.tv/playlist1080p.m3u8
 #EXTINF:-1 group-title="xem TVB" tvg-logo="https://i.ibb.co/mVgP1pqL/TVB-Vietnam-khichtivi-logo.jpg", TVB Việt Nam HD
 #EXTVLCOPT:http-user-agent=khichivi
-
+https://tinyurl.com/Khichtivi-live-TVB-vietnam
 #EXTINF: -1 tvg-id = "btv5hd" group-title = "💚Khich TiVi | SCTV" tvg-logo = "https://i.ibb.co/3sDGdJh/BTV5.png", BTV5 FHD
 #EXTVLCOPT: http-user-agent = KhichTivi
 
