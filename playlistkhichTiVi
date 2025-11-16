@@ -689,7 +689,7 @@ https://1.org.vn/Khichtv-sctv-mytv-sctv16-mpd|Referer=http://sctvonline.vn/
 #EXTINF: -1 tvg-id="sctv16hd" group-title="💚Khich TiVi | SCTV" tvg-logo="https://i.ibb.co/939qpxnk/SCTV16-logo-khichtivi.png", SCTV16 HD
 #EXTVLCOPT: http-user-agent = KhichTivi
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9)ExoPlayerLib/2.13.3
-http://aismile.dpdns.org/play/4ra_vkeiejxw1_NLepKRFQ3h8ok1tshDgt4SJ74dbRE/ts
+https://tinyurl.com/Khich-tivi-live-SCTV16?token.m3u8
 #EXTINF: -1 tvg-id = "sctv17hd" group-title = "💚 Khich TiVi | SCTV" tvg-logo = "https://i.ibb.co/44NbrD4/SCTV17-HD.webp", SCTV17 FHD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://1.org.vn/Khichtv-80-sctv17-fhd-index-mpd
@@ -736,7 +736,7 @@ https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
 https://amg01868-amg01868c3-tvbanywhere-us-4491.playouts.now.amagi.tv/playlist1080p.m3u8
 #EXTINF:-1 group-title="xem TVB" tvg-logo="https://i.ibb.co/mVgP1pqL/TVB-Vietnam-khichtivi-logo.jpg", TVB Việt Nam HD
 #EXTVLCOPT:http-user-agent=khichivi
-https://canvato.net/6av0a?=khichtivi=&tvbvn
+
 #EXTINF: -1 tvg-id = "btv5hd" group-title = "💚Khich TiVi | SCTV" tvg-logo = "https://i.ibb.co/3sDGdJh/BTV5.png", BTV5 FHD
 #EXTVLCOPT: http-user-agent = KhichTivi
 
@@ -851,14 +851,14 @@ https://live.fptplay53.net/fnxhd1/vtv5taynguyen_vhls.smil/chunklist_b5000000.m3u
 #EXTINF:0 tvg-id="vtv5tn"group-title="Khích TiVi|Địa phương" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2023/03/28/9ku4rk7z_vtvcab_update_296_168.webp",TÂY nguyên HD vieon
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; KhichTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://hls.mskycdn.online/tv/vtv5tnfhd/index.m3u8
+http://aismile.dpdns.org/play/14Akq6k5mrt7iwRXq7uVnoycDJVhnN-TL9cIJ5NZ8CQ/ts
 #EXTINF:0 tvg-id="vtv5hdtnb"group-title="Khích TiVi|Địa phương" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2023/03/28/tmx7zrvk_vtvcab_vtv-tnb_296_168.webp",TÂY NAM BỘ HD vieon
 #EXTVLCOPT:khichtv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; KhichTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://hls.mskycdn.online/tv/vtv5tnbfhd/index.m3u8
+http://aismile.dpdns.org/play/14Akq6k5mrt7iwRXq7uVnuuyAIAK8b1vFDRnN4HNCc4/ts
 #EXTINF:-1 tvg-id="vtv5hd" group-title="VTV" tvg-logo="https://images.baodantoc.vn/uploads/2021/3/7/root41/66.jpg",Đồng Bào Đó HD
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://hls.mskycdn.online/tv/vtv5fhd/index.m3u8
+http://aismile.dpdns.org/play/14Akq6k5mrt7iwRXq7uVnvf-lj8UzNjNGxJFr8swG4U/ts
 #EXTINF:-1 tvg-id="baria" group-title="🇻🇳Khích TiVi| Địa phương" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/01/14/vmq8dni1_ba-ria-vung-tau_296_168.webp",Bà Rịa Vũng Tàu
 #EXTVLCOPT: http-user-agent = KhichTivi
 https://cmcdp2.vtvdigital.vn/hls/VUNGTAUTV/index.m3u8
