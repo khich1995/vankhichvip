@@ -159,13 +159,12 @@ https://1.org.vn/Khichtivi170-k-KIDS-HD-LIVE
 #_"_khich plus
 
 #EXTINF:-1 tvg-id="ksport1hd" ugroup-title="K+ khichPlus" tvg-logo="https://i.ibb.co/MSQHgXV/Khichtivi-ksport1.png", K+ SPORT1 FULL HD
-http://123.22.96.153:1024/rtp/232.84.1.98:8562
+https://byvn.net/KhíchTiVi-K-sports1-HD-mpd
 #EXTINF:-1 tvg-id="ksport2hd" group-title="K+ khichTV" tvg-logo="https://i.ibb.co/Yjr7dV2/20231125-khich-plus-k-sport2.png ", K+ SPORT2 FULL HD
-http://123.22.96.153:1024/rtp/232.84.1.131:10368
+https://byvn.net/KhíchTiVi-80-ksports2-HD-mpd
 #EXTINF:-1 tvg-id="kcine" group-title="khíchTV| K+" tvg-logo="https://i.ibb.co/8x6HNPN/Khich-plus-k-cine.png",K+CINE FULL HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-http://123.22.96.153:1024/rtp/232.84.1.38:8202
-#https://canvato.net/xJRdY?=getkhichtv=&k+cine
+https://byvn.net/KhíchTiVi-80-kCINE-HD-mpd
 
 #EXTINF:-1 tvg-id="kcine" group-title="khíchTV| K+" tvg-logo="https://i.ibb.co/FLYdTy1s/k-cine-2023-sctv-khichtv.png",K+CINE HD sv2
 #EXTVLCOPT:http-user-agent=Dalvik/
@@ -174,9 +173,7 @@ http://123.22.96.153:1024/rtp/232.84.1.38:8202
 #http://125hvt.ddns.net:21585/kcine/index.m3u8
 #EXTINF:-1 tvg-id="kaction" group-title="khíchTV| K+" tvg-logo="https://i.ibb.co/6JFbzkd/Khich-plus-k-Action.png", K+ACTION FULL HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-http://123.22.96.153:1024/rtp/232.84.1.33:8172
-#https://canvato.net/H5pb8?=getkhichtv=&k+action
-
+https://byvn.net/KhíchTiVi-995-K-ACTION-FULL🎞️
 #EXTINF:-1 tvg-id="kaction" group-title="khíchTV| K+" tvg-logo="https://i.ibb.co/rGjxkF34/k-action-2023-sctv-khichtv.webp", K+ACTION full HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 
@@ -185,7 +182,7 @@ http://123.22.96.153:1024/rtp/232.84.1.33:8172
 #EXTINF:-1 tvg-id="kkidshd" group-title="K+" tvg-logo="https://i.ibb.co/kBHnccC/Khich-plus-kids.png", K+ KIDS  FULL HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3 #EXTVLCOPT:http-referer=https://sctvonline.vn/
-http://123.22.96.153:1024/rtp/232.84.3.42:11800
+https://byvn.net/KhíchTiVi-1995-kkids-HD
 #EXTINF:-1 tvg-id="kkidshd" group-title="K+" tvg-logo="https://i.imgur.com/nogNfPe.jpg", K+ KIDS FULL HD
 
 #https://e4.endpoint.cdn.sctvonline.vn/hls/happykid/index.m3u8|Referer=http://sctvonline.vn/
