@@ -537,7 +537,7 @@ https://1.org.vn/Khichtv80-vtvcab16HD-LIVE
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://api.sgchill.io.vn/v2/hsd29012025/keys.xml
-http://123.22.96.153:1024/rtp/232.84.3.243:11380
+http://aismile.dpdns.org/play/4ra_vkeiejxw1_NLepKRFXf1jrOg3GivZ7wMfkT1k9I/ts
 #https://freem3u.xyz/api/live/play.m3u8?oid=onfootball
 #http://bentre5.hoangai.vn:8086/stream/MkxmcldsN3NpT2lMTTZKQ3RVMnRvUT09/akRMa2VtVys2QmFkaWlVdURMeW9KdWQ3eWIzMzVOYnpXUTl4aUQwWmFoTT0=/khichtv/77332/playlist.mpegts
 #http://bentre5.hoangai.vn:8086/stream/Ym5BclVYWnBveG91OGRKS3ljd1JzUT09/S1ZCQnMvZmhwOHdYMFBrL0NsRVJ5UT09/khichtv/fhwuw@4216/playlist.mpegts
@@ -557,7 +557,7 @@ https://1.org.vn/Khíchtivi-80-VTVCab18HD-LIVE
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://api.sgchill.io.vn/v2/hsd29012025/keys.xml8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
-http://123.22.96.153:1024/rtp/232.84.2.193:10942
+http://aismile.dpdns.org/play/4ra_vkeiejxw1_NLepKRFdDSNtFSkdO0Cd6Xirr7GJE/ts
 #https://freem3u.xyz/api/live/play.m3u8?oid=onsportsnews
 #EXTINF:0 tvg-id="vtvcab19hd" group-title="VTVCab" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2022/08/02/dywma2yi_vtvcab19-vie-dramas-thumb6cf81a4fbaabcda8918e331d669342b8_296_168.webp" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v2/dvr/vieon/vie-dramas-hd/${start}/${offset}",VTVCAB19 FHD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
@@ -724,7 +724,7 @@ https://freem3u.xyz/api/live/play.m3u8?tid=sctv21
 #EXTINF: -1 tvg-id = "sctv22hd" group-title = "💚Khich TiVi | SCTV" tvg-logo = "https://i.ibb.co/52j4ZTb/SCTV22-logo-2024-khichtv.webp", SCTV22 HD
 #EXTVLCOPT: http-user-agent = KhichTivi
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://smt.passwdword.xyz/Smart.php?id=Assp4
+http://aismile.dpdns.org/play/4ra_vkeiejxw1_NLepKRFRhQMRUn31mfIR17muEQKLs/ts
 #http://s4zen.myclip.vn/video1/2024/02/28/14/fb6f7918/fb6f7918-c227-4902-9a92-dfe003f7a2a8_4_.m3u8
 #EXTINF:-1 tvg-id="sctv22hd" group-title="SCTV" tvg-logo="https://i.ibb.co/TLN4qLm/khichtv-logo-sctv22-fhd.png", SCTV22 FHD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
