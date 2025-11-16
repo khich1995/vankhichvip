@@ -405,9 +405,9 @@ https://toiyeuvietnam.dpdns.org/CoBan/htvc/TuyetDoiKhongKinhDoanh.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://live.fptplay53.net/epzhd1/htvcmovieshd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="spotv"tvg-logo="https://i.ibb.co/h11tm3Ds/SPOTV-logo-khichtv.png" group-title=" FPT play" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/htvcmovieshd_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8",SPOTV1
-https://smt.passwdword.xyz/Smart.php?id=go_spotv
+http://aismile.dpdns.org/play/14Akq6k5mrt7iwRXq7uVnjmINd2E65cj1tzMcPAhxr4/ts
 #EXTINF:-1 tvg-id="spotv2"tvg-logo="https://i.ibb.co/bg0hGSxg/SPOTV2-logo-khichtv.png" group-title="Mytv" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/htvcmovieshd_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8",SPOTV2
-https://smt.passwdword.xyz/Smart.php?id=go_spotv2
+http://aismile.dpdns.org/play/14Akq6k5mrt7iwRXq7uVntJwp6LQMOckGP3Rhz1T52w/ts
 #EXTINF:-1 tvg-id="htvcplushd" group-title="💛Khích📺| HTV" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2022/03/31/v2ga72jr_htvc_296_168.webp",HTVC+ HD
 #EXTVLCOPT: http-user-agent = KhichTivi
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
