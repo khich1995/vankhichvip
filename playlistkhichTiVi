@@ -535,11 +535,7 @@ https://1.org.vn/Khichtv80-vtvcab16HD-LIVE
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://api.sgchill.io.vn/v2/hsd29012025/keys.xml
-http://aismile.dpdns.org/play/4ra_vkeiejxw1_NLepKRFXf1jrOg3GivZ7wMfkT1k9I/ts
-#https://freem3u.xyz/api/live/play.m3u8?oid=onfootball
-#http://bentre5.hoangai.vn:8086/stream/MkxmcldsN3NpT2lMTTZKQ3RVMnRvUT09/akRMa2VtVys2QmFkaWlVdURMeW9KdWQ3eWIzMzVOYnpXUTl4aUQwWmFoTT0=/khichtv/77332/playlist.mpegts
-#http://bentre5.hoangai.vn:8086/stream/Ym5BclVYWnBveG91OGRKS3ljd1JzUT09/S1ZCQnMvZmhwOHdYMFBrL0NsRVJ5UT09/khichtv/fhwuw@4216/playlist.mpegts
-#http://p1.cvtv.xyz/bun?token=live
+http://aismile.dpdns.org/play/14Akq6k5mrt7iwRXq7uVnrsLOx6vHwCu6lB4fta8h-A/ts
 #EXTINF:0 tvg-id="vtvcab17hd0" group-title="VTVCab" tvg-logo="https://static2.vieon.vn/vieplay-image/avatar/2023/06/27/uhihzd8y_vtvcab17.webp" ,VTVCAB17
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 = 186
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
@@ -555,7 +551,7 @@ https://1.org.vn/Khíchtivi-80-VTVCab18HD-LIVE
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://api.sgchill.io.vn/v2/hsd29012025/keys.xml8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
-http://aismile.dpdns.org/play/4ra_vkeiejxw1_NLepKRFdDSNtFSkdO0Cd6Xirr7GJE/ts
+http://aismile.dpdns.org/play/14Akq6k5mrt7iwRXq7uVnh7TIkEtOPLH_id8bEPoc1o/ts
 #https://freem3u.xyz/api/live/play.m3u8?oid=onsportsnews
 #EXTINF:0 tvg-id="vtvcab19hd" group-title="VTVCab" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2022/08/02/dywma2yi_vtvcab19-vie-dramas-thumb6cf81a4fbaabcda8918e331d669342b8_296_168.webp" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v2/dvr/vieon/vie-dramas-hd/${start}/${offset}",VTVCAB19 FHD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
