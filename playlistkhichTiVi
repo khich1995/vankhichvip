@@ -127,7 +127,7 @@ https://d.org.vn/Khích-TiVi-live-Bóng-đá⚽4️⃣?token.m3u8
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 
 
-#,',khichtivi K+,"",**********###
+#,',khichtivi Mytv K+,"",**********###
 
 
 #EXTINF:-1 tvg-id="kcine" group-title="khíchTV| K+" tvg-logo="https://i.ibb.co/Jfz5MNc/kcinehd-logo-khichtivi.jpg", K+CINE
@@ -156,7 +156,8 @@ https://1.org.vn/Khichtivi170-k-KIDS-HD-LIVE
 #http://113.177.113.147:4022/rtp/232.84.3.43:11794
 #http://bentre5.hoangai.vn:8086/stream/b1RVOGdOM05helVRcHVlb0FwWnlWUT09/RzlXS1Zsd0dzQ3BFRGJPbEFUS0VNY3gvTklMM1daak9WY2R5NXJlbG15WWNwSlJhYlE5QTlQVVB1L3FyNDg5OU8veUxRYVBmTE0rOU9Sc3liM3lVS0E9PQ==/khichtv/77332/playlist.mpegts
 #https://z215ymcm4tliv.vcdn.cloud/s4/hls/KPlusKid/index.m3u8
-#_"_khich plus
+
+#_"_khich plus MYK+*""_**#############
 
 #EXTINF:-1 tvg-id="ksport1hd" ugroup-title="K+ khichPlus" tvg-logo="https://i.ibb.co/MSQHgXV/Khichtivi-ksport1.png", K+ SPORT1 FULL HD
 http://aismile.dpdns.org/play/14Akq6k5mrt7iwRXq7uVnhSYtXhXjvHnn3CGFrQqDeM/ts
@@ -165,9 +166,6 @@ http://aismile.dpdns.org/play/14Akq6k5mrt7iwRXq7uVnpCht9ktiJPpQGcgdyoXzFE/ts
 #EXTINF:-1 tvg-id="kcine" group-title="khíchTV| K+" tvg-logo="https://i.ibb.co/8x6HNPN/Khich-plus-k-cine.png",K+CINE FULL HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://aismile.dpdns.org/play/14Akq6k5mrt7iwRXq7uVngE6DsNLXSz00gWS9T0YofY/ts
-#EXTINF:-1 tvg-id="kcine" group-title="khíchTV| K+" tvg-logo="https://i.ibb.co/FLYdTy1s/k-cine-2023-sctv-khichtv.png",K+CINE HD sv2
-#EXTVLCOPT:http-user-agent=Dalvik/
-http://aismile.dpdns.org/play/14Akq6k5mrt7iwRXq7uVnjTyYryvlMGoM0g_dnRBO5k/ts
 #https://stream.ads.ottera.tv/playlist.m3u8?network_id=53&checkedby:iptvcat.com
 #http://125hvt.ddns.net:21585/kcine/index.m3u8
 #EXTINF:-1 tvg-id="kaction" group-title="khíchTV| K+" tvg-logo="https://i.ibb.co/6JFbzkd/Khich-plus-k-Action.png", K+ACTION FULL HD
@@ -175,15 +173,22 @@ http://aismile.dpdns.org/play/14Akq6k5mrt7iwRXq7uVnjTyYryvlMGoM0g_dnRBO5k/ts
 http://aismile.dpdns.org/play/14Akq6k5mrt7iwRXq7uVnnYxyF2ekxrDmAcXivN5FaM/ts
 #EXTINF:-1 tvg-id="kkidshd" group-title="K+" tvg-logo="https://i.imgur.com/nogNfPe.jpg", K+ KIDS FULL HD
 http://aismile.dpdns.org/play/14Akq6k5mrt7iwRXq7uVnpSZyvQuRpuP_zIIt-ST4t4/ts
-#EXTINF:-1 tvg-id="kaction" group-title="khíchTV| K+" tvg-logo="https://i.ibb.co/rGjxkF34/k-action-2023-sctv-khichtv.webp", K+ACTION full HD
+
+#""_""khích TiVi K+TV360**""_""######
+
+#EXTINF:-1 tvg-id="kcine" group-title="khíchTV| K+" tvg-logo="https://i.ibb.co/FLYdTy1s/k-cine-2023-sctv-khichtv.png",K+CINE HD
+#EXTVLCOPT:http-user-agent=Dalvik/
+http://aismile.dpdns.org/play/14Akq6k5mrt7iwRXq7uVnjTyYryvlMGoM0g_dnRBO5k/ts
+#EXTINF:-1 tvg-id="kaction" group-title="khíchTV| K+" tvg-logo="https://i.ibb.co/rGjxkF34/k-action-2023-sctv-khichtv.webp", K+ACTION HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0http://aismile.dpdns.org/play/14Akq6k5mrt7iwRXq7uVnscSqc4xAFS0jvkkDDr1Za4/ts
-#EXTINF:-1 tvg-id="ksport1hd" group-title="khichTV bóng đá" tvg-logo="https://i.ibb.co/RXjT9D7/khich-tivi-ksports1.webp",⚽ k+SPORTS 1 Trực tiếp  1 FHD 
+http://aismile.dpdns.org/play/14Akq6k5mrt7iwRXq7uVnscSqc4xAFS0jvkkDDr1Za4/ts
+#EXTINF:-1 tvg-id="ksport1hd" group-title="khichTV bóng đá" tvg-logo="https://i.ibb.co/RXjT9D7/khich-tivi-ksports1.webp",⚽ k+SPORTS 1 HD 
 #EXTVLCOPT:http-user-agent=ReactNativeVi8deo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 http://aismile.dpdns.org/play/14Akq6k5mrt7iwRXq7uVnkKQUFpb8in0JmoP-OjpUfk/ts
-#EXTINF:-1 tvg-id="ksport2hd" group-title="khichTV bóng đá" tvg-logo="https://i.ibb.co/tPFt0Yz0/Kh-ch-Ti-Vi-logo-ksports2.webp",⚽K+SPORTS 2 Trực tiếp Bóng đá 2 FHD 
+#EXTINF:-1 tvg-id="ksport2hd" group-title="khichTV bóng đá" tvg-logo="https://i.ibb.co/tPFt0Yz0/Kh-ch-Ti-Vi-logo-ksports2.webp",⚽K+SPORTS 2 HD 
 #EXTVLCOPT:http-user-agent=ReactNativeVi8deo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 http://aismile.dpdns.org/play/14Akq6k5mrt7iwRXq7uVnlKaeSlGfqHpAV-RZT67TRo/ts
-#EXTINF:-1 tvg-id="kkidshd" group-title="K+" tvg-logo="https://i.ibb.co/kBHnccC/Khich-plus-kids.png", K+ KIDS  FULL HD
+#EXTINF:-1 tvg-id="kkidshd" group-title="K+" tvg-logo="https://i.ibb.co/kBHnccC/Khich-plus-kids.png", K+ KIDS HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3 #EXTVLCOPT:http-referer=https://sctvonline.vn/
 https://263.org.vn/Khích-tivi-live-80-k➕kids🦸
