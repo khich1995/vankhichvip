@@ -219,7 +219,7 @@ https://live-azd1107.telewebion.com/ek/sport2/live/1080p/index.m3u8
 #http://bxtv.3a.ink/api.php?id=axn
 #EXTINF:0 tvg-id="ksport2hd" group-title="THỬ NHIỆM - Khích📺" tvg-logo="https://i.ibb.co/CKSQjymf/khich-Ti-Vi-KSP2.jpg" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtc4_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", Khích Tivi K+SP2 FHD
 #EXTVLCOPT:http-user-agent="KHICHTV"
- 
+ https://proshls.wns.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="kcinehd" group-title="THỬ NHIỆM - Khích📺" tvg-logo="https://i.ibb.co/nsqLqgK4/khich-Ti-Vi-KSP3.jpg" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtc5_1000.stream/chunks_dvrqq_range-${start}-${offset}.m3u8",Khích Tivi K+SP3 FHD
 #EXTVLCOPT:http-user-agent="KHICHTV"
 
@@ -1577,15 +1577,15 @@ https://dogus-live.daioncdn.net/tlc/tlc.m3u8
 #-------------------HBO Asia-------------------#
 
 #EXTINF: -1 tvg-id = "MyCinema.id" tvg-logo = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRejSV2VJRF00d7arKtz5K4_vV7c1vNAWMj0Q&usqp=CAU" group-title = "Phim" , MCN (1080P
-https://hls.goodgame.ru/manifest/204708_master.m3u8
+https://ca-rt.onetv.app/T2Movies/index-0.m3u8
 #EXTINF: -1 tvg-id = "MyCinemaAsia.id" tvg-logo = "https://subsystem.indihome.co.id/cms-ih/assets/uploads/channel_list/UPLOAD-1633000350-.png" group-title = "Phim", My Cinema Asia (1080p) [MFC ]
 https://moviesphereuk-samsunguk.amagi.tv/1080p-vtt/index.m3u8
 #EXTINF: -1 tvg-id = "MyCinemaAsia.id" tvg-logo ="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSy2T5UdC6iPsSpODH8Ivv-9DVqSwYaKxsxUg&usqp=CAU" group-title = "Phim", My Cinema fc Asia (1080p) [MCA ]
-https://hls.goodgame.ru/manifest/204717_master.m3u8
+https://ca-rt.onetv.app/EkranMovies/index-0.m3u8
 #EXTINF: -1 tvg-id = "MyCinemaAsia.id" tvg-logo ="https://i.ibb.co/RP55VLm/20231123-khichtivi-mykidz.png" group-title = "Phim",my kidz
-https://vits.tv/stream/4/black/tracks-v1a1/mono.m3u8?token=88KPs4Zpy7OgbuCXj3oUHLlZLmhCkyZjH6mF3b4QhqhigJDB2AeMq6VOKLLs3pTxmTKTK0J7y-LdCAJtuXLADFbIxtHzS8mwNlXXEM3F6S0mwQRNDslFjTdlmmXz_1kxmkhAgyb8ZWHxe-dXfy9sFPb0juKMcQM-7lS-VEH3YBLkuQ_eC3AT-F41c-2qkqd9VZARjM0W8Ue25BzxNgHeSpz-MIuMY03HHiYnp8I2VvvIMkaHt_d-QYylEXlDccpV
+https://fl.biztv.media/cinema_720_EMfSyXgoRdiIHgldXTZICucKTIeCKO/playlist.m3u8
 #EXTINF:-1 tvg-id="hbohd" group-title="🎞|Khích TiVi HBO" tvg-logo="https://i.ibb.co/p2Z7Cbg/hbo.png",HBO
-
+https://appletree-mytime-samsungbrazil.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="boxmovie1" group-title="📦||KhichTiviMovies" tvg-logo="https://i.ibb.co/7b7bwr2/20231124-khichtivi-cinemax.png" , cinemax fhd
 #EXTVLCOPT:http-user-agent=khichtivi
 https://k44991.kylintv.tv/live/chinamovie_iphone.m3u8
@@ -1649,7 +1649,7 @@ https://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="axnhd" group-title="🎬|Khích TiVi Phim" tvg-logo="https://i.ibb.co/LYws8nK/Khichtv-sony-cine.jpg",SONY CINE HD 🇺🇸
 https://a-cdn.klowdtv.com/live1/cine_720p/playlist.m3u8
 #EXTINF:-1 tvg-id="binhduong2" group-title="QT" tvg-logo="https://i.ibb.co/3sndB8V/SONY-MOVIES-khich-TV.png", SONY MOVIES HD
-https://toonixhls.wns.live/hls/stream.m3u8
+https://toonixhls.wns.live/hls.m3u8
 #EXTINF:-1 tvg-id="vtv5hdtnb" group-title="❤| FOX" tvg-logo="https://i.ibb.co/WfK49Fv/Khich-TV-Fox-02-12-23.png", FOX HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
