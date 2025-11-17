@@ -1576,29 +1576,29 @@ https://dogus-live.daioncdn.net/tlc/tlc.m3u8
 
 #-------------------HBO Asia-------------------#
 
-#EXTINF: -1 tvg-id = "MyCinema.id" tvg-logo = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRejSV2VJRF00d7arKtz5K4_vV7c1vNAWMj0Q&usqp=CAU" group-title = "Phim" , MCN (1080p)
-http://198.16.100.186:8278/axn_twn/playlist.m3u8?tid=MC6C9875939098759390&ct=19254&tsum=5a6772e6e852b06c1b5741eeb4002a1a
+#EXTINF: -1 tvg-id = "MyCinema.id" tvg-logo = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRejSV2VJRF00d7arKtz5K4_vV7c1vNAWMj0Q&usqp=CAU" group-title = "Phim" , MCN (1080P
+
 #EXTINF: -1 tvg-id = "MyCinemaAsia.id" tvg-logo = "https://subsystem.indihome.co.id/cms-ih/assets/uploads/channel_list/UPLOAD-1633000350-.png" group-title = "Phim", My Cinema Asia (1080p) [MFC ]
 https://moviesphereuk-samsunguk.amagi.tv/1080p-vtt/index.m3u8
 #EXTINF: -1 tvg-id = "MyCinemaAsia.id" tvg-logo ="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSy2T5UdC6iPsSpODH8Ivv-9DVqSwYaKxsxUg&usqp=CAU" group-title = "Phim", My Cinema fc Asia (1080p) [MCA ]
-http://cdn.163.dedyn.io/live/tvbp/stream.m3u8
+
 #EXTINF: -1 tvg-id = "MyCinemaAsia.id" tvg-logo ="https://i.ibb.co/RP55VLm/20231123-khichtivi-mykidz.png" group-title = "Phim",my kidz
-https://smart.pendy.dpdns.org/Smart.php?id=videolandmovie
+
 #EXTINF:-1 tvg-id="hbohd" group-title="🎞|Khích TiVi HBO" tvg-logo="https://i.ibb.co/p2Z7Cbg/hbo.png",HBO
-http://s1.an94tv.cfd/aktv/channel8hd/AKTV.m3u8
+
 #EXTINF:-1 tvg-id="boxmovie1" group-title="📦||KhichTiviMovies" tvg-logo="https://i.ibb.co/7b7bwr2/20231124-khichtivi-cinemax.png" , cinemax fhd
 #EXTVLCOPT:http-user-agent=khichtivi
 https://k44991.kylintv.tv/live/chinamovie_iphone.m3u8
 #EXTINF:-1 tvg-id="inthebox" group-title="📦|KhichTiviMovies" tvg-logo="https://i.ibb.co/TtVn7rJ/20231124-khichtivi-star-movie.jpg",star move khichtv
-https://smt.passwdword.xyz/Smart.php?id=starmovies_raj
-#https://lagenceducourtmetrage-brefcinema-01-eu.rakuten.wurl.tv/playlist.m3u8
+#https://smt.passwdword.xyz/Smart.php?id=starmovies_raj
+https://lagenceducourtmetrage-brefcinema-01-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="boxhits" group-title="📦|KhichTiviMovies" tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/star-world-hd-logo-300x300.jpg",star world hd
 
 
 #"'"''& HBO MY 123@#@₫@@****#@,@
 
 #EXTINF:-1 tvg-id="hbo" group-title="📦|KhichTiviMovies" tvg-logo="https://e7.pngegg.com/pngimages/194/991/png-clipart-logo-hbo-now-design-television-angle.png",HBO
-https://hls.247box.live/hls/stream.m3u8
+
 #EXTINF:-1 tvg-id="hbo2" group-title="📦|KhichTiviMovies" tvg-logo="https://logodix.com/logo/1265666.png",HBO2
 https://ca-rt.onetv.app/gemfilm/index-0.m3u8
 #EXTINF:-1 tvg-id="hbo3" group-title="📦|KhichTiviMovies" tvg-logo="https://www.mncvision.id/userfiles/image/channel/hbo_family.png",HBO
@@ -1802,7 +1802,7 @@ http://113.22.174.74:4001/udp/225.1.4.39:30120
 https://stmv6.voxtvhd.com.br/xtremacartoons/xtremacartoons/playlist.m3u8
 #EXTINF:-1 tvg-id="babyfirst" group-title="👶KhichTivi| Thiếu nhi" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStTCdYbMHJ6mBPe7h0R6LBRCmIvw7Ht2clVW6viNnC88Zc1IpZVIzNeRU&s", BabyFirst
 #EXTVLCOPT:http-user-agent=VkhichTivi
-http://42.116.143.51:13579/udp/225.1.1.134:30120
+http://113.22.174.74:4001/udp/225.1.1.134:30120
 #EXTINF:-1 tvg-id="babyfirst" group-title="👶KhichTivi| Thiếu nhi" tvg-logo="https://i.ibb.co/rMbtPD9/supertoonstv.png", supertoonstv
 https://kedoo-supertoonstv-3-fr.samsung.wurl.tv/playlist.m3u8
 #-'-Quốc Tế  wowow--''--×"
@@ -1813,7 +1813,7 @@ https://alphatvlive.siliconweb.com/1/Y2Rsd1lUcUVoajcv/UVdCN25h/hls/live/playlist
 #EXTINF:-1 tvg-id="wowowprime" group-title="KhichTivi|QT" tvg-logo="https://i.ibb.co/0Gs7gbp/Khich-TV-wowow-pirme.png", wowow prime
 
 #EXTINF:-1 tvg-id="babyfirst" group-title="KhichTivi|QT" tvg-logo="https://i.ibb.co/1Z3GK2f/Khich-TV-wowow-life.png", wowow LIFE
-http://118.68.201.207:8183/udp/225.1.2.52:30120
+http://113.22.174.74:4001/udp/225.1.2.52:30120
 #'x-"Kham phá-'"-'#
 
 #EXTINF:-1 tvg-id="babyfirst" group-title="KhichTivi|phim netmaxtv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjh-KAx1WGbDRmTxfN0ZK_UI7cP01sj1Fe7g&usqp=CAU",netTmaxtv
@@ -1850,7 +1850,7 @@ https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_ch
 https://www.bloomberg.com/media-manifest/streams/phoenix-us.m3u8
 #EXTINF:-1 tvg-id="cnbc" group-title="🌏KhichTivi| Quốc tế" tvg-logo="https://images.indihometv.com/logo_cnnindonesia_ver1.png",movies cnnindonesia
 #EXTVLCOPT:http-user-agent=khichTivi
-https://cdn09jtedge.indihometv.com/joss/133/cnnindonesia/index.m3u8?khichtv
+
 #EXTINF:-1 tvg-id="cnn" group-title="🌏KhichTivi| Quốc tế" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTURibuEfOW4K2U2h4k7oTXkDdTci2-6uVwbaySi5zocljSW1GVWtpLObA&s", CNN
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_3_1464000.m3u8
 #https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_4_1064000.m3u8
@@ -1870,12 +1870,12 @@ https://helga.iptv2022.com/France24_fr/index.m3u8
 https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/master.m3u8?=khichtivi
 #EXTINF:-1 tvg-id="animalhd" group-title="🌿KhichTivi| Khám phá" tvg-logo="https://dpho.tmsimg.com/assets/p14248193_b_h9_af.jpg" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/animalplanet_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", Animal Planet🐘🇻🇳 FHD
 #https://tv.ddns.vn/tv/animalhd/index.m3u8
-http://42.116.143.51:13579/udp/225.1.4.209:30120
+http://113.22.174.74:4001/udp/225.1.4.209:30120
 #http://41.205.93.154/ANIMALPLANET/index.m3u8
 #EXTINF:-1 tvg-id="animalhd" group-title="🌿KhichTivi| Khám phá" tvg-logo="https://dpho.tmsimg.com/assets/p14248193_b_h9_af.jpg" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/animalplanet_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", Animal Planet🐘 FHD
 #EXTVLCOPT:http-user-agent=KhichTivi
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/ rtp mytv
-http://42.116.143.51:13579/udp/225.1.1.231:30120
+http://113.22.174.74:4001/udp/225.1.1.231:30120
 #EXTINF:-1 tvg-id="animalhd" group-title="🌿KhichTivi| Khám phá" tvg-logo="https://i.ibb.co/h1s6ZR1/Khich-Ti-Vi-Animal-Planet.jpg" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/animalplanet_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", Animal Planet HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
@@ -1898,25 +1898,25 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/56
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #https://tv.ddns.vn/tv/discoveryhd/index.m3u8
-http://42.115.231.239:8989/udp/225.1.4.24:30120
+http://113.22.174.74:4001/udp/225.1.4.24:30120
 #https://stream1.freetv.fun/5d6c81c3e9b6a8f7903ffec17167c6e110d691241fd47860a1b0abcf52da7b5e.m3u8
 #https://discoverfilm-discoverfilm-1-nl.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="discoveryasiahd" group-title="🌿KhichTivi| Khám phá" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrtOJ-ynV-fR2_rG95EQbDiZh20-UOIngS7pmunrxX2w&s" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/discoveryasia_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", Discovery Asia
 #EXTVLCOPT:http-user-agent=KhichTivi
 #EXTVLCOPT:http-user-https://mir-s3-cdn-cf.behance.net/projects/404/5539c052982045.Y3JvcCwyNDU4LDE5MjQsNzA0LDg0.pngagent=Dalvik/2.1.0
-https://tv.ddns.vn/tv/discoveryasiahd/index.m3u8
+http://113.22.174.74:4001/udp/225.1.4.25:30120
 #https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
 #EXTINF:-1 tvg-id="historyhd" group-title="🌿KhichTivi| Khám phá" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsMfMUnua2wgMg4mbN0eZ9rtkVk8LKRSOoiSftMl-lLA&s", History HD
 #EXTVLCOPT:http-user-agent=KhichTivi
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #EXTVLCOPT:http-user-ag ítent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 
-#http://118.68.201.207:8183/udp/225.1.4.24:30120
+http://113.22.174.74:4001/udp/225.1.4.24:30120
 #EXTINF:-1 tvg-id="ngwhd" group-title="🌿KhichTivi| Khám phá" tvg-logo="https://i.ibb.co/ts0F72r/207.jpg", Nat Geo Wild HD
 #EXTVLCOPT:http-user-agent=KhichTivi
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537
-
+http://113.22.174.74:4001/udp/225.1.4.24:30120
 #EXTINF:-1 tvg-id="ngwhd" group-title="🌿KhichTivi| Khám phá" tvg-logo="https://i.ibb.co/QQtK5w4/hq720.jpg", Natgeo HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://fl3.moveonjoy.com/Nat_Geo_Wild/index.m3u8
