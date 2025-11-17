@@ -1577,13 +1577,13 @@ https://dogus-live.daioncdn.net/tlc/tlc.m3u8
 #-------------------HBO Asia-------------------#
 
 #EXTINF: -1 tvg-id = "MyCinema.id" tvg-logo = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRejSV2VJRF00d7arKtz5K4_vV7c1vNAWMj0Q&usqp=CAU" group-title = "Phim" , MCN (1080P
-
+https://hls.goodgame.ru/manifest/204708_master.m3u8
 #EXTINF: -1 tvg-id = "MyCinemaAsia.id" tvg-logo = "https://subsystem.indihome.co.id/cms-ih/assets/uploads/channel_list/UPLOAD-1633000350-.png" group-title = "Phim", My Cinema Asia (1080p) [MFC ]
 https://moviesphereuk-samsunguk.amagi.tv/1080p-vtt/index.m3u8
 #EXTINF: -1 tvg-id = "MyCinemaAsia.id" tvg-logo ="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSy2T5UdC6iPsSpODH8Ivv-9DVqSwYaKxsxUg&usqp=CAU" group-title = "Phim", My Cinema fc Asia (1080p) [MCA ]
-
+https://hls.goodgame.ru/manifest/204717_master.m3u8
 #EXTINF: -1 tvg-id = "MyCinemaAsia.id" tvg-logo ="https://i.ibb.co/RP55VLm/20231123-khichtivi-mykidz.png" group-title = "Phim",my kidz
-
+https://vits.tv/stream/4/black/tracks-v1a1/mono.m3u8?token=88KPs4Zpy7OgbuCXj3oUHLlZLmhCkyZjH6mF3b4QhqhigJDB2AeMq6VOKLLs3pTxmTKTK0J7y-LdCAJtuXLADFbIxtHzS8mwNlXXEM3F6S0mwQRNDslFjTdlmmXz_1kxmkhAgyb8ZWHxe-dXfy9sFPb0juKMcQM-7lS-VEH3YBLkuQ_eC3AT-F41c-2qkqd9VZARjM0W8Ue25BzxNgHeSpz-MIuMY03HHiYnp8I2VvvIMkaHt_d-QYylEXlDccpV
 #EXTINF:-1 tvg-id="hbohd" group-title="🎞|Khích TiVi HBO" tvg-logo="https://i.ibb.co/p2Z7Cbg/hbo.png",HBO
 
 #EXTINF:-1 tvg-id="boxmovie1" group-title="📦||KhichTiviMovies" tvg-logo="https://i.ibb.co/7b7bwr2/20231124-khichtivi-cinemax.png" , cinemax fhd
@@ -1718,7 +1718,7 @@ https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-actionholly
 #EXTINF:-1 group-title="KhichTivi quốc tế" tvg-logo="https://i-imgur-com.cdn.ampproject.org/i/s/i.imgur.com/osWEMqX.png",Hits vip
 http://37.27.111.214:8080/live/28/hls.m3u8
 #EXTINF:-1 group-title="KhichTivi Quốc tế" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRf5GM3XUH4ca-wlZXS1apAl6Y0NvIxnxueXw&usqp=CAU",Hits Mives vip
-http://202.150.172.3:5000/udp/239.1.1.190:9116
+http://113.22.174.74:4001/udp/239.1.1.190:9116
 #EXTINF:-1 group-title="KhichTivi Phím Hãy" tvg-logo="https://i.postimg.cc/JnZ4BFtx/MOVIES-TV.png",🎬 CINE BOX vip
 http://66.160.192.241/cineboxcinehd/index.m3u8
 #EXTINF:-1 tvg-id="KhichTivi planetearthhd" group-title="📦| In The Box" tvg-logo="https://cdn.hqth.me/logo/thumbs/194.png", Planet Earth SCTV
@@ -1919,7 +1919,7 @@ http://113.22.174.74:4001/udp/225.1.4.24:30120
 http://113.22.174.74:4001/udp/225.1.4.24:30120
 #EXTINF:-1 tvg-id="ngwhd" group-title="🌿KhichTivi| Khám phá" tvg-logo="https://i.ibb.co/QQtK5w4/hq720.jpg", Natgeo HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://fl3.moveonjoy.com/Nat_Geo_Wild/index.m3u8
+https://hls.goodgame.ru/manifest/204708_master.m3u8
 #EXTINF:-1 tvg-id="ngchd" group-title="🌿KhichTivi| Khám phá" tvg-logo="https://i.upanh.org/2024/01/11/1200px-DMAX_-_Logo_2016.svg5e31b8ce089544f6.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/natgeohd_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", DMAX HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
