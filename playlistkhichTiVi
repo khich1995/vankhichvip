@@ -1885,7 +1885,7 @@ http://41.205.93.154/ANIMALPLANET/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 http://45.159.74.14/DiscoveryChannel/index.m3u8
 #EXTINF:-1 tvg-id="animalhd" group-title="🌿KhichTivi| Khám phá" tvg-logo="https://res.cloudinary.com/dnaoyj/image/upload/c_pad,dpr_auto,f_auto,h_500,q_auto,w_500/v1/Assets/Hybris/VC400038_1_image01.png",History2 HD
-http://146.59.54.163/history2/index.m3u8
+https://tv.tvcdnpotok.com/HPz43DAosS2tM-qybFNKRQ/224/1763417226/index.m3u8
 #EXTINF:-1 tvg-id="afnhd" group-title="KhichTivi🍽|Khám phá" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCH8SWhUeb_Hm6yw9VeLJ1SiTaPZDUA7vUTg&s",VIJU History  HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://tv.tvcdnpotok.com/ABeFg-_VOkTBOCUnbG13bw/600/1763414597/index.m3u8
@@ -1923,7 +1923,7 @@ https://tv.tvcdnpotok.com/iRTs1VfyNJMLIfUD63_Q6Q/564/1763414100/index.m3u8
 #EXTINF:-1 tvg-id="ngchd" group-title="🌿KhichTivi| Khám phá" tvg-logo="https://i.upanh.org/2024/01/11/1200px-DMAX_-_Logo_2016.svg5e31b8ce089544f6.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/natgeohd_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", DMAX HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://dogus-live.daioncdn.net/dmax/dmax_720p.m3u8
+https://tv.tvcdnpotok.com/em1H13mlnlHO5PTqAiWkhQ/2011/1763416785/index.m3u8
 #EXTINF:-1 tvg-id="outdoorfhd" group-title="🌿KhichTivi| Khám phá" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ29j8qPUAHn99RsVIdFjJV1ofPeemQKBY2TA&usqp=CAU", Outdoor Channel HD
 #EXTVLCOPT:http-user-agent=KhichTivi=216
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
