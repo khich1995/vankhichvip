@@ -185,15 +185,16 @@ http://aismile.dpdns.org/play/14Akq6k5mrt7iwRXq7uVnlKaeSlGfqHpAV-RZT67TRo/ts
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3 #EXTVLCOPT:http-referer=https://sctvonline.vn/
 http://aismile.dpdns.org/play/14Akq6k5mrt7iwRXq7uVnpSZyvQuRpuP_zIIt-ST4t4/ts
-#EXTINF:-1 tvg-id="kkidshd" group-title="K+" tvg-logo="https://i.imgur.com/nogNfPe.jpg", K+ KIDS FULL HDhttp://aismile.dpdns.org/play/14Akq6k5mrt7iwRXq7uVnoVpofPrvY2ZdvrZoyQaqKg/ts
-#https://e4.endpoint.cdn.sctvonline.vn/hls/happykid/index.m3u8|Referer=http://sctvonline.vn/
+#EXTINF:-1 tvg-id="kkidshd" group-title="K+" tvg-logo="https://i.imgur.com/nogNfPe.jpg", K+ KIDS FULL HD
+http://aismile.dpdns.org/play/14Akq6k5mrt7iwRXq7uVnoVpofPrvY2ZdvrZoyQaqKg/ts
+https://263.org.vn/Khích-tivi-live-80-k➕kids🦸
 #EXTINF:-1 tvg-id="vtvcab4hd" group-title="khichtv " tvg-logo="https://diendantienganh.com/uploads/films-ielts-speaking.jpg",PHIM MOVIE
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Andr
-
+https://s.viks.tv/2WhJdHom8SuBucx85h-Pzg/132/1763425995/index.m3u8
 #EXTINF:-1 tvg-id="sctvp" group-title="🇻🇳LIST khích TiVi" tvg-logo="https://i.ibb.co/Fq3P9KrY/pop-khichtv-logo.jpg",list iptv khích TiVi POP
 #https://bit.ly/32list-iptv-khichtivi?.m3u8
-https://amg01753-narrativeentert-tinypop-samsunguk-hvvb7.amagi.tv/playlist/amg01753-narrativeentert-tinypop-samsunguk/cb573d1a6573628b84cb3b60cef2438272371fde1d6988693eb5518975d10725dce2b48be65b9e3608dd4087351a6c525677ad1bdc7e04d7ac3ff10d606374149be9ac79d8991a08b0c60f2a29aa6a6f11be5240b7700159d0fd555dd66afb2a5353a02246621fa1f149f12f0990907dde2c72d4b4cd076c3f1906c00342e1be5eb38cb91f1a8539beb01f4f8b2f5be08347c8ca1aba90a904cc1ada23e177ccc4a1c98a0f8785967daa51a0705808722fcb862dc08409ee8bcb2468cd77780b1c57b6f2deab4b64df45410fa9aa9deb63a56ba4ee24857379bf0e8c3de95ae1709e2895c66b94828beb5f1b79ceaa5a6534eee4b09ac4313cb067f2ac9bb3191082d7244878ed42f50302168da7b77ee8c21185f82295a4561339cd9437f7f7d898ce80bd75b204e7e2e9c2432823620011c849a1a57ecf3bd476afbc7e4b3756708ea566f0b4f070177f15f6ea37d51708f7d88493cf0f49a90a7a0bb213b33c0468df7a6875e15f91f05a77b91523a1280fe53244e8e42d87569791f5a7610dbcdbd34cfe629dda60b0d731d9a6b8c460c9960d4c4c4d07a68685a60f0bb36deb93e9e97e492de5f9c5bee35a2c1e7b623ace57e29512a8a9ba42351981702e69343d1e980c9c098d47218849b8e6ffd9e55e4f4301545f98297224a6ace8fbf1a6c5c345fa57dcf0de312604746ab33b3f940fb94fec74f2224272765ccf5a2a13fd4f764be480d1bed9a160ca8e6ba33c2245309eb021135b002623288e9964d311d1a34c98d5980d9cb7dc400bd56cf04850bfc0cc60fdda84c5640684e5024a30d98071853b06ef23f907c4927cd1bb50463b394343cdc714c95aabcc93c825d578e31f435de26ab491e6fc873501a9c10464625c04592903360103bad3d9614048edba26f454a9be06fe0c07654d2ab4e5215082fa781598471c31f6da8ee1cbfc0a1ec578fb07af560aa8581b219ba90eb8d1e3abb8eb425b02d0baae0c8ba9878fc9dca87228130dd0fa01e69bd5beb8c4ee9ac73b0535a6c97b0212c7af7c/46/640x360_1387360/index.m3u8
+https://s.viks.tv/WXArRysSY5HXkDNk7jFTmA/138/1763425737/index.m3u8
 #EXTINF:-1 tvg-id="sctvp" group-title="🇻🇳group khích TiVi" tvg-logo="https://i.ibb.co/bvw7j8Z/Truong-nhom-iptv-Khich.png",Tham gia group khích tivi
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
