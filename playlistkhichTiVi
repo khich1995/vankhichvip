@@ -1970,7 +1970,8 @@ http://ott-cdn.ucom.am/s18/04.m3u8
 #EXTINF:-1 tvg-id="kix" group-title="🎬KhichTivi| Giải trí" tvg-logo="https://cdn.hqth.me/logo/thumbs/235.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/kixhd_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", KIX HD
 #EXTVLCOPT:http-user-agent=KhichTivi
 https://minerva-bizzarromovies-1-it.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="tlchd" group-title="🎬KhichTivi| Giải trí" tvg-logo="https://dpho.tmsimg.com/assets/p12577921_b_h9_am.jpg" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/travelliving_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", TLC🇻🇳https://strm.hdtvizlecanli.com/live/tlc.m3u8?khichtv
+#EXTINF:-1 tvg-id="tlchd" group-title="🎬KhichTivi| Giải trí" tvg-logo="https://dpho.tmsimg.com/assets/p12577921_b_h9_am.jpg" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/travelliving_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", TLC🇻🇳
+https://strm.hdtvizlecanli.com/live/tlc.m3u8?=&khichtv
 #EXTVLCOPT:http-user-agent=vkhichTivi
 
 #-"'-'Lao,thái,khmer''#
