@@ -1478,20 +1478,20 @@ https://436f59579436473e8168284cac5d725f.mediatailor.us-east-1.amazonaws.com/v1/
 #-'z-phim ma kinh dj-#
 
 #EXTINF:-1 tvg-id="phutho" group-title="Khích TiVi Quốc Tế" tvg-logo="https://i.ibb.co/0j6VZBz/2023-11-23-khichtv-thrill.png",THRILL HD
-https://smt.passwdword.xyz/Smart.php?id=Thrilla
+https://tzh911.qzz.io/play-smt.php?id=Thrilla
 #EXTINF:-1 group-title="Kênh Jungo (Thử Nghiệm)" tvg-logo="https://i.ibb.co/s3zD2WC/image.png" tvg-id="", Screamflix HD
 https://zylo-screamin-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-zylo-screamin-rakuten/CDN/master.m3u8
 #EXTINF:-1 tvg-id="MY38WSBK.us" tvg-name="khichtv:BOO" tvg-logo="https://i.ibb.co/34psJCd/Kenh-Boo-khich-TV.png"group-title="Malaysia",BOO HD
-https://smt.passwdword.xyz/Smart.php?id=Astroboo
+https://tzh911.qzz.io/play-smt.php?id=Astroboo
 #EXTINF:-1 tvg-id="MY38WSBK.us" tvg-name="khichtv:BOO" tvg-logo="https://i.ibb.co/W4bBHfc7/Astro-Boo-khichtv-Nov-2025.png"group-title="Malaysia",BOO FHD
-https://live.saileitv.com/channel/fa511d2/index.m3u8?q=1761735293191
+
 #EXTINF: -1 group-title = "🔴 |Khích TiVi QUỐC TẾ " tvg-logo = "https://i.ibb.co/YcccLY7/image.png",Ghost Kinh Di
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/64e561a4354251000823a0e0/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c28f177-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=15d446c5-1e1e-4ecb-8d96-6d0b45104d20&checkedby:iptvcat.com
 #EXTINF: -1 group-title = "🔴 |Khích TiVi QUỐC TẾ " tvg-logo = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQf9t1-hnljxvxnwGYGMAqc2VY3Lx9mTn-lTw&usqp=CAU",sreen
 https://436f59579436473e8168284cac5d725f.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_RushByAMC/playlist.m3u8
 #EXTINF: -1 tvg-id = "happykids" group-title = "📦 Khích TiVi| In The Box" tvg-logo = "https://i.ibb.co/H2Bx5CX/t-i-xu-ng.jpg", Happy Kids
 #EXTVLCOPT:http-user-agent=KhichTivi
-http://198.16.100.186:8278/Axn/playlist.m3u8?tid=MF5F8488555684885556&ct=19254&tsum=b053d03f18972fd57458dea9ae82c0aa
+https://zoomoo-samsungau.amagi.tv/playlist.m3u8
 #EXTINF: -1 tvg-id = "musicbox" group-title = "📦 Khích TiVi| In The Box" tvg-logo = "https://i.ibb.co/JBp0qjf/Music-box.jpg", Hộp nhạc
 #EXTVLCOPT: http-user-agent = KhichTivi
 #EXTVLCOPT:http-user-agent=văn Khích 
@@ -1502,7 +1502,7 @@ http://198.16.100.186:8278/Axn/playlist.m3u8?tid=MF5F8488555684885556&ct=19254&t
 #EXTINF:-1 tvg-id="hits" group-title="Quốc Tế" tvg-logo="https://i.ibb.co/5cx42Md/hits-khichtv.jpg", HITS
 https://4gtv.946985.filegear-sg.me/playlist?channel=HITS%E9%A0%BB%E9%81%93
 #EXTINF:-1 tvg-id="hits" group-title="Quốc Tế" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/391_144.png",HITS MOVIES
-https://smt.passwdword.xyz/Smart.php?id=Hitsmovie
+https://tzh911.qzz.io/play-smt.php?id=Hitsmovie
 #EXTINF:-1 tvg-id="hits" group-title="Quốc Tế" tvg-logo="https://img-zlr1.tv360.vn/image1/2020_09_23/1600822031726/ae85cde5214a_640_360.png", HITS khíchTV
 
 #EXTINF:-1 tvg-id="hits" group-title="Quốc Tế" tvg-logo="https://i.ibb.co/4ZJ47RYV/HITS-Movies-logo-Khich-TV.png",HITS MOVIES khích TV
@@ -1557,7 +1557,7 @@ https://fxtvhls.wns.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="js2" group-title="🎬khichtivi| Giải trí" tvg-logo="https://i.ibb.co/CKfZ5H1/axn-whte-khichtv.png",AXN WHITE HD 🇨🇳
 https://toonixhls.wns.live/hls/stream.m3u8
 #EXTINF: -1 tvg-id = "warnertvhd" group-title = "🎬 khichtivi| Giải trí" tvg-logo ="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/07/23/c37bx4qh_warner-tvd0ed4cb02178a26ee0b01a30f94e47e4_296_168.webp", Warner TV 🇨🇳
-https://tzh911.qzz.io/play-smt.php?id=WarnerTV?id=WarnerTV&token=0e7931487dfc8360e1011ab9f1b6543495e86d1abf50fa1f3b9e5ecbe84c97f0%3A1763650134%3AMjQwMjo4MDA6NjI3ZDpkZTMwOjFjZTg6NzQ3OTo4NjZmOjVlZjE%3D
+https://tzh911.qzz.io/play-smt.php?id=WarnerTV?id=WarnerTV
 #https://smart.pendy.dpdns.org/Smart.php?id=Axn
 #EXTINF: -1 tvg-id = "warnertvhd" group-title = "🎬 khichtivi| Giải trí" tvg-logo ="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/07/23/c37bx4qh_warner-tvd0ed4cb02178a26ee0b01a30f94e47e4_296_168.webp", Warner TV US🇮🇴
 http://fl5.moveonjoy.com/AMC_NETWORK/index.m3u8
@@ -1571,7 +1571,7 @@ http://fl5.moveonjoy.com/AMC_NETWORK/index.m3u8
 
 
 #EXTINF: -1 tvg-id = "kix" group-title = "🎬 khichtivi| Giải trí" tvg-logo ="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2022/02/21/h8hfr6y8_thumbnail-kix-copy_296_168.webp", KIX HD sia🇲🇾 
-https://tzh911.qzz.io/play-smt.php?id=kix
+1
 #EXTINF: -1 tvg-id = "kix" group-title = "🎬 khichtivi| Giải trí" tvg-logo ="https://autenticatv.pe/wp-content/uploads/2021/01/logo-web.png", Auténtica HD
 https://live.obslivestream.com/autenticatvmux/index.m3u8
 #EXTINF: -1 tvg-id = "kix" group-title = "🎬 khichtivi| Giải trí" tvg-logo ="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2022/02/21/h8hfr6y8_thumbnail-kix-copy_296_168.webp", KIX HD ID
