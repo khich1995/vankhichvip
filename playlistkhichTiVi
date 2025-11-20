@@ -1500,7 +1500,7 @@ http://198.16.100.186:8278/Axn/playlist.m3u8?tid=MF5F8488555684885556&ct=19254&t
 #EXTVLCOPT: http-user-agent = KhichTivi
 
 #EXTINF:-1 tvg-id="hits" group-title="Quốc Tế" tvg-logo="https://i.ibb.co/5cx42Md/hits-khichtv.jpg", HITS
-https://smt.passwdword.xyz/Smart.php?id=Hits
+https://4gtv.946985.filegear-sg.me/playlist?channel=HITS%E9%A0%BB%E9%81%93
 #EXTINF:-1 tvg-id="hits" group-title="Quốc Tế" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/391_144.png",HITS MOVIES
 https://smt.passwdword.xyz/Smart.php?id=Hitsmovie
 #EXTINF:-1 tvg-id="hits" group-title="Quốc Tế" tvg-logo="https://img-zlr1.tv360.vn/image1/2020_09_23/1600822031726/ae85cde5214a_640_360.png", HITS khíchTV
@@ -1522,9 +1522,10 @@ https://smt.passwdword.xyz/Smart.php?id=Rockentertain
 #EXTINF:-1 tvg-id="blueantext" group-title="Khích TiVi" tvg-logo="https://i.ibb.co/pdXJvJc/ROCK-Action-khich-TV.jpg" ,ROCK Action FHD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-http://152.32.229.52:5050/4gtv-live138/index.m3u8?proxy=true
+https://4gtv.946985.filegear-sg.me/playlist?channel=ROCK%20Action
 #×'c×=%Quốc Tế kix-":-#
 #EXTINF:-1 tvg-id="blueantent" group-title="🎬 Khích TiVi" tvg-logo="https://i.ibb.co/j6vx4SJ/Rock-Entertainment-khichTV.png" ,Rock Entertainment HD
+https://4gtv.946985.filegear-sg.me/playlist?channel=ROCK%20Entertainment
 #https://stream1.cinerama.uz/1232/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="blueantext" group-title="Khích TiVi" tvg-logo="https://i.ibb.co/v1ByMFd/64e856a6acfdaa1696434e93-icons-action-p-800.webp" ,ROCK Action HD
 #http://1.34.90.164:1863/udp/230.1.2.181:11111
