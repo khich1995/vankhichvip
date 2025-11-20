@@ -78,7 +78,7 @@ https://1.org.vn/Khíchvip📺-SCTV😉PHIM-TÔNG-HỢP-FHD-LIVE🔐
 
 #-""-update khích TiVi*-'-#
 
-#EXTINF:0 tvg-id="sctv15hd" group-title="❤️1️⃣9️⃣/1️⃣1️⃣/2️⃣0️⃣2️⃣5️⃣|UPDATE By khích📺" tvg-logo="https://i.ibb.co/grKqtMt/Up-Da-Te-khich-Tivi-png.jpg" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtc1_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8",UPDATE khích TiVi|⏰03:36:55|📆/19/11/2025 FHD
+#EXTINF:0 tvg-id="sctv15hd" group-title="❤️2️⃣1️⃣/1️⃣1️⃣/2️⃣0️⃣2️⃣5️⃣|UPDATE By khích📺" tvg-logo="https://i.ibb.co/grKqtMt/Up-Da-Te-khich-Tivi-png.jpg" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtc1_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8",UPDATE khích TiVi|⏰03:36:55|📆/21/11/2025 FHD
 https://1.org.vn/Khích📺🇻🇳-sctv15-FHD-LIVE🔐🤫
 
 #-*--THVL FHD-*--#
@@ -1571,7 +1571,7 @@ http://fl5.moveonjoy.com/AMC_NETWORK/index.m3u8
 
 
 #EXTINF: -1 tvg-id = "kix" group-title = "🎬 khichtivi| Giải trí" tvg-logo ="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2022/02/21/h8hfr6y8_thumbnail-kix-copy_296_168.webp", KIX HD sia🇲🇾 
-1
+https://lagenceducourtmetrage-brefcinema-01-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF: -1 tvg-id = "kix" group-title = "🎬 khichtivi| Giải trí" tvg-logo ="https://autenticatv.pe/wp-content/uploads/2021/01/logo-web.png", Auténtica HD
 https://live.obslivestream.com/autenticatvmux/index.m3u8
 #EXTINF: -1 tvg-id = "kix" group-title = "🎬 khichtivi| Giải trí" tvg-logo ="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2022/02/21/h8hfr6y8_thumbnail-kix-copy_296_168.webp", KIX HD ID
@@ -1598,10 +1598,9 @@ https://appletree-mytime-samsungbrazil.amagi.tv/playlist.m3u8
 #EXTVLCOPT:http-user-agent=khichtivi
 https://k44991.kylintv.tv/live/chinamovie_iphone.m3u8
 #EXTINF:-1 tvg-id="inthebox" group-title="📦|KhichTiviMovies" tvg-logo="https://i.ibb.co/TtVn7rJ/20231124-khichtivi-star-movie.jpg",star move khichtv
-#https://smt.passwdword.xyz/Smart.php?id=starmovies_raj
-https://lagenceducourtmetrage-brefcinema-01-eu.rakuten.wurl.tv/playlist.m3u8
+https://tzh911.qzz.io/play-smt.php?id=starmovies_raj
 #EXTINF:-1 tvg-id="boxhits" group-title="📦|KhichTiviMovies" tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/star-world-hd-logo-300x300.jpg",star world hd
-
+https://l.lioncdn.net/Discovery-Life/index.m3u8
 
 #"'"''& HBO MY 123@#@₫@@****#@,@
 
@@ -1611,9 +1610,9 @@ https://live.relentlessinnovations.net:1936/afghannobel/afghannobel/chunklist_w1
 https://ca-rt.onetv.app/gemfilm/index-0.m3u8
 #EXTINF:-1 tvg-id="hbo3" group-title="📦|KhichTiviMovies" tvg-logo="https://www.mncvision.id/userfiles/image/channel/hbo_family.png",HBO
 #EXTINF:-1 tvg-id="hbo3" group-title="📦|KhichTiviMovies" tvg-logo="https://logodix.com/logo/1016114.jpg",HBO3
-
+https://l.lioncdn.net/Discovery-Channel/index.m3u8
 #EXTINF:-1 tvg-id="hits" group-title="🎬|Khích TiVi Phim" tvg-logo="https://i-imgur-com.cdn.ampproject.org/i/s/i.imgur.com/6mHe4A7.png",Celestia HBO ACTION 🇬🇧
-https://vivo.solumedia.com:19360/lapacho/lapacho.m3u8
+https://l.lioncdn.net/HBO/index.m3u8
 #-'-phim Hành động-'-*
 #EXTINF:-1 tvg-id="hits" group-title="🎬|Khích TiVi Phim" tvg-logo="https://www.axn-asia.com/sites/axn-asia.com/files/logos/axn_0.png",AXN 🇬🇧
 https://live.tvfix.org/live/axn/index.m3u8
