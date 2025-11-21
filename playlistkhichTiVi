@@ -376,7 +376,7 @@ https://live.fptplay53.net/epzhd1/htvcthuanviethd_vhls.smil/chunklist_b5000000.m
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://toiyeuvietnam.dpdns.org/CoBan/htvc-gia-dinh/TuyetDoiKhongKinhDoanh.m3u8
-#EXTINF:-1 tvg-id="htvcgiadinhhd" group-tile="💛Khích📺| HTV" tvg-logo="https://i.ibb.co/KzhJ2rjK/cartoon-network-logo-khichtv.webp",CARTOON NETWORK🧸 HD
+#EXTINF:-1 tvg-id="htvcgiadinhhd" group-tile="💛Khích📺| HTV" tvg-logo="https://i.ibb.co/67Xqc0kB/Cartoonito-khichtv-logo.webp",CARTOONITO🧸 HD
 http://113.22.174.74:4001/udp/225.1.4.16:30120
 #EXTINF:-1 tvg-id="htvcgiadinhhd" group-tile="💛Khích📺| HTV" tvg-logo="https://i.ibb.co/JFtCqrxt/Cartoon-Network-khichtvi-logo.webp",CN🎃 HD
 http://113.22.174.74:4001/udp/225.1.4.13:30120
