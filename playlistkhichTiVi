@@ -364,7 +364,7 @@ https://live.fptplay53.net/epzhd1/htvcthethao_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="htvthethaohd" group-title="💛Khích📺| HTV" tvg-logo="https://static.vieon.vn/vieplay-image/avatar/2020/12/15/5esq78z8_htv_the_thao.png",HTV THỂ THAO HD SV4
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.:=195
 https://d.org.vn/KhichTV-VIP-htv-thể-thao?=&195
-#EXTINF:-1 tvg-id="htvcthuanviet" group-title="💛|Khích📺 HTV" tvg-logo="https://i.upanh.org/2024/10/29/images28c6f690f3d0ce7d.jpeg",HTVC THUẦN VIỆT
+#EXTINF:-1 tvg-id="htvcthuanviet" group-title="💛|Khích📺 HTV" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/8/8c/HTVC_thuanviet.png",HTVC THUẦN VIỆT
 https://live.fptplay53.net/epzhd1/htvcthuanviethd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="htvcthuanviethd" group-title="💛|Khích📺 HTV" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2022/03/31/f1awhyku_htvcthuanviet_296_168.webp",HTVC THUẦN VIỆT HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
@@ -378,7 +378,7 @@ https://live.fptplay53.net/epzhd1/htvcthuanviethd_vhls.smil/chunklist_b5000000.m
 https://toiyeuvietnam.dpdns.org/CoBan/htvc-gia-dinh/TuyetDoiKhongKinhDoanh.m3u8
 #EXTINF:-1 tvg-id="htvcgiadinhhd" group-tile="💛Khích📺| HTV" tvg-logo="https://i.ibb.co/KzhJ2rjK/cartoon-network-logo-khichtv.webp",CARTOON NETWORK🧸 HD
 http://113.22.174.74:4001/udp/225.1.4.16:30120
-#EXTINF:-1 tvg-id="htvcgiadinhhd" group-tile="💛Khích📺| HTV" tvg-logo="https://images.fptplay53.net/media/photo/OTT/2024/07/27/https://i.ibb.co/JFtCqrxt/Cartoon-Network-khichtvi-logo.webp",CN🎃 HD
+#EXTINF:-1 tvg-id="htvcgiadinhhd" group-tile="💛Khích📺| HTV" tvg-logo="https://i.ibb.co/JFtCqrxt/Cartoon-Network-khichtvi-logo.webp",CN🎃 HD
 http://113.22.174.74:4001/udp/225.1.4.13:30120
 #EXTINF:-1 group-title="💛Khích📺| HTV" tvg-id="htvcphunuhd" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2022/03/31/962h3dtj_htvcphunu_296_168.webp", HTVC PHU NỮ HD
 #EXTVLCOPT: http-user-agent = KhichTivi
@@ -398,11 +398,11 @@ https://freem3u.xyz/api/live/play.m3u8?vid=133
 #EXTVLCOPT: http-user-agent = KhichTivi
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://1011154949.vnns.net/CDN-FPT/HTV2-HD-ABR/HTV-ABR/HTV2-HD-1080p/chunks.m3u8
+http://113.22.174.74:4001/udp/225.1.4.223:30120
 #EXTINF: -1 tvg-id = "htvcphimhd vieon" group-title = "💛Khích📺|vieOn" tvg-logo = "https://static.vieon.vn/vieplay-image/avatar/2020/12/15/km0yc4ss_htvc_phim.png",HTVC PHIM HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; Khichtivi) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-http://14.229.232.52:4022/rtp232.84.2.133:9594
+http://113.22.174.74:4001/udp/225.1.3.68:30120
 #EXTINF:-1 tvg-id="htvcphimhd ViettelTV" group-title="HTVc" tvg-logo="https://img-zlr1.tv360.vn/image1/2020/12/25/10/160886616399/c002b68d052e_640_360.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/htvcmovieshd_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", HTVC PLUS
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; KhichTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
