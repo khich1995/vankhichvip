@@ -355,7 +355,7 @@ https://1.org.vn/Khích📺-80-HTV9HD-LIVE
 #EXTVLCOPT: http-user-agent = KhichTivi
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; Khichtivi) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/
-
+http://1.52.82.79:8090/udp/225.1.4.60:30120
 #EXTINF:-1 tvg-id="htvthethaohd" group-title="💛Khích📺| HTV" tvg-logo="https://i.ibb.co/gMz4BnNt/khichtivi-htv-thethao-2.png",HTV THỂ THAO HD SV2
 #EVLCOPT:http-user-agent=Dalvik/2.1.0
 https://live.fptplay53.net/epzhd1/htvcthethao_vhls.smil/chunklist_b5000000.m3u8
@@ -377,9 +377,9 @@ https://live.fptplay53.net/epzhd1/htvcthuanviethd_vhls.smil/chunklist_b5000000.m
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://toiyeuvietnam.dpdns.org/CoBan/htvc-gia-dinh/TuyetDoiKhongKinhDoanh.m3u8
 #EXTINF:-1 tvg-id="htvcgiadinhhd" group-tile="💛Khích📺| HTV" tvg-logo="https://images.fptplay53.net/media/photo/OTT/2024/07/27/logo-web_1722013430942.png",FPT Play 1 H
-http://42.116.143.51:13579/udp/225.1.1.10:30120
+http://42.116.143.51:13579/udp/225.1.4.16:30120
 #EXTINF:-1 tvg-id="htvcgiadinhhd" group-tile="💛Khích📺| HTV" tvg-logo="https://images.fptplay53.net/media/photo/OTT/2024/07/27/logo-web_1722013430942.png",FPT Play 2 HD
-http://42.116.143.51:13579/udp/225.1.4.199:30120
+http://42.116.143.51:13579/udp/225.1.4.13:30120
 #EXTINF:-1 group-title="💛Khích📺| HTV" tvg-id="htvcphunuhd" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2022/03/31/962h3dtj_htvcphunu_296_168.webp", HTVC PHU NỮ HD
 #EXTVLCOPT: http-user-agent = KhichTivi
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
