@@ -1,4 +1,4 @@
-3#EXTM3U url-tvg="http://lichphatsong.site/schedule/epg.xml" tvg-shift=0 cache=500 deinterlace=1 aspect-ratio=16:9 m3uautoload=1,https://vnepg.site/epg.xml.gz,http://epg.ra1n.lol/jp.xml,https://epg.pw/api/epg.json?lang=en&timezone=QXNpYS9WaWVudGlhbmU%3D&date=20250330&channel_id=368322,https://epg.pw/api/epg.xml?lang=en&timezone=QXNpYS9WaWVudGlhbmU%3D&date=20250330&channel_id=368322,https://akkradet.github.io/IPTV-THAI/guide.xml,https://epg.iill.top/epg" tvg-shift=0 m3uautoload=g1 đurl="=https://xemtv.vn/,https://xem.li/khichtiviplaylist⭐⭐⭐⭐⭐chính thức,https://lambassvn.github.io/"
+#EXTM3U url-tvg="http://lichphatsong.site/schedule/epg.xml" tvg-shift=0 cache=500 deinterlace=1 aspect-ratio=16:9 m3uautoload=1,https://vnepg.site/epg.xml.gz,http://epg.ra1n.lol/jp.xml,https://epg.pw/api/epg.json?lang=en&timezone=QXNpYS9WaWVudGlhbmU%3D&date=20250330&channel_id=368322,https://epg.pw/api/epg.xml?lang=en&timezone=QXNpYS9WaWVudGlhbmU%3D&date=20250330&channel_id=368322,https://akkradet.github.io/IPTV-THAI/guide.xml,https://epg.iill.top/epg" tvg-shift=0 m3uautoload=g1 đurl="=https://xemtv.vn/,https://xem.li/khichtiviplaylist⭐⭐⭐⭐⭐chính thức,https://lambassvn.github.io/"
 
 #--*xem tiVi chúc các bạn xem vui vẻ cảm ơn nhé
 
@@ -78,7 +78,7 @@ https://1.org.vn/Khíchvip📺-SCTV😉PHIM-TÔNG-HỢP-FHD-LIVE🔐
 
 #-""-update khích TiVi*-'-#
 
-#EXTINF:0 tvg-id="sctv15hd" group-title="❤️2️⃣4️⃣/1️⃣1️⃣/2️⃣0️⃣2️⃣5️⃣|UPDATE By khích📺" tvg-logo="https://i.ibb.co/grKqtMt/Up-Da-Te-khich-Tivi-png.jpg" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtc1_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8",UPDATE khích TiVi|⏰07:58:55|📆/24/11/2025 FHD
+#EXTINF:0 tvg-id="sctv15hd" group-title="❤️2️⃣5️⃣/1️⃣1️⃣/2️⃣0️⃣2️⃣5️⃣|UPDATE By khích📺" tvg-logo="https://i.ibb.co/grKqtMt/Up-Da-Te-khich-Tivi-png.jpg" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtc1_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8",UPDATE khích TiVi|⏰07:58:55|📆/25/11/2025 FHD
 https://1.org.vn/Khích📺🇻🇳-sctv15-FHD-LIVE🔐🤫
 
 #-*--THVL FHD-*--#
@@ -1743,7 +1743,7 @@ https://tzh911.qzz.io/play-smt.php?id=Animax
 #EXTINF:-1 tvg-id="animaxhd" group-title="🌈KhichTivi | Hoạt hình" tvg-logo="https://telik.live/images/tom_and_jerry.png",TOM_AND_JERRY  HD🇻🇳
 #EXTVLCOPT:http-user-agent=KhichTivi
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://tv.tvcdnpotok.com/Vj_aSiLEgnWG7IEx_dsR4g/156/1763414225/index.m3u8
+https://live20.bozztv.com/giatvplayout7/giatv-208314/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="animaxhd" group-title="🌈KhichTivi | Hoạt hình" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/07/23/8wcri9wb_animax1e3f298dbfc93d461638c8b9594d25a3_296_168.webp", Animax sv3 HD🇻🇳
 #EXTVLCOPT:http-user-agent=KhichTivi
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
