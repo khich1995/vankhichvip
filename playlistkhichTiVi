@@ -1833,7 +1833,7 @@ https://connection3-ent-nz.samsung.wurl.tv/playlist.m3u8
 #EXTVLCOPT:http-user-agent=khichTivi 99
 http://bentre5.hoangai.vn:8086/stream/T05sc0x5ajlkMm5BVlAvVHVYVTZCZz09/Vyt3U0dNc001ZVhaaG9xdENqTzJVUT09/khichtv/77332/playlist.mpegts
 #EXTINF:-1 tvg-logo="https://i.ibb.co/C7rMqn6/Love-nature-4k.jpg", Love Nature 4K sv1
-https://d18dyiwu97wm6q.cloudfront.net/playlist.m3u8
+https://d18dyiwu97wm6q.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/LoveNature4K2-prod/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/C7rMqn6/Love-nature-4k.jpg", Love Nature 4K vs2
 https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 #EXTINF:-1 tvg-id="bbcearth" group-title="🚽KhichTivi| BBC" tvg-logo="https://i.ibb.co/6Nm07mx/210.jpg" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/bbcearth_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", BBC Earth
@@ -1941,7 +1941,8 @@ https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00718-outdoorchannela-outdoortvnz
 https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/AXN/index.m3u8
 #EXTINF:-1 tvg-id="blueantent" group-title="🎬KhichTivi| Giải trí" tvg-logo="https://i.ibb.co/FbZPsc7k/Q-music-logo-khichtv.png", QMUSIC
 #EXTVLCOPT:http-user-agent=KhichTivi
-https://dpp-qmusicnl-live.akamaized.net/streamx/QmusicNL_720p.m3u8
+https://atomic.streamnet.ro/atomictv.m3u8
+#https://dpp-qmusicnl-live.akamaized.net/streamx/QmusicNL_720p.m3u8
 #EXTINF:-1 tvg-id="blueantext" group-title="🎬KhichTivi| Giải trí" tvg-logo="https://cdn.hqth.me/logo/thumbs/229.png", Rock Extreme
 #EXTVLCOPT:http-user-agent=khichivi
 
@@ -1949,15 +1950,15 @@ https://dpp-qmusicnl-live.akamaized.net/streamx/QmusicNL_720p.m3u8
 #EXTVLCOPT:http-user-agent=KhichTivi
 
 #EXTINF:-1 tvg-id="mtvhd" group-title="🎶|KhichTivi Âm nhạc" tvg-logo="https://i.ibb.co/LhcDDhn2/MTVN-HD-LIVE-khichtivi-logo.png", MTV LVIE
-#EXTVLCOPT:http-user-agent=KhichTivi
+#EXTVLCOPT:http-user-agent=Khihttps://atomic.streamnet.ro/atomictv.m3u8chTivi
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/654102ed770cf1000866c307/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7c9e98-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=4c7b00a0-d803-41b5-95bb-c20d39e69ce2&serverSideAds
 #EXTINF:-1 group-title="🎶| Âm nhạc" tvg-logo="http://tvset.sbs/img/da-vinci-learning.png",Da Vinci HD
 
 #EXTINF:-1 tvg-id="fashionhd" group-title="🎬KhichTivi| Giải trí" tvg-logo="https://i.ibb.co/dbsXj9z/fashiontv-logo-blue-vertical-1.png", Fashion TV HD
 #EXTVLCOPT:http-user-agent=KhichTivi
-https://fashiontv-fashiontv-5-se.samsung.wurl.tv/playlist.m3u8
+https://fashs043.cloudycdn.services/scte/africa/africa_chunklist.m3u8
 #EXTINF:-1 tvg-id="fashionhd" group-title="🎬KhichTivi| Giải trí" tvg-logo="https://i.ibb.co/fQtSFvf/FTV-4-K-logo-khichtv.png", Fashion TV 4K FHD
-http://fash2043.cloudycdn.services//slive/_definst_/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/chunklist_b10668000_t64NGs=.m3u8
+https://fashs043.cloudycdn.services/scte/africa/africa_chunklist.m3u8
 #EXTINF:-1 tvg-id="fashionhd" group-title="🎬KhichTivi| Giải trí" tvg-logo="https://i.ibb.co/Pt5Kc9d/260d9789cdda7b9e85099e80f5ca0a2f.jpg", Fashion TV SD
 http://lb.streaming.sk/fashiontv/stream/playlist.m3u8
 #EXTINF:-1 tvg-id="fashionhd" group-title="🎬KhichTivi| Giải trí" tvg-logo="https://i.ibb.co/fHLB4SZ/f-logo-khichtv.png", Fashion TV SD
