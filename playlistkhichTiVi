@@ -227,7 +227,7 @@ https://live-azd1107.telewebion.com/ek/sport2/live/1080p/index.m3u8
 #EXTINF:0 tvg-id="ksport2hd" group-title="THỬ NHIỆM - Khích📺" tvg-logo="https://i.ibb.co/CKSQjymf/khich-Ti-Vi-KSP2.jpg" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtc4_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", Khích Tivi K+SP2 FHD
 #EXTVLCOPT:http-user-agent="KHICHTV"
  https://proshls.wns.live/hls/stream.m3u8
-#EXTINF:-1 tvg-id="kcinehd" group-title="THỬ NHIỆM - Khích📺" tvg-logo="https://i.ibb.co/nsqLqgK4/khich-Ti-Vi-KSP3.jpg" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtc5_1000.stream/chunks_dvrqq_range-${start}-${offset}.m3u8",Khích Tivi K+SP3 FHD
+#EXTINF:-1 tvg-id="kcinehd" group-title="THỬ NHIỆM - Khích📺" tvg-logo="https://i.ibb.co/gMfMwFt0/logo-FPT-play-khichtv.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtc5_1000.stream/chunks_dvrqq_range-${start}-${offset}.m3u8",Khích Tivi K+SP3 FHD
 #EXTVLCOPT:http-user-agent="KHICHTV"
 https://event.fptplay53.net/fnxch1/thethao15_mx.smil/chunklist_b6000000.m3u8
 #http://gs.jianghua.fun:7088/udp/239.77.0.122:5146
