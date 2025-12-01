@@ -130,7 +130,7 @@ https://live5.k8v4dh5.app/live/24561735.m3u8
 #,',khichtivi Mytv K+,"",**********###
 
 
-#EXTINF:-1 tvg-id="kcine" group-title="khíchTV| K+" tvg-logo="https://i.ibb.co/Jfz5MNc/kcinehd-logo-khichtivi.jpg", K+CINE
+#EXTINF:-1 tvg-id="kcinehd" group-title="khíchTV| K+" tvg-logo="https://i.ibb.co/Jfz5MNc/kcinehd-logo-khichtivi.jpg", K+CINE
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0  
 #EXTVLCOPT:http-user-agent=Player (Linux; Android 11) 
 https://1.org.vn/Khích📺online-k-cine-HD-LIVE
@@ -163,7 +163,7 @@ https://1.org.vn/Khichtivi170-k-KIDS-HD-LIVE
 http://aismile.dpdns.org/play/14Akq6k5mrt7iwRXq7uVnhSYtXhXjvHnn3CGFrQqDeM/ts
 #EXTINF:-1 tvg-id="ksport2hd" group-title="K+ khichTV" tvg-logo="https://i.ibb.co/Yjr7dV2/20231125-khich-plus-k-sport2.png ", K+ SPORT2 FULL HD
 http://aismile.dpdns.org/play/14Akq6k5mrt7iwRXq7uVnpCht9ktiJPpQGcgdyoXzFE/ts
-#EXTINF:-1 tvg-id="kcine" group-title="khíchTV| K+" tvg-logo="https://i.ibb.co/8x6HNPN/Khich-plus-k-cine.png",K+CINE FULL HD
+#EXTINF:-1 tvg-id="kcinehd" group-title="khíchTV| K+" tvg-logo="https://i.ibb.co/8x6HNPN/Khich-plus-k-cine.png",K+CINE FULL HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 http://aismile.dpdns.org/play/14Akq6k5mrt7iwRXq7uVngE6DsNLXSz00gWS9T0YofY/ts
 #https://stream.ads.ottera.tv/playlist.m3u8?network_id=53&checkedby:iptvcat.com
@@ -176,7 +176,7 @@ http://aismile.dpdns.org/play/14Akq6k5mrt7iwRXq7uVnpSZyvQuRpuP_zIIt-ST4t4/ts
 
 #""_""khích TiVi K+TV360**""_""######
 
-#EXTINF:-1 tvg-id="kcine" group-title="khíchTV| K+" tvg-logo="https://i.ibb.co/FLYdTy1s/k-cine-2023-sctv-khichtv.png",K+CINE HD
+#EXTINF:-1 tvg-id="kcinehd" group-title="khíchTV| K+" tvg-logo="https://i.ibb.co/FLYdTy1s/k-cine-2023-sctv-khichtv.png",K+CINE HD
 #EXTVLCOPT:http-user-agent=Dalvik/
 http://aismile.dpdns.org/play/14Akq6k5mrt7iwRXq7uVnjTyYryvlMGoM0g_dnRBO5k/ts
 #EXTINF:-1 tvg-id="kaction" group-title="khíchTV| K+" tvg-logo="https://i.ibb.co/rGjxkF34/k-action-2023-sctv-khichtv.webp", K+ACTION HD
@@ -200,7 +200,7 @@ http://113.184.187.255:12343/udp/232.84.1.37:8196
 #EXTINF:0 tvg-id="ksport2hd" group-title="Miễn phí K+" tvg-logo="https://i.ibb.co/rKWCqKwN/khich-Ti-Vi-sport2.jpg", K+SPORT2 (HD 9Mbps)
 http://113.184.187.255:12343/udp/232.84.1.34:8178
 #EXTVLCOPT:http-user-agent=ExoPlayerLib/2.14.1
-#EXTINF:-1 tvg-id="kcine" group-title="Miễn phí| K+" tvg-logo="https://i.ibb.co/fYXLPDSG/khich-Ti-Vi-sport3.jpg",K+SPORT 3 (HD 9Mbps)
+#EXTINF:-1 tvg-id="kcinehd" group-title="Miễn phí| K+" tvg-logo="https://i.ibb.co/fYXLPDSG/khich-Ti-Vi-sport3.jpg",K+SPORT 3 (HD 9Mbps)
 #EXTVLCOPT:http-user-agent=Dalvik/
 http://113.184.187.255:12343/udp/232.84.1.38:8202
 #EXTINF:-1 tvg-id="kaction" group-title="Miễn phí| K+" tvg-logo="https://i.ibb.co/SD1dh2gY/khich-Ti-Vi-sport4.jpg", K+SPORT 4 (HD 9Mbps)
