@@ -78,7 +78,7 @@ https://1.org.vn/Khíchvip📺-SCTV😉PHIM-TÔNG-HỢP-FHD-LIVE🔐
 
 #-""-update khích TiVi*-'-#
 
-#EXTINF:0 tvg-id="sctv15hd" group-title="❤️0️⃣1️⃣/0️⃣1️⃣/2️⃣0️⃣2️⃣6️⃣|UPDATE By khích📺" tvg-logo="https://i.ibb.co/grKqtMt/Up-Da-Te-khich-Tivi-png.jpg" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtc1_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8",UPDATE khích TiVi|⏰07:58:55|📆/01/01/2026 FHD
+#EXTINF:0 tvg-id="sctv15hd" group-title="❤️0️⃣2️⃣/1️⃣2️⃣/2️⃣0️⃣2️⃣6️⃣|UPDATE By khích📺" tvg-logo="https://i.ibb.co/grKqtMt/Up-Da-Te-khich-Tivi-png.jpg" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtc1_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8",UPDATE khích TiVi|⏰07:58:55|📆/02/12/2025 FHD
 https://1.org.vn/Khích📺🇻🇳-sctv15-FHD-LIVE🔐🤫
 
 #-*--THVL FHD-*--#
@@ -195,18 +195,18 @@ https://263.org.vn/Khích-tivi-live-80-k➕kids🦸
 
 #******""""""khích TiVi k+sport#***"__"
 
-#EXTINF:0 tvg-id="ksport1hd" group-title="khichTiVi K+" tvg-logo="https://i.ibb.co/qM82fqxb/khich-Ti-Vi-sport1.jpg", K+SPORT1
+#EXTINF:0 tvg-id="ksport1hd" group-title="MP K+" tvg-logo="https://i.ibb.co/qM82fqxb/khich-Ti-Vi-sport1.jpg", K+SPORT1 (HD 9Mbps)
 http://113.177.113.147:4022/rtp/232.84.1.98:8562
-#EXTINF:0 tvg-id="ksport2hd" group-title="khichTiVi K+" tvg-logo="https://i.ibb.co/rKWCqKwN/khich-Ti-Vi-sport2.jpg", K+SPORT2
+#EXTINF:0 tvg-id="ksport2hd" group-title="MP K+" tvg-logo="https://i.ibb.co/rKWCqKwN/khich-Ti-Vi-sport2.jpg", K+SPORT2 (HD 9Mbps)
 http://113.184.187.255:12343/udp/232.84.1.34:8178
 #EXTVLCOPT:http-user-agent=ExoPlayerLib/2.14.1
-EXTINF:-1 tvg-id="kcine" group-title="khíchTV| K+" tvg-logo="https://i.ibb.co/fYXLPDSG/khich-Ti-Vi-sport3.jpg",K+SPORT 3
+#EXTINF:-1 tvg-id="kcine" group-title="MP| K+" tvg-logo="https://i.ibb.co/fYXLPDSG/khich-Ti-Vi-sport3.jpg",K+SPORT 3 (HD 9Mbps)
 #EXTVLCOPT:http-user-agent=Dalvik/
 http://113.184.187.255:12343/udp/232.84.1.38:8202
-#EXTINF:-1 tvg-id="kaction" group-title="khíchTV| K+" tvg-logo="https://i.ibb.co/SD1dh2gY/khich-Ti-Vi-sport4.jpg", K+SPORT 4
+#EXTINF:-1 tvg-id="kaction" group-title="khíchTV| K+" tvg-logo="https://i.ibb.co/SD1dh2gY/khich-Ti-Vi-sport4.jpg", K+SPORT 4 (HD 9Mbps)
 http://113.184.187.255:12343/udp/232.84.1.33:8172
-#EXTINF:-1 tvg-id="kkidshd" group-title="K+" tvg-logo="https://i.imgur.com/nogNfPe.jpg", K+ KIDS
-http://113.177.113.147:4022/udp/232.84.3.42:11800
+#EXTINF:-1 tvg-id="kkidshd" group-title="MPK+" tvg-logo="https://i.imgur.com/nogNfPe.jpg", K+ KIDS (HD 9Mbps)
+http://113.184.187.255:12343/udp/232.84.3.42:11800
 
 #EXTINF:-1 tvg-id="vtvcab4hd" group-title="khichtv " tvg-logo="https://diendantienganh.com/uploads/films-ielts-speaking.jpg",PHIM MOVIE
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 
