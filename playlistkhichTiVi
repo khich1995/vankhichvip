@@ -9,76 +9,76 @@
 
 #-*-Khích📺-VTV-*--#
 
-#EXTINF:0 tvg-id="vtv1hd" group-title="Khích📺 Chức Năm 2️⃣0️⃣2️⃣5️⃣| VTV"tvg-logo="https://i.ibb.co/Yj69Z4j/VTV1-logo-khichtivi.png",❤️VTV1 HD
+#EXTINF:0 tvg-id="vtv1hd" group-title="Khích📺 Chức Năm 2️⃣0️⃣2️⃣6️⃣| VTV"tvg-logo="https://i.ibb.co/Yj69Z4j/VTV1-logo-khichtivi.png",❤️VTV1 HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 
 https://live.fptplay53.net/fnxch2/vtv1hd_abr.smil/chunklist_b4200000.m3u8
-#EXTINF:0 tvg-id="vtv2hd" group-title="2️⃣0️⃣2️⃣5️⃣Gia Hưng TV" tvg-logo="https://img-zlr1.tv360.vn/image1/2020_09_23/1600822532144/64430eab8048_640_360.png",❤️VTV2 HD
+#EXTINF:0 tvg-id="vtv2hd" group-title="2️⃣0️⃣2️⃣6️⃣Gia Hưng TV" tvg-logo="https://img-zlr1.tv360.vn/image1/2020_09_23/1600822532144/64430eab8048_640_360.png",❤️VTV2 HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/
 https://live.fptplay53.net/fnxch2/vtv2hd_abr.smil/chunklist_b4200000.m3u8
-#EXTINF:0 tvg-id="vtv3hd" group-title="Khích📺2️⃣0️⃣2️⃣5️⃣|VTV" tvg-logo="https://img-zlr1.tv360.vn/image1/2020_09_23/1600822363854/4e5e7832df14_640_360.png",❤️VTV3 HD
+#EXTINF:0 tvg-id="vtv3hd" group-title="Khích📺2️⃣0️⃣2️⃣6️⃣|VTV" tvg-logo="https://img-zlr1.tv360.vn/image1/2020_09_23/1600822363854/4e5e7832df14_640_360.png",❤️VTV3 HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 https://live.fptplay53.net/fnxch2/vtv3hd_abr.smil/chunklist_b4200000.m3u8
-#EXTINF:0 tvg-id="vtv4hd" group-title="🌾Khích📺2️⃣0️⃣2️⃣5️⃣| VTV" tvg-logo="https://img-zlr1.tv360.vn/image1/2020_09_23/1600822540493/79943158bdd1_640_360.png",❤️VTV4 HD
+#EXTINF:0 tvg-id="vtv4hd" group-title="🌾Khích📺2️⃣0️⃣2️⃣6️⃣| VTV" tvg-logo="https://img-zlr1.tv360.vn/image1/2020_09_23/1600822540493/79943158bdd1_640_360.png",❤️VTV4 HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; Khichtivi) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://live.fptplay53.net//fnxch2/vtv4hd_abr.smil/chunklist_b3000000.m3u8.m3u8
-#EXTINF:-1 tvg-id="vtv5hd" group-title="Khích📺2️⃣0️⃣2️⃣5️⃣|VTV" tvg-logo="https://i.ibb.co/mV6xg8YM/khich-Ti-Vi-logo-vtv5.jpg",❤️VTV5 HD
+#EXTINF:-1 tvg-id="vtv5hd" group-title="Khích📺2️⃣0️⃣2️⃣6️⃣|VTV" tvg-logo="https://i.ibb.co/mV6xg8YM/khich-Ti-Vi-logo-vtv5.jpg",❤️VTV5 HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 https://1.org.vn/Khích-📺-vtv5-HD-LIVE
-#EXTINF:-1 tvg-id="vtv6hd" group-title="Khích📺2️⃣0️⃣2️⃣5️⃣|VTV" group-logo="https://i.ibb.co/23T4Pw13/logo-you-Love-khichtv-png.png" tvg-logo="https://i.ibb.co/VY86j22/VTV-can-tho-khichtv.jpg", ❤️VTV Cần Thơ HD
+#EXTINF:-1 tvg-id="vtv6hd" group-title="Khích📺2️⃣0️⃣2️⃣6️⃣|VTV" group-logo="https://i.ibb.co/23T4Pw13/logo-you-Love-khichtv-png.png" tvg-logo="https://i.ibb.co/VY86j22/VTV-can-tho-khichtv.jpg", ❤️VTV Cần Thơ HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 https://live.fptplay53.net/fnxhd1/vtvcantho_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:0 tvg-id="vtv7hd" group-title="Khích📺2️⃣0️⃣2️⃣5️⃣KhíchTV|VTV"tvg-logo="https://i.ibb.co/NNXFYRh/vtv7-hd-khichtv.png",❤️VTV7 HD
+#EXTINF:0 tvg-id="vtv7hd" group-title="Khích📺2️⃣0️⃣2️⃣6️⃣KhíchTV|VTV"tvg-logo="https://i.ibb.co/NNXFYRh/vtv7-hd-khichtv.png",❤️VTV7 HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 https://1.org.vn/Khichtivi-📺-vtv7-HD-LIVE
-#EXTINF:-1 tvg-id="vtv8hd" group-title="Khích📺2️⃣0️⃣2️⃣5️⃣KhíchTV|VTV" tvg-logo="https://i.ibb.co/hMTwZpF/vtv8-hd-khichtv.png",❤️VTV8 HD
+#EXTINF:-1 tvg-id="vtv8hd" group-title="Khích📺2️⃣0️⃣2️⃣6️⃣KhíchTV|VTV" tvg-logo="https://i.ibb.co/hMTwZpF/vtv8-hd-khichtv.png",❤️VTV8 HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib
 https://1.org.vn/KhíchTV📺VTV8-HD-LIVE
-#EXTINF:-1 tvg-id="vtv9hd" group-title="Khích📺2️⃣0️⃣2️⃣5️⃣|VTV" tvg-logo="https://i.ibb.co/0QY1kvm/vtv9-hd-khichtivi.png",❤️VTV9 HD
+#EXTINF:-1 tvg-id="vtv9hd" group-title="Khích📺2️⃣0️⃣2️⃣6️⃣|VTV" tvg-logo="https://i.ibb.co/0QY1kvm/vtv9-hd-khichtivi.png",❤️VTV9 HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 https://live.fptplay53.net/fnxhd1/vtv9_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 tvg-id="onviegiaitri" group-title="❤Khích📺2️⃣0️⃣2️⃣5️⃣|VTV" group-logo="https://i.ibb.co/3RhKty7/VTV10-HD-khich-tivi.png" tvg-logo="https://i.ibb.co/3RhKty7/VTV10-HD-khich-tivi.png" ,❤VTV10 HD
+#EXTINF:-1 tvg-id="onviegiaitri" group-title="❤Khích📺2️⃣0️⃣2️⃣6️⃣|VTV" group-logo="https://i.ibb.co/3RhKty7/VTV10-HD-khich-tivi.png" tvg-logo="https://i.ibb.co/3RhKty7/VTV10-HD-khich-tivi.png" ,❤VTV10 HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edge/113.0.1774.57
 https://1.org.vn/Khích-online-2025-vtv10-index-m3u8
-#EXTINF:-1 tvg-id="onviedramas" group-title="❤Khích📺2️⃣0️⃣2️⃣5️⃣| VTV" tvg-logo="https://i.ibb.co/3NQX5SP/VTV11-HD-khich-TV.png", ❤VTV11 HD Vie Dramas
+#EXTINF:-1 tvg-id="onviedramas" group-title="❤Khích📺2️⃣0️⃣2️⃣6️⃣| VTV" tvg-logo="https://i.ibb.co/3NQX5SP/VTV11-HD-khich-TV.png", ❤VTV11 HD Vie Dramas
 #EXTVLCOPT:http-user-agent=Dal
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; KhichTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36888888
 https://d.org.vn/Khichtv-go-vtv11-D-DRAMMAS-HD-m20?_index.m3u8
-#EXTINF:-1 tvg-id="hue" group-title="🇻🇳Khích📺2️⃣0️⃣2️⃣5️⃣| VTV" tvg-logo="https://i.ibb.co/L5Vh2wc/khichtv-logo-VTV12-HD.png" ,❤VTV12|TRT
+#EXTINF:-1 tvg-id="hue" group-title="🇻🇳Khích📺2️⃣0️⃣2️⃣6️⃣| VTV" tvg-logo="https://i.ibb.co/L5Vh2wc/khichtv-logo-VTV12-HD.png" ,❤VTV12|TRT
 #EXTVLCOPT: http-user-agent = KhichTivi
 #khichtivi=video/120.0.0.0
 https://liveh12.vtvprime.vn/hls/HUE/index.m3u8
-#EXTINF:-1 tvg-id="htv2hd" group-title="❤️Khích📺2️⃣0️⃣2️⃣5️⃣| VTV" tvg-logo="https://i.ibb.co/2smBXgF/VTV13-HD.png" ,❤VTV13HD|VIE CHANNLES
+#EXTINF:-1 tvg-id="htv2hd" group-title="❤️Khích📺2️⃣0️⃣2️⃣6️⃣| VTV" tvg-logo="https://i.ibb.co/2smBXgF/VTV13-HD.png" ,❤VTV13HD|VIE CHANNLES
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; KhichTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://1.org.vn/Khích📺VTV13-HD-LIVE
-#EXTINF:-1 tvg-id="onechannel" group-title="❤Khích📺2️⃣0️⃣2️⃣5️⃣|VTV" tvg-logo="https://i.ibb.co/jTsx7jd/khich-Ti-Vi-online-VTV14.png",❤VTV14 EC
+#EXTINF:-1 tvg-id="onechannel" group-title="❤Khích📺2️⃣0️⃣2️⃣6️⃣|VTV" tvg-logo="https://i.ibb.co/jTsx7jd/khich-Ti-Vi-online-VTV14.png",❤VTV14 EC
 #EXTVLCOPT:http-user-agent=/2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; KhichTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://263.org.vn/Khichtv-80-vtv14-EC?key/index.m3u8
-#EXTINF:-1 tvg-id="onsportsplus" group-title="❤Khích📺2️⃣0️⃣2️⃣5️⃣|VTV" tvg-logo="https://i.ibb.co/Gx8VCVn/logo-vtv15-khichtv.png" catchup="append" catchup-days="2" catchup-iik="https://api.vthanhtivi.pw/v1/dvr/vieon/vtvcab6-on-sport-plus/${start}/${offset}", ❤VTV15|Thể Thao Tổng hợp
+#EXTINF:-1 tvg-id="onsportsplus" group-title="❤Khích📺2️⃣0️⃣2️⃣6️⃣|VTV" tvg-logo="https://i.ibb.co/Gx8VCVn/logo-vtv15-khichtv.png" catchup="append" catchup-days="2" catchup-iik="https://api.vthanhtivi.pw/v1/dvr/vieon/vtvcab6-on-sport-plus/${start}/${offset}", ❤VTV15|Thể Thao Tổng hợp
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 
 https://1.org.vn/Khichtivi-live-80-vtv15-fhd-index-m3u8
 #http://bentre5.hoangai.vn:8086/stream/b1RVOGdOM05helVRcHVlb0FwWnlWUT09/M1JRdFhVN3F4UmJQR0lYbmpQVTRnbDJhWFpITFlOcWM1TFl1OTVKMmhhd3BoVUhTVVk0NXJzcGVNVDFLVE03T0ZZbnFlOEQvN04xZDRkd29DVXFvd3k0bk5abHZoR3czck8vMlBOLzNBRnlkODUxZzhudUtTOTl5UGRTWkZhNTl6eVpKWkxzRmhzMFdsQTFDUHIxdVRRPT0=/khichtv/fhwuw@4216/playlist.mpegts
-#EXTINF:-1 tvg-id="kcinehd" group-title="❤2️⃣0️⃣2️⃣5️⃣|LIST KhichTiVi🛠|Box TV số DT 0355050296" tvg-logo="https://i.ibb.co/tqkNHGZ/2023-14-10-update-khichtv.png" catchup="append"catchup-days="2"catchup-source="https://code.khichivi.pw/xemlai/mytv/380/hd/dvr-${start}-${end}.m3u8",khích TiVi List IPTV VIP
+#EXTINF:-1 tvg-id="kcinehd" group-title="❤2️⃣0️⃣2️⃣6️⃣|LIST KhichTiVi🛠|Box TV số DT 0355050296" tvg-logo="https://i.ibb.co/tqkNHGZ/2023-14-10-update-khichtv.png" catchup="append"catchup-days="2"catchup-source="https://code.khichivi.pw/xemlai/mytv/380/hd/dvr-${start}-${end}.m3u8",khích TiVi List IPTV VIP
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://263.org.vn/Khichtv-vip-mien-phi-2025
-#EXTINF:-1 tvg-id="sctvhdpth" group-title="🇻🇳2️⃣0️⃣2️⃣5️⃣By Khích TiVi" tvg-logo="https://i.ibb.co/0sf14dc/Sctvphimtonghop.webp",KhichTiVi|SCTV Phim Tổng Hợp
+#EXTINF:-1 tvg-id="sctvhdpth" group-title="🇻🇳2️⃣0️⃣2️⃣6️⃣By Khích TiVi" tvg-logo="https://i.ibb.co/0sf14dc/Sctvphimtonghop.webp",KhichTiVi|SCTV Phim Tổng Hợp
 #EXTVLCOPT:http-user-agent=khíchtivi(Linux;Android 9)khích
 https://1.org.vn/Khíchvip📺-SCTV😉PHIM-TÔNG-HỢP-FHD-LIVE🔐
 
 #-""-update khích TiVi*-'-#
 
-#EXTINF:0 tvg-id="sctv15hd" group-title="❤️3️⃣0️⃣/1️⃣1️⃣/2️⃣0️⃣2️⃣5️⃣|UPDATE By khích📺" tvg-logo="https://i.ibb.co/grKqtMt/Up-Da-Te-khich-Tivi-png.jpg" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtc1_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8",UPDATE khích TiVi|⏰07:58:55|📆/30/11/2025 FHD
+#EXTINF:0 tvg-id="sctv15hd" group-title="❤️0️⃣1️⃣/0️⃣1️⃣/2️⃣0️⃣2️⃣6️⃣|UPDATE By khích📺" tvg-logo="https://i.ibb.co/grKqtMt/Up-Da-Te-khich-Tivi-png.jpg" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtc1_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8",UPDATE khích TiVi|⏰07:58:55|📆/01/01/2026 FHD
 https://1.org.vn/Khích📺🇻🇳-sctv15-FHD-LIVE🔐🤫
 
 #-*--THVL FHD-*--#
