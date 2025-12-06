@@ -1251,7 +1251,7 @@ https://live.la34.com.vn/la34/tv-transmux.m3u8
 https://live.fptplay53.net/epzsd1/tayninhhd_hls.smil/chunklist_b1800000.m3u8
 #https://cmcdp2.vtvdigital.vn/hls/TAYNINHTV/index.m3u8
 #EXTINF: -1 tvg-id = "thaibinh" group-title = "🇻🇳 Khích TiVi| Địa phương" tvg-logo = "https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/03/22/1vzivocp_thaibinh_296_168.webp", TBTV HD | TH Thái Bình
-#😭https://live.mediatech.vn/live/285fe61ba73072f428d8a626d764222e744/chunklist.m3u8
+https://vod.splay.uz/live_splay/original/Setanta3HD/playlist.m3u8
 #EXTINF: -1 tvg-id = "ninhthuan" group-title = "🇻🇳 Khích TiVi| Địa phương" tvg-logo = "https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/03/22/nt29fpd8_ninhthuan_296_168.png", NTV HD | TH Ninh Thuận
 https://live.mediatech.vn/live/28597f8fd7ea5064d0f84ab00b3699dfd86/playlist.m3u8
 #EXTINF: -1 tvg-id = "phutho" group-title = "🇻🇳 Khích TiVi| Địa phương" tvg-logo = "https://i.ibb.co/NS3HKWY/khichtv-logo-PTV-HD.png", PTV HD | TH Phú Thọ
@@ -1269,7 +1269,7 @@ https://live.fptplay53.net/epzsd1/quangbinh_hls.smil/chunklist.m3u8
 #EXTINF: -1 tvg-id = "quangtri" group-title = "🇻🇳 Khích TiVi| Địa phương" tvg-logo = "https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/06/17/ayvc9udv_quangtri_296_168.webp", QRTV FHD | TH Quảng Trị
 https://tructuyen.baoquangtri.vn:5443/LiveApp/streams/20VcR6dL2B9Krwob13486956694488871.m3u8
 #EXTINF: -1 tvg-id = "quangtri" group-title = "🇻🇳 Khích TiVi| Địa phương" tvg-logo = "https://i.ibb.co/qdKdydK/truyen-hinh-Quang-tri-khichtv.jpg", QRTV HD
-#😭http://quangtritv.vn/tv/tvvnpt2024.m3u8
+https://vod.splay.uz/live_splay/original/Setanta1HD/playlist.m3u8
 #EXTINF: -1 tvg-id = "quangtri" group-title = "🇻🇳 Khích TiVi| Địa phương" tvg-logo = "https://i.ibb.co/tJsvcP3/20231120-khichtv-QTritv.j http-user-age thểTH Quảng Trị SD
 #https://live.fptplay53.net/epzsd1/quangtri_hls.smil/chunklist.m3u8
 #EXTINF: -1 tvg-id = "quangnam" group-title = "🇻🇳 Khích TiVi| Địa phương" tvg-logo = "https://i.ibb.co/0BFDjS6/khichtv-logo-quang-nam.jpg", QRT FHD | TH Quảng Nam
@@ -1322,7 +1322,7 @@ https://live.huetv.com.vn/TRT-Online/playlist.m3u8
 #EXTINF: -1 tvg-id = "tiengiang" group-title = "🇻🇳 Khích TiVi| Địa phương" tvg-logo = "https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/01/14/zz2iq4do_tien-giang_296_168.webp", THTG HD | TH Tiền Giang
 http://123.25.238.45:1935/live/thtg/chunklist.m3u8
 #EXTINF: -1 tvg-id = "vinhphuc" group-title = "🇻🇳 Khích TiVi| Địa phương" tvg-logo = "https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/01/14/j8fjg1uj_vinh-phuc_296_168.webp", VP HD | TH Vĩnh Phúc
-#😭http://vinhphuctv.vn:8090/vinhphuclive/web.stream/playlist.m3u8
+https://vod.splay.uz/live_splay/original/Setanta2HD/playlist.m3u8
 #EXTINF: -1 tvg-id = "hungyen" group-title = "🇻🇳Khích TiVi|Địa phương" tvg-logo = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXb4spi7-IexQNZ41dWNjY1OosLyAIvCebWH2uiauGwQ&s", HYTV HD | TH Hưng Yên
 https://liveh12.vtvprime.vn/hls/HUNGYENTV/index.m3u8
 #EXTINF:-1 tvg-id="thaibinh" group-title="🇻🇳|Live Khích Tivi Đặt TV" tvg-logo="https://i.ytimg.com/vi/kifc_4Y-W8U/maxresdefault.jpg", ĐẶT 1 TV
