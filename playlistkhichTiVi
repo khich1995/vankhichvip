@@ -1320,7 +1320,7 @@ https://liveh12.vtvprime.vn/hls/HUE/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://live.huetv.com.vn/TRT-Online/playlist.m3u8
 #EXTINF: -1 tvg-id = "tiengiang" group-title = "🇻🇳 Khích TiVi| Địa phương" tvg-logo = "https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/01/14/zz2iq4do_tien-giang_296_168.webp", THTG HD | TH Tiền Giang
-http://123.25.238.45:1935/live/thtg/chunklist.m3u8
+https://vod.splay.uz/live_splay/original/Setanta1HD/playlist.m3u8
 #EXTINF: -1 tvg-id = "vinhphuc" group-title = "🇻🇳 Khích TiVi| Địa phương" tvg-logo = "https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/01/14/j8fjg1uj_vinh-phuc_296_168.webp", VP HD | TH Vĩnh Phúc
 https://vod.splay.uz/live_splay/original/Setanta2HD/playlist.m3u8
 #EXTINF: -1 tvg-id = "hungyen" group-title = "🇻🇳Khích TiVi|Địa phương" tvg-logo = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXb4spi7-IexQNZ41dWNjY1OosLyAIvCebWH2uiauGwQ&s", HYTV HD | TH Hưng Yên
