@@ -1224,7 +1224,7 @@ https://live.mediatech.vn/live/28597f8fd7ea5064d0f84ab00b3699dfd86/playlist.m3u8
 #EXTINF: -1 tvg-id = "ninhthuan" group-title = "🇻🇳 Khích TiVi| Địa phương" tvg-logo = "https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/03/22/nt29fpd8_ninhthuan_296_168.png", NTV HD | TH Ninh Thuận
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-#😭https://live.fptplay53.net/epzsd1/ninhthuan_hls.smil/chunklist_b1800000.m3u8
+https://live.sportstv.com.tr/hls/low/sportstv_hd/index.m3u8
 #EXTINF: -1 tvg-id = "ninhthuan" group-title = "🇻🇳 Khích TiVi| Địa phương" tvg-logo = "https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/03/22/nt29fpd8_ninhthuan_296_168.png", NTV FHD | TH Ninh Thuận
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3https://618b88f69e53b.streamlock.net/NTV/ntvtv/playlist.m3u8
