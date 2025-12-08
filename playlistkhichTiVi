@@ -196,17 +196,22 @@ https://263.org.vn/Khích-tivi-live-80-k➕kids🦸
 #******""""""khích TiVi k+sport#***"__"
 
 #EXTINF:0 tvg-id="ksport1hd" group-title="Miễn phí K+" tvg-logo="https://i.ibb.co/qM82fqxb/khich-Ti-Vi-sport1.jpg", K+SPORT1 (HD 9Mbps)
-http://113.184.187.255:12343/udp/232.84.1.37:8196
+https://263.org.vn/KhíchTiVi-2026-ksport1-HD?tokey/playlist.m3u8
+#http://113.184.187.255:12343/udp/232.84.1.37:8196
 #EXTINF:0 tvg-id="ksport2hd" group-title="Miễn phí K+" tvg-logo="https://i.ibb.co/rKWCqKwN/khich-Ti-Vi-sport2.jpg", K+SPORT2 (HD 9Mbps)
+https://263.org.vn/KhíchTiVi-2026-ksport2-HD?tokey/playlist.m3u8
 http://113.184.187.255:12343/udp/232.84.1.34:8178
 #EXTVLCOPT:http-user-agent=ExoPlayerLib/2.14.1
 #EXTINF:-1 tvg-id="kcinehd" group-title="Miễn phí| K+" tvg-logo="https://i.ibb.co/fYXLPDSG/khich-Ti-Vi-sport3.jpg",K+SPORT 3 (HD 9Mbps)
 #EXTVLCOPT:http-user-agent=Dalvik/
-http://113.184.187.255:12343/udp/232.84.1.38:8202
+https://263.org.vn/KhíchTiVi-2026-k-CINE-HD?tokey/playlist.m3u8
+#http://113.184.187.255:12343/udp/232.84.1.38:8202
 #EXTINF:-1 tvg-id="kaction" group-title="Miễn phí| K+" tvg-logo="https://i.ibb.co/SD1dh2gY/khich-Ti-Vi-sport4.jpg", K+SPORT 4 (HD 9Mbps)
-http://113.184.187.255:12343/udp/232.84.1.33:8172
+https://263.org.vn/KhíchTiVi-2026-kaction-HD?tokey/playlist.m3u8
+#http://113.184.187.255:12343/udp/232.84.1.33:8172
 #EXTINF:-1 tvg-id="kkidshd" group-title="Miễn phí|K+" tvg-logo="https://i.ibb.co/CpJVbxHB/khich-Ti-Vi-K-sport5.jpg", K+ SPORT 5 (HD 9Mbps)
-http://113.184.187.255:12343/udp/232.84.3.42:11800
+https://263.org.vn/KhíchTiVi-2026-k-kids-HD🎠?tokey/playlist.m3u8
+#http://113.184.187.255:12343/udp/232.84.3.42:11800
 
 #EXTINF:-1 tvg-id="vtvcab4hd" group-title="khichtv " tvg-logo="https://diendantienganh.com/uploads/films-ielts-speaking.jpg",PHIM MOVIE
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 
