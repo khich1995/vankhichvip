@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://lichphatsong.site/schedule/epg.xml" tvg-shift=0 cache=500 deinterlace=1 aspect-ratio=16:9 m3uautoload=1,https://vnepg.site/epg.xml.gz,http://epg.ra1n.lol/jp.xml,https://epg.pw/api/epg.json?lang=en&timezone=QXNpYS9WaWVudGlhbmU%3D&date=20250330&channel_id=368322,https://epg.pw/api/epg.xml?lang=en&timezone=QXNpYS9WaWVudGlhbmU%3D&date=20250330&channel_id=368322,https://akkradet.github.io/IPTV-THAI/guide.xml,https://epg.iill.top/epg" tvg-shift=0 m3uautoload=g1 đurl="=https://xemtv.vn/,https://xem.li/khichtiviplaylist⭐⭐⭐⭐⭐chính thức,https://lambassvn.github.io/"
+#EXTM3U url-tvg="https://lichphatsong.site/schedule/epg.xml",https://vnepg.site/epg.xml.gz,http://epg.ra1n.lol/jp.xml,https://epg.pw/api/epg.json?lang=en&timezone=QXNpYS9WaWVudGlhbmU%3D&date=20250330&channel_id=368322,https://epg.pw/api/epg.xml?lang=en&timezone=QXNpYS9WaWVudGlhbmU%3D&date=20250330&channel_id=368322,https://akkradet.github.io/IPTV-THAI/guide.xml,https://epg.iill.top/epg" tvg-shift=0 m3uautoload=g1 đurl="=https://xemtv.vn/,https://xem.li/khichtiviplaylist⭐⭐⭐⭐⭐chính thức,https://lambassvn.github.io/"
 
 #--*xem tiVi chúc các bạn xem vui vẻ cảm ơn nhé Link download➡️https://www.xiaomithaibinh.com/
 
@@ -204,7 +204,7 @@ https://263.org.vn/KhíchTiVi-2026-ksport1-HD?tokey/playlist.m3u8
 #http://113.184.187.255:12343/udp/232.84.1.37:8196
 #EXTINF:0 tvg-id="ksport2hd" group-title="Miễn phí K+" tvg-logo="https://i.ibb.co/rKWCqKwN/khich-Ti-Vi-sport2.jpg", K+SPORT2 (HD 9Mbps)
 https://263.org.vn/KhíchTiVi-2026-ksport2-HD?tokey/playlist.m3u8
-http://113.184.187.255:12343/udp/232.84.1.34:8178
+#http://113.184.187.255:12343/udp/232.84.1.34:8178
 #EXTVLCOPT:http-user-agent=ExoPlayerLib/2.14.1
 #EXTINF:-1 tvg-id="kcinehd" group-title="Miễn phí| K+" tvg-logo="https://i.ibb.co/fYXLPDSG/khich-Ti-Vi-sport3.jpg",K+SPORT 3 (HD 9Mbps)
 #EXTVLCOPT:http-user-agent=Dalvik/
