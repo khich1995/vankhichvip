@@ -2208,67 +2208,66 @@ https://u59llznvtrzh.enaak-cdn.com/hls2/01/01095/82z12glez05h_,l,n,h,.urlset/mas
 #EXTVLCOPT: http-user-agent = khichTivi
 https://stream.vovmedia.vn/vov1
 #EXTINF: -1 tvg-id = "KhichTivi Phím Hãy" group-title = "khichTivi 📻FM" tvg-logo = "https://foxxradio.com/upload/vi/1671787175.png" , 📻khich tivi VOV2 FM 
-https://stream.vovmedia.vn/vov2
+https://audio-lss.vov.vn/han/live/vov2/audio/haudio-eng.m3u8
 #EXTINF: -1 tvg-id = "KhichTivi Phím Hãy" group-title = "khichTivi 📻FM" tvg-logo = "https://media.vov.vn/sites/default/files/2020-12/vov3_2.png" , 📻 khich tivi VOV3 FM
-https://stream.vovmedia.vn/vov3
+https://audio-lss.vov.vn/han/live/vov3/audio/haudio-eng.m3u8
 #EXTINF: -1 tvg-id = "KhichTivi Phím Hãy" group-title = "khichTivi 📻FM" tvg-logo = "https://cdn.webrad.io/images/logos/vietnamradio-org/voh-fm.png" , 📻 khich TiVi VOH FM1
 https://strm.voh.com.vn/radio/channel3/playlist.m3u8
 #EXTINF: -1 tvg-id = "KhichTivi FM" group-title = "khichTivi 📻" tvg-logo = "https://cdn.webrad.io/images/logos/vietnamradio-org/voh-fm-95-6.png" , 📻 khich TiVi VOH FM 2
 https://strm.voh.com.vn/radio/channel1/playlist.m3u8
-#EXTINF: -1 tvg-id = "khichTiVi Phím Hãy" group-title = "khichTivi 📻FM" tvg-logo = "https://cdn.webrad.io/images/logos/vietnamradio-org/voh.png" ,📻 khich tivi VOH 3
+#EXTINF: -1 tvg-id = "khichTiVi FM" group-title = "khichTivi 📻FM" tvg-logo = "https://cdn.webrad.io/images/logos/vietnamradio-org/voh.png" ,📻 khich tivi VOH 3
 https://strm.voh.com.vn/radio/channel2/playlist.m3u8
 #EXTINF:-1 group-title="Radio" tvg-logo="https://mixbox.live/assets/img/mixbox_white.ac549d2.png", Mixbox Live Jpop
-https://code.vthanhtivi.pw/getlink/radio/mixbox/playlist.m3u8
+
 #EXTINF:-1 group-title="Radio" tvg-logo="https://photo-zmp3.zmdcdn.me/cover_rect/9/b/3/6/9b360620bb90cd4d5bb9ea4fda45d946.jpg", Xone Radio
 https://multi-playlist-zmp3.zmdcdn.me/Ce5_Z5JFx2c/zhls/playback-realtime/f9a40e7c3239db678228/index.m3u8
 #EXTINF:-1 group-title="Radio" tvg-logo="https://cdn.hqth.me/logo/thumbs/108.png", Bà Rịa Vũng Tàu
-http://113.163.216.23:1935/live/radio1.sdp_audio/playlist.m3u8
+
 #EXTINF:-1 group-title="Radio" tvg-logo="https://cdn.hqth.me/logo/thumbs/112.png", Bạc Liêu
 https://tv.thbl.vn/live/radio/radio.m3u8
 #EXTINF:-1 group-title="Radio" tvg-logo="https://cdn.hqth.me/logo/thumbs/111.png", Bắc Kạn
-http://14.224.167.97:8080/hls/radio.m3u8
+
 #EXTINF:-1 group-title="Radio" tvg-logo="https://bacninhtv.vn/images/thumbs/0000003334_a.png", Bắc Ninh
-http://118.107.85.4:1935/radio/bacninh_aac/playlist.m3u8
+https://live.mediatech.vn/live/285acd5e43b501e4c21b0af4e55810625c8/chunklist.m3u8
 #EXTINF:-1 group-title="Radio" tvg-logo="https://thbt.vn/public/Home/images/radiobt.gif", Bến Tre
-https://1012163901.vnns.net/bentre-FM.adm.480p.tms/playlist.m3u8
+
 #EXTINF:-1 group-title="Radio" tvg-logo="http://img.btv.org.vn:81/upload/vod/10112016/1478747759_kenhbtvRadiogif.gif", Bình Dương
 https://64d0d74b76158.streamlock.net:443/BTVR/binhthuanradio/chunklist_w1604506166.m3u8
 #EXTINF:-1 group-title="Radio" tvg-logo="https://baobinhphuoc.com.vn/upload/files/logo/audio_poster.jpg", Bình Phước
-https://live.baobinhphuoc.com.vn/bptvlive/radio.m3u8
+
 #EXTINF:-1 group-title="Radio" tvg-logo="https://cdn.hqth.me/logo/thumbs/124.png", Bình Thuận
-https://64d0d74b76158.streamlock.net/BTVR/binhthuanradio/chunklist_w1604506166.m3u8
+
 #EXTINF:-1 group-title="Radio" tvg-logo="http://118.69.199.136/wp-content/uploads/2014/01/radio_online.jpg", Cà Mau
-https://strm.voh.com.vn/radio/channel1/playlist.m3u8
+
 #EXTINF:-1 group-title="Radio" tvg-logo="https://canthotv.vn/wp-content/uploads/2018/02/973FM.jpg", Cần Thơ
-https://live.canthotv.vn/live/radio/chunklist_w1780522487.m3u8
+https://live.canthotv.vn/live/radio/chunklist_w961890671.m3u8
 #EXTINF:-1 group-title="Radio" tvg-logo="http://danangtv.vn/images/radio.png", Đà Nẵng
 https://live.mediatech.vn/live/2858a998b1c7fbf4522accd5554588ceae3/playlist.m3u8
 #EXTINF:-1 group-title="Radio" tvg-logo="https://mediadrt.mediatech.vn/upload/files/image/3654ffddce980fc65689.jpg", Đắk Lắk
-https://livept.drt.vn/409151048A90
+https://cdn.drt.vn/live/285054c4567dea54b3fb14bfd60d61230b5/chunklist.m3u8
 #EXTINF:-1 group-title="Radio" tvg-logo="https://image.voh.com.vn/voh/image/2023/12/26/logo-dai-dak-nong-app-174034.jpg?w=70&h=40", Đắk Nông
-https://cloudstreamthdn.tek4tv.vn/audio/daknong_radio/playlist.m3u8
+
 #EXTINF:-1 group-title="Radio" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/c/c5/%C4%90N-RTV.png", Đồng Nai
 http://118.107.85.5:1935/radio/dongnai_aac/playlist.m3u8
 #EXTINF:-1 group-title="Radio" tvg-logo="http://www.thdt.vn/wp-content/uploads/2018/11/logo2-1.png", Đồng Tháp
-https://64d0d74b76158.streamlock.net/THDTR/thdtradio/playlist.m3u8
+https://megasystems-6c680321cd.gw-dthcdn.com/thdtradio/index.m3u8
 #EXTINF:-1 group-title="Radio" tvg-logo="http://gialaitv.vn/data_news/images/audio12.gif", Gia Lai
-http://113.161.25.3:8134/hls/radio/radio.m3u8
+https://tv.gialaitv.vn/radio.m3u8
 #EXTINF:-1 group-title="Radio" tvg-logo="https://cdn.hqth.me/logo/thumbs/139.png", Hà Giang
-http://113.162.84.113:8081/
+
 #EXTINF:-1 group-title="Radio" tvg-logo="https://cdn.hqth.me/logo/thumbs/140.png", Hà Nam
-http://103.90.220.236/thhnlive/radio.m3u8
 #EXTINF:-1 group-title="Radio" tvg-logo="https://dug0nmhkbevod.vcdn.cloud/MAM/OVP/Image/Playlist/2022/11/04/logo/04112022110831/110832_z3846211079342_aa59839f019726c4b788c89d47e06ff5.jpg", Hà Nội FM 90
 https://cloudcdnfm90.tek4tv.vn/HANOIFM90/stream.m3u8
 #EXTINF:-1 group-title="Radio" tvg-logo="https://dug0nmhkbevod.vcdn.cloud/MAM/OVP/Image/Playlist/2022/11/04/logo/04112022110840/110840_z3846211089905_39c77a676e0692f17b29aa41d76314a1.jpg", Hà Nội FM 96
 https://cloudcdnfm90.tek4tv.vn/HANOI96/stream.m3u8
 #EXTINF:-1 group-title="Radio" tvg-logo="https://cdn.hqth.me/logo/thumbs/143.png", Hà Tĩnh
-https://wse.hatinhtv.net/radio/voht/playlist.m3u8
+
 #EXTINF:-1 group-title="Radio" tvg-logo="http://www.haiduongtv.com.vn/upload/news/icon//20.2018/1526269157_NENPHATTHANH.jpg", Hải Dương
-http://113.160.131.11:8000/
+
 #EXTINF:-1 group-title="Radio" tvg-logo="https://thhp.vn/common/v1/images/radio1.png", Hải Phòng FM 93.7Mhz
-https://live.thhp.vn/937/index.m3u8
+https://1253562137.e.cdneverest.net/oIQ53RKNnww2g5HKw3xH9A/1765771730/live/2853ef29ebf29c64155acb32d102dd69a4a/chunklist.m3u8
 #EXTINF:-1 group-title="Radio" tvg-logo="https://thhp.vn/common/v1/images/radio2.png", Hải Phòng FM 102.2Mhz
-https://live.thhp.vn/radio/102/index.m3u8
+https://1253562137.e.cdneverest.net/RI-j5dpdHMtS3-S1Mizn0Q/1765771994/live/285c1421f29d05045909836b37313898e2f/chunklist.m3u8
 #EXTINF:-1 group-title="Radio" tvg-logo="http://haugiangtivi.vn/public/Home/imghg/radio.gif", Hậu Giang
 https://60acee235f4d5.streamlock.net/HGTVR/hgtvradio/chunklist.m3u8
 #EXTINF:-1 group-title="Radio" tvg-logo="http://hungyentv.vn//templates/frontend/hytv/Assets/img/backgroud-radio.jpg", Hưng Yên
