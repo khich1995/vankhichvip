@@ -1710,9 +1710,9 @@ http://bxtv.3a.ink/api.php?id=popc
 #EXTINF:0 tvg-id="Qiyi" tvg-logo="https://i.ibb.co/BVYT2tnG/IQ-D-34849519.png" group-title="Quốc Tế", Qiyi
 https://live.catvod.com/live.php?id=Qiyi
 #EXTINF:0 tvg-id="bsntv" tvg-logo="https://static.wikia.nocookie.net/logos/images/d/d4/Celestial_Movies.png/revision/latest?cb=20220325092339&path-prefix=vi" group-title="Quốc Tế", Celestial Movies 🇬🇧
-https://live.catvod.com/live.php?id=Celestial
+https://live.catvod.com/live.php?id=Celestialindo
 #EXTINF:0 tvg-id="bstbs" tvg-logo="https://static.wikia.nocookie.net/logos/images/d/d4/Celestial_Movies.png/revision/latest?cb=20220325092339&path-prefix=vi" group-title="Quốc Tế", Celestial Movies🇰🇷
-https://live.catvod.com/live.php?id=Celestial2
+http://bxtv.3a.ink/api.php?id=Celestial2
 #EXTINF:0 tvg-id="bstbs" tvg-logo="https://static.wikia.nocookie.net/logos/images/d/d4/Celestial_Movies.png/revision/latest?cb=20220325092339&path-prefix=vi" group-title="Quốc Tế", Celestial Movies🇪🇹
 
 #EXTINF:0 tvg-id="" tvg-logo="https://i.ibb.co/Sy3YTxJ/hits-movies-logo.png" group-title="Quốc Tế",HITS
