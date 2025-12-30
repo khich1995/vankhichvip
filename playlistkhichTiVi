@@ -1630,8 +1630,10 @@ https://appletree-mytime-samsungbrazil.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="boxmovie1" group-title="📦||KhichTiviMovies" tvg-logo="https://i.ibb.co/7b7bwr2/20231124-khichtivi-cinemax.png" , cinemax fhd
 #EXTVLCOPT:http-user-agent=khichtivi
 https://k44991.kylintv.tv/live/chinamovie_iphone.m3u8
-#EXTINF:-1 tvg-id="inthebox" group-title="📦|KhichTiviMovies" tvg-logo="https://i.ibb.co/TtVn7rJ/20231124-khichtivi-star-movie.jpg",star move khichtv
+#EXTINF:-1 tvg-id="inthebox" group-title="📦|KhichTiviMovies" tvg-logo="https://i.ibb.co/TtVn7rJ/20231124-khichtivi-star-movie.jpg", START MOVIES Khích TiVi
 https://live.catvod.com/live.php?id=starmovies_raj
+EXTINF:-1 tvg-id="inthebox" group-title="📦|KhichTiviMovies" tvg-logo="https://i.ibb.co/B5HJskHv/khich-Ti-Vi-logo-STAR-MOVIES-SELECT.jpg",STAR MOVIES SELECT HD
+http://tv123.vvvv.ee/live.php/?ch=efb3e39a632
 #EXTINF:-1 tvg-id="boxhits" group-title="📦|KhichTiviMovies" tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/star-world-hd-logo-300x300.jpg",star world hd
 https://l.lioncdn.net/Discovery-Life/index.m3u8
 
