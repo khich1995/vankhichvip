@@ -1535,9 +1535,9 @@ https://zoomoo-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="hits" group-title="Quốc Tế" tvg-logo="https://i.ibb.co/5cx42Md/hits-khichtv.jpg", HITS
 https://4gtv.946985.filegear-sg.me/playlist?channel=HITS%E9%A0%BB%E9%81%93
 #EXTINF:-1 tvg-id="hits" group-title="Quốc Tế" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/391_144.png",HITS MOVIES
-https://tzh911.qzz.io/play-smt.php?id=Hitsmovie
+https://live.catvod.com/live.php?id=Hitsmovie
 #EXTINF:-1 tvg-id="hits" group-title="Quốc Tế" tvg-logo="https://img-zlr1.tv360.vn/image1/2020_09_23/1600822031726/ae85cde5214a_640_360.png", HITS khíchTV
-https://tzh911.qzz.io/play-smt.php?id=Hits
+http://bxtv.3a.ink/api.php?id=Hits
 #EXTINF:-1 tvg-id="hits" group-title="Quốc Tế" tvg-logo="https://i.ibb.co/4ZJ47RYV/HITS-Movies-logo-Khich-TV.png",HITS MOVIES khích TV
 https://smt.go-iptv.ggff.net/smart.php?id=Hits&token=Goiptv
 #EXTINF: -1 tvg-id = "moviebox" group-title = "📦 Khích TiVi|Movies Box " tvg-logo = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSq80fouu3RHBgf8eQ2AOOgy5L7zLjhKCRhlA&usqp=CAU",Movies Box 
@@ -1654,7 +1654,7 @@ https://live.tvfix.org/live/axn/index.m3u8
 https://live.catvod.com/live.php?id=TVN
 #EXTINF:-1 tvg-id="tvn" group-title="🎬|Khích TiVi Phim" tvg-logo="https://i.ibb.co/MGqP4h9/khich-tivi-logo-tv-N.jpg",TVN SV2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://fl3.moveonjoy.com/FXX/index.m3u8
+
 #EXTINF:0 tvg-id="tvmovie" tvg-name="" tvg-logo="https://i.ibb.co/hL4qgr1/logo-khichtv-tv-Nmovies.jpg" group-title="Khích TiVi Phim",TVN MOVES 🇺🇸
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://live.catvod.com/live.php?id=Tvnmovie
