@@ -1464,13 +1464,15 @@ https://d.org.vn/KhichTV-VIP-Music-Box-HD?id=289
 https://d.org.vn/Khichtivi-vip-Happy-Kids-hd?id=212
 #EXTINF:-1 tvg-id="drfithd" group-title="📦| In The Box" tvg-logo="https://www.intheboxtv.eu/content/uploads/2018/10/540x540_FIT3GIRLS_FRUITS.png", Dr.Fit
 #EXTVLCOPT:http-user-agent=Gia Hưng23=162
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3https://vnshort.com/KhichTV-dr-fit-hd-m3u8?id=162
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+https://vnshort.com/KhichTV-dr-fit-hd-m3u8?id=162
+
 #EXTINF:-1 tvg-id="planetearthhd" group-title="📦khích TiVi| In The Box" tvg-logo="https://i.ibb.co/qCrPwQS/khichtv-logo-Planet-Earth.png", Planet Earth
 #EXTVLCOPT:khíchTV=135
-https://d.org.vn/Khich-TiVi-VIP-80-Planet-Earth-HD?id=135
+https://d.org.vn/Khich-TiVi-VIP-80-Planet-Earth-HD
 #EXTINF:-1 tvg-id="womanhd" group-title="📦| In The Box" tvg-logo="https://i.ibb.co/WzcyfHX/khichtivi-2025-logo-WOMAN.png",Woman
 #EXTVLCOPT:khíchTV=163
-https://d.org.vn/KhichTV-VIP80-Woman-HD?id=163
+https://d.org.vn/KhichTV-VIP80-Woman-HD
 
 #****""'🎞️BOX In The Box *******#####
 
@@ -1484,7 +1486,7 @@ https://d.org.vn/Khichtv-online-2025-intheboxhd-index-m3u8
 #EXTINF: -1 tvg-id = "boxhollywood" group-title = "📦 Khích TiVi| In The Box" tvg-logo = "https://i.ibb.co/b7G07jh/Box1235-vbktv.jpg", Hollywood Classics👌khíchTV
 https://263.org.vn/Khích-online-2025-hollywoodclassichd-index-m3u8
 #EXTINF: -1 tvg-id = "boxhits" group-title = "📦 Khích TiVi| In The Box" tvg-logo = "https://i.ibb.co/BKMsB5N/images.jpg", Box Hits👌khíchTV
-https://263.org.vn/Khích-online-box-hits-hd-index-m3u8
+https://1.org.vn/Khichtv80boxhits-LIVE
 #EXTVLCOPT:http-user-agent=KhichTivi
 #EXTINF:-1 tvg-id="musicbox" group-title="🎞️|IN The Box" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/07/20/10/1689822939536/68d521f6938e_640_360.png" catchup="append" catchup-days="2" catchup-source="https://i.ibb.co/26C0FTb/KARTICA-BOXChannel-V1.jpg",Music Box HD 👌khíchTV
 #EXTVLCOPT:http-user-agent=KhichTivi
