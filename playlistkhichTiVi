@@ -1783,7 +1783,7 @@ https://live.catvod.com/live.php?id=Animax
 #EXTINF:-1 tvg-id="animaxhd" group-title="🌈KhichTivi | Hoạt hình" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/07/23/8wcri9wb_animax1e3f298dbfc93d461638c8b9594d25a3_296_168.webp", Animax sv2 HD🇻🇳
 #EXTVLCOPT:http-user-agent=KhichTivi
 https://nl.utako.moe/Animax/index.m3u8
-#EXTINF:-1 tvg-id="animaxhd" group-title="🌈KhichTivi | Hoạt hình" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/07/23/8wcri9wb_animax1e3f298dbfc93d461638c8b9594d25a3_296_168.webp", AT-X HD🇻🇳
+#EXTINF:-1 tvg-id="at-x" group-title="🌈KhichTivi | Hoạt hình" tvg-logo="https://i.ibb.co/Jjm57FMb/khich-Ti-Vi-logo-AT-X-png.png", AT-X HD🇻🇳
 #EXTVLCOPT:http-user-agent=KhichTivi
 https://nl.utako.moe/AT-X/index.m3u8
 #EXTINF:-1 tvg-id="animaxhd" group-title="🌈KhichTivi | Hoạt hình" tvg-logo="https://telik.live/images/tom_and_jerry.png",TOM_AND_JERRY  HD🇻🇳
@@ -1829,12 +1829,12 @@ https://ca-rt.onetv.app/gemkids/index-0.m3u8
 #EXTINF:-1 tvg-id="boomerang"group-title="🌈KhichTivi|Hoạt hình" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/01/15/ust9ctjd_boomerang_296_168.webp", Boomerang HD🇻🇳
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-user-agent=KhichTivi
-http://113.22.174.74:4001/udp/225.1.4.18:30120
+http://aismile.dpdns.org/play/14Akq6k5mrt7iwRXq7uVnu9K7JpMsRLuvGxn5ziALIk/ts
 #EXTINF:-1 tvg-id="boomerang" group-title="🌈 KhichTivi| Hoạt hình" tvg-logo="https://i.ibb.co/PZKX7wb/cn-logo-khichtv-2025.jpg", CN HD
 #EXTVLCOPT:http-user-agent=KhichTivi
 https://vodzong.mjunoon.tv:8087/streamtest/cartoon-network-87/playlist.m3u8
 #EXTINF:-1 tvg-id="cartoonhd" group-title="🌈 KhichTivi| Hoạt hình" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/07/23/asrg4hs1_cncc6e84f11e9ca107131bd23f571cfb8c_296_168.webp", Cartoon Network HD🇻🇳
-http://42.119.77.149:8989/udp/225.1.4.13:30120
+http://aismile.dpdns.org/play/14Akq6k5mrt7iwRXq7uVnh4o6mGwVz4faywIPft3_2A/ts
 #EXTINF:-1 tvg-id="cartoonhd" group-title="🌈 KhichTivi| Hoạt hình" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/07/23/asrg4hs1_cncc6e84f11e9ca107131bd23f571cfb8c_296_168.webp", Cartoon Network HD🇬🇾
 #EXTVLCOPT:http-user-agent=VKhichTivi
 https://fl3.moveonjoy.com/DISNEY_XD/index.m3u8
@@ -1843,14 +1843,14 @@ https://fl3.moveonjoy.com/DISNEY_XD/index.m3u8
 https://versatile-wildsidetv-1-fr.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="cartoonhd" group-title="🌈 KhichTivi| Hoạt hình" tvg-logo="https://i.imgur.com/QyOuOmc.png", Cartoon Network HD 🇻🇳
 #https://tv.ddns.vn/tv/cartoonhd/index.m3u8
-https://cdn4.skygo.mn/live/disk1/Cartoon_Network/HLSv3-FTA/Cartoon_Network.m3u8
+http://aismile.dpdns.org/play/14Akq6k5mrt7iwRXq7uVnh4o6mGwVz4faywIPft3_2A/ts
 #https://cdn1.skygo.mn/live/disk1/Cartoon_Network/HLS-FTA/Cartoon_Network.m3u8
 #EXTINF:-1 tvg-id="cartoonhd" group-title="🌈 KhichTivi| Hoạt hình" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/07/23/asrg4hs1_cncc6e84f11e9ca107131bd23f571cfb8c_296_168.webp", Cartoon Network HD🇪🇹
 https://canlitvulusal.xyz/live/cartoonnetwork/index.m3u8
 #EXTINF:-1 tvg-id="dreamworks" group-title="🌈KhichTivi| Hoạt hình" tvg-logo="https://i.ibb.co/YTHh0L6/khichtivi-logo-Dreamworks-HD.jpg", Dreamworks
 #EXTVLCOPT:http-user-agent=khíchivi
 #https://tv.ddns.vn/tv/dreamworks/index.m3u8
-http://42.119.77.149:8989/udp/225.1.4.39:30120
+http://aismile.dpdns.org/play/14Akq6k5mrt7iwRXq7uVngWB9O26irqZZFi1NWkpQsU/ts
 #EXTINF:-1 tvg-id="dreamworks" group-title="🌈KhichTivi| Hoạt hình" tvg-logo="https://i.ibb.co/hsJ3f9T/khichtv-logo-Dreamworks-FHD.jpg", Dreamworks
 #EXTVLCOPT:http-user-agent=khíchivi
 https://stmv6.voxtvhd.com.br/xtremacartoons/xtremacartoons/playlist.m3u8
@@ -1952,31 +1952,31 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/56
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #https://tv.ddns.vn/tv/discoveryhd/index.m3u8
-http://113.22.174.74:4001/udp/225.1.4.24:30120
+http://aismile.dpdns.org/play/14Akq6k5mrt7iwRXq7uVnstWoHMuycGx8ZEIClQ1xGo/ts
 #https://stream1.freetv.fun/5d6c81c3e9b6a8f7903ffec17167c6e110d691241fd47860a1b0abcf52da7b5e.m3u8
 #https://discoverfilm-discoverfilm-1-nl.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="discoveryasiahd" group-title="🌿KhichTivi| Khám phá" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrtOJ-ynV-fR2_rG95EQbDiZh20-UOIngS7pmunrxX2w&s" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/discoveryasia_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", Discovery Asia
 #EXTVLCOPT:http-user-agent=KhichTivi
 #EXTVLCOPT:http-user-https://mir-s3-cdn-cf.behance.net/projects/404/5539c052982045.Y3JvcCwyNDU4LDE5MjQsNzA0LDg0.pngagent=Dalvik/2.1.0
-http://42.119.77.149:8989/udp/225.1.4.25:30120
+http://aismile.dpdns.org/play/14Akq6k5mrt7iwRXq7uVnhRShs-MVJzUcOjkJ6ZNqm0/ts
 #https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
 #EXTINF:-1 tvg-id="historyhd" group-title="🌿KhichTivi| Khám phá" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsMfMUnua2wgMg4mbN0eZ9rtkVk8LKRSOoiSftMl-lLA&s", History HD
 #EXTVLCOPT:http-user-agent=KhichTivi
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #EXTVLCOPT:http-user-ag ítent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-http://42.119.77.149:8989/udp/225.1.4.24:30120
+http://aismile.dpdns.org/play/14Akq6k5mrt7iwRXq7uVniRNfTM-X6NXll2t4NhmGQU/ts
 #EXTINF:-1 tvg-id="ngwhd" group-title="🌿KhichTivi| Khám phá" tvg-logo="https://i.ibb.co/ts0F72r/207.jpg", Nat Geo Wild HD
 #EXTVLCOPT:http-user-agent=KhichTivi
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537
-http://42.119.77.149:8989/udp/225.1.4.24:30120
+http://aismile.dpdns.org/play/14Akq6k5mrt7iwRXq7uVniRNfTM-X6NXll2t4NhmGQU/ts
 #EXTINF:-1 tvg-id="ngwhd" group-title="🌿KhichTivi| Khám phá" tvg-logo="https://i.ibb.co/QQtK5w4/hq720.jpg", Natgeo HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-
+http://aismile.dpdns.org/play/14Akq6k5mrt7iwRXq7uVnptVh5vxqhitXxuMyTjpwBg/ts
 #EXTINF:-1 tvg-id="ngchd" group-title="🌿KhichTivi| Khám phá" tvg-logo="https://i.upanh.org/2024/01/11/1200px-DMAX_-_Logo_2016.svg5e31b8ce089544f6.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/natgeohd_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", DMAX HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.3
-
+http://aismile.dpdns.org/play/14Akq6k5mrt7iwRXq7uVnptVh5vxqhitXxuMyTjpwBg/ts
 #EXTINF:-1 tvg-id="outdoorfhd" group-title="🌿KhichTivi| Khám phá" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ29j8qPUAHn99RsVIdFjJV1ofPeemQKBY2TA&usqp=CAU", Outdoor Channel HD
 #EXTVLCOPT:http-user-agent=KhichTivi=216
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
