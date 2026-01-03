@@ -1289,10 +1289,11 @@ https://vod.splay.uz/live_splay/original/Setanta1HD/playlist.m3u8
 #https://live.fptplay53.net/epzsd1/quangtri_hls.smil/chunklist.m3u8
 #EXTINF: -1 tvg-id = "quangnam" group-title = "🇻🇳 Khích TiVi| Địa phương" tvg-logo = "https://i.ibb.co/0BFDjS6/khichtv-logo-quang-nam.jpg", QRT FHD | TH Quảng Nam
 #EXTVLCOPT: http-user-agent = khích Tivi
-http://113.161.6.157:8081/hls-live/livepkgr/_definst_/liveevent/livestream.m3u8
+https://live.catvod.com/live.php?id=Celestial2
 #EXTINF: -1 tvg-id = "quangnam" group-title = "🇻🇳 Khích TiVi| Địa phương" tvg-logo = "https://i.ibb.co/r6Z1XfC/Quang-Nam-khichtivi.jpg", QRT SD | TH Quảng Nam
 #EXTVLCOPT: http-user-agent = khích Tivi
-https://live.fptplay53.net/epzsd1/quangnam_hls.smil/chunklist.m3u8
+https://cdn10jtedge.indihometv.com/atm/DASH/hbohits/manifest.mpd
+#https://live.fptplay53.net/epzsd1/quangnam_hls.smil/chunklist.m3u8
 #EXTINF: -1 tvg-id = "quangngai" group-title = "🇻🇳 Khích TiVi| Địa phương" tvg-logo = "https://i.ibb.co/kVqS9dWc/QNg-TV-logo-2026-khich-Ti-Vi.webp", PTQ HD | TH Quảng Ngãi
 #EXTVLCOPT:http-user-agent=khichtivi
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
