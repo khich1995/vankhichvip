@@ -1293,11 +1293,11 @@ http://113.161.6.157:8081/hls-live/livepkgr/_definst_/liveevent/livestream.m3u8
 #EXTINF: -1 tvg-id = "quangnam" group-title = "🇻🇳 Khích TiVi| Địa phương" tvg-logo = "https://i.ibb.co/r6Z1XfC/Quang-Nam-khichtivi.jpg", QRT SD | TH Quảng Nam
 #EXTVLCOPT: http-user-agent = khích Tivi
 https://live.fptplay53.net/epzsd1/quangnam_hls.smil/chunklist.m3u8
-#EXTINF: -1 tvg-id = "quangngai" group-title = "🇻🇳 Khích TiVi| Địa phương" tvg-logo = "https://static.wikia.nocookie.net/logos/images/7/7b/PTQ_Quang_Ngai.png/revision/latest?cb=20211122101825&path-prefix=vi", PTQ HD | TH Quảng Ngãi
+#EXTINF: -1 tvg-id = "quangngai" group-title = "🇻🇳 Khích TiVi| Địa phương" tvg-logo = "https://i.ibb.co/kVqS9dWc/QNg-TV-logo-2026-khich-Ti-Vi.webp", PTQ HD | TH Quảng Ngãi
 #EXTVLCOPT:http-user-agent=khichtivi
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 https://live.mediatech.vn/live/285aaa79b4b265a457d81bb72bc32e2c114/chunklist.m3u8
-#EXTINF: -1 tvg-id = "quangngai" group-title = "🇻🇳 Khích TiVi| Địa phương" tvg-logo = "https://static.wikia.nocookie.net/logos/images/7/7b/PTQ_Quang_Ngai.png/revision/latest?cb=20211122101825&path-prefix=vi", PTQ HD SV2| TH Quảng Ngãi
+#EXTINF: -1 tvg-id = "quangngai" group-title = "🇻🇳 Khích TiVi| Địa phương" tvg-logo = "https://i.ibb.co/kVqS9dWc/QNg-TV-logo-2026-khich-Ti-Vi.webp", PTQ HD SV2| TH Quảng Ngãi
 #EXTVLCOPT:http-user-agent=khichtivi
 https://live.fptplay53.net/epzsd1/quangngai_hls.smil/chunklist_b1800000.m3u8
 #EXTINF: -1 tvg-id = "quangninh3" group-title = "🇻🇳 Khích TiVi| QTV" tvg-logo = "https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/11/08/urogkht3_quangninh1_296_168.webp", QTV1 HD | TH Quảng Ninh
