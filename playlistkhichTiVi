@@ -1133,12 +1133,12 @@ https://cloudstreamhntv.tek4tv.vn/events/HN2/playlist.m3u8
 https://wse.hatinhtv.net/live/httv1/playlist.m3u8
 #EXTINF: -1 tvg-id = "haiduong" group-title = "🇻🇳 Khích TiVi| Địa phương" tvg-logo = "https://i.ibb.co/h7y9GXk/hai-duong-khichtv.jpg", THD HD | TH hải dương
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://6241b84c81fd8af.cmccloud.com.vn/HaiduongTV/haiduongtv1.m3u8
+https://live.fptplay53.net/fnxsd1/haiphongplus_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="haiduong" group-title="Địa phương" tvg-logo="https://i.ibb.co/19x8KjC/144.png",Hải Dương HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #EXTVLCOPT:khichtivi=59
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://6241b84c81fd8af.cmccloud.com.vn/HaiduongTV/haiduongtv1.m3u8
+https://live.haiduongtv.vn/live/285857e204bb558402db3b431e183b6638d/playlist.m3u8
 #EXTINF: -1 tvg-id = "haiphong" group-title = "🇻🇳Khích TiVi|Địa phương" tvg-logo = "https://i.ibb.co/m83wrLb/hai-phong-khichtv.jpg", THP HD | TH Hải Phòng HD
 #EXTVLCOPT:khichtivi=60
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
