@@ -862,7 +862,7 @@ https://cdnet-cdn-01.onsports.vn/mean/QPTV/index.m3u8
 #EXTINF:-1 tvg-id="travinh" group-title="💛khich📺|Địa phương" tvg-logo="https://i.ibb.co/WKNcFMq/THTV-HD.png", THTV | Truyền Hình Trà Vinh
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;)
-https://60acee235f4d5.streamlock.net/THTV/travinhtv/playlist.m3u8
+https://live.catvod.com/live.php?id=Rockaction
 #EXTINF:-1 tvg-id="travinh2" group-title="💛khich📺|Địa phương" tvg-logo="https://i.ibb.co/TcDrQm0/khichtivi-logo-tra-vinh2-hd.png",Trà Vinh 2 HD|Khích📺
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;)
 https://cdnet-cdn-01.onsports.vn/mean/ANNINHTV/index.m3u8
@@ -1165,7 +1165,7 @@ https://hgtvdigital.vn/hls/backup.m3u8
 #EXTINF: -1 tvg-id = "tieniang" group-title = "🇻🇳 Khích TiVi| Địa phương" tvg-logo = "http://www.thtg.vn/wp-content/themes/thtg-mobile//img/thtg1.png", Tien Giang FHD
 #EXTVLCOPT: http-user-agent = KhichTivi
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-http://123.25.238.45:1935/live/thtg/playlist.m3u8
+#http://123.25.238.45:1935/live/thtg/playlist.m3u8
 #EXTINF: -1 tvg-id = "tieniang" group-title = "🇻🇳 Khích TiVi| Địa phương" tvg-logo = "https://i.ibb.co/BH9NkSrX/THTG-HD-logo-khichtivi.png", Tien Giang HD
 #EXTVLCOPT: http-user-agent = KhichTivi
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
@@ -1218,10 +1218,10 @@ https://live.fptplay53.net/fnxsd1/laocai_hls.smil/chunklist_b1800000.m3u8
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; Khichtivi) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://cdn10jtedge.indihometv.com/atm/DASH/hbosignature/manifest.mpd
+https://live.catvod.com/live.php?id=Tvnmovie
 #EXTINF:0 group-title="KÊNH ĐỊA PHƯƠNG" tvg-logo="https://i.imgur.com/5NaOctI.png", Long An FHD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://cdn.la34.com.vn/live/2851dc2c9af68834814a89e61db0faee561/playlist.m3u8
+https://live.catvod.com/live.php?id=Celestialindo
 #EXTINF: -1 tvg-id = "namdinh" group-title = "🇻🇳 Khích TiVi| Địa phương" tvg-logo = "https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/11/15/6fvhqoke_namdinhe7c082f8b4d11f98d788f2471c8e7c10_296_168.webp", NTV HD| TH Nam Định
 #EXTVLCOPT: http-user-agent = KhichTivi
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
