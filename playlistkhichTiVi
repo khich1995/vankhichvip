@@ -1867,11 +1867,11 @@ https://alphatvlive.siliconweb.com/1/Y2Rsd1lUcUVoajcv/UVdCN25h/hls/live/playlist
 #EXTINF:-1 tvg-id="wowowprime" group-title="KhichTivi|QT" tvg-logo="https://i.ibb.co/0Gs7gbp/Khich-TV-wowow-pirme.png", wowow prime
 
 #EXTINF:-1 tvg-id="babyfirst" group-title="KhichTivi|QT" tvg-logo="https://i.ibb.co/1Z3GK2f/Khich-TV-wowow-life.png", wowow LIFE
-http://113.22.174.74:4001/udp/225.1.2.52:30120
+http://aismile.dpdns.org/play/14Akq6k5mrt7iwRXq7uVns00_RlUk5AYGXi2ni0QRdw/ts
 #'x-"Kham phá-'"-'#
 
 #EXTINF:-1 tvg-id="babyfirst" group-title="KhichTivi|phim netmaxtv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjh-KAx1WGbDRmTxfN0ZK_UI7cP01sj1Fe7g&usqp=CAU",netTmaxtv
-http://42.119.77.149:8989/udp/225.1.4.23:30120
+http://aismile.dpdns.org/play/14Akq6k5mrt7iwRXq7uVns00_RlUk5AYGXi2ni0QRdw/ts
 #EXTINF:-1 tvg-id="boxmovie1" group-title="📦|FANDOM TV" tvg-logo="https://photos.live-tv-channels.org/tv-logo/us-fandom-tv.jpg",FANDOM TV
 https://livestar.siliconweb.com/media/star4/star4newhd.m3u8
 #EXTINF:-1 tvg-id="vtvcab22hd" group-title="💫| movie fone" tvg-logo="https://i.imgur.com/NxbbQCP.png", movie|fone|mihtv
@@ -1924,12 +1924,12 @@ https://helga.iptv2022.com/France24_fr/index.m3u8
 https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/master.m3u8?=khichtivi
 #EXTINF:-1 tvg-id="animalhd" group-title="🌿KhichTivi| Khám phá" tvg-logo="https://dpho.tmsimg.com/assets/p14248193_b_h9_af.jpg" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/animalplanet_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", Animal Planet🐘🇻🇳 FHD
 #https://tv.ddns.vn/tv/animalhd/index.m3u8
-http://113.22.174.74:4001/udp/225.1.4.209:30120
+http://aismile.dpdns.org/play/14Akq6k5mrt7iwRXq7uVnpKSBy52wQ9BVMq3QKtAkTU/ts
 #http://41.205.93.154/ANIMALPLANET/index.m3u8
 #EXTINF:-1 tvg-id="animalhd" group-title="🌿KhichTivi| Khám phá" tvg-logo="https://dpho.tmsimg.com/assets/p14248193_b_h9_af.jpg" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/animalplanet_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", Animal Planet🐘 FHD
 #EXTVLCOPT:http-user-agent=KhichTivi
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/ rtp mytv
-http://42.119.77.149:8989/udp/225.1.1.231:30120
+http://aismile.dpdns.org/play/14Akq6k5mrt7iwRXq7uVnpKSBy52wQ9BVMq3QKtAkTU/ts
 #EXTINF:-1 tvg-id="animalhd" group-title="🌿KhichTivi| Khám phá" tvg-logo="https://i.ibb.co/h1s6ZR1/Khich-Ti-Vi-Animal-Planet.jpg" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/animalplanet_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", Animal Planet HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
@@ -1942,7 +1942,7 @@ http://45.159.74.14/DiscoveryChannel/index.m3u8
 https://tv.tvcdnpotok.com/HPz43DAosS2tM-qybFNKRQ/224/1763417226/index.m3u8
 #EXTINF:-1 tvg-id="afnhd" group-title="KhichTivi🍽|Khám phá" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCH8SWhUeb_Hm6yw9VeLJ1SiTaPZDUA7vUTg&s",VIJU History  HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-
+http://aismile.dpdns.org/play/14Akq6k5mrt7iwRXq7uVnptVh5vxqhitXxuMyTjpwBg/ts
 #EXTINF:-1 tvg-id="discoveryhd" group-title="🌿KhichTivi| Khám phá" tvg-logo="https://seeklogo.com/images/D/discovery-channel-logo-21D063E22D-seeklogo.com.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/discovrery_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", Discovery
 #EXTVLCOPT:http-user-agent=KhichTivi
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
