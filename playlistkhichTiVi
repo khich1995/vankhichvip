@@ -176,8 +176,8 @@ https://263.org.vn/Khích-TiVi-Live-bún-chảtv-1-HD
 https://263.org.vn/Khich-TiVi-Live-bún-chảtv-2-HD
 #EXTINF:-1 tvg-id="kcinehd" group-title="khíchTV| K+" tvg-logo="https://i.ibb.co/8x6HNPN/Khich-plus-k-cine.png",K+CINE FULL HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-#https://263.org.vn/Khích-TiVi-Live-bún-chảtv-3-HD
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=53&checkedby:iptvcat.com
+https://263.org.vn/Khích-TiVi-Live-bún-chảtv-3-HD
+#https://stream.ads.ottera.tv/playlist.m3u8?network_id=53&checkedby:iptvcat.com
 #http://125hvt.ddns.net:21585/kcine/index.m3u8
 #EXTINF:-1 tvg-id="kaction" group-title="khíchTV| K+" tvg-logo="https://i.ibb.co/6JFbzkd/Khich-plus-k-Action.png", K+ACTION FULL HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
