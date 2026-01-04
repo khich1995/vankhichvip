@@ -1058,10 +1058,10 @@ http://118.107.85.4:1935/live/smil:DNTV1.smil/playlist.m3u8
 #EXTVLCOPT: http-user-agent = KhichTivi
 http://118.107.85.4:1935/live/smil:DNTV2.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="dongnai1" group-title="🇻🇳khích TiVi| Địa phương" tvg-logo="https://static.vieon.vn/vieplay-image/avatar/2020/12/15/v173295f_dong_nai_1.png",Đồng Nai 1 HD
-
+https://live.fptplay53.net/epzsd1//dongnai1_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="dongnai2" group-title="🇻🇳khích TiVi| Địa phương" tvg-logo="https://static.vieon.vn/vieplay-image/avatar/2020/12/15/zpy96yn8_dong_nai_2.png",Đồng Nai 2 HD
 #EXTVLCOPT: http-user-agent = KhichTivi
-
+https://live.fptplay53.net/epzsd1//dongnai2_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="dongnai3" group-title="🇻🇳khích TiVi| Địa phương" tvg-logo="https://static.vieon.vn/vieplay-image/avatar/2021/01/29/bttzmz2f_dongnai3.png",Đồng Nai 3 HD
 #EXTVLCOPT: http-user-agent = KhichTivi
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
