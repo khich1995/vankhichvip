@@ -181,9 +181,9 @@ https://263.org.vn/khichTiVi-live-FPT-play-ngoại-hạng-Anh
 
 #EXTINF:-1 tvg-id="ksport1hd" ugroup-title="K+ khichVip" tvg-logo="https://cdn-live.bunchatv.net/live-dev/cms/78bfe7bbd2f8b7151fe5703768aa1ea6.jpg", BÚN CHATV  FULL HD
 https://263.org.vn/Khích-TiVi-Live-bún-chảtv-1-HD
-#EXTINF:-1 tvg-id="ksport2hd" group-title="K+ khichTV" tvg-logo="https://cdn-live.bunchatv.net/live-dev/cms/f452c43d41735daafec7776624f04a8b.jpg ", THIÊN ĐINHTV FULL HD
+#EXTINF:-1 tvg-id="ksport2hd" group-title="K+ khichTV" tvg-logo="https://i.ibb.co/XZHnqGzC/khich-Ti-Vi-Logo-thien-dinhtv-png.png", THIÊN ĐINHTV 1 FULL HD
 https://263.org.vn/Khich-TiVi-Live-bún-chảtv-2-HD
-#EXTINF:-1 tvg-id="kcinehd" group-title="khíchTV| K+" tvg-logo="https://i.ibb.co/8x6HNPN/Khich-plus-k-cine.png",K+CINE FULL HD
+#EXTINF:-1 tvg-id="kcinehd" group-title="khíchTV| K+" tvg-logo="https://i.ibb.co/Swj0W9Zh/thien-dinhtv-logo-khichtv.png", THIÊN ĐINHTV 2 FULL HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://263.org.vn/Khích-TiVi-Live-bún-chảtv-3-HD
 #http://125hvt.ddns.net:21585/kcine/index.m3u8
