@@ -267,9 +267,7 @@ http://113.22.174.74:4001/udp/225.1.2.175:30120
 #https://proshls.wns.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="kcinehd" group-title="THỬ NHIỆM - Khích📺" tvg-logo="https://i.ibb.co/gMfMwFt0/logo-FPT-play-khichtv.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtc5_1000.stream/chunks_dvrqq_range-${start}-${offset}.m3u8",Khích TiVi FPT PLAY FHD
 #EXTVLCOPT:http-user-agent="KHICHTV"
-https://event.fptplay53.net/fnxch1/thethao19_mx.smil/chunklist_b6000000.m3u8
-#https://event.fptplay53.net/epzch1/thethao01_mx.smil/chunklist_b6000000.m3u8
-#https://event.fptplay53.net/fnxch1/thethao15_mx.smil/chunklist_b6000000.m3u8
+https://d.org.vn/Khích-TiVi-Live-FPT-PLAY-FHD-2026?token/playlist.m3u8
 #http://gs.jianghua.fun:7088/udp/239.77.0.122:5146
 #EXTINF:-1 tvg-id="kactionhd" group-title="THỬ NHIỆM - Khích📺" tvg-logo="https://i.ibb.co/20yC1Qh7/kh-ch-Ti-Vi-KSP4.jpg" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtc5_1000.stream/chunks_dvrqq_range-${start}-${offset}.m3u8",Khích Tivi K+SP4 FHD
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
