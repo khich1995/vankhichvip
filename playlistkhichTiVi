@@ -168,19 +168,19 @@ https://263.org.vn/khichTiVi-live-FPT-play-ngoại-hạng-Anh
 
 #_"_khich plus MYK+*""_**#############
 
-#EXTINF:-1 tvg-id="ksport1hd" ugroup-title="Live khichVip" tvg-logo="https://i.ibb.co/KcScWZmj/bun-chatv-logo-khichtv-png.png", BÚN CHATV  FULL HD
+#EXTINF:-1 tvg-id="bunchatvhd" ugroup-title="Live khichVip" tvg-logo="https://i.ibb.co/KcScWZmj/bun-chatv-logo-khichtv-png.png", BÚN CHATV  FULL HD
 https://263.org.vn/Khích-TiVi-Live-bún-chảtv-1-HD
-#EXTINF:-1 tvg-id="ksport2hd" group-title="Live khichTV" tvg-logo="https://i.ibb.co/XZHnqGzC/khich-Ti-Vi-Logo-thien-dinhtv-png.png", THIÊN ĐINHTV 1 FULL HD
+#EXTINF:-1 tvg-id="thiendinh1hd" group-title="Live khichTV" tvg-logo="https://i.ibb.co/XZHnqGzC/khich-Ti-Vi-Logo-thien-dinhtv-png.png", THIÊN ĐINHTV 1 FULL HD
 https://263.org.vn/Khich-TiVi-LiveThienĐinhTV-1-HD
-#EXTINF:-1 tvg-id="kcinehd" group-title="khíchTV| Live" tvg-logo="https://i.ibb.co/Swj0W9Zh/thien-dinhtv-logo-khichtv.png", THIÊN ĐINHTV 2 FULL HD
+#EXTINF:-1 tvg-id="thiendinh2hd" group-title="khíchTV| Live" tvg-logo="https://i.ibb.co/Swj0W9Zh/thien-dinhtv-logo-khichtv.png", THIÊN ĐINHTV 2 FULL HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://263.org.vn/Khích-TiVi-Live-Thien-DinhTV2-HD
 #http://125hvt.ddns.net:21585/kcine/index.m3u8
-#EXTINF:-1 tvg-id="kaction" group-title="khíchTV| Live" tvg-logo="https://i.ibb.co/BVVHkZMm/8sport-1-Live-logo-khichtv.jpg", 8SPORT 1 FULL HD
+#EXTINF:-1 tvg-id="8sporthd" group-title="khíchTV| Live" tvg-logo="https://i.ibb.co/BVVHkZMm/8sport-1-Live-logo-khichtv.jpg", 8SPORT 1 FULL HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://263.org.vn/Khích-TiVi-Live-8Sport1-HD
 #EXTINF:-1 tvg-id="kkidshd" group-title="Live" tvg-logo="https://i.imgur.com/nogNfPe.jpg", K+ KIDS FULL HD
-
+https://bglive.edgemaxcdn.org/live/bgtv_blv_aphu/playlist.m3u8
 #""_""khích TiVi K+TV360**""_""######
 
 #EXTINF:-1 tvg-id="kcinehd" group-title="khíchTV| K+" tvg-logo="https://i.ibb.co/FLYdTy1s/k-cine-2023-sctv-khichtv.png",K+CINE HD
