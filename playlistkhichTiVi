@@ -85,7 +85,7 @@ https://1.org.vn/Khíchvip📺-SCTV😉PHIM-TÔNG-HỢP-FHD-LIVE🔐
 
 #-""-update khích TiVi*-'-#
 
-#EXTINF:0 tvg-id="vtv1hd" group-title="❤️1️⃣3️⃣/0️⃣1️⃣/2️⃣0️⃣2️⃣6️⃣📡|UPDATE By khích📺" tvg-logo="https://i.ibb.co/grKqtMt/Up-Da-Te-khich-Tivi-png.jpg" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtc1_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8",UPDATE khích TiVi|⏰07:14:55|📆|13/01/2026 FHD
+#EXTINF:0 tvg-id="vtv1hd" group-title="❤️1️⃣4️⃣/0️⃣1️⃣/2️⃣0️⃣2️⃣6️⃣📡|UPDATE By khích📺" tvg-logo="https://i.ibb.co/grKqtMt/Up-Da-Te-khich-Tivi-png.jpg" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtc1_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8",UPDATE khích TiVi|⏰07:14:55|📆|14/01/2026 FHD
 https://1.org.vn/Khích📺🇻🇳-sctv15-FHD-LIVE🔐🤫
 
 #-*--THVL FHD-*--#
@@ -184,12 +184,9 @@ https://263.org.vn/Khích-TiVi-Live-8Sport1-HD?token/playlist.m3u8
 https://d.org.vn/Khích-TiVi-Live-8sport-2-HD?token/playlist.m3u8
 #EXTINF:-1 tvg-id="XoiLachd" group-title="Live" tvg-logo="https://i.ibb.co/chQpy5H5/xoilac-tv-logo-khichtv.png", XOILACTV FULL HD
 https://d.org.vn/Khích-TiVi-Live-xoilactv-Live?token/playlist.m3u8
-
-#""_""khích TiVi K+TV360**""_""######
-
-#EXTINF:-1 tvg-id="kcinehd" group-title="khíchTV| K+" tvg-logo="https://i.ibb.co/FLYdTy1s/k-cine-2023-sctv-khichtv.png",K+CINE HD
+#EXTINF:-1 tvg-id="xoilachd" group-title="khíchTV| Live" tvg-logo="https://i.ibb.co/k6zgJxhM/xoilac-logo-khichtv.png",XOILAC FULL HD
 #EXTVLCOPT:http-user-agent=Dalvik/
-
+https://263.org.vn/KhíchTV-Live-xoclactv-2
 #EXTINF:-1 tvg-id="kaction" group-title="khíchTV| K+" tvg-logo="https://i.ibb.co/rGjxkF34/k-action-2023-sctv-khichtv.webp", K+ACTION HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0http://aismile.dpdns.org/play/14Akq6k5mrt7iwRXq7uVnscSqc4xAFS0jvkkDDr1Za4/ts
 
