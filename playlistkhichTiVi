@@ -85,7 +85,7 @@ https://1.org.vn/Khíchvip📺-SCTV😉PHIM-TÔNG-HỢP-FHD-LIVE🔐
 
 #-""-update khích TiVi*-'-#
 
-#EXTINF:0 tvg-id="vtv1hd" group-title="❤️1️⃣4️⃣/0️⃣1️⃣/2️⃣0️⃣2️⃣6️⃣📡|UPDATE By khích📺" tvg-logo="https://i.ibb.co/grKqtMt/Up-Da-Te-khich-Tivi-png.jpg" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtc1_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8",UPDATE khích TiVi|⏰07:14:55|📆|14/01/2026 FHD
+#EXTINF:0 tvg-id="vtv1hd" group-title="❤️1️⃣5️⃣/0️⃣1️⃣/2️⃣0️⃣2️⃣6️⃣📡|UPDATE By khích📺" tvg-logo="https://i.ibb.co/grKqtMt/Up-Da-Te-khich-Tivi-png.jpg" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtc1_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8",UPDATE khích TiVi|⏰07:14:55|📆|15/01/2026 FHD
 https://1.org.vn/Khích📺🇻🇳-sctv15-FHD-LIVE🔐🤫
 
 #-*--THVL FHD-*--#
@@ -399,16 +399,16 @@ https://live.fptplay53.net/epzhd1/htvcthuanviethd_vhls.smil/chunklist_b5000000.m
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #EXTVLCOPT: http-user-agen= KhichTivi
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-
+https://liveh12byt.vtvprime.vn/hls/HTVCCANHAC/index.m3u8
 #EXTINF:-1 tvg-id="htvcgiadinhhd" group-tile="💛Khích📺| HTV" tvg-logo="https://static.vieon.vn/vieplay-image/avatar/2020/12/15/8gqjv4o5_htvc_gia_dinh.png",HTVC GIA ĐÌNH FHD
 #EXTVLCOPT: http-user-agent = KhichTivi
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://toiyeuvietnam.dpdns.org/CoBan/htvc-gia-dinh/TuyetDoiKhongKinhDoanh.m3u8
 #EXTINF:-1 tvg-id="htvcgiadinhhd" group-tile="💛Khích📺| HTV" tvg-logo="https://i.ibb.co/67Xqc0kB/Cartoonito-khichtv-logo.webp",CARTOONITO🧸 HD
-https://live.catvod.com/live.php?id=Nickelodeon
+https://liveh34.vtvprime.vn/hls/HTVGIADINH/03.m3u8
 #EXTINF:-1 tvg-id="htvcgiadinhhd" group-tile="💛Khích📺| HTV" tvg-logo="https://i.ibb.co/JFtCqrxt/Cartoon-Network-khichtvi-logo.webp",CN🎃 HD
-https://live.catvod.com/live.php?id=Cn
+https://liveh34.vtvprime.vn/hls/HTVPHUNU/index.m3u8
 #EXTINF:-1 group-title="💛Khích📺| HTV" tvg-id="htvcphunuhd" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2022/03/31/962h3dtj_htvcphunu_296_168.webp", HTVC PHU NỮ HD
 #EXTVLCOPT: http-user-agent = KhichTivi
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
