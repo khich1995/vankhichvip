@@ -1302,7 +1302,7 @@ https://cdn10jtedge.indihometv.com/atm/DASH/hbohits/manifest.mpd
 #EXTVLCOPT:http-user-agent=khichtivi
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 https://live.mediatech.vn/live/285aaa79b4b265a457d81bb72bc32e2c114/chunklist.m3u8
-#EXTINF: -1 tvg-id = "quangngai1" group-title = "🇻🇳 Khích TiVi| Địa phương" tvg-logo = "https://i.ibb.co/kVqS9dWc/QNg-TV-logo-2026-khich-Ti-Vi.webp", PTQ1 HD | TH Quảng Ngãi
+#EXTINF: -1 tvg-id = "quangngai" group-title = "🇻🇳 Khích TiVi| Địa phương" tvg-logo = "https://i.ibb.co/jP7JjDRm/QNg-TV1-logo-2026-khichtv.webp", PTQ1 HD | TH Quảng Ngãi
 #EXTVLCOPT:http-user-agent=khichtivi
 https://live.fptplay53.net/epzsd1/quangngai_hls.smil/chunklist_b1800000.m3u8
 #EXTINF: -1 tvg-id = "quangngai2" group-title = "🇻🇳 Khích TiVi| Địa phương" tvg-logo = "https://i.ibb.co/M5Jm7mjH/QNg-TV2-logo-2026-khichtv.webp", PTQ2 HD | TH Quảng Ngãi
