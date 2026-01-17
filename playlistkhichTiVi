@@ -168,8 +168,10 @@ https://263.org.vn/khichTiVi-live-FPT-play-ngoại-hạng-Anh
 
 #_"_khich Live*""_**#############
 
-#EXTINF:-1 tvg-id="bunchatvhd" ugroup-title="Live khichVip" tvg-logo="https://i.ibb.co/KcScWZmj/bun-chatv-logo-khichtv-png.png", BÚN CHATV  FULL HD
+#EXTINF:-1 tvg-id="bunchatvhd" ugroup-title="Live khichVip" tvg-logo="https://i.ibb.co/KcScWZmj/bun-chatv-logo-khichtv-png.png", BÚN CHATV 1  FULL HD
 https://263.org.vn/Khích-TiVi-Live-bún-chảtv-1-HD?token/playlist.m3u8
+#EXTINF:-1 tvg-id="bunchatvhd" ugroup-title="Live khichVip" tvg-logo="https://i.ibb.co/KcScWZmj/bun-chatv-logo-khichtv-png.png", BÚN CHATV 2 FULL HD
+https://263.org.vn/Khích-TiVi-Live-bún-chảtv2?token/playlist.m3u8
 #EXTINF:-1 tvg-id="thiendinh1hd" group-title="Live khichTV" tvg-logo="https://i.ibb.co/XZHnqGzC/khich-Ti-Vi-Logo-thien-dinhtv-png.png", THIÊN ĐINHTV 1 FULL HD
 https://263.org.vn/Khich-TiVi-LiveThienĐinhTV-1-HD?token/playlist.m3u8
 #EXTINF:-1 tvg-id="thiendinh2hd" group-title="khíchTV| Live" tvg-logo="https://i.ibb.co/Swj0W9Zh/thien-dinhtv-logo-khichtv.png", THIÊN ĐINHTV 2 FULL HD
