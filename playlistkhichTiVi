@@ -186,6 +186,9 @@ https://263.org.vn/Khích-TiVi-Live-8Sport1-HD?token/playlist.m3u8
 #EXTINF:-1 tvg-id="8sport2hd" group-title="khíchTV| Live" tvg-logo="https://i.ibb.co/RkYqkDpf/8sportlive.png", 8SPORT 2 FULL HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://d.org.vn/Khích-TiVi-Live-8sport-2-HD?token/playlist.m3u8
+#EXTINF:-1 tvg-id="8sport3hd" group-title="khíchTV| Live" tvg-logo="https://i.ibb.co/RkYqkDpf/8sportlive.png", 8SPORT 3 FULL HD
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://263.org.vn/Khích-Live-BL-Người-Kiên?token/playlist.m3u8
 #EXTINF:-1 tvg-id="XoiLachd" group-title="Live" tvg-logo="https://i.ibb.co/chQpy5H5/xoilac-tv-logo-khichtv.png", XOILACTV FULL HD
 https://d.org.vn/Khích-TiVi-Live-xoilactv-Live?token/playlist.m3u8
 #EXTINF:-1 tvg-id="xoilachd" group-title="khíchTV| Live" tvg-logo="https://i.ibb.co/k6zgJxhM/xoilac-logo-khichtv.png",XOILAC FULL HD
