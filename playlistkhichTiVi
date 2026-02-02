@@ -997,14 +997,14 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://64d0d74b76158.streamlock.net/BTVTV/binhthuantv/playlist.m3u8
 #EXTINF: -1 tvg-id = "binhthuan" group-title = "🇻🇳Khích TiVi|Địa phương" tvg-logo = "https://img.hplus.com.vn/460x260/poster/2018/06/06/707779-Binh-Thuan.png",Bình Thuận HD
-https://64d0d74b76158.streamlock.net/BTVTV/binhthuantv/playlist.m3u8
+
 #EXTINF: -1 tvg-id = "binhdinh" group-title = "🇻🇳Khích TiVi|Địa phương" tvg-logo = "http://binhdinhtv.vn/uploads/logoBTV.png",Bình Định FHD
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 #EXTVLCOPT:http-user-agent=Moliza
-http://truyenhinhbinhdinhonline.dynns.com:8086/live.m3u8
+
 #EXTINF: -1 tvg-id = "binhdinh" group-title = "🇻🇳Khích TiVi|Địa phương" tvg-logo = "http://binhdinhtv.vn/uploads/logoBTV.png",Bình Định
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://live.fptplay53.net/epzsd1//binhdinh_hls.smil/chunklist_b2500000.m3u8
+
 #EXTINF: -1 tvg-id = "camau" group-title = "🇻🇳Khích TiVi|Địa phương" tvg-logo = "https://static.vieon.vn/vieplay-image/avatar/2021/03/15/azxwra5f_camautv.png",Cà Mau HD
 #EXTVLCOPT: http-user-agent = KhichTivi
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
@@ -1015,9 +1015,9 @@ https://live.fptplay53.net/epzsd1/camau_hls.smil/chunklist_b1800000.m3u8
 
 #EXTINF: -1 tvg-id = "cantho" group-title = "🇻🇳Khích TiVi|Địa phương" tvg-logo = "https://static.vieon.vn/vieplay-image/avatar/2020/12/15/hx9rtms3_can_tho.png",Cần Thơ HD
 #EXTVLCOPT: http-user-agent = KhichTivi
-https://live.fptplay53.net/epzsd1/cantho_hls.smil/chunklist_b1800000.m3u8
+
 #EXTINF: -1 tvg-id = "cantho" group-title = "🇻🇳Khích TiVi|Địa phương" tvg-logo = "https://canthotv.vn/wp-content/uploads/2019/02/logo-headerTHTPCT5.png",Cần Thơ FHD
-https://live.canthotv.vn/live/tv_web/playlist.m3u8
+
 #EXTINF: -1 tvg-id = "caobang" group-title = "🇻🇳 Khích TiVi| Địa phương" tvg-logo = "https://i.ibb.co/hFSTFFc/127.jpg", CRTV HD | TH Cao Bằng
 #EXTVLCOPT: http-user-agent = KhichTivi
 http://118.107.85.4:1935/live/smil:CRTV.smil/chunklist_w994916281_b584000.m3u8
@@ -1054,7 +1054,7 @@ https://vtvgolive-daklak.vtvdigital.vn/live/285a27750861b964c27af22091662a74f2f/
 https://truyenhinh.vnptvas.vn/live.m3u8?c=vstv362&q=high&type=tv&token=LX-ibJYRUq9pflRtYAxfYQ&time=1586395820&gcId=1532&userId=&deviceId=&deviceType=&location=NA&requestTime=1586309420781&pkg=pkg11.hni
 #EXTINF: -1 tvg-id = "dienbien" group-title = "🇻🇳Khích TiVi|Địa phương" tvg-logo = "https://media-cdn-v2.laodong.vn/laodong/1.0.3.32/images/logo/ldo_red.png",Lao động HD
 #EXTVLCOPT:http-user-agent=Moliza
-https://vtvgolive-camau.vtvdigital.vn/kenhdp/dienbientv.m3u8
+
 #EXTINF: -1 tvg-id = "dienbien" group-title = "🇻🇳Khích TiVi|Địa phương" tvg-logo = "https://tvphapluat.vn/default/asset/img/z2566027766471_e1b5693123aeb3c83322c53cb85e1123-preview.png",Phát Luật TV HD
 
 #EXTINF:-1 tvg-id="dongnai1" group-title="🇻🇳khích TiVi| Địa phương" tvg-logo="https://static.vieon.vn/vieplay-image/avatar/2020/12/15/v173295f_dong_nai_1.png",Đồng Nai 1 VTC
@@ -1284,8 +1284,7 @@ https://live.mediatech.vn/live/28597f8fd7ea5064d0f84ab00b3699dfd86/playlist.m3u8
 http://bentre5.hoangai.vn:502/stream?url=https://cdn.3ssoft.vn/live/phuthotv/phuthotv/index.m3u8
 #EXTINF: -1 tvg-id = "phuyen" group-title = "🇻🇳 Khích TiVi| Địa phương" tvg-logo = "https://i.ibb.co/1Q8wzmV/khichtv-logo-phu-yen.jpg", PTP HD sv1 | TH Phú Yên
 #EXTVLCOPT: http-user-agent khíchTivi
-#EXTVLCOPT: http-user-agent=http://bentre5.hoangai.vn:502/stream?url=
-http://113.161.4.48:8080/phuyen/tv/index.m3u8
+https://1253218859.e.cdneverest.net/JX2fbhhxPSju-odQDzWc7w/1770089303/live/285f5449d7d7d2946e0bd2d54b7e60f25a4/playlist.m3u8
 #EXTINF:0 tvg-id="phuyen" group-title="Địa phương " tvg-logo="https://i.imgur.com/r2xMHkT.png",PTP HD sv2 _ TH Phú Yên
 https://live.fptplay53.net/epzsd1/phuyen_hls.smil/chunklist.m3u8
 #EXTINF: -1 tvg-id = "quangbinh" group-title = "🇻🇳 Khích TiVi| Địa phương" tvg-logo = "https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/03/22/ij08jiqu_quangbinhde0917e1443678e11e0767ba57c5daa4_296_168.webp", QBTV FHD | TH Quảng Bình
@@ -1314,7 +1313,7 @@ https://live.mediatech.vn/live/285aaa79b4b265a457d81bb72bc32e2c114/chunklist.m3u
 https://live.fptplay53.net/epzsd1/quangngai_hls.smil/chunklist_b1800000.m3u8
 #EXTINF: -1 tvg-id = "quangngai2" group-title = "🇻🇳 Khích TiVi| Địa phương" tvg-logo = "https://i.ibb.co/M5Jm7mjH/QNg-TV2-logo-2026-khichtv.webp", PTQ2 HD | TH Quảng Ngãi
 #EXTVLCOPT:http-user-agent=khichtivi
-http://khaitv.giize.com:8090/225.1.1.36:30120
+https://263.org.vn/Khích-TiVi-Live-QN2️⃣-HD? token.m3u8
 #EXTINF: -1 tvg-id = "quangninh3" group-title = "🇻🇳 Khích TiVi| QTV" tvg-logo = "https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/11/08/urogkht3_quangninh1_296_168.webp", QTV1 HD | TH Quảng Ninh
 https://live.fptplay53.net/fnxsd1/quangninh1_hls.smil/chunklist_b2500000.m3u8
 #EXTINF: -1 tvg-id = "quangninh1" group-title = "🇻🇳 Khích TiVi| Địa phương" tvg-logo = "https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/11/08/wb15fvsx_quangninh3_296_168.webp", QTV3 HD | TH Quảng Ninh
