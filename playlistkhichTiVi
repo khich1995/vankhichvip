@@ -1122,7 +1122,7 @@ http://123.31.36.68/live.m3u8?c=vstv365&q=high&type=tv&token=LX-ibJYRUq9pflRtYAx
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.vieon.vn/vieplay-image/avatar/2020/12/15/gimw30y2_ha_nam.png",Hà Nam HD
 #EXTVLCOPT:http-user-agent=khichtivi
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://cdn.hanamtv.vn/live/285361fcafcd0ec47bba2fa3f5870f8dc72/playlist.m3u8
+#https://cdn.hanamtv.vn/live/285361fcafcd0ec47bba2fa3f5870f8dc72/playlist.m3u8
 #EXTINF: -1 tvg-id = "hanoi1" group-title = "🇻🇳 Khích TiVi| Địa phương" tvg-logo = "https://mythuatyetkieu.edu.vn/wp-content/uploads/2022/09/lich-phat-song-hanoi-1.png", HanoiTV1 HD
 #EXTVLCOPT:http-user-ageEXTVLCOPTnt=Dalvik/2.1.0 
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
@@ -1379,7 +1379,7 @@ http://aismile.dpdns.org/play/14Akq6k5mrt7iwRXq7uVnpsBdYZE6jNIX3BsbwsylC0/ts
 #EXTINF:-1 tvg-id="hbohd" tvg-name="HBO" tvg-logo="https://i.ibb.co/NZLST1s/hbo-khich-Tivi-online-png.jpg" group-title="Quốc Tế",HBO khich TV Online🇻🇳
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.2
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.https://smt.passwdword.xyz/Smart.php?id=hbohd_twn
-http://akasaijr.myftp.org:21585/hbo/index.m3u8
+https://263.org.vn/Khích-TiVi-80-HBO4K?tokey/index.m3u8
 #EXTINF:-1 tvg-id="hbohitshd" tvg-name="HBO" tvg-logo="https://i.ibb.co/dJrV6SH/kh-ch-Ti-Vi-hbo-hits.jpg" group-title="Quốc Tế",HBO HITS khich TV Online🇻🇳
 #EXTVLCOPT:http-user-age onnt=Dalvik/2.1.2
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
