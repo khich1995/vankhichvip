@@ -1015,9 +1015,9 @@ https://live.fptplay53.net/epzsd1/camau_hls.smil/chunklist_b1800000.m3u8
 
 #EXTINF: -1 tvg-id = "cantho" group-title = "🇻🇳Khích TiVi|Địa phương" tvg-logo = "https://static.vieon.vn/vieplay-image/avatar/2020/12/15/hx9rtms3_can_tho.png",Cần Thơ HD
 #EXTVLCOPT: http-user-agent = KhichTivi
-
+https://live.canthotv.vn/live/tv/chunklist_w2099728268.m3u8
 #EXTINF: -1 tvg-id = "cantho" group-title = "🇻🇳Khích TiVi|Địa phương" tvg-logo = "https://canthotv.vn/wp-content/uploads/2019/02/logo-headerTHTPCT5.png",Cần Thơ FHD
-
+https://megasystems-6c680321cd.gw-dthcdn.com/haugiangtv/haugiangtv.m3u8
 #EXTINF: -1 tvg-id = "caobang" group-title = "🇻🇳 Khích TiVi| Địa phương" tvg-logo = "https://i.ibb.co/hFSTFFc/127.jpg", CRTV HD | TH Cao Bằng
 #EXTVLCOPT: http-user-agent = KhichTivi
 http://118.107.85.4:1935/live/smil:CRTV.smil/chunklist_w994916281_b584000.m3u8
@@ -1262,7 +1262,7 @@ https://live.canthotv.vn/live/tv/chunklist_w1230139181.m3u8
 #EXTINF: -1 tvg-id = "cantho" group-title = "🇻🇳Khích TiVi|Địa phương" tvg-logo = "https://i.ibb.co/JwLPqFVp/khichtv-logo-can-tho2.webp",Cần Thơ 2 FHD
 https://megasystems-6c680321cd.gw-dthcdn.com/haugiangtv/haugiangtv.m3u8
 #EXTINF: -1 tvg-id = "soctrang2" group-title = "🇻🇳 Khích TiVi| Địa phương" tvg-logo = "https://i.ibb.co/3yNY0bqN/khichtv-logo-can-tho3.png", Cần Thơ 3 FHD
-https://live.canthotv.vn/live/cs3/playlist.m3u8
+https://live.canthotv.vn/cs3/tv/playlist.m3u8
 #EXTINF: -1 tvg-id = "sonla" group-title = "🇻🇳 Khích TiVi| Địa phương" tvg-logo = "https://static.wikia.nocookie.net/logos/images/7/73/STV_Son_La.png/revision/latest/scale-to-width-down/1200?cb=20210107094712&path-prefix=vi", STV HD | TH Sơn La
 https://cdn.sonlatv.vn/live/28595222e707a364251b8724717894baa46/playlist.m3u8
 #EXTINF: -1 tvg-id = "longan" group-title = "🇻🇳 Khích TiVi| Địa phương" tvg-logo = "https://i.ibb.co/rBJQQ2W/TN-Tay-Ninh-TV-logo-khichtivi.webp", TAY NINHTV HD | TH tây ninh
