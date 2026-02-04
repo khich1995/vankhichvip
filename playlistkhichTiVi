@@ -1262,7 +1262,7 @@ https://live.canthotv.vn/live/tv/chunklist_w1230139181.m3u8
 #EXTINF: -1 tvg-id = "cantho" group-title = "🇻🇳Khích TiVi|Địa phương" tvg-logo = "https://i.ibb.co/JwLPqFVp/khichtv-logo-can-tho2.webp",Cần Thơ 2 FHD
 https://megasystems-6c680321cd.gw-dthcdn.com/haugiangtv/haugiangtv.m3u8
 #EXTINF: -1 tvg-id = "soctrang2" group-title = "🇻🇳 Khích TiVi| Địa phương" tvg-logo = "https://i.ibb.co/3yNY0bqN/khichtv-logo-can-tho3.png", Cần Thơ 3 FHD
-https://live.canthotv.vn/cs3/tv/playlist.m3u8
+https://freem3u.xyz/api/live/play.m3u8?vid=84
 #EXTINF: -1 tvg-id = "sonla" group-title = "🇻🇳 Khích TiVi| Địa phương" tvg-logo = "https://static.wikia.nocookie.net/logos/images/7/73/STV_Son_La.png/revision/latest/scale-to-width-down/1200?cb=20210107094712&path-prefix=vi", STV HD | TH Sơn La
 https://cdn.sonlatv.vn/live/28595222e707a364251b8724717894baa46/playlist.m3u8
 #EXTINF: -1 tvg-id = "longan" group-title = "🇻🇳 Khích TiVi| Địa phương" tvg-logo = "https://i.ibb.co/rBJQQ2W/TN-Tay-Ninh-TV-logo-khichtivi.webp", TAY NINHTV HD | TH tây ninh
