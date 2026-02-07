@@ -85,7 +85,7 @@ https://1.org.vn/Khíchvip📺-SCTV😉PHIM-TÔNG-HỢP-FHD-LIVE🔐
 
 #-""-update khích TiVi*-'-#
 
-#EXTINF:0 tvg-id="vtv1hd" group-title="❤️0️⃣7️⃣/0️⃣2️⃣/2️⃣0️⃣2️⃣6️⃣📡|UPDATE By khích📺" tvg-logo="https://i.ibb.co/grKqtMt/Up-Da-Te-khich-Tivi-png.jpg" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtc1_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8",UPDATE khích TiVi|⏰06:30:55|📆|07/02/2026 FHD
+#EXTINF:0 tvg-id="vtv1hd" group-title="❤️0️⃣8️⃣/0️⃣2️⃣/2️⃣0️⃣2️⃣6️⃣📡|UPDATE By khích📺" tvg-logo="https://i.ibb.co/grKqtMt/Up-Da-Te-khich-Tivi-png.jpg" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtc1_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8",UPDATE khích TiVi|⏰06:30:55|📆|08/02/2026 FHD
 https://1.org.vn/Khích📺🇻🇳-sctv15-FHD-LIVE🔐🤫
 
 #-*--THVL FHD-*--#
@@ -1311,7 +1311,7 @@ https://live.mediatech.vn/live/285aaa79b4b265a457d81bb72bc32e2c114/chunklist.m3u
 #EXTINF: -1 tvg-id = "quangngai" group-title = "🇻🇳 Khích TiVi| Địa phương" tvg-logo = "https://i.ibb.co/jP7JjDRm/QNg-TV1-logo-2026-khichtv.webp", PTQ1 HD | TH Quảng Ngãi
 #EXTVLCOPT:http-user-agent=khichtivi
 https://live.fptplay53.net/epzsd1/quangngai_hls.smil/chunklist_b1800000.m3u8
-#EXTINF: -1 tvg-id = "quangngai2" group-title = "🇻🇳 Khích TiVi| Địa phương" tvg-logo = "https://i.ibb.co/M5Jm7mjH/QNg-TV2-logo-2026-khichtv.webp", PTQ2 HD | TH Quảng Ngãi
+#EXTINF:-1 tvg-id="quangngai2" group-title="🇻🇳 Khích TiVi|Địa phương" tvg-logo="https://i.ibb.co/M5Jm7mjH/QNg-TV2-logo-2026-khichtv.webp", QNgTV2 - | TH Quảng Ngãi
 #EXTVLCOPT:http-user-agent=khichtivi
 https://263.org.vn/Khích-TiVi-Live-QN2️⃣-HD? token.m3u8
 #EXTINF: -1 tvg-id = "quangninh3" group-title = "🇻🇳 Khích TiVi| QTV" tvg-logo = "https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/11/08/urogkht3_quangninh1_296_168.webp", QTV1 HD | TH Quảng Ninh
