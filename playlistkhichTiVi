@@ -179,7 +179,9 @@ https://263.org.vn/Khich-TiVi-LiveThienĐinhTV-1-HD?token/playlist.m3u8
 #EXTINF:-1 tvg-id="thiendinh2hd" group-title="khíchTV| Live" tvg-logo="https://i.ibb.co/Swj0W9Zh/thien-dinhtv-logo-khichtv.png", THIÊN ĐINHTV 2 FULL HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://263.org.vn/Khích-TiVi-Live-Thien-DinhTV2-HD?token/playlist.m3u8
-#http://125hvt.ddns.net:21585/kcine/index.m3u8
+#EXTINF:-1 tvg-id="thiendinh3hd" group-title="khíchTV| Live" tvg-logo="https://i.ibb.co/vCWc4HLv/Khich-Ti-Vi-logo-thiendinhtv3.jpg", THIÊN ĐINHTV 3 FULL HD
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://w9lt1225.edgemaxcdn.org/live/tdtv_blv_taoyte/playlist.m3u8?khíchTiVi
 #EXTINF:-1 tvg-id="8sport1hd" group-title="khíchTV| Live" tvg-logo="https://i.ibb.co/BVVHkZMm/8sport-1-Live-logo-khichtv.jpg", 8SPORT 1 FULL HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://263.org.vn/Khích-TiVi-Live-8Sport1-HD?token/playlist.m3u8
