@@ -139,14 +139,14 @@ https://263.org.vn/Khích-TiVi-bóng-đá-live-7️⃣
 #,',khichtivi Mytv K+,"",**********###
 
 
-#EXTINF:-1 tvg-id="kcinehd" group-title="khíchTV| Live" tvg-logo="https://i.ibb.co/Jfz5MNc/kcinehd-logo-khichtivi.jpg", K+CINE
+#EXTINF:-1 tvg-id="hoiquan1hd" group-title="khíchTV| Live" tvg-logo="https://eamonocuiv.ie/wp-content/uploads/2025/10/cropped-cropped-logo-hoi-quan@4x-scaled-1.png", Hội Quán 1
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0  
 #EXTVLCOPT:http-user-agent=Player (Linux; Android 11) 
-https://1.org.vn/Khích📺online-k-cine-HD-LIVE
+https://263.org.vn/Khích-TiVi-Live-HQTV1?tiokey.m3u8
 #http://s1ali.myclip.vn/video8/2025/03/04/11/9dc4692e/9dc4692e-9e20-445b-b023-ace9abbb25ea_5_.m3u8
 #http://14.247.58.26:4022/rtp/232.84.1.38:8202
-#EXTINF:-1 id-xtream="56457" tvg-id="kaction" plan="khích TiVi,Live,VN,Basic" group-title="K+" tvg-logo="https://i.ibb.co/qrrD9GT/Khich-Ti-Vi-K-action.png", K+ACTION
-https://1.org.vn/Khích📺-online-kaction-HD-LIVE
+#EXTINF:-1 id-xtream="56457" tvg-id="kaction" plan="khích TiVi,Live,VN,Basic" group-title="K+" tvg-logo="https://eamonocuiv.ie/wp-content/uploads/2025/10/cropped-cropped-logo-hoi-quan@4x-scaled-1.png", Hội QuánTV 2
+https://263.org.vn/Khích-TiVi-Live-HQTV2?tokey.m3u8
 #http://113.177.113.147:4022/
 #http://s1ali.myclip.vn/video8/2025/03/26/11/a0669549/a0669549-44e4-43b5-a1b0-a5f93a4ebeac_5_.m3u8
 #EXTINF:-1 tvg-id="kkidshd" group-title="khichTV Bong Da" tvg-logo="https://i.ibb.co/wx01Dnx/khichtvbong-da-live-2026.jpg",K+KIDS
