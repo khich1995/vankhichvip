@@ -1593,12 +1593,12 @@ https://live.catvod.com/live.php?id=Rockaction
 #×-==_--÷HBO GO-'"'-#
 
 #EXTINF:-1 tvg-id="hbo" group-title="❤|HBO" tvg-logo="https://i.ibb.co/cx0DcJq/kh-ch-TV-logo-HBO.jpg", HBO FHD🇨🇳
-https://live.catvod.com/live.php?id=Hbo
+http://208.87.242.79/livehttpplay?channel_id=20093
 #EXTINF:-1 tvg-id="hbo" group-title="❤|HBO" tvg-logo="https://i.ibb.co/f4TSctD/Khichtv-hbo-hd.jpg", HBO HD🇨🇳
 https://live.catvod.com/live.php?id=Hbo
 #EXTINF:-1 tvg-id="hits" group-title="❤|HBO" tvg-logo="https://i.ibb.co/Tv3RzdF/HBO-HITS-Khich-TV.png", HBO HITS 
 #EXTINF:-1 tvg-id="hbohits" group-title="❤|HBO" tvg-logo="https://i.ibb.co/Tv3RzdF/HBO-HITS-Khich-TV.png", HBO HITS HD🇨🇳
-https://live.catvod.com/live.php?id=Hbohitshd
+http://208.87.242.79/livehttpplay?channel_id=20093
 #EXTINF:-1 tvg-id="hbofamily" group-title="❤|HBO" tvg-logo="https://i.ibb.co/YfkWh1p/Khich-TV-HBO-FAMILY.png", HBO FAMILY HD🇨🇳
 https://live.catvod.com/live.php?id=Hbofamily
 #EXTINF:-1 tvg-id="hbosignature" group-title="❤|HBO" tvg-logo="https://i.ibb.co/km8Tfkz/20231219-113613.jpg", HBO SINATUE HD🇨🇳
