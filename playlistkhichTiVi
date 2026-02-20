@@ -759,7 +759,7 @@ https://1.org.vn/Khíchtv-sctv19-mpd|Referer=http://sctvonline.vn/
 #EXTINF: -1 tvg-id = "sctv20hd" group-title = "💚 Khich TiVi | SCTV" tvg-logo = "https://i.ibb.co/3cZh5q4/SCTV20-logo-khichtv.webp", SCTV20 HD
 #EXTVLCOPT: http-user-agent = KhichTivi
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://1.org.vn/Khíctv-sctv21mpd
+https://1.org.vn/Khíchtv-sctv20-mpd
 #https://1.org.vn/Khíchtv-sctv20-mpd|Referer=http://sctvonline.vn/
 #EXTINF: -1 tvg-id = "sctv21hd" group-title = "💚 Khich TiVi | SCTV" tvg-logo = "https://i.ibb.co/HH40k1p/SCTV21-logo-khichtv.webp", SCTV21 HD
 #EXTVLCOPT: http-user-agent = KhichTivi
