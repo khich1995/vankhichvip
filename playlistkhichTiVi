@@ -85,7 +85,7 @@ https://1.org.vn/Khíchvip📺-SCTV😉PHIM-TÔNG-HỢP-FHD-LIVE🔐
 
 #-""-update khích TiVi*-'-#
 
-#EXTINF:0 tvg-id="vtv1hd" group-title="❤️2️⃣0️⃣/0️⃣2️⃣/2️⃣0️⃣2️⃣6️⃣📡|UPDATE By khích📺" tvg-logo="https://i.ibb.co/grKqtMt/Up-Da-Te-khich-Tivi-png.jpg" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtc1_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8",UPDATE khích TiVi|⏰07:50:53|📆|20/02/2026 FHD
+#EXTINF:0 tvg-id="vtv1hd" group-title="❤️2️⃣2️⃣/0️⃣2️⃣/2️⃣0️⃣2️⃣6️⃣📡|UPDATE By khích📺" tvg-logo="https://i.ibb.co/grKqtMt/Up-Da-Te-khich-Tivi-png.jpg" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtc1_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8",UPDATE khích TiVi|⏰07:50:53|📆|22/02/2026 FHD
 https://1.org.vn/Khích📺🇻🇳-sctv15-FHD-LIVE🔐🤫
 
 #-*--THVL FHD-*--#
@@ -149,10 +149,11 @@ https://263.org.vn/Khích-TiVi-Live-HQTV1?tiokey.m3u8
 https://263.org.vn/Khích-TiVi-Live-HQTV2?tokey.m3u8
 #http://113.177.113.147:4022/
 #http://s1ali.myclip.vn/video8/2025/03/26/11/a0669549/a0669549-44e4-43b5-a1b0-a5f93a4ebeac_5_.m3u8
-#EXTINF:-1 tvg-id="hoiquantv3hd" group-title="khichTV Bong Da" tvg-logo="https://i.ibb.co/wx01Dnx/khichtvbong-da-live-2026.jpg", Hội Quán 3
+#EXTINF:-1 tvg-id="hoiquantv3hd" group-title="khichTV Bong Da" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR20J3Y4mR2f0J4d4Is8VmB-ROJmVi4Zh8iurMslML0BQ&s=10", Hội Quán 3 HD
 https://263.org.vn/Khích-TiVi-Live-TDTV3?tokey/playlist.m3u8
-#EXTINF:0 tvg-id="ksport1hd" group-title="khichTiVi Live" tvg-logo="https://i.ibb.co/0VJ9k3X/logo-ksport1-hd-khich-plus.jpg", K+SPORT1
-https://1.org.vn/Khichtv-80-k-sport1-FHD
+#EXTINF:0 tvg-id="ksport1hd" group-title="khichTiVi Live" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRrFURSeSIVyZ5GidFSx8LIC_xKFaIXRSikdwAwF3PAA&s", Hội Quán 4 HD
+https://263.org.vn/Khích-TiVi-Live-TDTV4?tokey/playlist.m3u8
+#https://1.org.vn/Khichtv-80-k-sport1-FHD
 #http://113.177.113.147:4022/rtp/232.84.1.98:8562
 #https://canvato.net/9bRvp?=get:khichtivi=&k+ksport1hd
 #https://1.org.vn/Khichtv-80-k-sport1-FHD
