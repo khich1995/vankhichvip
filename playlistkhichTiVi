@@ -367,7 +367,7 @@ https://vc.101vn.com/htv/htvcmb.php?id=2528
 #EXTINF:-1 tvg-id="htv5" group-title="💛|Khích📺 HTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c3/HTV5_Bchannel.png",HTV5 FHD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://live.fptplay53.net/fnxsd1/btv9_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-id="htvkey" group-title="💛|Khích📺 HTV" tvg-logo="https://i.ibb.co/1hXN37r/logo-bolero-khichtv.jpg",HTV BOLERO
+#EXTINF:-1 tvg-id="htvkey" group-title="💛|Khích📺 HTV" tvg-logo="https://sf-static.upanhlaylink.com/img/image_2026022462f203581fd81942ea447fad2c5a5998.jpg",HTV6 HD BOLERO
 #EXTVLCOPT: http-user-agent = KhichTivi
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
