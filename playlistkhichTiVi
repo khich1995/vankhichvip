@@ -1597,23 +1597,23 @@ http://208.87.242.79/livehttpplay?channel_id=20093
 https://live.catvod.com/live.php?id=Hbo
 #EXTINF:-1 tvg-id="hits" group-title="❤|HBO" tvg-logo="https://i.ibb.co/Tv3RzdF/HBO-HITS-Khich-TV.png", HBO HITS 
 #EXTINF:-1 tvg-id="hbohits" group-title="❤|HBO" tvg-logo="https://i.ibb.co/Tv3RzdF/HBO-HITS-Khich-TV.png", HBO HITS HD🇨🇳
-http://208.87.242.79/livehttpplay?channel_id=20093
+https://hls.iill.top/api/HBO-Hits/index.m3u8
 #EXTINF:-1 tvg-id="hbofamily" group-title="❤|HBO" tvg-logo="https://i.ibb.co/YfkWh1p/Khich-TV-HBO-FAMILY.png", HBO FAMILY HD🇨🇳
-https://live.catvod.com/live.php?id=Hbofamily
+https://hls.iill.top/api/HBO-family/index.m3u8
 #EXTINF:-1 tvg-id="hbosignature" group-title="❤|HBO" tvg-logo="https://i.ibb.co/km8Tfkz/20231219-113613.jpg", HBO SINATUE HD🇨🇳
 https://live.catvod.com/live.php?id=Hbosignature
-#EXTINF:-1 tvg-id="cinemax" group-title="❤️| KÊNH Cinexam ASIA" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2022/08/04/ygyxarf0_cinemax_ngang_296_168.webp", CINEMAX 🇨🇳 
-https://live.catvod.com/live.php?id=Cinemax
+#EXTINF:-1 tvg-id="cinemax" group-title="❤️| KÊNH Cinexam ASIA" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2022/08/04/ygyxarf0_cinemax_ngang_296_168.webp", CINEMAX 🇨🇳  
+https://hls.iill.top/api/Cinemax/index.m3u8
 #EXTINF:-1 tvg-id="animax" group-title="❤️| KÊNH Cinexam ASIA" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2022/08/04/ygyxarf0_cinemax_ngang_296_168.webp", CINEMAX
 #EXTINF:-1 tvg-id="axn" group-title="🎬khichtivi| Giải trí" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2022/08/04/0z3i6qi1_axn_ngang6f7ad337e4ecb9e57fffad9974d05061_296_168.webp", AXN HD 🇨🇳
-https://live.catvod.com/live.php?id=Axn
+https://hls.iill.top/api/Axn/index.m3u8
 #https://streamer1.nexgen.bz/AXN/index.m3u8
 #EXTINF:-1 tvg-id="js2" group-title="🎬khichtivi| Giải trí" tvg-logo="https://i.ibb.co/DM9Bg20/axn-movies-khichtv.png",AXN MOVIES HD 🇨🇳
 https://fxtvhls.wns.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="js2" group-title="🎬khichtivi| Giải trí" tvg-logo="https://i.ibb.co/CKfZ5H1/axn-whte-khichtv.png",AXN WHITE HD 🇨🇳
 https://toonixhls.wns.live/hls/stream.m3u8
 #EXTINF: -1 tvg-id = "warnertvhd" group-title = "🎬 khichtivi| Giải trí" tvg-logo ="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/07/23/c37bx4qh_warner-tvd0ed4cb02178a26ee0b01a30f94e47e4_296_168.webp", Warner TV 🇨🇳
-https://live.catvod.com/live.php?id=WarnerTV
+https://hls.iill.top/api/WarnerTV/index.m3u8
 #https://smart.pendy.dpdns.org/Smart.php?id=Axn
 #EXTINF: -1 tvg-id = "warnertvhd" group-title = "🎬 khichtivi| Giải trí" tvg-logo ="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/07/23/c37bx4qh_warner-tvd0ed4cb02178a26ee0b01a30f94e47e4_296_168.webp", Warner TV US🇮🇴
 http://fl5.moveonjoy.com/AMC_NETWORK/index.m3u8
