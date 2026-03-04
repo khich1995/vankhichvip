@@ -802,10 +802,10 @@ https://wowza.danet.vn/live/vtv1/chunklist_w1842600950.m3u8
 #EXTINF:0 tvg-id="vtv2hd" group-title="Khích📺|VTV"tvg-logo="https://i.ibb.co/y4xbk7Z/khich-online-vtv2.jpg",khích📺 VTV2+ HD online
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://1.org.vn/Khichtv-go-vtv2-hd-mpd
+https://live.fptplay53.net/fnxch2/vtv1hd_abr.smil/chunklist.m3u8
 #https://thvip.site/vtv2/index.m3u8
 #EXTINF:0 tvg-id="vtv3hd" group-title="Khích📺|VTV"tvg-logo="https://i.ibb.co/YcjL05p/khichtv-logo-VTV3-PLUS.png",khích📺 VTV3+ HD online
-https://1.org.vn/Khichtv-go-vtv3-hd-mpd
+http://208.87.242.55/livehttpplay?channel_id=20187?=khichtv=vtv3/index.m3u8
 #EXTINF:0 tvg-id="vtv5hd" group-title="Khích📺VTC|VTV"tvg-logo="https://i.ibb.co/Xk44Tnq/khich-online-vtv5-plus.jpg",VTC VTV5+ HD online
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 https://live.fptplay53.net/epzhd1/vtv5hd_vhls.smil/chunklist.m3u8
