@@ -445,7 +445,7 @@ http://42.119.77.149:8989/udp/225.1.4.223:30120
 #EXTINF: -1 tvg-id = "htvcphimhd vieon" group-title = "💛Khích📺|vieOn" tvg-logo = "https://static.vieon.vn/vieplay-image/avatar/2020/12/15/km0yc4ss_htvc_phim.png",HTVC PHIM HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; Khichtivi) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-http://42.119.77.149:8989/udp/225.1.3.68:30120
+http://101.204.150.245:2715/udp/225.1.3.68:30120
 #EXTINF:-1 tvg-id="htvcphimhd ViettelTV" group-title="HTVc" tvg-logo="https://img-zlr1.tv360.vn/image1/2020/12/25/10/160886616399/c002b68d052e_640_360.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/htvcmovieshd_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", HTVC PLUS
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; KhichTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
@@ -2049,7 +2049,7 @@ https://strm.hdtvizlecanli.com/live/tlc.m3u8?=&khichtv
 #-"'-'Lao,thái,khmer''#
 
 #EXTINF:-1 tvg-id="tlchd" group-title="🎬KhichTivi| Giải trí" tvg-logo="https://dpho.tmsimg.com/assets/p12577921_b_h9_am.jpg" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/travelliving_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", TLC🇱🇷
-http://113.22.174.74:4001/udp/225.1.1.236:30120
+http://101.204.150.245:2715/udp/225.1.1.236:30120
 
 #--''--laoTV-'-*****#
 
