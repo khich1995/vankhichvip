@@ -1803,7 +1803,7 @@ http://66.160.192.241/cineboxcinehd/index.m3u8
 #EXTINF:-1 tvg-id="animaxhd" group-title="🌈KhichTivi | Hoạt hình" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/07/23/8wcri9wb_animax1e3f298dbfc93d461638c8b9594d25a3_296_168.webp", Animax sv1 HD🇻🇳
 #EXTVLCOPT:http-user-agent=KhichTivi
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://live.catvod.com/live.php?id=Animax
+http://208.87.242.55/livehttpplay?channel_id=20295
 #EXTINF:-1 tvg-id="animaxhd" group-title="🌈KhichTivi | Hoạt hình" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/07/23/8wcri9wb_animax1e3f298dbfc93d461638c8b9594d25a3_296_168.webp", Animax sv2 HD🇻🇳
 #EXTVLCOPT:http-user-agent=KhichTivi
 https://nl.utako.moe/Animax/index.m3u8
@@ -1887,7 +1887,7 @@ https://kedoo-supertoonstv-3-fr.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="wowowlive" group-title="KhichTivi|QT" tvg-logo="https://i.ibb.co/bsWg753/Wowow-live-khich-TV.png", wowow live
 https://alphatvlive.siliconweb.com/1/Y2Rsd1lUcUVoajcv/UVdCN25h/hls/live/playlist.m3u8
 #EXTINF:-1 tvg-id="wowowcinema" group-title="KhichTivi|QT" tvg-logo="https://i.ibb.co/jy1jFBz/Wowow-cinema.png", wowow cinema
-
+https://tv.iill.top/4gtv/4gtv-live017
 #EXTINF:-1 tvg-id="wowowprime" group-title="KhichTivi|QT" tvg-logo="https://i.ibb.co/0Gs7gbp/Khich-TV-wowow-pirme.png", wowow prime
 
 #EXTINF:-1 tvg-id="babyfirst" group-title="KhichTivi|QT" tvg-logo="https://i.ibb.co/1Z3GK2f/Khich-TV-wowow-life.png", wowow LIFE
