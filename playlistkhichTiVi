@@ -2175,25 +2175,24 @@ https://lb1-live-mv.v2h-cdn.com/hls/ffca/true24/true24.m3u8
 https://cdn10.163189.xyz/stream/163189/cctv1/
 #EXTINF:-1 group-title="CCTV" tvg-id="cctv2" tvg-logo="https://epg.iill.top/logo/CCTV2.png",CCTV2 FHD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://cdn10.163189.xyz/stream/163189/cctv2/
+http://111.56.90.5/000000000000/1000000001000023315/1.m3u8
 #EXTINF:-1 group-title="kênh CCTV3" tvg-id="DiemaSport3.bg" tvg-logo="https://epg.iill.top/logo/CCTV3.png",CCTV3 FHD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://cdn10.163189.xyz/stream/163189/cctv3/
+http://111.56.90.5/000000000000/1000000005000265003/1.m3u8
 #EXTINF:-1 group-title="kênh CCTV4" tvg-logo="https://epg.iill.top/logo/CCTV4.png",CCTV4 FHD
-https://cdn10.163189.xyz/stream/163189/cct4/
+http://36.6.151.53:8888/rtp/238.1.78.236:7760
 #EXTINF:-1 group-title="kênh CCTV5" tvg-logo="https://epg.iill.top/logo/CCTV5.png",CCTV5 FHD
-https://cdn10.163189.xyz/stream/163189/cctv5/
+http://111.56.90.5/000000000000/1000000005000025222/1.m3u8
 #EXTINF:-1 tvg-id="CCTV5+" tvg-name="CCTV" tvg-logo="https://epg.iill.top/logo/CCTV5+.png" group-title="•央视「IPV6」",CCTV5+ FHD
-
-#EXTINF:-1 group-title="kênh CCTV6"
-https://cdn10.163189.xyz/stream/163189/cctv6/
+http://111.56.90.5/000000000000/6000000001000015875/1.m3u8
+#EXTINF:-1 group-title="kênh CCTV6"" tvg-name="CCTV" tvg-logo="https://epg.iill.top/logo/CCTV6.png" group-title="•央视「IPV6」",CCTV6 FHD
+http://111.56.90.5/000000000000/1000000001000001737/1.m3u8
 #EXTINF:-1 group-title="CCTV7" tvg-logo="https://epg.iill.top/logo/CCTV7.png",CCTV7 FHD
-https://cdn10.163189.xyz/stream/163189/cctv7/
+http://111.56.90.5/000000000000/1000000001000024341/1.m3u8
 #EXTINF:-1 group-title="cctv8hd" tvg-logo="https://epg.iill.top/logo/CCTV8.png",CCTV8 FHD
-https://cdn10.163189.xyz/stream/163189/cctv8/
+http://111.56.90.5/000000000000/6000000001000001070/1.m3u8
 #EXTINF:-1 group-title="CCTV9" tvg-lorrrrgo="https://epg.iill.top/logo/CCTV9.png",CCTV9 FHD
-https://cdn10.163189.xyz/stream/163189/cctv9/
-
+http://111.56.90.5/000000000000/1000000001000014583/1.m3u8
 
 #'--'phim HAY'^-'*#
 
