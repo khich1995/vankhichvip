@@ -1669,17 +1669,18 @@ https://l.lioncdn.net/Discovery-Life/index.m3u8
 #"'"''& HBO MY 123@#@₫@@****#@,@
 
 #EXTINF:-1 tvg-id="hbo" group-title="📦|KhichTiviMovies" tvg-logo="https://e7.pngegg.com/pngimages/194/991/png-clipart-logo-hbo-now-design-television-angle.png",HBO
-https://live.relentlessinnovations.net:1936/afghannobel/afghannobel/chunklist_w1461869075.m3u8
+http://148.113.160.49:14188
 #EXTINF:-1 tvg-id="hbo2" group-title="📦|KhichTiviMovies" tvg-logo="https://logodix.com/logo/1265666.png",HBO2
-https://ca-rt.onetv.app/gemfilm/index-0.m3u8
+http://148.113.160.49:14187
 #EXTINF:-1 tvg-id="hbo3" group-title="📦|KhichTiviMovies" tvg-logo="https://www.mncvision.id/userfiles/image/channel/hbo_family.png",HBO
+http://148.113.160.49:14193
 #EXTINF:-1 tvg-id="hbo3" group-title="📦|KhichTiviMovies" tvg-logo="https://logodix.com/logo/1016114.jpg",HBO3
-https://l.lioncdn.net/Discovery-Channel/index.m3u8
+http://148.113.160.49:14180/
 #EXTINF:-1 tvg-id="hits" group-title="🎬|Khích TiVi Phim" tvg-logo="https://i-imgur-com.cdn.ampproject.org/i/s/i.imgur.com/6mHe4A7.png",Celestia HBO ACTION 🇬🇧
-https://l.lioncdn.net/HBO/index.m3u8
+http://148.113.160.49:14185
 #-'-phim Hành động-'-*
 #EXTINF:-1 tvg-id="hits" group-title="🎬|Khích TiVi Phim" tvg-logo="https://www.axn-asia.com/sites/axn-asia.com/files/logos/axn_0.png",AXN 🇬🇧
-https://live.tvfix.org/live/axn/index.m3u8
+http://148.113.160.49:14175
 #EXTINF:-1 tvg-id="tvn" group-title="🎬|Khích TiVi Phim" tvg-logo="https://i.ibb.co/MGqP4h9/khich-tivi-logo-tv-N.jpg",TVN SV1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 http://kent.dzzkent.top:4022/udp/239.125.1.140:4130
