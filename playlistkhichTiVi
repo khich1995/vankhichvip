@@ -1604,7 +1604,7 @@ https://hls.iill.top/api/HBO-Hits/index.m3u8
 #EXTINF:-1 tvg-id="hbofamily" group-title="❤|HBO" tvg-logo="https://i.ibb.co/YfkWh1p/Khich-TV-HBO-FAMILY.png", HBO FAMILY HD🇨🇳
 https://hls.iill.top/api/HBO-family/index.m3u8
 #EXTINF:-1 tvg-id="hbosignature" group-title="❤|HBO" tvg-logo="https://i.ibb.co/km8Tfkz/20231219-113613.jpg", HBO SINATUE HD🇨🇳
-https://live.catvod.com/live.php?id=Hbosignature
+http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=Hbosignature
 #EXTINF:-1 tvg-id="cinemax" group-title="❤️| KÊNH Cinexam ASIA" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2022/08/04/ygyxarf0_cinemax_ngang_296_168.webp", CINEMAX 🇨🇳  
 https://hls.iill.top/api/Cinemax/index.m3u8
 #EXTINF:-1 tvg-id="animax" group-title="❤️| KÊNH Cinexam ASIA" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2022/08/04/ygyxarf0_cinemax_ngang_296_168.webp", CINEMAX
@@ -1660,7 +1660,7 @@ https://k44991.kylintv.tv/live/chinamovie_iphone.m3u8
 #,,,,___---STAR MOVIES_STAR MOVIES SELECT#""__''#
 
 #EXTINF:-1 tvg-id="inthebox" group-title="📦|KhichTiviMovies" tvg-logo="https://i.ibb.co/Mk67K92Z/khich-Ti-Vi-logo-STAR-MOVIES-HD.jpg", START MOVIES Khích TiVi
-https://cdn9.163189.xyz/smt3.1.1.php?id=starmovies_raj
+http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=starmovies_raj
 #EXTINF:-1 tvg-id="inthebox" group-title="📦|KhichTiviMovies" tvg-logo="https://i.ibb.co/B5HJskHv/khich-Ti-Vi-logo-STAR-MOVIES-SELECT.jpg",STAR MOVIES SELECT HD
 https://263.org.vn/Khích-TiVi-STAR-MOVIES-SELECT
 #EXTINF:-1 tvg-id="boxhits" group-title="📦|KhichTiviMovies" tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/star-world-hd-logo-300x300.jpg",star world hd
@@ -1689,13 +1689,13 @@ http://kent.dzzkent.top:4022/udp/239.125.1.140:4130
 
 #EXTINF:0 tvg-id="tvmovie" tvg-name="" tvg-logo="https://i.ibb.co/hL4qgr1/logo-khichtv-tv-Nmovies.jpg" group-title="Khích TiVi Phim",TVN MOVES 🇺🇸
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://cdn9.163189.xyz/smt3.1.1.php?id=Tvnmovie
+http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=Tvnmovie
 #EXTINF:0 tvg-id="sone" tvg-name="" tvg-logo="https://images.indihometv.com/logo_sone_small.png?v=2.0.0.13" group-title="Khích TiVi Phim",sone🇺🇸
 https://cdn9.163189.xyz/smt3.1.1.php?id=One
 #https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/06862a07-6a92-4b4d-abc3-5fea131713b5/manifest.m3u8
 #EXTINF:0 tvg-id="kplus" tvg-name="" tvg-logo="https://images.indihometv.com/logo_kplus_ver2.png" group-title="KhíchTiVi",➕ plus🇺🇸
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://cdn9.163189.xyz/smt3.1.1.php?id=Kplus
+http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=Kplus
 #https://5ee1ec6f32118.streamlock.net/live/livetv/playlist.m3u8
 #EXTINF:0 tvg-id="tvasahi" tvg-name="" tvg-logo="https://i.ibb.co/MZkXS0Q/asiancrush-logo-khichtivi.png" group-title="Khích TiVi Phim",ASIANCRSH🇺🇸
 https://d32khooduen8y3.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-p170vbjf0s68a-ssai-prd/2e874342_9a2c_48e9_9066_7ab3a3284a80/hls/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name
@@ -1710,7 +1710,7 @@ http://epg.112114.xyz/douyu/20415
 https://cdn9.163189.xyz/smt3.1.1.php?id=meiyamovie_twn
 #https://cinehls.persiana.live/hls/stream.m3u8
 #EXTINF:0 tvg-id="tvasahi" tvg-name="" tvg-logo="https://i.ibb.co/tDHKvBy/meiyamovie.jpg" group-title="Khích TiVi Phim",ettvmovie|东森电影
-https://cdn9.163189.xyz/smt3.1.1.php?id=ettvmovie_twn
+http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=ettvmovie_twn
 #EXTINF:0 tvg-id="tvasahi" tvg-name="" tvg-logo="https://i.ibb.co/5xnJXwFP/warner-bros-movie-world-logo-twbc-au-by-yellowpen2009-dj3icqe-fullview.png" group-title="Khích TiVi Phim",hollywoodmovies
 https://cdn9.163189.xyz/smt3.1.1.php?id=hollywoodmovies_twn
 #EXTINF:-1 tvg-id="tokyomx" group-title="🎬|Khích TiVi"" tvg-logo=" https://kruketwimon.com/wp-content/uploads/2022/04/k-plus.png" group-title="Khích TiVi Phim",K Plus 🇺🇸
@@ -1736,11 +1736,11 @@ https://amg01259-lemeilleurducin-universcine-rakuten-bifrz.amagi.tv/hls/amagi_hl
 
 #EXTINF:0 tvg-id="nhkbs1" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/187_144.png" group-title="Quốc Tế", Celestial Classic 🇱🇷
 #EXTVLCOPT:http-user-agent=khichtv/19-03
-https://live.catvod.com/live.php?id==Celestial2
+http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=Celestial2
 #EXTINF:0 tvg-id="popc" tvg-logo="https://i.ibb.co/5Ww8CvZV/popc-logo-khichtv.png" group-title="Quốc Tế", POPC🇰🇷
 https://263.org.vn/Khích-TiVi-POPC-HD
 #EXTINF:0 tvg-id="Qiyi" tvg-logo="https://i.ibb.co/BVYT2tnG/IQ-D-34849519.png" group-title="Quốc Tế", Qiyi
-https://live.catvod.com/live.php?id=Qiyi
+http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=Qiyi
 #EXTINF:0 tvg-id="bsntv" tvg-logo="https://static.wikia.nocookie.net/logos/images/d/d4/Celestial_Movies.png/revision/latest?cb=20220325092339&path-prefix=vi" group-title="Quốc Tế", Celestial Movies 🇬🇧
 http://47.242.63.189/livehttpplay?channel_id=10130
 #EXTINF:0 tvg-id="bstbs" tvg-logo="https://static.wikia.nocookie.net/logos/images/d/d4/Celestial_Movies.png/revision/latest?cb=20220325092339&path-prefix=vi" group-title="Quốc Tế", Celestial Movies🇰🇷
@@ -1748,7 +1748,7 @@ http://bxtv.3a.ink/api.php?id=Celestial2
 #EXTINF:0 tvg-id="bstbs" tvg-logo="https://static.wikia.nocookie.net/logos/images/d/d4/Celestial_Movies.png/revision/latest?cb=20220325092339&path-prefix=vi" group-title="Quốc Tế", Celestial Movies🇪🇹
 
 #EXTINF:0 tvg-id="" tvg-logo="https://i.ibb.co/Sy3YTxJ/hits-movies-logo.png" group-title="Quốc Tế",HITS
-https://live.catvod.com/live.php?id=Hits
+http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=Hits
 #EXTINF:0 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXbmgNK8O5HWrs7vD2gu3oJuKnQyIAvA-HcRjQu_K45U_xqEE&s" group-title="Quốc Tế",NHK WORLD
 https://cdn.skygo.mn/live/disk1/NHK_World_Premium/HLSv3-FTA/NHK_World_Premium.m3u8
 #-'-***¥¥¥*Movies World-'-*¥¥¥#
@@ -1774,9 +1774,9 @@ https://ca-rt.onetv.app/gemdramaplus/index-0.m3u8
 
 #-'-wwe-'-khichTV*#
 #EXTINF:-1 tvg-id="🇺🇲713" tvg-logo="https://i.ibb.co/Y3DD8XX/WWE-khich-TV.png" group-title="Quốc Tế",WWE NETWORK Dự phòng 1
-https://cdn9.163189.xyz/smt3.1.1.php?id=Wwe&token=b300f503af56d33a1a6c40245ec88e2439290060f849aac6754ce4b3606f1543%3A1763650134%3AMjQwMjo4MDA6NjI3ZDpkZTMwOjFjZTg6NzQ3OTo4NjZmOjVlZjE%3D
+http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=Wwe&token=b300f503af56d33a1a6c40245ec88e2439290060f849aac6754ce4b3606f1543%3A1763650134%3AMjQwMjo4MDA6NjI3ZDpkZTMwOjFjZTg6NzQ3OTo4NjZmOjVlZjE%3D
 #EXTINF:-1 tvg-id="🇺🇲713" tvg-logo="https://i.ibb.co/MSWWmRP/khich-online-logo-WWE.jpg" group-title="Quốc Tế",WWE Dự phòng 2
-https://cdn9.163189.xyz/smt3.1.1.php?id=Wwe
+http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=Wwe
 #EXTINF:-1 tvg-id="🇺🇲713" tvg-logo="https://i.ibb.co/tstdsB8/khichtivi-wwe.jpg" group-title="Quốc Tế",WWE Dự phòng 3
 
 #EXTINF:-1 tvg-id="🇺🇲Free Online-Plex" tvg-logo="https://images.plex.tv/photo?size=large-1920&scale=1&url=https%3A%2F%2Fprovider-static.plex.tv%2Fepg%2Fcms%2Fproduction%2Fcc877603-18a8-4c48-a80e-2d8bdff0a12b%2FTNAWrestling_Plex_TalentLogo_3840x2160_-_Alex_Tushingham.jpg" group-title="Quốc Tế",TNA
