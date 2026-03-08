@@ -85,7 +85,7 @@ https://1.org.vn/Khíchvip📺-SCTV😉PHIM-TÔNG-HỢP-FHD-LIVE🔐
 
 #-""-update khích TiVi*-'-#
 
-#EXTINF:0 tvg-id="vtv1hd" group-title="❤️7️⃣/0️⃣3️⃣/2️⃣0️⃣2️⃣6️⃣📡|UPDATE By khích📺" tvg-logo="https://i.ibb.co/grKqtMt/Up-Da-Te-khich-Tivi-png.jpg" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtc1_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8",UPDATE khích TiVi|⏰09:27:53|📆|07/03/2026 FHD
+#EXTINF:0 tvg-id="vtv1hd" group-title="❤️9️⃣/0️⃣3️⃣/2️⃣0️⃣2️⃣6️⃣📡|UPDATE By khích📺" tvg-logo="https://i.ibb.co/grKqtMt/Up-Da-Te-khich-Tivi-png.jpg" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtc1_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8",UPDATE khích TiVi|⏰09:27:53|📆|09/03/2026 FHD
 https://1.org.vn/Khích-TV-Live-1V?tokey/index.m3u8
 
 #-*--THVL FHD-*--#
@@ -1604,7 +1604,7 @@ https://hls.iill.top/api/HBO-Hits/index.m3u8
 #EXTINF:-1 tvg-id="hbofamily" group-title="❤|HBO" tvg-logo="https://i.ibb.co/YfkWh1p/Khich-TV-HBO-FAMILY.png", HBO FAMILY HD🇨🇳
 https://hls.iill.top/api/HBO-family/index.m3u8
 #EXTINF:-1 tvg-id="hbosignature" group-title="❤|HBO" tvg-logo="https://i.ibb.co/km8Tfkz/20231219-113613.jpg", HBO SINATUE HD🇨🇳
-http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=Hbosignature
+http://47.242.63.189/livehttpplay?channel_id=20314
 #EXTINF:-1 tvg-id="cinemax" group-title="❤️| KÊNH Cinexam ASIA" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2022/08/04/ygyxarf0_cinemax_ngang_296_168.webp", CINEMAX 🇨🇳  
 https://hls.iill.top/api/Cinemax/index.m3u8
 #EXTINF:-1 tvg-id="animax" group-title="❤️| KÊNH Cinexam ASIA" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2022/08/04/ygyxarf0_cinemax_ngang_296_168.webp", CINEMAX
@@ -1806,8 +1806,8 @@ http://66.160.192.241/cineboxcinehd/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 http://208.87.242.55/livehttpplay?channel_id=20295
 #EXTINF:-1 tvg-id="animaxhd" group-title="🌈KhichTivi | Hoạt hình" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/07/23/8wcri9wb_animax1e3f298dbfc93d461638c8b9594d25a3_296_168.webp", Animax sv2 HD🇻🇳
-#EXTVLCOPT:http-user-agent=KhichTivi
-https://nl.utako.moe/Animax/index.m3u8
+#EXTVLCOPT:http-user-agent=Khichtv
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs25&checkedby:iptvcat.com
 #EXTINF:-1 tvg-id="at-x" group-title="🌈KhichTivi | Hoạt hình" tvg-logo="https://i.ibb.co/Jjm57FMb/khich-Ti-Vi-logo-AT-X-png.png", AT-X HD🇻🇳
 #EXTVLCOPT:http-user-agent=KhichTivi
 https://nl.utako.moe/AT-X/index.m3u8
