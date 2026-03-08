@@ -1660,7 +1660,7 @@ https://k44991.kylintv.tv/live/chinamovie_iphone.m3u8
 #,,,,___---STAR MOVIES_STAR MOVIES SELECT#""__''#
 
 #EXTINF:-1 tvg-id="inthebox" group-title="📦|KhichTiviMovies" tvg-logo="https://i.ibb.co/Mk67K92Z/khich-Ti-Vi-logo-STAR-MOVIES-HD.jpg", START MOVIES Khích TiVi
-http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=starmovies_raj
+http://208.87.242.79/livehttpplay?channel_id=20199
 #EXTINF:-1 tvg-id="inthebox" group-title="📦|KhichTiviMovies" tvg-logo="https://i.ibb.co/B5HJskHv/khich-Ti-Vi-logo-STAR-MOVIES-SELECT.jpg",STAR MOVIES SELECT HD
 https://263.org.vn/Khích-TiVi-STAR-MOVIES-SELECT
 #EXTINF:-1 tvg-id="boxhits" group-title="📦|KhichTiviMovies" tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/star-world-hd-logo-300x300.jpg",star world hd
@@ -1710,9 +1710,9 @@ http://epg.112114.xyz/douyu/20415
 https://cdn9.163189.xyz/smt3.1.1.php?id=meiyamovie_twn
 #https://cinehls.persiana.live/hls/stream.m3u8
 #EXTINF:0 tvg-id="tvasahi" tvg-name="" tvg-logo="https://i.ibb.co/tDHKvBy/meiyamovie.jpg" group-title="Khích TiVi Phim",ettvmovie|东森电影
-http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=ettvmovie_twn
+http://208.87.242.79/livehttpplay?channel_id=20080
 #EXTINF:0 tvg-id="tvasahi" tvg-name="" tvg-logo="https://i.ibb.co/5xnJXwFP/warner-bros-movie-world-logo-twbc-au-by-yellowpen2009-dj3icqe-fullview.png" group-title="Khích TiVi Phim",hollywoodmovies
-https://cdn9.163189.xyz/smt3.1.1.php?id=hollywoodmovies_twn
+http://208.87.242.79/livehttpplay?channel_id=20062
 #EXTINF:-1 tvg-id="tokyomx" group-title="🎬|Khích TiVi"" tvg-logo=" https://kruketwimon.com/wp-content/uploads/2022/04/k-plus.png" group-title="Khích TiVi Phim",K Plus 🇺🇸
 https://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8
 
