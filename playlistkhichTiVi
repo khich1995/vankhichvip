@@ -2202,13 +2202,13 @@ http://111.56.90.5/000000000000/1000000001000014583/1.m3u8
 #""''""kênh CETV*"*""*"#####@#
 
 #EXTINF:-1 group-title="CETV1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6Jf_RyqC9m64unItUSvhbFfwdxas2yULtKwU5ZPy8RS-Y6X5Dpi9rGQ&s",CETV1 FHD
-http://mingjd.cn:7077/rtp/233.50.201.75:5140
+http://38.75.136.137:98/gslb/dsdqpub/cetv1.m3u8?auth=testpub
 #EXTINF:-1 group-title="CETV2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREk5b5OkMh-3pWqVwIAp_RJ_XEs7YQK6F5mLLdtYJk2fngILuk8fU_lQ&s",CETV2 FHD
-http://mingjd.cn:7077/rtp/226.0.2.69:8464
+http://38.75.136.137:98/gslb/dsdqpub/cetv2.m3u8?auth=testpub
 #EXTINF:-1 group-title="CETV3" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTw4NHXcwhg2yLLwRogJEp5_Um51HRgicHHF2RcK5TR9A&s",CETV3 FHD
-http://mingjd.cn:7077/rtp/239.3.1.55:4120
+http://38.75.136.137:98/gslb/dsdqpub/cetv3.m3u8?auth=testpub
 #EXTINF:-1 group-title="CETV4" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1GG13Higvii5WD8NDgvymuF3af3z-2POUxiGlgR77dbgOWLTiyGTlyA&s",CETV4 FHD
-http://mingjd.cn:7077/rtp/232.0.0.239:1234
+http://38.75.136.137:98/gslb/dsdqpub/cetv4.m3u8?auth=testpub
 #EXTINF:-1 group-title="CETV5" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnTp8vH4PTZp7ZaL71UrFX17YmouHyaDam4uU9T4hFmA&s=10",CETV5 FHD
 
 
