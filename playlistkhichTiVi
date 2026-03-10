@@ -2190,7 +2190,7 @@ http://69.30.245.50/live/cctv5.m3u8
 http://43.152.31.17:843/hlslive-tx-cdn.ysp.cctv.cn/ysp/2024078001_dlna.m3u8
 #EXTINF:-1 group-title="kênh CCTV6" tvg-name="CCTV" tvg-logo="https://epg.iill.top/logo/CCTV6.png" group-title="•央视「IPV6」",CCTV6 FHD
 http://69.30.245.50/live/cctv6.m3u8
-#EXTINF:-1 tvg-id="CCTV6-phim hãy" tvg-name="CCTV" tvg-logo="-https://i.ibb.co/m5JWCzfw/khich-Ti-Vi-logo-cctv6.jpg" group-title="•央视「IPV6」",CCTV6 HD
+#EXTINF:-1 tvg-id="CCTV6-phim hãy" tvg-name="CCTV" tvg-logo="https://i.ibb.co/m5JWCzfw/khich-Ti-Vi-logo-cctv6.jpg" group-title="•央视「IPV6」",CCTV6 HD
 http://38.75.136.137:98/gslb/dsdqpub/cctv6hd.m3u8?auth=testpub
 #EXTINF:-1 group-title="CCTV7" tvg-logo="https://epg.iill.top/logo/CCTV7.png",CCTV7 FHD
 http://43.152.31.17:843/hlslive-tx-cdn.ysp.cctv.cn/ysp/2024072001_dlna.m3u8
