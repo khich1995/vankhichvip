@@ -2199,6 +2199,19 @@ http://43.156.8.127:5050/ysp?id=2026774101&pid=600156816&q=fhd
 #EXTINF:-1 group-title="CCTV9" tvg-lorrrrgo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnTp8vH4PTZp7ZaL71UrFX17YmouHyaDam4uU9T4hFmA&s=10",CCTV9 FHD
 http://111.56.90.5/000000000000/1000000001000014583/1.m3u8
 
+#""''""kênh CETV*"*""*"#####@#
+
+#EXTINF:-1 group-title="CETV1" tvg-lorrrrgo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6Jf_RyqC9m64unItUSvhbFfwdxas2yULtKwU5ZPy8RS-Y6X5Dpi9rGQ&s",CETV1 FHD
+http://113.16.153.111:8001/udp/239.81.0.92:4056
+#EXTINF:-1 group-title="CETV2" tvg-lorrrrgo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREk5b5OkMh-3pWqVwIAp_RJ_XEs7YQK6F5mLLdtYJk2fngILuk8fU_lQ&s",CETV2 FHD
+http://60.223.72.35:8001/rtp/226.0.2.69:8464
+#EXTINF:-1 group-title="CETV3" tvg-lorrrrgo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTw4NHXcwhg2yLLwRogJEp5_Um51HRgicHHF2RcK5TR9A&s",CETV3 FHD
+http://mingjd.cn:7077/rtp/239.3.1.55:4120
+#EXTINF:-1 group-title="CETV4" tvg-lorrrrgo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1GG13Higvii5WD8NDgvymuF3af3z-2POUxiGlgR77dbgOWLTiyGTlyA&s",CETV4 FHD
+http://175.169.61.77:8089/rtp/232.0.0.239:1234
+#EXTINF:-1 group-title="CETV5" tvg-lorrrrgo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnTp8vH4PTZp7ZaL71UrFX17YmouHyaDam4uU9T4hFmA&s=10",CETV5 FHD
+
+
 #'--'phim HAY'^-'*#
 
 #EXTINF:-1group-title="⚽️KhichTivi Phím Hãy" tvg-logo="https://i.ibb.co/5hP6Jnp/5cfa1877-4528-4b2d-a29e-4eb25549759c-720-405.jpg", 🎬Phim Băng Phong Hiệp
