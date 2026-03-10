@@ -2202,7 +2202,7 @@ http://111.56.90.5/000000000000/1000000001000014583/1.m3u8
 #""''""kênh CETV*"*""*"#####@#
 
 #EXTINF:-1 group-title="CETV1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6Jf_RyqC9m64unItUSvhbFfwdxas2yULtKwU5ZPy8RS-Y6X5Dpi9rGQ&s",CETV1 FHD
-http://38.75.136.137:98/gslb/dsdqpub/cetv1.m3u8?auth=testpub
+http://38.75.136.137:98/gslb/dsdqpub/cetv1hd.m3u8?auth=testpub
 #EXTINF:-1 group-title="CETV2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREk5b5OkMh-3pWqVwIAp_RJ_XEs7YQK6F5mLLdtYJk2fngILuk8fU_lQ&s",CETV2 FHD
 http://38.75.136.137:98/gslb/dsdqpub/cetv2.m3u8?auth=testpub
 #EXTINF:-1 group-title="CETV3" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTw4NHXcwhg2yLLwRogJEp5_Um51HRgicHHF2RcK5TR9A&s",CETV3 FHD
