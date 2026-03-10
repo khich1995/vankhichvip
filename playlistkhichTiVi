@@ -2196,73 +2196,72 @@ http://43.152.31.17:843/hlslive-tx-cdn.ysp.cctv.cn/ysp/2024072001_dlna.m3u8
 http://69.30.245.50/live/cctv8.m3u8
 #EXTINF:-1 group-title="cctv8khd" tvg-logo="https://i.imgur.com/fxVPMJF.png",CCTV8k FHD
 http://43.156.8.127:5050/ysp?id=2026774101&pid=600156816&q=fhd
-#EXTINF:-1 group-title="CCTV9" tvg-lorrrrgo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnTp8vH4PTZp7ZaL71UrFX17YmouHyaDam4uU9T4hFmA&s=10",CCTV9 FHD
+#EXTINF:-1 group-title="CCTV9" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnTp8vH4PTZp7ZaL71UrFX17YmouHyaDam4uU9T4hFmA&s=10",CCTV9 FHD
 http://111.56.90.5/000000000000/1000000001000014583/1.m3u8
 
 #""''""kênh CETV*"*""*"#####@#
 
-#EXTINF:-1 group-title="CETV1" tvg-lorrrrgo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6Jf_RyqC9m64unItUSvhbFfwdxas2yULtKwU5ZPy8RS-Y6X5Dpi9rGQ&s",CETV1 FHD
-http://113.16.153.111:8001/udp/239.81.0.92:4056
-#EXTINF:-1 group-title="CETV2" tvg-lorrrrgo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREk5b5OkMh-3pWqVwIAp_RJ_XEs7YQK6F5mLLdtYJk2fngILuk8fU_lQ&s",CETV2 FHD
+#EXTINF:-1 group-title="CETV1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6Jf_RyqC9m64unItUSvhbFfwdxas2yULtKwU5ZPy8RS-Y6X5Dpi9rGQ&s",CETV1 FHD
+http://59.44.36.237:6610/ZTE_EPG16/2/9244?virtualDomain=.live_hls.zte.com
+#EXTINF:-1 group-title="CETV2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREk5b5OkMh-3pWqVwIAp_RJ_XEs7YQK6F5mLLdtYJk2fngILuk8fU_lQ&s",CETV2 FHD
 http://60.223.72.35:8001/rtp/226.0.2.69:8464
-#EXTINF:-1 group-title="CETV3" tvg-lorrrrgo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTw4NHXcwhg2yLLwRogJEp5_Um51HRgicHHF2RcK5TR9A&s",CETV3 FHD
+#EXTINF:-1 group-title="CETV3" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTw4NHXcwhg2yLLwRogJEp5_Um51HRgicHHF2RcK5TR9A&s",CETV3 FHD
 http://mingjd.cn:7077/rtp/239.3.1.55:4120
-#EXTINF:-1 group-title="CETV4" tvg-lorrrrgo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1GG13Higvii5WD8NDgvymuF3af3z-2POUxiGlgR77dbgOWLTiyGTlyA&s",CETV4 FHD
+#EXTINF:-1 group-title="CETV4" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1GG13Higvii5WD8NDgvymuF3af3z-2POUxiGlgR77dbgOWLTiyGTlyA&s",CETV4 FHD
 http://175.169.61.77:8089/rtp/232.0.0.239:1234
-#EXTINF:-1 group-title="CETV5" tvg-lorrrrgo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnTp8vH4PTZp7ZaL71UrFX17YmouHyaDam4uU9T4hFmA&s=10",CETV5 FHD
+#EXTINF:-1 group-title="CETV5" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnTp8vH4PTZp7ZaL71UrFX17YmouHyaDam4uU9T4hFmA&s=10",CETV5 FHD
 
 
 #'--'phim HAY'^-'*#
 
 #EXTINF:-1group-title="⚽️KhichTivi Phím Hãy" tvg-logo="https://i.ibb.co/5hP6Jnp/5cfa1877-4528-4b2d-a29e-4eb25549759c-720-405.jpg", 🎬Phim Băng Phong Hiệp
-http://vod-zlr2.tv360.vn/video1/2021/10/01/10/9383adae/9383adae-ff9e-424b-8b4c-934e9ae5eed6_2_.m3u8
-#EXTINF: -1 group-title = "⚽️KhichTivi Phím Hãy" tvg-logo = "https://i.ibb.co/zsFBVWt/3p2pjhse-1920x1080-huyenthoaimuaythai.jpg", 🎬Phim Huyền Thoại Muay Thái: 9 Mảnh Ghép Thần Kỳ
-http://vod-zlr2.tv360.vn/video1/2020/12/05/23/60be1693/60be1693-aec1-4f28-8ada-e80d0fc05bff_3_.m3u8
+
+#EXTINF: -1 group-title = "⚽️KhichTivi Phím Hãy" tvg-logo = "https://i.ibb.co/zsFBVWt/3p2pjhse-1920x1080-huyenthoaimuaythai.jpg", 🎬Phim Huyền Thoại Muay Thái: 9 Mảnh Ghép Thần 
+
 #EXTINF:-1 group-title="🎞| khichyivi phim" tvg-logo="https://i.ibb.co/cXkp86t/images-2.jpg",🎬Phím khich tivi PHIM Đô Rê Mon: Đôi Bạn Thân
-http://vod-zlr2.tv360.vn/video1/2020/09/23/10/d4f76633/d4f76633-8be2-4146-b3f3-8ecf8e07d76b_1_.m3u8
+
 #EXTINF:-1 group-title="🎞| khichyivi phim" tvg-logo="https://i.ibb.co/cYFXRtY/images-5.jpg",🎬Phim khich tivi PHIM 2 Bí Mật To Lớn
-http://vod-zlr2.tv360.vn/video1/2022/02/28/01/2fdffe51/2fdffe51-14dc-4d18-a94f-1daa126d57d9_1_.m3u8
+
 #EXTINF:-1 group-title="🎞| khichyivi phim" tvg-logo="https://i.ibb.co/ZSXcF9D/jpxyvwqf-1920x1080-baycamap-1920-1080.jpg",Phim Bẫy Cá Mập
-http://vod-zlr2.tv360.vn/video1/2020/10/13/14/7efe7cfb/7efe7cfb-8019-4a15-92f2-ee4c37afdcc3_4_.m3u8
+
 #EXTINF:-1 group-title="🎬khichtivi| phim hãy" tvg-logo="https://i.ibb.co/cvpG98J/9824c9df-ee63-48df-ab57-ca915bfff657-640-360.jpg", 🎬 Phim khich TV PHIM 3 Hoắc Nguyên Giáp Xông Pha Giang Hồ - Tập 1
 #EXTVLCOPT: http-user-agent = khichTivi
-http://vod-zlr2.tv360.vn/video1/2022/03/30/23/59054911/59054911-17d4-4d1e-a5d5-9719d9d99b7d_1_.m3u8
+
 #EXTINF:-1 group-title="KhichTivi Phím hãy" tvg-logo="https://i.ibb.co/cvpG98J/9824c9df-ee63-48df-ab57-ca915bfff657-640-360.jpg",🎬 PHIM 1 khich tivi PHIM 4 Hoắc Nguyên Giáp Xông Pha Giang Hồ - Tập 2
-http://vod-zlr2.tv360.vn/video1/2022/03/31/00/28ff7b12/28ff7b12-8239-49ef-99e3-859dcd2506cc_3_.m3u8
+
 #EXTINF: -1 group-title = "KhichTivi Phím Vui lòng" tvg-logo = "https://img-zlr1.tv360.vn/image1/2022/04/22/14/90aeb4f3/90aeb4f3-797b-4f37-97fc-802c7115b477_640_360.jpg", 🎬 PHIM 2 khich TV PHIM 5 Hoàng Phi Hồng Và Dì Thập Tam - Tập 1
-http://vod-zlr2.tv360.vn/video1/2022/04/26/09/637441d1/637441d1-8209-4e85-90fa-597976d0d06b_1_.m3u8
+
 #EXTINF: -1 group-title = "KhichTivi Phím Vui lòng" tvg-logo = "https://img-zlr1.tv360.vn/image1/2022/04/22/14/90aeb4f3/90aeb4f3-797b-4f37-97fc-802c7115b477_640_360.jpg", 🎬 PHIM 3 khich tivi PHIM 6 Hoàng Phi Hồng Và Dì Thập Tam - Tập 2
 #EXTVLCOPT: http-user-agent = khichTivi
-http://vod-zlr2.tv360.vn/video1/2022/04/26/09/83fc0a44/83fc0a44-af98-49b0-8fb4-f88c0bfe0b80_2_.m3u8
+
 #EXTINF:-1 group-title="🎞| khichyivi phim" tvg-logo="https://i.ibb.co/XbZTCVt/images-3.jpg", Phím Hãy khich tivi PHIM Cuối Tuần Của All Cô Gái
 #EXTVLCOPT: http-user-agent = khichTivi
-http://vod-zlr2.tv360.vn/video1/2020/03/16/21/673d51b5/673d51b5-146a-45be-a88c-e43d68d2f692_4_.m3u8
+
 #EXTINF:-1 group-title="🎞| khichyivi phim" tvg-logo="https://i.ibb.co/VHGgXm9/155012448083993-thumbnail.webp",🎬Phím Hãy khich tivi PHIM 8 Trần Chân trở lại
-#EXTVLCOPT: http-user-agent = khichTivi
-http://vod-zlr2.tv360.vn/video1/2017/09/21/14/af3b5b71/af3b5b71-4410-4406-a769-c710228a3150_2_.m3u8
+#EXTVLCOPT: http-user-agent = khích TiVi
 #EXTINF:-1 group-title="🎞| khichyivi phim" tvg-logo="https://i.ibb.co/cXkp86t/images-2.jpg",🎬Phím Hãy khich tivi PHIM 9 Lửa Chiến - 4K
 #EXTVLCOPT: http-user-agent = khichTivi
-http://vod-zlr2.tv360.vn/video1/2018/07/30/15/7582a1ba/7582a1ba-3c8a-45b4-86c0-c37a1610ed1a_1_.m3u8
+
 #EXTINF:-1 group-title="🎞| khichyivi phim" tvg-logo="https://i.ibb.co/0cQRVpG/s-i-kh-a-h-c-pti.jpg",🎬MOVIES khich tivi PHIM 10 Chiến Dịch Bầy Sói của
 #EXTVLCOPT: http-user-agent = khichTivi
-http://vod-zlr2.tv360.vn/video1/2021/12/24/16/c838682c/c838682c-a45a-4b85-9ab7-de758c7ed9b2_2_.m3u8
+
 #EXTINF: -1 tvg-id = "Phím Hãy" group-title = "khichTivi Phím Hãy" tvg-logo = "https://i.ibb.co/1ZfBq8D/images-4.jpg", 🎬 khich tivi PHIM 11 Vũ Khí Khiêu Gợi - Vũ khí khỏa thân
 #EXTVLCOPT: http-user-agent = khichTivi
-http://vod-zlr2.tv360.vn/video1/2021/07/19/09/18c3927c/18c3927c-44bc-4d70-94ab-2dcceef6a858_2_.m3u8
+
 #EXTINF: -1 tvg-id = "Khích📺 Phím Hãy" group-title = "khichTivi Phím Hãy" tvg-logo = "https://static2.vieon.vn/vieplay-image/thumbnail_hot_v4/2020/12/25/5b8w6wop_1920x1080-riddickthonglinhbongtoi_782_432.jpg ", khich tivi PHIM 13 Riddick Thống Lĩnh Bóng Tối
 #EXTINF: -1 tvg-id = "Phím Hãy" group-title = "khichTivi Phím Hãy" tvg-logo = "https://i.ibb.co/WKtD7Wx/t-i-xu-ng.jpg", 🎬 khich TV PHIM 14 Tội Ác Hoàn Hảo - The Entitled
 #EXTVLCOPT: http-user-agent = khichTivi
-http://vod-zlr2.tv360.vn/video1/2021/06/03/16/9b5f2ba2/9b5f2ba2-d3d5-44a0-9858-588e302a319f_2_.m3u8
+
 #EXTINF: -1 tvg-id = "Khích📺 Phím Hãy" group-title = "khichTivi Phím Hãy" tvg-logo = "https://i.ibb.co/ygTYkcL/images-1.jpg ", 🎬 khich tivi PHIM Ma Tốc Độ 2: Linh Hồn Báo Thù
 #EXTVLCOPT: http-user-agent = khichTivi
 http://vod-zlr2.tv360.vn/video1/2019/11/01/14/295fa317/295fa317-30ca-4917-bf14-5fb6bcb6b52d_2_.m3u8
 #EXTINF: -1 tvg-id = "Khích📺 Phím Hãy" group-title = "khichTivi Phím Hãy" tvg-logo = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLjeQMymdesww1Tm16fXOZsRvkZ5PAUu0GWQ&usqp=CAU ", 🎬 khich tivi PHIM xem Hành Tinh Khỉ: Vương Quốc Mới HD+Vietsub
 #EXTVLCOPT: http-user-agent = khichTivi
-https://api.cloudbeta.win/file/play/0934773a-8b86-4091-9005-26f1ddefd20a.m3u8
+
 #EXTINF: -1 tvg-id = "Khích📺 Phím Hãy" group-title = "khichTivi Phím Hãy" tvg-logo = "https://xem14.com/wp-content/uploads/2023/07/biet-doi-sieu-anh-hung-3-cuoc-chien-vo-cuc-avengers-infinity-war-2018-388.jpg ", 🎬 khich tivi xem Biệt Đội Siêu Anh Hùng 3: Cuộc Chiến Vô Cực
-https://xannpdjy0oyz.enaak-cdn.com/hls2/01/00625/eom41g7entj0_,l,n,h,.urlset/master.m3u8?t=4g2RUzQYV7av1-yRgMYBqjP_BcCv7-BSYFlJHMWpuAU&s=1720564952&e=129600&f=3126853&srv=vg6HqqcmqIQz&i=0.4&sp=500&p1=vg6HqqcmqIQz&p2=vg6HqqcmqIQz&asn=45899
+
 #EXTINF: -1 tvg-id = "Khích📺 Phím Hãy" group-title = "khichTivi Phím Hãy" tvg-logo = "https://xem14.com/wp-content/uploads/2024/01/sieu-diep-vien-tiger-3-tiger-3-2023-5615.jpg", 🎬 khich tivi xem Siêu Điệp Viên Tiger 3 – Tiger 3
-https://u59llznvtrzh.enaak-cdn.com/hls2/01/01095/82z12glez05h_,l,n,h,.urlset/master.m3u8?t=KGAYjpPiopDOWTm5WXRaP-BoRTXIJ1UUkOial_eHDMQ&s=1720566664&e=129600&f=5476322&srv=TypRI417Iojq&i=0.4&sp=500&p1=TypRI417Iojq&p2=TypRI417Iojq&asn=45899
+
 
 #-'-Phat thanh FM--''-
 
