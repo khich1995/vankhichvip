@@ -71,21 +71,21 @@ https://freem3u.xyz/api/live/play.m3u8?vid=191
 https://freem3u.xyz/api/live/play.m3u8?vid=182
 #EXTINF:-1 tvg-id="onsportsplus" group-title="❤Khích📺2️⃣0️⃣2️⃣6️⃣|VTV" tvg-logo="https://i.ibb.co/Gx8VCVn/logo-vtv15-khichtv.png" catchup="append" catchup-days="2" catchup-iik="https://api.vthanhtivi.pw/v1/dvr/vieon/vtvcab6-on-sport-plus/${start}/${offset}", ❤VTV15|Thể Thao Tổng hợp
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 
-https://short-url.org/1lGMa?=khichtv=&VTV15/playlist.m3u8
+https://short-url.org/1lGMa?=khichtv=&VTV15/playli onst.m3u8
 #EXTINF:-1 tvg-id="onfootball" group-title="❤Khích📺2️⃣0️⃣2️⃣6️⃣|VTV" tvg-logo="https://i.ibb.co/1JK8Sjqp/khich-Ti-Vi-logo-vtv16.jpg." catchup="append" catchup-days="2" catchup-iik="https://api.vthanhtivi.pw/v1/dvr/vieon/vtvcab6-on-sport-plus/${start}/${offset}", ❤VTV16
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-
+https://short-url.org/Khichtvvtv16m3u8
 #EXTINF:-1 tvg-id="kcinehd" group-title="❤2️⃣0️⃣2️⃣6️⃣|LIST KhichTiVi🛠|Box TV số DT 0355050296" tvg-logo="https://i.ibb.co/tqkNHGZ/2023-14-10-update-khichtv.png" catchup="append"catchup-days="2"catchup-source="https://code.khichivi.pw/xemlai/mytv/380/hd/dvr-${start}-${end}.m3u8",khích TiVi List IPTV VIP
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://263.org.vn/Khichtv-vip-mien-phi-2025
 #EXTINF:-1 tvg-id="sctvhdpth" group-title="🇻🇳2️⃣0️⃣2️⃣6️⃣By Khích TiVi" tvg-logo="https://i.ibb.co/0sf14dc/Sctvphimtonghop.webp",KhichTiVi|SCTV Phim Tổng Hợp
 #EXTVLCOPT:http-user-agent=khíchtivi(Linux;Android 9)khích
-https://1.org.vn/Khíchvip📺-SCTV😉PHIM-TÔNG-HỢP-FHD-LIVE🔐
+https://short-url.org/KhchTiVisctvpth?tokey.m3u8
 
 #-""-update khích TiVi*-'-#
 
 #EXTINF:0 tvg-id="vtv1hd" group-title="❤️1️⃣1️⃣/0️⃣3️⃣/2️⃣0️⃣2️⃣6️⃣📡|UPDATE By khích📺" tvg-logo="https://i.ibb.co/grKqtMt/Up-Da-Te-khich-Tivi-png.jpg" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtc1_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8",UPDATE khích TiVi|⏰10:27:53|📆|11/03/2026 FHD
-https://1.org.vn/Khích-TV-Live-1V?tokey/index.m3u8
+https://live-a.fptplay53.net/live/media/VTV1HD/live_hls_avc/index.m3u8?=khíchTiVi
 
 #-*--THVL FHD-*--#
 
