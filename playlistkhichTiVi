@@ -678,7 +678,7 @@ https://short-url.org/Khichtivi80sctv4k-m3u8?tokey/index.m3u8
 #EXTINF: -1 tvg-id = "sctv6hd" group-title = "💚 Khich TiVi | SCTV" tvg-logo = "https://i.ibb.co/4gt58P2s/SCTV6-logo-khichtivi.png "catchup =" append "catchup -days =" 2 "catchup-source =" https://tshift.fptplay.net/dvr/film360_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8 ", SCTV6 HD
 #EXTVLCOPT: http-user-agent = KhichTivi
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://live34.vtvprime.vn/hls/SCTV6/03.m3u8|Referer=http://sctvonline.vn/
+https://short-url.org/Khichtv-80-SCTV6-HDm3u8 |Referer=http://sctvonline.vn/
 #EXTINF:-1 tvg-id="sctv6hd" group-title="💚| SCTV" tvg-logo="https://i.ibb.co/jPtZrWGx/SCTV6-logo-khichtivi.png", SCTV6 FIM FHD
 https://live.fptplay53.net/epzhd2/film360_vhls.smil/chunklist_b5000000.m3u8 
 #EXTINF: -1 tvg-id = "sctv7hd" group-title = "💚 Khich TiVi | SCTV" tvg-logo = "https://i.ibb.co/3YsqZhxv/SCTV7-logo-khichtivi.png ", SCTV7 HD 
@@ -703,15 +703,15 @@ https://short-url.org/Khichtivi80sctv9phimchaua|Referer=http://sctvonline.vn/|Re
 #EXTINF: -1 group-title = "💚Khich TiVi | SCTV" tvg-logo = "https://i.ibb.co/VBB4Vf0/SCTV10-logo-khichtivi.png", SCTV10
 #EXTVLCOPT: http-user-agent = KhichTivi
 ##EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-#|Referer=http://sctvonline.vn/
+https://liveh34.vtvprime.vn/hls/SCTV10/index.m3u8 |Referer=http://sctvonline.vn/
 #EXTINF: -1 tvg-id = "sctv11hd" group-title = "💚Khich TiVi | SCTV" tvg-logo = "https://i.ibb.co/4dCphyC/SCTV11-logo-khichtv.webp", SCTV11 HD
 #EXTVLCOPT: http-user-agent = KhichTivi
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://liveh34.vtvprime.vn/hls/SCTV11/03.m3u8|Referer=http://sctvonline.vn/
+https://liveh34.vtvprime.vn/hls/SCTV11/03.m3u8 |Referer=http://sctvonline.vn/
 #EXTINF: -1 tvg-id = "sctv12hd" group-title = "💚 Khich TiVi | SCTV" tvg-logo = "https://i.ibb.co/wr4KFtbR/SCTV12-logo-khich-Ti-Vi.png", SCTV12 HD
 #EXTVLCOPT: http-user-agent = VKhichTivi
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36vn
-https://liveh34.vtvprime.vn/hls/SCTV12/03.m3u8|Referer=http://sctvonline.vn/
+https://liveh34.vtvprime.vn/hls/SCTV12/03.m3u8 |Referer=http://sctvonline.vn/
 #EXTINF: -1 tvg-id = "sctv13hd" group-title = "💚Khich TiVi | SCTV" tvg-logo = "https://i.ibb.co/y4nfn7H/SCTV13-logo-khichtivi.webp", SCTV13 HD
 #EXTVLCOPT: http-user-agent = KhichTivi
 ##EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
