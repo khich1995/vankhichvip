@@ -181,7 +181,7 @@ https://w9lt1225.edgemaxcdn.org/live/tdtv_blv_ngochoang/playlist.m3u8
 #EXTINF:-1 tvg-id="thiendinh4hd" group-title="khíchTV| Live" tvg-logo="https://i.ibb.co/vCWc4HLv/Khich-Ti-Vi-logo-thiendinhtv3.jpg", THIÊN ĐINHTV 4 FULL HD
 https://tdlive.zlylive.com/live/tdtv_blv_taoche/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-EXTINF:-1 tvg-id="8sport1hd" group-title="khíchTV| Live" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-n9OAIZzuF_KmX5Bns1SBFa8wfhioJG2EzNbUzbMS2Q&s=10", bún chảTV1 FULL HD
+#EXTINF:-1 tvg-id="8sport1hd" group-title="khíchTV| Live" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-n9OAIZzuF_KmX5Bns1SBFa8wfhioJG2EzNbUzbMS2Q&s=10", bún chảTV1 FULL HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://cdn-hls.taoxanh.biz/live/69b56878326d8_79/index.m3u8?expire=khichtv
 #EXTINF:-1 tvg-id="8sport2hd" group-title="khíchTV| Live" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-n9OAIZzuF_KmX5Bns1SBFa8wfhioJG2EzNbUzbMS2Q&s=10", bún chảTV2 FULL HD
@@ -191,8 +191,8 @@ https://cdn-hls.taoxanh.biz/live/69b56d3770a69_95554/index.m3u8?expire=KhichTV
 #EXTVLCOPT:http-user-agent=Dalvik/2.1
 
 #EXTINF:-1 tvg-id="8sport4hd" group-title="khíchTV| Live" tvg-logo="https://i.ibb.co/RkYqkDpf/8sportlive.png", 8SPORT 4 FULL HD
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://live.sladdogg.com/OBS/02/index.m3u8
+#EXTVLCOPT:http-user-agent=Dalvik/2.
+
 #EXTINF:-1 tvg-id="XoiLachd" group-title="Live" tvg-logo="https://i.ibb.co/chQpy5H5/xoilac-tv-logo-khichtv.png", XOILACTV FULL HD
 
 #EXTINF:-1 tvg-id="xoilachd" group-title="khíchTV| Live" tvg-logo="https://i.ibb.co/k6zgJxhM/xoilac-logo-khichtv.png",XOILAC FULL HD
