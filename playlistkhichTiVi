@@ -117,86 +117,85 @@ https://live.baoquangninh.vn/qtvlive/tv3live.m3u8
 
 #EXTINF:-1 tvg-id="ksport1hd" group-title="khichTV Bong Da" tvg-logo="https://i.ibb.co/4mTxLdD/khich-Ti-Vi-Bong-da-hanh-anh.jpg", ⚽ Trực tiếp Bóng đá 1 FHD
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://d.org.vn/KhichTiVi-Live-bóng-đá⚽-1️⃣?token.m3u8
+
 #EXTINF:-1 tvg-id="ksport2hd" group-title="khichTV Bong Da" tvg-logo="https://i.ibb.co/SfRFTrm/b-ng-tr-c-ti-p.png",⚽ Trực tiếp Bóng đá 2 FHD 
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://d.org.vn/Khích-TiVi-live-Bóng-đá⚽2️⃣?token.m3u8
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.1
+
 #EXTINF:-1 tvg-id="kcinehd" group-title="khichTV Bong Da" tvg-logo="https://i.ibb.co/vDc8r61/cola-tv-2-logo-khichtivi.jpg",⚽ Trực tiếp Bóng đá 3 FHD 
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://d.org.vn/Khích-TiVi-live-Bóng-đá⚽3️⃣? token.m3u8
+
 #EXTINF:-1 tvg-id="kaction" group-title="khichTV bóng đá" tvg-logo="https://i.ibb.co/vDc8r61/cola-tv-2-logo-khichtivi.jpg",⚽ Trực tiếp Bóng đá 4 FHD 
 #EXTVLCOPT:http-user-agent ko on on Oct=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://d.org.vn/Khích-TiVi-live-Bóng-đá⚽4️⃣?token.m3u8
+
 #EXTINF:-1 tvg-id="kkidshd" group-title="khichTV Bong Da" tvg-logo="https://i.ibb.co/wx01Dnx/khichtvbong-da-live-2026.jpg",⚽ Trực tiếp Bóng đá 5  FHD 
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 https://d.org.vn/Khích-tivi-live-Bóng-đá-5⚽
-#EXTINF:-1 tvg-id="kkidshd" group-title="khichTV Bong Da" tvg-logo="https://i.ibb.co/Tx02n6Pk/khich-Ti-Vi-bong-da-live-6.jpg",⚽ Trực tiếp Bóng đá 6  FHD 
-https://263.org.vn/KhichTV-bóng-đá-6️⃣
+#EXTINF:-1 tvg-id="kkidshd" group-title="khichTV Bong Da" tvg-logo="https://i.ibb.co/Tx02n6Pk/khich-Ti-Vi-bong-da-live-6.jpg",⚽ Trực tiếp Bóng đá 6 FHD
 #EXTINF:-1 tvg-id="kkidshd" group-title="khichTV Bong Da" tvg-logo="https://i.ibb.co/Y7hXTNxd/playlist-khich-Ti-Vi-Bong-da-live-7.jpg",⚽ Trực tiếp Bóng đá 7  FHD 
-https://263.org.vn/Khích-TiVi-bóng-đá-live-7️⃣
+
 
 #,',khichtivi Mytv K+,"",**********###
 
 
 #EXTINF:-1 tvg-id="hoiquan1hd" group-title="khíchTV| Live" tvg-logo="https://eamonocuiv.ie/wp-content/uploads/2025/10/cropped-cropped-logo-hoi-quan@4x-scaled-1.png", Hội QuánTV 1 HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0  
-#EXTVLCOPT:http-user-agent=Player (Linux; Android 11) 
-https://263.org.vn/Khích-TiVi-Live-HQTV1?tiokey.m3u8
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
+
 #http://s1ali.myclip.vn/video8/2025/03/04/11/9dc4692e/9dc4692e-9e20-445b-b023-ace9abbb25ea_5_.m3u8
 #http://14.247.58.26:4022/rtp/232.84.1.38:8202
 #EXTINF:-1 id-xtream="56457" tvg-id="kaction" plan="khích TiVi,Live,VN,Basic" group-title="K+" tvg-logo="https://eamonocuiv.ie/wp-content/uploads/2025/10/cropped-cropped-logo-hoi-quan@4x-scaled-1.png", Hội QuánTV 2 HD 
-https://263.org.vn/Khích-TiVi-Live-HQTV2?tokey.m3u8
+
 #http://113.177.113.147:4022/
 #http://s1ali.myclip.vn/video8/2025/03/26/11/a0669549/a0669549-44e4-43b5-a1b0-a5f93a4ebeac_5_.m3u8
 #EXTINF:-1 tvg-id="hoiquantv3hd" group-title="khichTV Bong Da" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR20J3Y4mR2f0J4d4Is8VmB-ROJmVi4Zh8iurMslML0BQ&s=10", Hội QuánTV 3 HD
 https://263.org.vn/Khích-TiVi-Live-TDTV3?tokey/playlist.m3u8
 #EXTINF:0 tvg-id="ksport1hd" group-title="khichTiVi Live" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRrFURSeSIVyZ5GidFSx8LIC_xKFaIXRSikdwAwF3PAA&s", Hội QuánTV 4 HD
-https://263.org.vn/Khích-TiVi-Live-TDTV4?tokey/playlist.m3u8
+
 #https://1.org.vn/Khichtv-80-k-sport1-FHD
 #http://113.177.113.147:4022/rtp/232.84.1.98:8562
 #https://canvato.net/9bRvp?=get:khichtivi=&k+ksport1hd
-#https://1.org.vn/Khichtv-80-k-sport1-FHD
+
 #EXTINF:0 tvg-id="ksport2hd" group-title="khichTiVi Live" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsxJCS0HA0Band2yoeotwYAoR90ac2RzT_Y60M3fw85g&s=10", Quê ChoaTV 1 HD
-https://263.org.vn/Khích-TiVi-Live-quechoatv-1
+
 #EXTINF:-1 tvg-id="fptplayhd" group-title="khích TiVi Live" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWt-VtNQjEsQ0aGeXHLNQcJs8YAcMgCf-9ewgyR8IY3g&s", Que Choatv 2 HD
-https://263.org.vn/Khích-TiVi-Live-quechoatv2
+
 #EXTINF:-1 tvg-id="fptplayhd" group-title="khích TiVi Live" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQw9QluNJU-FQf3bXorwibZqsLHZJ7Q3XEzVJqkWLMdkA&s=10", Que Choatv 3 HD
-https://263.org.vn/Khích-TiVi-Live-quechoatv-3
+
 #_"_khich Live*""_**#############
 
 #EXTINF:-1 tvg-id="cakhaitvhd" ugroup-title="Live khichVip" tvg-logo="https://i.ibb.co/nNQttm41/cakhai-logo-khichtv.jpg", CAKHAITV 1  FULL HD
-https://263.org.vn/Khích-TiVi-Live-bún-chảtv-1-HD?token/playlist.m3u8
+
 #EXTINF:-1 tvg-id="cakhaitvhd" ugroup-title="Live khichVip" tvg-logo="https://i.ibb.co/21FLJXhr/Cakhiatv-logo-khichtv.png", CAKHAITV 2 FULL HD
-https://263.org.vn/Khích-TiVi-Live-bún-chảtv2?token/playlist.m3u8
+
 #EXTINF:-1 tvg-id="bunchatvhd" ugroup-title="Live khichVip" tvg-logo="https://i.ibb.co/9ktnYdCR/cakhaitv-4k-logo-khichtv.png", CAKHAITV 3 FULL HD
-https://263.org.vn/KhíchTiVi-cakhaitv?token/playlist.m3u8
+
 #EXTINF:-1 tvg-id="thiendinh1hd" group-title="Live khichTV" tvg-logo="https://i.ibb.co/XZHnqGzC/khich-Ti-Vi-Logo-thien-dinhtv-png.png", THIÊN ĐINHTV 1 FULL HD
-https://263.org.vn/Khich-TiVi-LiveThienĐinhTV-1-HD?token/playlist.m3u8
+
 #EXTINF:-1 tvg-id="thiendinh2hd" group-title="khíchTV| Live" tvg-logo="https://i.ibb.co/Swj0W9Zh/thien-dinhtv-logo-khichtv.png", THIÊN ĐINHTV 2 FULL HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://263.org.vn/Khích-TiVi-Live-Thien-DinhTV2-HD?token/playlist.m3u8
+à
 #EXTINF:-1 tvg-id="thiendinh3hd" group-title="khíchTV| Live" tvg-logo="https://i.ibb.co/vCWc4HLv/Khich-Ti-Vi-logo-thiendinhtv3.jpg", THIÊN ĐINHTV 3 FULL HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://263.org.vn/Khích-TiVi-Live-thiên-dinhtv3hd?tokey/playlist.m3u8
+
 #EXTINF:-1 tvg-id="thiendinh4hd" group-title="khíchTV| Live" tvg-logo="https://i.ibb.co/vCWc4HLv/Khich-Ti-Vi-logo-thiendinhtv3.jpg", THIÊN ĐINHTV 4 FULL HD
-https://263.org.vn/Khích-TiVi-Live-thiendinhtv4
+
 #EXTINF:-1 tvg-id="8sport1hd" group-title="khíchTV| Live" tvg-logo="https://i.ibb.co/BVVHkZMm/8sport-1-Live-logo-khichtv.jpg", 8SPORT 1 FULL HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://263.org.vn/Khích-TiVi-Live-8Sport1-HD?token/playlist.m3u8
+
 #EXTINF:-1 tvg-id="8sport2hd" group-title="khíchTV| Live" tvg-logo="https://i.ibb.co/RkYqkDpf/8sportlive.png", 8SPORT 2 FULL HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://d.org.vn/Khích-TiVi-Live-8sport-2-HD?token/playlist.m3u8
+
 #EXTINF:-1 tvg-id="8sport3hd" group-title="khíchTV| Live" tvg-logo="https://i.ibb.co/RkYqkDpf/8sportlive.png", 8SPORT 3 FULL HD
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://263.org.vn/Khích-Live-BL-Người-Kiên?token/playlist.m3u8
+#EXTVLCOPT:http-user-agent=Dalvik/2.1
+
 #EXTINF:-1 tvg-id="8sport4hd" group-title="khíchTV| Live" tvg-logo="https://i.ibb.co/RkYqkDpf/8sportlive.png", 8SPORT 4 FULL HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://live.sladdogg.com/OBS/02/index.m3u8
 #EXTINF:-1 tvg-id="XoiLachd" group-title="Live" tvg-logo="https://i.ibb.co/chQpy5H5/xoilac-tv-logo-khichtv.png", XOILACTV FULL HD
 https://d.org.vn/Khích-TiVi-Live-xoilactv-Live?token/playlist.m3u8
 #EXTINF:-1 tvg-id="xoilachd" group-title="khíchTV| Live" tvg-logo="https://i.ibb.co/k6zgJxhM/xoilac-logo-khichtv.png",XOILAC FULL HD
-#EXTVLCOPT:http-user-agent=Dalvik/
-https://263.org.vn/KhíchTV-Live-xoclactv-2
+#EXTVLCOPT:http-user-agent=Dalvi.
+
 #EXTINF:-1 tvg-id="kaction" group-title="khíchTV| K+" tvg-logo="https://i.ibb.co/rGjxkF34/k-action-2023-sctv-khichtv.webp", K+ACTION HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0http://aismile.dpdns.org/play/14Akq6k5mrt7iwRXq7uVnscSqc4xAFS0jvkkDDr1Za4/ts
 
@@ -214,21 +213,21 @@ https://263.org.vn/KhíchTV-Live-xoclactv-2
 #******""""""khích TiVi k+sport#***"__"
 
 #EXTINF:0 tvg-id="ksport1hd" group-title="Miễn phí K+" tvg-logo="https://i.ibb.co/qM82fqxb/khich-Ti-Vi-sport1.jpg", K+SPORT1 (HD 9Mbps)
-https://263.org.vn/KhíchTiVi-2026-ksport1-HD?tokey/playlist.m3u8
+
 #http://113.184.187.255:12343/udp/232.84.1.37:8196
 #EXTINF:0 tvg-id="ksport2hd" group-title="Miễn phí K+" tvg-logo="https://i.ibb.co/rKWCqKwN/khich-Ti-Vi-sport2.jpg", K+SPORT2 (HD 9Mbps)
-https://263.org.vn/KhíchTiVi-2026-ksport2-HD?tokey/playlist.m3u8
+
 #http://113.184.187.255:12343/udp/232.84.1.34:8178
 #EXTVLCOPT:http-user-agent=ExoPlayerLib/2.14.1
 #EXTINF:-1 tvg-id="kcinehd" group-title="Miễn phí| K+" tvg-logo="https://i.ibb.co/fYXLPDSG/khich-Ti-Vi-sport3.jpg",K+SPORT 3 (HD 9Mbps)
 #EXTVLCOPT:http-user-agent=Dalvik/
-https://263.org.vn/KhíchTiVi-2026-k-CINE-HD?tokey/playlist.m3u8
+
 #http://113.184.187.255:12343/udp/232.84.1.38:8202
 #EXTINF:-1 tvg-id="kaction" group-title="Miễn phí| K+" tvg-logo="https://i.ibb.co/SD1dh2gY/khich-Ti-Vi-sport4.jpg", K+SPORT 4 (HD 9Mbps)
-https://263.org.vn/KhíchTiVi-2026-kaction-HD?tokey/playlist.m3u8
+
 #http://113.184.187.255:12343/udp/232.84.1.33:8172
 #EXTINF:-1 tvg-id="kkidshd" group-title="Miễn phí|K+" tvg-logo="https://i.ibb.co/CpJVbxHB/khich-Ti-Vi-K-sport5.jpg", K+ SPORT 5 (HD 9Mbps)
-https://263.org.vn/KhíchTiVi-2026-k-kids-HD🎠?tokey/playlist.m3u8
+
 #http://113.184.187.255:12343/udp/232.84.3.42:11800
 
 #EXTINF:-1 tvg-id="vtvcab4hd" group-title="khichtv " tvg-logo="https://diendantienganh.com/uploads/films-ielts-speaking.jpg",PHIM MOVIE
