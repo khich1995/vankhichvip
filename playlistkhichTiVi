@@ -131,8 +131,9 @@ https://hls.cdnok9.com/live/LYUNG1/index.m3u8?expire=khíchtivi
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 https://hls.cdnok9.com/live/KEVILL/index.m3u8?expire=khíchtivi
 #EXTINF:-1 tvg-id="kkidshd" group-title="khichTV Bong Da" tvg-logo="https://i.ibb.co/Tx02n6Pk/khich-Ti-Vi-bong-da-live-6.jpg",⚽ Trực tiếp Bóng đá 6 FHD
+https://live5.msrktz.app/live/24561735.m3u8
 #EXTINF:-1 tvg-id="kkidshd" group-title="khichTV Bong Da" tvg-logo="https://i.ibb.co/Y7hXTNxd/playlist-khich-Ti-Vi-Bong-da-live-7.jpg",⚽ Trực tiếp Bóng đá 7  FHD 
-
+https://live5.msrktz.app/live/43612277.m3u8
 
 #,',khichtivi Mytv K+,"",**********###
 
@@ -140,7 +141,7 @@ https://hls.cdnok9.com/live/KEVILL/index.m3u8?expire=khíchtivi
 #EXTINF:-1 tvg-id="hoiquan1hd" group-title="khíchTV| Live" tvg-logo="https://eamonocuiv.ie/wp-content/uploads/2025/10/cropped-cropped-logo-hoi-quan@4x-scaled-1.png", Hội QuánTV 1 HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0  
 #EXTVLCOPT:http-user-agent=Player (Linux; Android 11)
-
+https://hqlive.zlylive.com/live/hqtv_blv_phanchanh/playlist.m3u8
 #http://s1ali.myclip.vn/video8/2025/03/04/11/9dc4692e/9dc4692e-9e20-445b-b023-ace9abbb25ea_5_.m3u8
 #http://14.247.58.26:4022/rtp/232.84.1.38:8202
 #EXTINF:-1 id-xtream="56457" tvg-id="kaction" plan="khích TiVi,Live,VN,Basic" group-title="K+" tvg-logo="https://eamonocuiv.ie/wp-content/uploads/2025/10/cropped-cropped-logo-hoi-quan@4x-scaled-1.png", Hội QuánTV 2 HD 
