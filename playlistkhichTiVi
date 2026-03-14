@@ -1468,34 +1468,34 @@ https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/wtv.smil/manifest.mpd
 #EXTVLCOPT:http-user=Gia Hưng
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 #EXTVLCOPT:khíchTV=159
-https://d.org.vn/Khichtv-vip-box-movies1hd?vid=159
+http://aismile.dpdns.org/play/14Akq6k5mrt7iwRXq7uVnqnoz65ZV6KHD4S_VzS8MUU/ts?vid=159
 #EXTINF:-1 tvg-id="hollywoodclassics" group-title="📦| In The Box" tvg-logo="https://i.ibb.co/kTNcLxh/channel-card-hwc-khchtivi.jpg", Hollywood Classics
 #EXTVLCOPT:http-user-agent=Gia Hưng 
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 #EXTVLCOPT:khíchTV=160
-https://263.org.vn/Khích-TiVi-2026-hollywoodclassics-HD
+http://aismile.dpdns.org/play/14Akq6k5mrt7iwRXq7uVnmKW1EgtPg88A5oGxrmaJtQ/ts
 #EXTINF:-1 tvg-id="musicbox" group-title="📦| In The Box" tvg-logo="https://www.intheboxtv.eu/content/uploads/2018/10/MUSICBOX_KARTICA_V4.jpg", Music Box
 #EXTVLCOPT:http-user-agent=Gia Hưng 
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 #EXTVLCOPT:khíchTV:=289
-https://1.org.vn/Khích📺-musicboxhd-LIVE
+http://aismile.dpdns.org/play/14Akq6k5mrt7iwRXq7uVnvOh_bzIXq6k1gyj7cdsWR0/ts
 #EXTINF:-1 tvg-id="happykid" group-title="📦| In The Box" tvg-logo="https://www.intheboxtv.eu/content/uploads/2019/01/channel_card_happy_kids.jpg", happykid HD
 #EXTVLCOPT:http-user-agent=Gia Hưng 
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 #EXTVLCOPT:=khíchTV/=212
-https://1.org.vn/Khich📺80happykidhd-LIVE?id=212
+http://aismile.dpdns.org/play/14Akq6k5mrt7iwRXq7uVnp5daKXmSW7VOEhhjrKu_TI/ts?id=212
 #EXTINF:-1 tvg-id="drfithd" group-title="📦| In The Box" tvg-logo="https://www.intheboxtv.eu/content/uploads/2018/10/540x540_FIT3GIRLS_FRUITS.png", Dr.Fit
 #EXTVLCOPT:http-user-agent=Gia Hưng23=162
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://263.org.vn/Khích-TiVi-2026-Dr-Fit-HD
+http://aismile.dpdns.org/play/14Akq6k5mrt7iwRXq7uVnhPq_fSj06trHFbdKIiXSws/ts
 #EXTINF:-1 xui-id="2026" tvg-id="" tvg-name="Man" tvg-logo="https://i.ibb.co/yBQ42FCM/khich-Ti-Vi-in-the-box-man.jpg"In The Box",Man khích TiVi
 https://263.org.vn/Khich-TiVi-2026-box-man-HD
 #EXTINF:-1 tvg-id="planetearthhd" group-title="📦khích TiVi| In The Box" tvg-logo="https://i.ibb.co/qCrPwQS/khichtv-logo-Planet-Earth.png", Planet Earth
 #EXTVLCOPT:khíchTV=135
-https://d.org.vn/Khich-TiVi-VIP-80-Planet-Earth-HD
+http://aismile.dpdns.org/play/14Akq6k5mrt7iwRXq7uVnplUUmNvg02m_Ye6OEQwgTk/ts
 #EXTINF:-1 tvg-id="womanhd" group-title="📦| In The Box" tvg-logo="https://i.ibb.co/GQygVYYY/channel-card-woman-khichtivi.jpg",Woman
 #EXTVLCOPT:khíchTV=163
-https://d.org.vn/KhichTV-VIP80-Woman-HD
+http://aismile.dpdns.org/play/14Akq6k5mrt7iwRXq7uVnmag3iMV4REFlVp31Ou6vFU/ts
 
 #****""'🎞️BOX In The Box *******#####
 
