@@ -129,7 +129,7 @@ https://live.baoquangninh.vn/qtvlive/tv3live.m3u8
 
 #EXTINF:-1 tvg-id="kkidshd" group-title="khichTV Bong Da" tvg-logo="https://i.ibb.co/wx01Dnx/khichtvbong-da-live-2026.jpg",⚽ Trực tiếp Bóng đá 5  FHD 
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://d.org.vn/Khích-tivi-live-Bóng-đá-5⚽
+
 #EXTINF:-1 tvg-id="kkidshd" group-title="khichTV Bong Da" tvg-logo="https://i.ibb.co/Tx02n6Pk/khich-Ti-Vi-bong-da-live-6.jpg",⚽ Trực tiếp Bóng đá 6 FHD
 #EXTINF:-1 tvg-id="kkidshd" group-title="khichTV Bong Da" tvg-logo="https://i.ibb.co/Y7hXTNxd/playlist-khich-Ti-Vi-Bong-da-live-7.jpg",⚽ Trực tiếp Bóng đá 7  FHD 
 
@@ -148,7 +148,7 @@ https://d.org.vn/Khích-tivi-live-Bóng-đá-5⚽
 #http://113.177.113.147:4022/
 #http://s1ali.myclip.vn/video8/2025/03/26/11/a0669549/a0669549-44e4-43b5-a1b0-a5f93a4ebeac_5_.m3u8
 #EXTINF:-1 tvg-id="hoiquantv3hd" group-title="khichTV Bong Da" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR20J3Y4mR2f0J4d4Is8VmB-ROJmVi4Zh8iurMslML0BQ&s=10", Hội QuánTV 3 HD
-https://263.org.vn/Khích-TiVi-Live-TDTV3?tokey/playlist.m3u8
+
 #EXTINF:0 tvg-id="ksport1hd" group-title="khichTiVi Live" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRrFURSeSIVyZ5GidFSx8LIC_xKFaIXRSikdwAwF3PAA&s", Hội QuánTV 4 HD
 
 #https://1.org.vn/Khichtv-80-k-sport1-FHD
@@ -173,7 +173,7 @@ https://263.org.vn/Khích-TiVi-Live-TDTV3?tokey/playlist.m3u8
 
 #EXTINF:-1 tvg-id="thiendinh2hd" group-title="khíchTV| Live" tvg-logo="https://i.ibb.co/Swj0W9Zh/thien-dinhtv-logo-khichtv.png", THIÊN ĐINHTV 2 FULL HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-à
+
 #EXTINF:-1 tvg-id="thiendinh3hd" group-title="khíchTV| Live" tvg-logo="https://i.ibb.co/vCWc4HLv/Khich-Ti-Vi-logo-thiendinhtv3.jpg", THIÊN ĐINHTV 3 FULL HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 
@@ -192,7 +192,7 @@ https://263.org.vn/Khích-TiVi-Live-TDTV3?tokey/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://live.sladdogg.com/OBS/02/index.m3u8
 #EXTINF:-1 tvg-id="XoiLachd" group-title="Live" tvg-logo="https://i.ibb.co/chQpy5H5/xoilac-tv-logo-khichtv.png", XOILACTV FULL HD
-https://d.org.vn/Khích-TiVi-Live-xoilactv-Live?token/playlist.m3u8
+
 #EXTINF:-1 tvg-id="xoilachd" group-title="khíchTV| Live" tvg-logo="https://i.ibb.co/k6zgJxhM/xoilac-logo-khichtv.png",XOILAC FULL HD
 #EXTVLCOPT:http-user-agent=Dalvi.
 
