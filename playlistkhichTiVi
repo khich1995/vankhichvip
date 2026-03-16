@@ -740,10 +740,10 @@ https://liveh34.vtvprime.vn/hls/SCTV16/04.m3u8|Referer=http://sctvonline.vn/
 https://tinyurl.com/Khich-tivi-live-SCTV16?token.m3u8
 #EXTINF: -1 tvg-id = "sctv17hd" group-title = "💚 Khich TiVi | SCTV" tvg-logo = "https://i.ibb.co/44NbrD4/SCTV17-HD.webp", SCTV17 FHD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://short-url.org/khichTiVi80sctv17m3u8
+https://tinyurl.com/VuongBaoKhichTV-SCTV15-HD
 #EXTINF: -1 tvg-id = "sctv17hd" group-title = "💚 Khich TiVi | SCTV" tvg-logo = "https://i.ibb.co/mb0WpzV/SCTV17-SSport-logo-khichtv.webp", SCTV17 HD Vip
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://short-url.org/khichTiVi80sctv17m3u8
+https://tinyurl.com/VuongBaoKhichTV-SCTV15-HD
 #EXTINF: -1 tvg-id = "sctv18hd" group-title = "💚 Khich TiVi | SCTV" tvg-logo = "https://i.ibb.co/2c1jHLb/SCTV18-logo-khichtivi.webp ", SCTV18 HD
 #EXTVLCOPT: http-user-agent = KhichTivi
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
@@ -775,7 +775,7 @@ https://tinyurl.com/Khichtivi-live-SCTV22?token/playlist.m3u8
 #EXTINF: -1 tvg-id = "sctvhdpth" group-title = "💚 Khich TiVi | SCTV" tvg-logo = "https://i.ibb.co/B67KfWW/SCTV-PTP-logo-khichtv.webp", SCTV HD Phim Tổng Hợp
 #EXTVLCOPT:http-user-agent=khichtivi
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://short-url.org/KhchTiVi80sctvphimtonghopm3u8|Referer=http://sctvonline.vn/
+https://liveh12.vtvprime.vn/hls/SCTVPHIM/03.m3u8|Referer=http://sctvonline.vn/
 #EXTINF:-1 tvg-id="sctvhdpth" group-title="💚| SCTV" tvg-logo="https://i.ibb.co/0hXtXSr/khichtivi-tvb.png", SCTV TVB
 #EXTVLCOPT:http-user-agent=khichTivi
 https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
@@ -785,7 +785,7 @@ https://amg01868-amg01868c3-tvbanywhere-us-4491.playouts.now.amagi.tv/playlist10
 #EXTINF:-1 group-title="xem TVB" tvg-logo="https://i.ibb.co/mVgP1pqL/TVB-Vietnam-khichtivi-logo.jpg", TVB Việt Nam HD
 ##EXTVLCOPT:http-user-agent=khichivi
 https://tinyurl.com/Khichtivi-live-TVB-vietnam
-#EXTINF: -1 tvg-id = "btv5hd" group-title = "💚Khich TiVi | SCTV" tvg-logo = "https://i.ibb.co/3sDGdJh/BTV5.png", BTV5 FHD
+#EXTINF: -1 tvg-id = "btv5hd" group-title = "💚Khich TaliVi | SCTV" tvg-logo = "https://i.ibb.co/3sDGdJh/BTV5.png", BTV5 FHD
 #EXTVLCOPT: http-user-agent = KhichTivi
 
 #EXTINF: -1 tvg-id = "btv5hd" group-title = "💚Khich TiVi | SCTV" tvg-logo = "https://i.ibb.co/ccS0D2r/Khich-Ti-Vi-BTV5-HD.png", BTV5 HD
