@@ -1343,7 +1343,7 @@ https://live.fptplay53.net/fnxsd1/thanhhoa_hls.smil/chunklist_b2500000.m3u8
 #EXTINF: -1 tvg-id = "thanhhoa" group-title = "🇻🇳 Khích TiVi| Địa phương" tvg-logo = "https://static2.vieon.vn/vieplay-image/thumbnail_v4/2022/03/24/60jv709d_thanh-hoa_296_168.webp", TTV HD | TH Thanh Hóa
 #EXTINF: -1 tvg-id = "thanhhoa" group-title = "🇻🇳 Khích TiVi| Địa phương" tvg-logo = "https://static2.vieon.vn/vieplay-image/thumbnail_v4/2022/03/24/60jv709d_thanh-hoa_296_168.webp", Thanh Hóa SV2 khích TV live
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;)
-http://42.116.143.51:13579/udp/225.1.2.184:30120
+http://hieupq.drayddns.com:9000/udp/225.1.2.184:30120
 #EXTINF: -1 tvg-id = "tuyenquang" group-title = "🇻🇳 Khích TiVi| Địa phương" tvg-logo = "https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/03/22/y3k1ecmp_tuyenquang_296_168.webp", TTV FHD SV1| TH Tuyên Quang
 #EXTVLCOPT: http-user-agent =KhichTivi
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;)
@@ -1463,7 +1463,7 @@ http://aismile.dpdns.org/play/14Akq6k5mrt7iwRXq7uVntRP_xMm7c_fvLDR5DxwGug/ts
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"NPGQjP4uBe4GAEbUDxSuyQ","kid":"CG0JpAv/OgCqbdTbr5wTsg"}],"type":"temporary"}
 #https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/wtv.smil/manifest.mpd
-#http://hieupq.drayddns.com:9000/udp/225.1.1.139:30120
+http://hieupq.drayddns.com:9000/udp/225.1.1.139:30120
 #=*==_==BOX QT🎬-_=*#
 
 
@@ -1476,8 +1476,8 @@ http://aismile.dpdns.org/play/14Akq6k5mrt7iwRXq7uVnqnoz65ZV6KHD4S_VzS8MUU/ts?vid
 #EXTVLCOPT:http-user-agent=Gia Hưng 
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 #EXTVLCOPT:khíchTV=160
-http://aismile.dpdns.org/play/14Akq6k5mrt7iwRXq7uVnmKW1EgtPg88A5oGxrmaJtQ/ts
-#EXTINF:-1 tvg-id="musicbox" group-title="📦| In The Box" tvg-logo="https://www.intheboxtv.eu/content/uploads/2018/10/MUSICBOX_KARTICA_V4.jpg", Music Box
+http://aismile.dpdns.org/play/14Akq6k5mrt7iwRXq7uVnmKW1EgtPg88A
+e="📦| In The Box" tvg-logo="https://www.intheboxtv.eu/content/uploads/2018/10/MUSICBOX_KARTICA_V4.jpg", Music Box
 #EXTVLCOPT:http-user-agent=Gia Hưng 
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 #EXTVLCOPT:khíchTV:=289
