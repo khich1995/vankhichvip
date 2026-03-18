@@ -1321,12 +1321,12 @@ https://cdn10jtedge.indihometv.com/atm/DASH/hbohits/manifest.mpd
 #EXTVLCOPT:http-user-agent=khichtivi
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 https://live.mediatech.vn/live/285aaa79b4b265a457d81bb72bc32e2c114/chunklist.m3u8
-#EXTINF: -1 tvg-id = "quangngai" group-title = "🇻🇳 Khích TiVi| Địa phương" tvg-logo = "https://i.ibb.co/jP7JjDRm/QNg-TV1-logo-2026-khichtv.webp", PTQ1 HD | TH Quảng Ngãi
+#EXTINF: -1 tvg-id = "quangngai" group-title = "🇻🇳 Khích TiVi| Địa phương" tvg-logo = "https://i.ibb.co/jP7JjDRm/QNg-TV1-logo-2026-khichtv.webp", PTQ1 HD FPT| TH Quảng Ngãi
 #EXTVLCOPT:http-user-agent=khichtivi
 https://live.fptplay53.net/epzsd1/quangngai_hls.smil/chunklist_b1800000.m3u8
-#EXTINF:-1 tvg-id="quangngai2" group-title="🇻🇳 Khích TiVi|Địa phương" tvg-logo="https://i.ibb.co/M5Jm7mjH/QNg-TV2-logo-2026-khichtv.webp", QNgTV2 - | TH Quảng Ngãi
+#EXTINF:-1 tvg-id="quangngai2" group-title="🇻🇳 Khích TiVi|Địa phương" tvg-logo="https://i.ibb.co/M5Jm7mjH/QNg-TV2-logo-2026-khichtv.webp", QNgTV2 HD VTC - | TH Quảng Ngãi
 #EXTVLCOPT:http-user-agent=khichtivi
-https://short-url.org/Khichtivi-tntv2-hd?token.m3u8
+https://luuchieu.truyenhinhso.vn/media/live/B143BF88CC03AC5CD5D64E04/index.m3u8
 #EXTINF: -1 tvg-id = "quangninh3" group-title = "🇻🇳 Khích TiVi| QTV" tvg-logo = "https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/11/08/urogkht3_quangninh1_296_168.webp", QTV1 HD | TH Quảng Ninh
 https://live.fptplay53.net/fnxsd1/quangninh1_hls.smil/chunklist_b2500000.m3u8
 #EXTINF: -1 tvg-id = "quangninh1" group-title = "🇻🇳 Khích TiVi| Địa phương" tvg-logo = "https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/11/08/wb15fvsx_quangninh3_296_168.webp", QTV3 HD | TH Quảng Ninh
@@ -1392,7 +1392,7 @@ http://aismile.dpdns.org/play/14Akq6k5mrt7iwRXq7uVnpsBdYZE6jNIX3BsbwsylC0/ts
 #EXTINF:-1 tvg-id="hbohd" tvg-name="HBO" tvg-logo="https://i.ibb.co/NZLST1s/hbo-khich-Tivi-online-png.jpg" group-title="Quốc Tế",HBO khich TV Online🇻🇳
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.2
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.https://smt.passwdword.xyz/Smart.php?id=hbohd_twn
-http://hieupq.drayddns.com:9000/udp/225.1.4.90:30120?khichtv/index.m3u8
+http://hieupq.drayddns.com:9000/udp/225.1.4.183:30120
 #EXTINF:-1 tvg-id="hbohitshd" tvg-name="HBO" tvg-logo="https://i.ibb.co/dJrV6SH/kh-ch-Ti-Vi-hbo-hits.jpg" group-title="Quốc Tế",HBO HITS khich TV Online🇻🇳
 #EXTVLCOPT:http-user-age onnt=Dalvik/2.1.2
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
