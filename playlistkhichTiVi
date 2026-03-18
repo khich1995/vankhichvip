@@ -84,7 +84,7 @@ https://tinyurl.com/Khich-tivi-liveSCTVphimtonghop?tokey.m3u8
 
 #-""-update khích TiVi*-'-#
 
-#EXTINF:0 tvg-id="vtv1hd" group-title="❤️1️⃣7️⃣/0️⃣3️⃣/2️⃣0️⃣2️⃣6️⃣📡|UPDATE By khích📺" tvg-logo="https://i.ibb.co/grKqtMt/Up-Da-Te-khich-Tivi-png.jpg" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtc1_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8",UPDATE khích TiVi|⏰10:37:53|📆|17/03/2026 FHD
+#EXTINF:0 tvg-id="vtv1hd" group-title="❤️1️⃣9️⃣/0️⃣3️⃣/2️⃣0️⃣2️⃣6️⃣📡|UPDATE By khích📺" tvg-logo="https://i.ibb.co/grKqtMt/Up-Da-Te-khich-Tivi-png.jpg" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtc1_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8",UPDATE khích TiVi|⏰10:37:53|📆|19/03/2026 FHD
 https://live-a.fptplay53.net/live/media/VTV1HD/live_hls_avc/index.m3u8?=khíchTiVi
 
 #-*--THVL FHD-*--#
@@ -1324,8 +1324,12 @@ https://live.mediatech.vn/live/285aaa79b4b265a457d81bb72bc32e2c114/chunklist.m3u
 #EXTINF: -1 tvg-id = "quangngai" group-title = "🇻🇳 Khích TiVi| Địa phương" tvg-logo = "https://i.ibb.co/jP7JjDRm/QNg-TV1-logo-2026-khichtv.webp", PTQ1 HD FPT| TH Quảng Ngãi
 #EXTVLCOPT:http-user-agent=khichtivi
 https://live.fptplay53.net/epzsd1/quangngai_hls.smil/chunklist_b1800000.m3u8
+#EXTINF:-1 tvg-id="quangngai2" group-title="🇻🇳 Khích TiVi|Địa phương" tvg-logo="https://i.ibb.co/M5Jm7mjH/QNg-TV2-logo-2026-khichtv.webp", QNgTV2 HD KhichTV | TH Quảng Ngãi
+#EXTVLCOPT:http-user-agent=khichtivi
+https://tinyurl.com/Khichtivi-live-QN2TV-HD?token/index.m3u8
 #EXTINF:-1 tvg-id="quangngai2" group-title="🇻🇳 Khích TiVi|Địa phương" tvg-logo="https://i.ibb.co/M5Jm7mjH/QNg-TV2-logo-2026-khichtv.webp", QNgTV2 HD VTC - | TH Quảng Ngãi
 #EXTVLCOPT:http-user-agent=khichtivi
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://luuchieu.truyenhinhso.vn/media/live/B143BF88CC03AC5CD5D64E04/index.m3u8
 #EXTINF: -1 tvg-id = "quangninh3" group-title = "🇻🇳 Khích TiVi| QTV" tvg-logo = "https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/11/08/urogkht3_quangninh1_296_168.webp", QTV1 HD | TH Quảng Ninh
 https://live.fptplay53.net/fnxsd1/quangninh1_hls.smil/chunklist_b2500000.m3u8
