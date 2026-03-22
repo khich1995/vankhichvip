@@ -84,7 +84,7 @@ https://tinyurl.com/Khich-tivi-liveSCTVphimtonghop?tokey.m3u8
 
 #-""-update khích TiVi*-'-#
 
-#EXTINF:0 tvg-id="vtv1hd" group-title="❤️2️⃣1️⃣/0️⃣3️⃣/2️⃣0️⃣2️⃣6️⃣📡|UPDATE By khích📺" tvg-logo="https://i.ibb.co/grKqtMt/Up-Da-Te-khich-Tivi-png.jpg" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtc1_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8",UPDATE khích TiVi|⏰10:37:53|📆|21/03/2026 FHD
+#EXTINF:0 tvg-id="vtv1hd" group-title="❤️2️⃣3️⃣/0️⃣3️⃣/2️⃣0️⃣2️⃣6️⃣📡|UPDATE By khích📺" tvg-logo="https://i.ibb.co/grKqtMt/Up-Da-Te-khich-Tivi-png.jpg" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtc1_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8",UPDATE khích TiVi|⏰08:42:53|📆|23/03/2026 FHD
 https://live.fptplay53.net/fnxch2/vtv1hd_abr.smil/chunklist.m3u8?=khíchTiVi
 
 #-*--THVL FHD-*--#
@@ -183,10 +183,10 @@ https://tdlive.zlylive.com/live/tdtv_blv_taoche/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #EXTINF:-1 tvg-id="8sport1hd" group-title="khíchTV| Live" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-n9OAIZzuF_KmX5Bns1SBFa8wfhioJG2EzNbUzbMS2Q&s=10", bún chảTV1 FULL HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://cdn-hls.taoxanh.biz/live/69b56878326d8_79/index.m3u8?expire=khichtv
+https://hls.cdnok9.com/live/NHIKA1/index.m3u8?expire&sign=khichtv
 #EXTINF:-1 tvg-id="8sport2hd" group-title="khíchTV| Live" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-n9OAIZzuF_KmX5Bns1SBFa8wfhioJG2EzNbUzbMS2Q&s=10", bún chảTV2 FULL HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://cdn-hls.taoxanh.biz/live/69b56d3770a69_95554/index.m3u8?expire=KhichTV
+https://hls.cdnok9.com/live/PHONGVAN/index.m3u8?expire=KhichTV
 #EXTINF:-1 tvg-id="8sport3hd" group-title="khíchTV| Live" tvg-logo="https://i.ibb.co/RkYqkDpf/8sportlive.png", 8SPORT 3 FULL HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1
 
