@@ -585,8 +585,8 @@ http://aismile.dpdns.org/play/14Akq6k5mrt7iwRXq7uVnnvsDhnkkFPif1DvgxPVbvw/ts
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 https://vnshort.com/Vuong-bao-khichTV-vtvcab15-hd
 #EXTINF:-1 tvg-id="vtvcab16hd" tvg-logo="https://i.ibb.co/syvqgF8/ON-Football-vbktv.jpg" group-title="VTVCab" ,ON FOOTBALL FHD LIVE
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; (Khích TV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-http://aismile.dpdns.org/play/14Akq6k5mrt7iwRXq7uVnrsLOx6vHwCu6lB4fta8h-A/ts
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; (Khích TV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36?onlive=122487
+https://s.pro.vn/Khichtv80-vtvcab16-HD
 #EXTINF:-1 tvg-id="vtvcab16hd" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2023/03/22/7bzwc1y8_vtvcab16d94c489eda7dd7690cc161c53595f2d9_296_168.webp" group-title="VTVCab" ,ON FOOTBALL HD
 #EXTVLCOPT:http-user-agent=Mozilla
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -599,8 +599,8 @@ http://aismile.dpdns.org/play/14Akq6k5mrt7iwRXq7uVnrsLOx6vHwCu6lB4fta8h-A/ts
 https://freem3u.xyz/api/live/play.m3u8?vid=186
 #EXTINF:0 tvg-id="vtvcab17hd" group-title="VTVCab" tvg-logo="https://i.ibb.co/C6bRbMq/vtvcab-khichtv.png" ,VTVCAB 
 #EXTINF:-1 tvg-id="vtvcab18hd" group-title="VTVCab" tvg-logo="https://i.ibb.co/T0CjVtK/ONSPORTSNEWS-KHICH-11-09-24.jpg", ON SPORTS NEWS FHD LIVE
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; (Khích TV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; (Khích TV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36?=122488
+https://s.pro.vn/Khichtv80-vtvcab18-HD
 #EXTINF:-1 tvg-id="vtvcab18hd" group-title="VTVCab" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2022/08/02/83opzg6q_onsportnews6ae431366bc5fd7e0f22d4796e909d59_296_168.webp", ON SPORTS NEWS HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #EXTVLCOPT:http-user-agent=Mozilla
