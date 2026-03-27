@@ -75,9 +75,9 @@ https://tinyurl.com/Khichtv80-vtv15?=khichtv=&VTV15?token/playlist.m3u8
 #EXTINF:-1 tvg-id="onfootball" group-title="❤Khích📺2️⃣0️⃣2️⃣6️⃣|VTV" tvg-logo="https://i.ibb.co/svQHDM8g/VTV16-logo-khichtv.webp" catchup="append" catchup-days="2" catchup-iik="https://api.vthanhtivi.pw/v1/dvr/vieon/vtvcab6-on-sport-plus/${start}/${offset}", ❤VTV16 HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://tinyurl.com/Khich-tivi-live-VTV16
-#EXTINF:-1 tvg-id="onfootball" group-title="❤Khích📺2️⃣0️⃣2️⃣6️⃣|VTV" tvg-logo="https://i.ibb.co/WpsVQ976/VTV17-logo-khichtv.jpg" catchup="append" catchup-days="2" catchup-iik="https://api.vthanhtivi.pw/v1/dvr/vieon/vtvcab6-on-sport-plus/${start}/${offset}", ❤VTV17 HD
+#EXTINF:-1 tvg-id="boomerang" group-title="❤Khích📺2️⃣0️⃣2️⃣6️⃣|VTV" tvg-logo="https://i.ibb.co/WpsVQ976/VTV17-logo-khichtv.jpg" catchup="append" catchup-days="2" catchup-iik="https://api.vthanhtivi.pw/v1/dvr/vieon/vtvcab6-on-sport-plus/${start}/${offset}", ❤VTV17 HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-
+https://tinyurl.com/Khichtv80-vtv17-HD?token/index.m3u8
 #EXTINF:-1 tvg-id="onsportsnews" group-title="❤2️⃣0️⃣2️⃣6️⃣|LIST KhichTiVi🛠|Box TV số DT 0355050296" tvg-logo="https://i.ibb.co/Xrb01PsV/vtv18-logo-khichtv.webp" catchup="append"catchup-days="2"catchup-source="https://code.khichivi.pw/xemlai/mytv/380/hd/dvr-${start}-${end}.m3u8",VTV18 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://tinyurl.com/khich-TiVi80-VTV18-HD?token/index.m3u8
