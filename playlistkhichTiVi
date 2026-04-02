@@ -87,7 +87,7 @@ https://tinyurl.com/Khich-tivi-liveSCTVphimtonghop?tokey.m3u8
 
 #-""-update khích TiVi*-'-#
 
-#EXTINF:0 tvg-id="vtv1hd" group-title="❤️0️⃣1️⃣/0️⃣4️⃣/2️⃣0️⃣2️⃣6️⃣📡|UPDATE By khích📺" tvg-logo="https://i.ibb.co/grKqtMt/Up-Da-Te-khich-Tivi-png.jpg" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtc1_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8",UPDATE khích TiVi|⏰08:42:53|📆|01/04/2026 FHD
+#EXTINF:0 tvg-id="vtv1hd" group-title="❤️0️⃣3️⃣/0️⃣4️⃣/2️⃣0️⃣2️⃣6️⃣📡|UPDATE By khích📺" tvg-logo="https://i.ibb.co/grKqtMt/Up-Da-Te-khich-Tivi-png.jpg" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtc1_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8",UPDATE khích TiVi|⏰08:42:53|📆|03/04/2026 FHD
 https://live.fptplay53.net/fnxch2/vtv1hd_abr.smil/chunklist_b4200000.m3u8?=khíchTiVi
 
 #-*--THVL FHD-*--#
@@ -199,15 +199,15 @@ https://live.inplyr.com/room/168740.m3u8
 https://live.inplyr.com/room/113906.m3u8
 #EXTINF:-1 tvg-id="fpt4k" group-title="Live" tvg-logo="https://i.ibb.co/b5k1tKNG/logo-khichtv-FPT-Play-4-K.webp", FPT PLAY 4K FULL HD
 https://tinyurl.com/Khichtv80-FPT4k?token/index.m3u8
-#EXTINF:-1 tvg-id="xoilachd" group-title="khíchTV| Live" tvg-logo="https://sv1.bugio8.live/logo.png", BU GioTV FULL HD
+#EXTINF:-1 tvg-id="xoilachd" group-title="khíchTV| Live" tvg-logo="https://sv1.bugio8.live/logo.png", BU GioTV 1 FULL HD
 #EXTVLCOPT:http-user-agent=Dalvi.
 https://bglive.zlylive.com/live/bgtv_blv_aphu/playlist.m3u8
-#EXTINF:-1 tvg-id="kaction" group-title="khíchTV| K+" tvg-logo="https://sv1.bugio8.live/logo.png", BU GIOTV FULLHD
+#EXTINF:-1 tvg-id="kaction" group-title="khíchTV| K+" tvg-logo="https://sv1.bugio8.live/logo.png", BU GIOTV 2 FULLHD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0http://aismile.dpdns.org/play/14Akq6k5mrt7iwRXq7uVnscSqc4xAFS0jvkkDDr1Za4/ts
 https://bglive.zlylive.com/live/bgtv_blv_tieungoandong/playlist.m3u8
-#EXTINF:-1 tvg-id="ksport1hd" group-title="khichTV bóng đá" tvg-logo="https://i.ibb.co/RXjT9D7/khich-tivi-ksports1.webp",⚽ k+SPORTS 1 HD 
+#EXTINF:-1 tvg-id="ksport1hd" group-title="khichTV bóng đá" tvg-logo="https://sv1.bugio8.live/logo.png",BU GIOTV 3 FULLHD
 #EXTVLCOPT:http-user-agent=ReactNativeVi8deo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-
+https://bglive.zlylive.com/live/bgtv_blv_tieupao/playlist.m3u8
 #EXTINF:-1 tvg-id="ksport2hd" group-title="khichTV bóng đá" tvg-logo="https://i.ibb.co/tPFt0Yz0/Kh-ch-Ti-Vi-logo-ksports2.webp",⚽K+SPORTS 2 HD 
 #EXTVLCOPT:http-user-agent=ReactNativeVi8deo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 
