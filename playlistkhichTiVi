@@ -600,7 +600,7 @@ https://freem3u.xyz/api/live/play.m3u8?vid=186
 #EXTINF:0 tvg-id="vtvcab17hd" group-title="VTVCab" tvg-logo="https://i.ibb.co/C6bRbMq/vtvcab-khichtv.png" ,VTVCAB 
 #EXTINF:-1 tvg-id="vtvcab18hd" group-title="VTVCab" tvg-logo="https://i.ibb.co/T0CjVtK/ONSPORTSNEWS-KHICH-11-09-24.jpg", ON SPORTS NEWS FHD LIVE
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; (Khích TV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36?=122488
-https://global-media.onlive.vn/live/onsportspnews/master.m3u8
+https://global-media.onlive.vn/live/onsportsnews/master.m3u8
 #EXTINF:-1 tvg-id="vtvcab18hd" group-title="VTVCab" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2022/08/02/83opzg6q_onsportnews6ae431366bc5fd7e0f22d4796e909d59_296_168.webp", ON SPORTS NEWS HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #EXTVLCOPT:http-user-agent=Mozilla
@@ -652,9 +652,9 @@ https://freem3u.xyz/api/live/play.m3u8?vid=188
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://tinyurl.com/Khichtv80-VTVCAB23-HD?token/index.m3u8
 #EXTINF:-1 tvg-id="vtvcab23hd" group-title="🧡| VTVcab" tvg-logo="https://static2.vieon.vn/vieplay-image/avatar/2023/08/23/v9atjhmw_vtvcab23.png" catchup="append" catchup-days="2" catchup-source="https://api.khichtivi.pw/v2/dvr/vieon2/93fa8edc-c081-43a5-8aad-dd5d4527ccd6/${start}/${offset}", ON GOLF
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 tv360 169+ onlive 122485
-https://tinyurl.com/Khichtivi-live-VTVCAB23-FHD?token/index.m3u8
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 tv360 169+ onlive 12248
 https://global-media.onlive.vn/live/ongolf/master.m3u8
+
 
 #÷-'"khích VIP SCTV÷-'"#
 
