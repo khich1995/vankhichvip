@@ -518,7 +518,8 @@ https://vnshort.com/Khichtivi-2026-on-vieGiaiTrihd
 #https://1.org.vn/Khích🇻🇳-80vie-giai-tri-HD-LIVE
 #EXTINF:0 tvg-id="vtvcab1hd" group-title="khichVIP VTVCab" tvg-logo="https://img-zlr1.tv360.vn/image1/2020_09_22/1600760787759/55ff2c9812b2_640_360.png",VTVCAB1 SCTV online FHD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://freem3u.xyz/api/live/play.m3u8?vid=180
+https://global-media.onlive.vn/live/viegiaitri/preview/master.m3u8
+#https://freem3u.xyz/api/live/play.m3u8?vid=180
 #EXTINF:0 tvg-id="vtvcab2hd" group-title="VTVCab" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2022/08/02/b7xiixf4_vtvcab2-on-phim-viet-thumbf1932b18ec54e502ad4872c481e0207c_296_168.webp",ON PHIM VIỆT NAM HD🇻🇳
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3=175
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 =175
