@@ -261,7 +261,7 @@ http://s4zen.myclip.vn/video1/2023/12/21/09/fe516b9a/fe516b9a-1b63-4474-abb8-08b
 #EXTINF:0 tvg-id="vtc2" group-title="VTC - Khích📺" tvg-logo="https://i.ibb.co/z2xWqMQ/khichtivi-kenh2.jpg" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtc2_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", khích TiVi 2 FHD
 #EXTVLCOPT:http-user-agent="khichTV"
 #http://bxtv.3a.ink/api.php?id=popc
-http://s4zen.myclip.vn/video1/2024/02/19/14/799b9ed2/799b9ed2-2ea8-4f0e-9937-2653de4e86e9_1_.m3u8
+http://s4zen.myclip.vn/video1/2024/02/19/14/799b9ed2/799b9ed2-2ea8-4f0e-9937-2653de4e86e9_4_.m3u8
 #EXTINF:0tvg-id="ksport1hd"group-title="THỬ NHIỆM-KhichTV" tvg-logo="https://i.ibb.co/xtc2fb5F/khich-Ti-Vi-KSP1.jpg" tvg-chno="11" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtc3_1500.stream/chunks_dvr_range-${start}-10800.m3u8", khích TiVi K+SP1 HD
 #EXTVLCOPT:http-user-agent="KHICHTV"
 http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:7a:39:a6&stream=31801&extension=ts&play_token=MAaXIbHwPF
@@ -290,7 +290,7 @@ https://s1ali.myclip.vn/video8/2025/01/24/08/8df1d785/8df1d785-883c-4819-a7c6-6e
 http://myxpanel.pro:80/Martin/Martin/276893
 #EXTINF:-1 tvg-id="kaction" group-title="THỬ NHIỆM - khichTV" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/09/24/2b2ab9vz_vtc-89893d4ad3341d50412dc57325fa2011b_296_168.webp",VTC8 FHD
 #EXTVLCOPT:http-user-agent="KHICHTV"
-
+http://s1ali.myclip.vn/video1/2024/06/19/15/e338e9ea/e338e9ea-7de6-44cf-afb6-5b7730d93727_4_.m3u8
 #EXTINF:-1 tvg-id="kkidshd" group-title="THỬ NHIỆM - Khích📺" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/09/24/v6xuy2jr_vtc-99d3e7e66ed0c7ccdeb1a97da76b48e66_296_168.webp",VTC9 FHD
 #EXTVLCOPT:http-user-agent="khichTV"
 
