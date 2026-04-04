@@ -624,7 +624,7 @@ http://60.246.171.122:8891/bysid/92
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36https://live5.k8v4dh4.app/live/41943555.m3u8?txSecret=30fe8de7f0c10b332ca0224c6657212b&txTime=1950B72BD75
 #EXTINF:0 tvg-id="vtvcab19hd" group-title="VTVCab" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2023/06/20/jwnhipn3_vie-dramasae064da43e53e1159713dee84d357599_296_168.png" catchup="append" catchup-days="2" catchup-source="https://api.khichtivi.pw/v2/dvr/vieon/vie-dramas-hd/${start}/${offset}",VTVCAB 19 FHD
-
+https://global-media.onlive.vn/live/video/viedramas/1920x1080/playlist.m3u8
 #EXTINF:0 tvg-id="vtvcab20hd" group-title="khichtv VTVCab" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2023/03/06/s0vy2pmh_vtvcab20a434829b87edb836c91a9f364b5d56d8_296_168.webp",VTVCAB20 - V FAMILY
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #EXTVLCOPT:http-user-agent="khich TV"
