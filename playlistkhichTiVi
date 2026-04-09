@@ -87,7 +87,7 @@ https://tinyurl.com/Khich-tivi-liveSCTVphimtonghop?tokey.m3u8
 
 #-""-update khích TiVi*-'-#
 
-#EXTINF:0 tvg-id="vtv1hd" group-title="❤️0️⃣9️⃣/0️⃣4️⃣/2️⃣0️⃣2️⃣6️⃣📡|UPDATE By khích📺" tvg-logo="https://i.ibb.co/grKqtMt/Up-Da-Te-khich-Tivi-png.jpg" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtc1_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8",UPDATE khích TiVi|⏰01:26:53|📆|09/04/2026 FHD
+#EXTINF:0 tvg-id="vtv1hd" group-title="❤️1️⃣0️⃣/0️⃣4️⃣/2️⃣0️⃣2️⃣6️⃣📡|UPDATE By khích📺" tvg-logo="https://i.ibb.co/grKqtMt/Up-Da-Te-khich-Tivi-png.jpg" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtc1_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8",UPDATE khích TiVi|⏰01:26:53|📆|10/04/2026 FHD
 https://live.fptplay53.net/fnxch2/vtv1hd_abr.smil/chunklist_b4200000.m3u8?=khíchTiVi
 
 #-*--THVL FHD-*--#
@@ -174,6 +174,10 @@ https://hls.686868.me/live/GIANGAHUP/index.m3u8?expire=khíchtivi
 https://hls.686868.me/live/AKHOAI/index.m3u8?expire=khíchtivi
 #EXTINF:-1 tvg-id="bunchatvhd" ugroup-title="Live khichVip" tvg-logo="https://i.ibb.co/9ktnYdCR/cakhaitv-4k-logo-khichtv.png", CAKHAITV 3 FULL HD
 https://hls.686868.me/live/giangaphe/index.m3u8?expire=1783173180&sign=khíchtivi
+#EXTINF:-1 tvg-id="bunchatvhd" ugroup-title="Live khichVip" tvg-logo="https://i.ibb.co/9ktnYdCR/cakhaitv-4k-logo-khichtv.png", CAKHAITV 4 FULL HD
+https://hls.686868.me/live/GIANGPHUNGTIEN/index.m3u8?expire=khíchTiVi
+#EXTINF:-1 tvg-id="bunchatvhd" ugroup-title="Live khichVip" tvg-logo="https://i.ibb.co/9ktnYdCR/cakhaitv-4k-logo-khichtv.png", CAKHAITV 5 FULL HD
+https://hls.686868.me/live/GIANGAKA/index.m3u8?expire=khíchTiVi 
 #EXTINF:-1 tvg-id="thiendinh1hd" group-title="Live khichTV" tvg-logo="https://i.ibb.co/XZHnqGzC/khich-Ti-Vi-Logo-thien-dinhtv-png.png", THIÊN ĐINHTV 1 FULL HD
 https://tdlive.zlylive.com/live/tdtv_blv_taovanhoa/playlist.m3u8
 #EXTINF:-1 tvg-id="thiendinh2hd" group-title="khíchTV| Live" tvg-logo="https://i.ibb.co/Swj0W9Zh/thien-dinhtv-logo-khichtv.png", THIÊN ĐINHTV 2 FULL HD
