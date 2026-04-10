@@ -87,7 +87,7 @@ https://tinyurl.com/Khich-tivi-liveSCTVphimtonghop?tokey.m3u8
 
 #-""-update khích TiVi*-'-#
 
-#EXTINF:0 tvg-id="vtv1hd" group-title="❤️1️⃣0️⃣/0️⃣4️⃣/2️⃣0️⃣2️⃣6️⃣📡|UPDATE By khích📺" tvg-logo="https://i.ibb.co/grKqtMt/Up-Da-Te-khich-Tivi-png.jpg" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtc1_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8",UPDATE khích TiVi|⏰01:26:53|📆|10/04/2026 FHD
+#EXTINF:0 tvg-id="vtv1hd" group-title="❤️1️⃣1️⃣/0️⃣4️⃣/2️⃣0️⃣2️⃣6️⃣📡|UPDATE By khích📺" tvg-logo="https://i.ibb.co/grKqtMt/Up-Da-Te-khich-Tivi-png.jpg" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtc1_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8",UPDATE khích TiVi|⏰01:26:53|📆|11/04/2026 FHD
 https://live.fptplay53.net/fnxch2/vtv1hd_abr.smil/chunklist_b4200000.m3u8?=khíchTiVi
 
 #-*--THVL FHD-*--#
@@ -203,18 +203,18 @@ https://live.inplyr.com/room/168740.m3u8
 https://live.inplyr.com/room/113906.m3u8
 #EXTINF:-1 tvg-id="fpt4k" group-title="Live" tvg-logo="https://i.ibb.co/b5k1tKNG/logo-khichtv-FPT-Play-4-K.webp", FPT PLAY 4K FULL HD
 https://tinyurl.com/Khichtv80-FPT4k?token/index.m3u8
-#EXTINF:-1 tvg-id="xoilachd" group-title="khíchTV| Live" tvg-logo="https://sv1.bugio8.live/logo.png", BU GioTV 1 FULL HD
+#EXTINF:-1 tvg-id="bvlaphuhd" group-title="khíchTV| Live" tvg-logo="https://sv1.bugio8.live/logo.png", BU GioTV 1 FULL HD
 #EXTVLCOPT:http-user-agent=Dalvi.
 https://bglive.zlylive.com/live/bgtv_blv_aphu/playlist.m3u8
-#EXTINF:-1 tvg-id="kaction" group-title="khíchTV| K+" tvg-logo="https://sv1.bugio8.live/logo.png", BU GIOTV 2 FULLHD
+#EXTINF:-1 tvg-id="blvtieungoandong" group-title="khíchTV| K+" tvg-logo="https://sv1.bugio8.live/logo.png", BU GIOTV 2 FULLHD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0http://aismile.dpdns.org/play/14Akq6k5mrt7iwRXq7uVnscSqc4xAFS0jvkkDDr1Za4/ts
 https://bglive.zlylive.com/live/bgtv_blv_tieungoandong/playlist.m3u8
-#EXTINF:-1 tvg-id="ksport1hd" group-title="khichTV bóng đá" tvg-logo="https://sv1.bugio8.live/logo.png",BU GIOTV 3 FULLHD
+#EXTINF:-1 tvg-id="blvtieupaohd" group-title="khichTV bóng đá" tvg-logo="https://sv1.bugio8.live/logo.png",BU GIOTV 3 FULLHD
 #EXTVLCOPT:http-user-agent=ReactNativeVi8deo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 https://bglive.zlylive.com/live/bgtv_blv_tieupao/playlist.m3u8
-#EXTINF:-1 tvg-id="ksport2hd" group-title="khichTV bóng đá" tvg-logo="https://i.ibb.co/tPFt0Yz0/Kh-ch-Ti-Vi-logo-ksports2.webp",⚽K+SPORTS 2 HD 
+#EXTINF:-1 tvg-id="blvtradahd" group-title="khichTV bóng đá" tvg-logo="https://sv1.bugio8.live/logo.png",⚽BU GIOTV 4 FULLHD
 #EXTVLCOPT:http-user-agent=ReactNativeVi8deo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-
+https://bglive.zlylive.com/live/bgtv_blv_trada/playlist.m3u8
 #EXTINF:-1 tvg-id="kkidshd" group-title="K+" tvg-logo="https://i.ibb.co/kBHnccC/Khich-plus-kids.png", K+ KIDS HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3 #EXTVLCOPT:http-referer=https://sctvonline.vn/
