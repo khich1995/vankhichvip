@@ -1341,7 +1341,8 @@ https://tinyurl.com/Khichtivi-live-QN2TV-HD?token/index.m3u8
 #EXTINF:-1 tvg-id="quangngai2" group-title="🇻🇳 Khích TiVi|Địa phương" tvg-logo="https://i.ibb.co/M5Jm7mjH/QNg-TV2-logo-2026-khichtv.webp", QNgTV2 HD VTC - | TH Quảng Ngãi
 #EXTVLCOPT:http-user-agent=khichtivi
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://luuchieu.truyenhinhso.vn/media/live/B143BF88CC03AC5CD5D64E04/index.m3u8
+http://hieupq.drayddns.com:9000/udp/225.1.1.36:30120
+#https://luuchieu.truyenhinhso.vn/media/live/B143BF88CC03AC5CD5D64E04/index.m3u8
 #EXTINF: -1 tvg-id = "quangninh3" group-title = "🇻🇳 Khích TiVi| QTV" tvg-logo = "https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/11/08/urogkht3_quangninh1_296_168.webp", QTV1 HD | TH Quảng Ninh
 https://live.fptplay53.net/fnxsd1/quangninh1_hls.smil/chunklist_b2500000.m3u8
 #EXTINF: -1 tvg-id = "quangninh1" group-title = "🇻🇳 Khích TiVi| Địa phương" tvg-logo = "https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/11/08/wb15fvsx_quangninh3_296_168.webp", QTV3 HD | TH Quảng Ninh
