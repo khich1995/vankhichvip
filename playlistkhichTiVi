@@ -1301,7 +1301,7 @@ https://live.mediatech.vn/live/2851dc2c9af68834814a89e61db0faee561/playlist.m3u8
 https://live.fptplay53.net/epzsd1/tayninh01_hls.smil/chunklist_b1800000.m3u8
 #https://cmcdp2.vtvdigital.vn/hls/TAYNINHTV/index.m3u8
 #EXTINF: -1 tvg-id = "thaibinh" group-title = "🇻🇳 Khích TiVi| Địa phương" tvg-logo = "https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/03/22/1vzivocp_thaibinh_296_168.webp", TBTV HD | TH Thái Bình
-https://live.catvod.com/live.php?id=Axn
+https://cdn10jtedge.indihometv.com/atm/DASH/axn/manifest.mpd
 #EXTINF: -1 tvg-id = "ninhthuan" group-title = "🇻🇳 Khích TiVi| Địa phương" tvg-logo = "https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/03/22/nt29fpd8_ninhthuan_296_168.png", NTV HD | TH Ninh Thuận
 https://live.mediatech.vn/live/28597f8fd7ea5064d0f84ab00b3699dfd86/playlist.m3u8
 #EXTINF: -1 tvg-id = "phutho" group-title = "🇻🇳 Khích TiVi| Địa phương" tvg-logo = "https://i.ibb.co/NS3HKWY/khichtv-logo-PTV-HD.png", PTV HD | TH Phú Thọ
@@ -1312,11 +1312,11 @@ https://1253218859.e.cdneverest.net/JX2fbhhxPSju-odQDzWc7w/1770089303/live/285f5
 #EXTINF:0 tvg-id="phuyen" group-title="Địa phương " tvg-logo="https://i.imgur.com/r2xMHkT.png",PTP HD sv2 _ TH Phú Yên
 https://live.fptplay53.net/epzsd1/phuyen_hls.smil/chunklist.m3u8
 #EXTINF: -1 tvg-id = "quangbinh" group-title = "🇻🇳 Khích TiVi| Địa phương" tvg-logo = "https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/03/22/ij08jiqu_quangbinhde0917e1443678e11e0767ba57c5daa4_296_168.webp", QBTV FHD | TH Quảng Bình
-https://media.qbtv.vn/LiveApp/streams/UfqMzQUuZFxD69275138146969.m3u8
+https://cdn10jtedge.indihometv.com/atm/DASH/Celestial/manifest.mpd
 #EXTINF: -1 tvg-id = "quangbinh" group-title = "🇻🇳 Khích TiVi| Địa phương" tvg-logo = "https://i.ibb.co/MB5Kwpg/20231120-khichtv-QBinh-Tv.png", QBTV SD
 https://live.fptplay53.net/epzsd1/quangbinh_hls.smil/chunklist.m3u8
 #EXTINF: -1 tvg-id = "quangtri" group-title = "🇻🇳 Khích TiVi| Địa phương" tvg-logo = "https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/06/17/ayvc9udv_quangtri_296_168.webp", QRTV FHD | TH Quảng Trị
-https://tructuyen.baoquangtri.vn:5443/LiveApp/streams/20VcR6dL2B9Krwob13486956694488871.m3u8
+https://cdn10jtedge.indihometv.com/atm/DASH/Celestial2 /manifest.mpd
 #EXTINF: -1 tvg-id = "quangtri" group-title = "🇻🇳 Khích TiVi| Địa phương" tvg-logo = "https://i.ibb.co/qdKdydK/truyen-hinh-Quang-tri-khichtv.jpg", QRTV HD
 https://vod.splay.uz/live_splay/original/Setanta1HD/playlist.m3u8
 #EXTINF: -1 tvg-id = "quangtri" group-title = "🇻🇳 Khích TiVi| Địa phương" tvg-logo = "https://i.ibb.co/tJsvcP3/20231120-khichtv-QTritv.j http-user-age thểTH Quảng Trị SD
@@ -1324,7 +1324,7 @@ https://vod.splay.uz/live_splay/original/Setanta1HD/playlist.m3u8
 #EXTINF: -1 tvg-id = "quangnam" group-title = "🇻🇳 Khích TiVi| Địa phương" tvg-logo = "https://i.ibb.co/0BFDjS6/khichtv-logo-quang-nam.jpg", QRT FHD | TH Quảng Nam
 #EXTVLCOPT: http-user-agent = khích Tivi
 https://cdn10jtedge.indihometv.com/atm/DASH/hbo/manifest.mpd
-#https://live.catvod.com/live.php?id=Celestial2
+#https://live.catvod.com/live.php?id= Celestial2
 #EXTINF: -1 tvg-id = "quangnam" group-title = "🇻🇳 Khích TiVi| Địa phương" tvg-logo = "https://i.ibb.co/r6Z1XfC/Quang-Nam-khichtivi.jpg", QRT SD | TH Quảng Nam
 #EXTVLCOPT: http-user-agent = khích Tivi
 https://cdn10jtedge.indihometv.com/atm/DASH/hbohits/manifest.mpd
