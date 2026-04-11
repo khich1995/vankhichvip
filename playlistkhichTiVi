@@ -976,7 +976,7 @@ http://ebsonairios.ebs.co.kr/ebsutablet500k/_definst_/tablet500k/playlist.m3u8
 #EXTINF: -1 tvg-id = "binhduong4" group-title = "🇻🇳Khích TiVi|Địa phương" tvg-logo = "https://static.vieon.vn/vieplay-image/avatar/2020/12/15/at88krjp_imovie.png",Bình Dương 4 HD
 #EXTVLCOPT: http-user-agent = KhichTivi
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-http://fl2.moveonjoy.com/SHOWTIME_NEXT/index.m3u8
+https://jmp2.uk/plu-6728d2be529ac9000830dc15.m3u8
 #EXTINF:-1 tvg-id="btv5hd" group-title="💚Khích TiVi|KÊNH ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/P66BsJx/Binh-duong-5-khichtivi.png",Bình Dương 5 HD
 #EXTVLCOPT:http-user-agent=KhíchTivi
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
