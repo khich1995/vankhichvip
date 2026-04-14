@@ -2221,7 +2221,7 @@ http://69.30.245.50/live/cctv8.m3u8
 #EXTINF:-1 group-title="cctv8khd" tvg-logo="https://i.imgur.com/fxVPMJF.png",CCTV8k FHD
 http://43.156.8.127:5050/ysp?id=2026774101&pid=600156816&q=fhd
 #EXTINF:-1 group-title="CCTV9" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnTp8vH4PTZp7ZaL71UrFX17YmouHyaDam4uU9T4hFmA&s=10",CCTV9 FHD
-http://111.56.90.5/000000000000/1000000001000014583/1.m3u8
+http://192.151.150.154/live/cctv9hd.m3u8
 #EXTINF:-1 tvg-id="cctv10" tvg-logo="cctv10.png",CCTV-10 科教
 http://192.151.150.154/live/cctv10hd.m3u8
 #EXTINF:-1 tvg-id="cctv11" tvg-logo="cctv11.png",CCTV-11 戏曲
