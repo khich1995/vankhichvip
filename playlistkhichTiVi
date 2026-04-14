@@ -2238,8 +2238,8 @@ http://192.151.150.154/live/cctv15hd.m3u8
 http://192.151.150.154/live/cctv16hd.m3u8
 #EXTINF:-1 tvg-id="cctv16-4K" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvmTblEWbvmAwswFEOur7Uc7wCGPAma7wjJCMAm4_wsB1hdLfj3OzYGw&s",CCTV-16 4K 奥林匹克
 http://43.152.31.17:843/hlslive-tx-cdn.ysp.cctv.cn/ysp/2027249301_dlna.m3u8
-#EXTINF:-1 tvg-id="cctv16-4K" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuIpOvDzaSf6lBfT1aDb1_Sbf1RvG5GKI6V60tMP4j&s",CCTV-16 4k 奥林匹克 rpt
-http://111.113.150.49:9999/rtp/239.121.4.122:8008
+#EXTINF:-1 tvg-id="cctv16-4K" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuIpOvDzaSf6lBfT1aDb1_Sbf1RvG5GKI6V60tMP4j&s",CCTV-16 4k 奥林匹克
+http://43.152.31.17:843/hlslive-tx-cdn.ysp.cctv.cn/ysp/2027249301_dlna.m3u8
 #EXTINF:-1 tvg-id="cctv17" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBzpRicqu1mHfCqdyskvkqE1XFs-HsLxNK4Q&s",CCTV-17 农业农村
 http://192.151.150.154/live/cctv17hd.m3u8
 
