@@ -2126,7 +2126,8 @@ https://ch3-33-web.cdn.byteark.com/live/playlist_720p/index.m3u8
 https://lb1-live-mv.v2h-cdn.com/hls/ffae/3hd/3hd.m3u8
 #EXTINF:-1 tvg-id="tv5" group-title="🇹🇭KhichTivi|thai" tvg-logo="https://static.thaicom.io/ch/ch_1.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/travelliving_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8",ดูทีวีออนไลน์ช่อง 5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://lb1-live-mv.v2h-cdn.com/hls/fffb/5hd/5hd.m3u8
+https://639bc5877c5fe.streamlock.net/tv5hdlive/tv5hdlive/playlist.m3u8
+#https://lb1-live-mv.v2h-cdn.com/hls/fffb/5hd/5hd.m3u8
 #EXTINF:-1 tvg-id="workpoint23hd" group-title="🇹🇭KhichTivi|thai" tvg-logo="https://www.workpointtv.com/wp-content/themes/wptv/assets/logo-wptv.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/travelliving_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8",,ดูทีวีออนไลน์ช่อง workpoint 23
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://lb1-live-mv.v2h-cdn.com/hls/ffcb/workpoint/workpoint.m3u8
@@ -2154,8 +2155,8 @@ https://live-us1.thaimomo.com/live-as/chpptv-3/chunklist_w380994443.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://live-us1.thaimomo.com/live-as/chpptv-3/playlist.m3u8
 #EXTINF:-1 tvg-id="tlchd" group-title="🇹🇭KhichTivi|thai" tvg-logo="https://wwitv.com/tvlogos/65.jpg" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/travelliving_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8",TV5 HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://639bc5877c5fe.streamlock.net/tv5hdlive/tv5hdlive/playlist.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36⁶
+https://639bc5877c5fe.streamlock.net/tv5hdlive/tv5hdlive/playlist.m3u
 #EXTINF:-1 tvg-id="tlchd" group-title="🇹🇭KhichTivi|thai" tvg-logo="https://i.malimarcdn.com/premium-thai8HDF.jpg" catchup="append"catchup-days="2" catchup-source="https://livetvcentral.com/country/thailand",ch8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://lb1-live-mv.v2h-cdn.com/hls/ffbe/ch8/ch8.m3u8
@@ -2178,10 +2179,10 @@ https://lb1-live-mv.v2h-cdn.com/hls/fffa/boomerang/boomerang.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 http://appdootv2.dootvde.com:1935/live/50023_thairath_hd.stream.smil/chunklist_w239037154_b1128000_slThai.m3u8
 #EXTINF:-1 tvg-id="tlchd" group-title="🇹🇭KhichTivi|thai" tvg-logo="https://i.ibb.co/Z8nVnzG/MONO29-LOGO-KHICH.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/travelliving_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", ดูทีวีออนไลน์ช่อง MONO29
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://lb1-live-mv.v2h-cdn.com/hls/ffbc/mono29/mono29.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537
+https://monomax-uiripn.cdn.byteark.com/plain/th/1080p/index.m3u8
 #EXTINF:-1 tvg-id="tlchd" group-title="🇹🇭KhichTivi|thai" tvg-logo="https://i.ibb.co/Z8nVnzG/MONO29-LOGO-KHICH.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/travelliving_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", ดูทีวีออนไลน์ช่อง MONO29
-https://lb1-live-mv.v2h-cdn.com/hls/ffbc/mono29/mono29.m3u8
+
 #EXTINF:-1 tvg-id="tlchd" group-title="🇹🇭KhichTivi|laotv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlHGtbgBCL04Q1mdgLNp0RUQwB0k8UBXLTYKRwn7LeUg&s" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/travelliving_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", VALLE HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 http://redima.pro:8880/live/VALLE1402/VALLE1402/576.m3u8
