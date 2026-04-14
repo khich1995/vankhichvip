@@ -1578,7 +1578,7 @@ https://zoomoo-samsungau.amagi.tv/playlist.m3u8
 #EXTVLCOPT: http-user-agent = KhichTivi
 
 #EXTINF:-1 tvg-id="hits" group-title="Quốc Tế" tvg-logo="https://i.ibb.co/5cx42Md/hits-khichtv.jpg", HITS
-http://208.87.242.79/livehttpplay?channel_id=20091
+http://nmk.ioapk.com:5050/4gtv-live620/index.m3u8
 #EXTINF:-1 tvg-id="hits" group-title="Quốc Tế" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/391_144.png",HITS MOVIES
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000139/1024.m3u8
 #EXTINF:-1 tvg-id="hits" group-title="Quốc Tế" tvg-logo="https://img-zlr1.tv360.vn/image1/2020_09_23/1600822031726/ae85cde5214a_640_360.png", HITS khích TiVi
