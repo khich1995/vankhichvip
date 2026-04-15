@@ -87,7 +87,7 @@ https://tinyurl.com/Khich-tivi-liveSCTVphimtonghop?tokey.m3u8
 
 #-""-update khích TiVi*-'-#
 
-#EXTINF:0 tvg-id="vtv1hd" group-title="❤️1️⃣4️⃣/0️⃣4️⃣/2️⃣0️⃣2️⃣6️⃣📡|UPDATE By khích📺" tvg-logo="https://i.ibb.co/grKqtMt/Up-Da-Te-khich-Tivi-png.jpg" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtc1_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8",UPDATE khích TiVi|⏰06:27:53|📆|14/04/2026 FHD
+#EXTINF:0 tvg-id="vtv1hd" group-title="❤️1️⃣5️⃣/0️⃣4️⃣/2️⃣0️⃣2️⃣6️⃣📡|UPDATE By khích📺" tvg-logo="https://i.ibb.co/grKqtMt/Up-Da-Te-khich-Tivi-png.jpg" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtc1_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8",UPDATE khích TiVi|⏰06:27:53|📆|15/04/2026 FHD
 https://live.fptplay53.net/fnxch2/vtv1hd_abr.smil/chunklist_b4200000.m3u8?=khíchTiVi
 
 #-*--THVL FHD-*--#
@@ -959,7 +959,7 @@ https://live.fptplay53.net/epzsd1/baclieu_hls.smil/chunklist_b1800000.m3u8
 https://live.fptplay53.net/epzhd2/btv1_hls.smil/chunklist_b2500000.m3u8
 #EXTINF: -1 tvg-id = "binhduong2" group-title = "🇻🇳Khích TiVi|Địa phương" tvg-logo = "https://static.vieon.vn/vieplay-image/avatar/2020/12/15/g4ovu8f3_binh_duong_2.png",Bình Dương 2 HD
 #EXTVLCOPT: http-user-agent = khichTivi
-https://live.fptplay53.net/epzhd2/btv2_hls.smil/chunklist_b2500000.m3u8
+https://lives.antv.gov.vn/channel/antv/channel/antv_720p/chunks.m3u8
 #EXTINF: -1 tvg-id = "binhduong1" group-title = "🇻🇳Khích TiVi|Địa phương" tvg-logo = "https://static.vieon.vn/vieplay-image/avatar/2020/12/15/qhds8nff_binh_duong_1.png",Bình Dương 1 HD
 #EXTVLCOPT: http-user-agent = khichTivi
 #EXTVLCOPT:http-user-agent=khichtivi
@@ -1005,10 +1005,10 @@ https://byvn.net/Khichtiviget80-BTV9-HD-mpd
 https://live.fptplay53.net/fnxsd1/vtvhyundai_hls.smil/chunklist_b2500000.m3u8
 #EXTINF: -1 tvg-id = "binhphuoc1" group-title = "🇻Khích TiVi🇳|Địa phương" tvg-logo = "https://static.vieon.vn/vieplay-image/avatar/2020/12/15/wz9i5h9w_binh_phuoc_1.png",Bình Phước 1 HD
 #EXTVLCOPT: http-user-agent = KhichTivi
-http://vncdn.mediatech.vn/bptvlive/tv1live.m3u8
+
 #EXTINF: -1 tvg-id"hometvbptv2" group-title = "🇻🇳 Khích TiVi|Địa phương" tvg-logo = "https://static.vieon.vn/vieplay-image/avatar/2020/12/15/bcr1ki1k_binh_phuoc_2.png",Bình Phước 2 HD
 #EXTVLCOPT: http-user-agent = KhichTivi
-https://cdn.baobinhphuoc.com.vn/live/28550d6213460634105b0bae21016f68bce/playlist.m3u8
+
 #EXTINF:-1 tvg-id="cartoonhd" tvg-name="Cartoon Network" tvg-logo="https://i.ibb.co/6JD72r8/BPTV3-Khich-TV.png" group-title="🇻🇳 Khích TiVi|Địa phương",Binh Phước 3 HD
 #EXTVLCOPT: http-user-agent = KhichTivi
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
@@ -1017,9 +1017,9 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d
 #EXTINF: -1 tvg-id = "binhthuan" group-title = "🇻🇳Khích TiVi|Địa phương" tvg-logo = "https://static.vieon.vn/vieplay-image/avatar/2020/12/15/8888zunm_binh_thuan.png",Bình Thuận HD
 #EXTVLCOPT: http-user-agent = KhichTivi
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://64d0d74b76158.streamlock.net/BTVTV/binhthuantv/playlist.m3u8
-#EXTINF: -1 tvg-id = "binhthuan" group-title = "🇻🇳Khích TiVi|Địa phương" tvg-logo = "https://img.hplus.com.vn/460x260/poster/2018/06/06/707779-Binh-Thuan.png",Bình Thuận HD
 
+#EXTINF: -1 tvg-id = "binhthuan" group-title = "🇻🇳Khích TiVi|Địa phương" tvg-logo = "https://img.hplus.com.vn/460x260/poster/2018/06/06/707779-Binh-Thuan.png",Bình Thuận HD
+https://qpvn.vn/live/qpvn/master.m3u8
 #EXTINF: -1 tvg-id = "binhdinh" group-title = "🇻🇳Khích TiVi|Địa phương" tvg-logo = "http://binhdinhtv.vn/uploads/logoBTV.png",Bình Định FHD
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 #EXTVLCOPT:http-user-agent=Moliza
@@ -1260,7 +1260,7 @@ https://live.catvod.com/live.php?id=Celestialindo
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; Khichtivi) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-#😭https://live.fptplay53.net/epzsd1/namdinh_hls.smil/chunklist_b1800000.m3u8
+
 #EXTINF: -1 tvg-id = "nghean" group-title = "🇻🇳 Khích TiVi| Địa phương" tvg-logo = "https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/01/14/2f96yu6e_nghe-anc59b1eb4f19eb9b3ab6ec12ffd77dd69_296_168.webp", NTV HD | TH Nghệ An
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
