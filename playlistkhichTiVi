@@ -81,6 +81,9 @@ https://s.pro.vn/KhichTiVi80-vtv17-HD?token/index.m3u8
 #EXTINF:-1 tvg-id="onsportsnews" group-title="❤2️⃣0️⃣2️⃣6️⃣|LIST KhichTiVi🛠|Box TV số DT 0355050296" tvg-logo="https://i.ibb.co/Xrb01PsV/vtv18-logo-khichtv.webp" catchup="append"catchup-days="2"catchup-source="https://code.khichivi.pw/xemlai/mytv/380/hd/dvr-${start}-${end}.m3u8",VTV18 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://tinyurl.com/khich-TiVi80-VTV18-HD?token/index.m3u8
+#EXTINF:-1 tvg-id="cinemaxhd" group-title="❤2️⃣0️⃣2️⃣6️⃣|LIST KhichTiVi🛠|Box TV số DT 0355050296" tvg-logo="https://i.ibb.co/HTSTDSg0/vtv19-phim-tong-hop.jpg" catchup="append"catchup-days="2"catchup-source="https://code.khichivi.pw/xemlai/mytv/380/hd/dvr-${start}-${end}.m3u8",VTV19 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+http://104.250.145.76/livehttpplay?channel_id=23350
 #EXTINF:-1 tvg-id="sctvhdpth" group-title="🇻🇳2️⃣0️⃣2️⃣6️⃣By Khích TiVi" tvg-logo="https://i.ibb.co/0sf14dc/Sctvphimtonghop.webp",KhichTiVi|SCTV Phim Tổng Hợp
 #EXTVLCOPT:http-user-agent=khíchtivi(Linux;Android 9)khích
 https://tinyurl.com/Khich-tivi-liveSCTVphimtonghop?tokey.m3u8
