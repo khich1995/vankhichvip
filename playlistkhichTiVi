@@ -1601,12 +1601,12 @@ http://37.27.111.214:8080/live/94/hls.m3u8
 
 #EXTINF:-1 tvg-id="blueantent" group-title="🎬 Khích TiVi" tvg-logo="https://i.ibb.co/j6vx4SJ/Rock-Entertainment-khichTV.png" ,Rock Entertainment FHD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/
-https://tv.iill.top/4gtv/4gtv-live080
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari
+http://nmk.ioapk.com:5050/4gtv-live080/index.m3u8
 #EXTINF:-1 tvg-id="blueantext" group-title="Khích TiVi" tvg-logo="https://i.ibb.co/pdXJvJc/ROCK-Action-khich-TV.jpg" ,ROCK Action FHD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://4gtv.946985.filegear-sg.me/playlist?channel=ROCK%20Action
+http://nmk.ioapk.com:5050/4gtv-live138/index.m3u8
 #×'c×=%Quốc Tế kix-":-#
 #EXTINF:-1 tvg-id="blueantent" group-title="🎬 Khích TiVi" tvg-logo="https://i.ibb.co/j6vx4SJ/Rock-Entertainment-khichTV.png" ,Rock Entertainment HD
 http://iptv.4666888.xyz/iptv2A.php?id=50
