@@ -1631,7 +1631,7 @@ https://hls.iill.top/api/HBO-family/index.m3u8
 #EXTINF:-1 tvg-id="hbosignature" group-title="❤|HBO" tvg-logo="https://i.ibb.co/km8Tfkz/20231219-113613.jpg", HBO SINATUE HD🇨🇳
 http://47.242.63.189/livehttpplay?channel_id=20314
 #EXTINF:-1 tvg-id="cinemax" group-title="❤️| KÊNH Cinexam ASIA" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2022/08/04/ygyxarf0_cinemax_ngang_296_168.webp", CINEMAX 🇨🇳  
-https://hls.iill.top/api/Cinemax/index.m3u8
+http://nor3live.win:80/livehttpplay?channel_id=23350
 #EXTINF:-1 tvg-id="animax" group-title="❤️| KÊNH Cinexam ASIA" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2022/08/04/ygyxarf0_cinemax_ngang_296_168.webp", CINEMAX
 #EXTINF:-1 tvg-id="axn" group-title="🎬khichtivi| Giải trí" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2022/08/04/0z3i6qi1_axn_ngang6f7ad337e4ecb9e57fffad9974d05061_296_168.webp", AXN HD 🇨🇳
 http://104.250.145.76/livehttpplay?channel_id=23311
@@ -1708,13 +1708,13 @@ http://148.113.160.49:14185
 https://php.jdshipin.com:2096/smt.php?id=videolandmovie
 #EXTINF:-1 tvg-id="tvn" group-title="🎬|Khích TiVi Phim" tvg-logo="https://i.ibb.co/MGqP4h9/khich-tivi-logo-tv-N.jpg",TVN SV1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-http://kent.dzzkent.top:4022/udp/239.125.1.140:4130
+http://116.117.106.71:4022/udp/239.125.1.140:4130
 #EXTINF:-1 tvg-id="tvn" group-title="🎬|Khích TiVi Phim" tvg-logo="https://i.ibb.co/MGqP4h9/khich-tivi-logo-tv-N.jpg",TVN SV2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000141/1024.m3u8
+
 #EXTINF:0 tvg-id="tvmovie" tvg-name="" tvg-logo="https://i.ibb.co/hL4qgr1/logo-khichtv-tv-Nmovies.jpg" group-title="Khích TiVi Phim",TVN MOVES 🇺🇸
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000142/1024.m3u8
+
 #EXTINF:0 tvg-id="sone" tvg-name="" tvg-logo="https://images.indihometv.com/logo_sone_small.png?v=2.0.0.13" group-title="Khích TiVi Phim",sone🇺🇸
 https://cdn9.163189.xyz/smt3.1.1.php?id=One
 #https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/06862a07-6a92-4b4d-abc3-5fea131713b5/manifest.m3u8
@@ -1762,10 +1762,10 @@ https://amg01259-lemeilleurducin-universcine-rakuten-bifrz.amagi.tv/hls/amagi_hl
 #*"*""****truyen hinh trung quốc#+#₫#
 
 #EXTINF:0 tvg-id="nhkbs1" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/187_144.png" group-title="Quốc Tế", Celestial Classic 🇱🇷
-#EXTVLCOPT:http-user-agent=khichtv/19-03
-https://php.jdshipin.com:2096/smt.php?id=Celestial
+#EXTVLCOPT:http-user-agent=khichtivi
+https://cdn9.163189.xyz/smt3.1.1.php?id=Celestial
 #EXTINF:0 tvg-id="popc" tvg-logo="https://i.ibb.co/5Ww8CvZV/popc-logo-khichtv.png" group-title="Quốc Tế", POPC🇰🇷
-https://263.org.vn/Khích-TiVi-POPC-HD
+https://pixman.passwdwork.cc.cd/proxy/103718b37d47a623.m3u8
 #EXTINF:0 tvg-id="Qiyi" tvg-logo="https://i.ibb.co/BVYT2tnG/IQ-D-34849519.png" group-title="Quốc Tế", Qiyi
 https://php.jdshipin.com:2096/smt.php?id=Qiyi
 #EXTINF:0 tvg-id="bsntv" tvg-logo="https://static.wikia.nocookie.net/logos/images/d/d4/Celestial_Movies.png/revision/latest?cb=20220325092339&path-prefix=vi" group-title="Quốc Tế", Celestial Movies 🇬🇧
@@ -1848,8 +1848,8 @@ https://live20.bozztv.com/giatvplayout7/giatv-208314/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://stmv1.srvif.com/loadingtv/loadingtv/playlist.m3u8
 #EXTINF:-1 tvg-id="animaxhd" group-title="🌈KhichTivi | Hoạt hình" tvg-logo="https://i.ibb.co/8DtnjqfX/khichtv-play-logo-Nickelodeon-hd-png.png",Nickelodeon HD 🇻🇳
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://fl1.moveonjoy.com/NICKELODEON/index.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safar
+http://23.237.104.106:8080/USA_NICKELODEON/index.m3u8
 #EXTINF:-1 tvg-id="popsanimehd" group-title="🌈KhichTivi | Hoạt hình" tvg-logo="https://i.ibb.co/ns52XRK5/khichtv-play-logo-Teen-Nick-png.png",TeenNick HD 🇻🇳
 https://fl3.moveonjoy.com/Teen_Nick/index.m3u8
 #EXTINF:-1 tvg-id="popsanimehd" group-title="🌈KhichTivi | Hoạt hình" tvg-logo="https://i.ibb.co/pvQKLsT4/khichtv-play-logo-Nickjr-png.png",Nickjr🇻🇳
