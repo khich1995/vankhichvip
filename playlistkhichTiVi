@@ -1684,9 +1684,9 @@ https://k44991.kylintv.tv/live/chinamovie_iphone.m3u8
 #,,,,___---STAR MOVIES_STAR MOVIES SELECT#""__''#
 
 #EXTINF:-1 tvg-id="inthebox" group-title="📦|KhichTiviMovies" tvg-logo="https://i.ibb.co/Mk67K92Z/khich-Ti-Vi-logo-STAR-MOVIES-HD.jpg", START MOVIES Khích TiVi
-http://208.87.242.79/livehttpplay?channel_id=20199
+http://nor3live.win:80/livehttpplay?channel_id=20199
 #EXTINF:-1 tvg-id="inthebox" group-title="📦|KhichTiviMovies" tvg-logo="https://i.ibb.co/B5HJskHv/khich-Ti-Vi-logo-STAR-MOVIES-SELECT.jpg",STAR MOVIES SELECT HD
-https://263.org.vn/Khích-TiVi-STAR-MOVIES-SELECT
+http://27.11.48.253:8003/udp/239.125.1.140:4130
 #EXTINF:-1 tvg-id="boxhits" group-title="📦|KhichTiviMovies" tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/star-world-hd-logo-300x300.jpg",star world hd
 https://l.lioncdn.net/Discovery-Life/index.m3u8
 
@@ -1731,7 +1731,7 @@ http://epg.112114.xyz/douyu/85894
 http://epg.112114.xyz/douyu/20415
 #EXTINF:0 tvg-id="fujitv" tvg-name="" tvg-logo="https://i.ibb.co/52bKffN/hollywood-movies-khich-TV.jpg" group-title="Khích TiVi Phim",
 #EXTINF:0 tvg-id="meiyamovie" tvg-name="" tvg-logo="https://i.ibb.co/fYq2Swz/meiyamovie.jpg" group-title="Khích TiVi Phim",meiyamovie HD
-https://php.jdshipin.com:2096/smt.php?id=meiyamovie_twn
+https://cdn9.163189.xyz/smt3.1.1.php?id=meiyamovie_twn
 #https://cinehls.persiana.live/hls/stream.m3u8
 #EXTINF:0 tvg-id="tvasahi" tvg-name="" tvg-logo="https://i.ibb.co/tDHKvBy/meiyamovie.jpg" group-title="Khích TiVi Phim",ettvmovie|东森电影
 
@@ -1762,15 +1762,15 @@ https://amg01259-lemeilleurducin-universcine-rakuten-bifrz.amagi.tv/hls/amagi_hl
 
 #EXTINF:0 tvg-id="nhkbs1" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/187_144.png" group-title="Quốc Tế", Celestial Classic 🇱🇷
 #EXTVLCOPT:http-user-agent=khichtivi
-https://cdn9.163189.xyz/smt3.1.1.php?id=Celestial
+https://cdn9.163189.xyz/smt3.1.1.php?id=Celestial2
 #EXTINF:0 tvg-id="popc" tvg-logo="https://i.ibb.co/5Ww8CvZV/popc-logo-khichtv.png" group-title="Quốc Tế", POPC🇰🇷
 https://pixman.passwdwork.cc.cd/proxy/103718b37d47a623.m3u8
 #EXTINF:0 tvg-id="Qiyi" tvg-logo="https://i.ibb.co/BVYT2tnG/IQ-D-34849519.png" group-title="Quốc Tế", Qiyi
 https://php.jdshipin.com:2096/smt.php?id=Qiyi
 #EXTINF:0 tvg-id="bsntv" tvg-logo="https://static.wikia.nocookie.net/logos/images/d/d4/Celestial_Movies.png/revision/latest?cb=20220325092339&path-prefix=vi" group-title="Quốc Tế", Celestial Movies 🇬🇧
-https://php.jdshipin.com:2096/smt.php?id=Celestial
-#EXTINF:0 tvg-id="bstbs" tvg-logo="https://static.wikia.nocookie.net/logos/images/d/d4/Celestial_Movies.png/revision/latest?cb=20220325092339&path-prefix=vi" group-title="Quốc Tế", Celestial Movies🇰🇷
 https://php.jdshipin.com:2096/smt.php?id=Celestial2
+#EXTINF:0 tvg-id="bstbs" tvg-logo="https://static.wikia.nocookie.net/logos/images/d/d4/Celestial_Movies.png/revision/latest?cb=20220325092339&path-prefix=vi" group-title="Quốc Tế", Celestial Movies🇰🇷
+https://php.jdshipin.com:2096/smt.php?id=Celestial
 #EXTINF:0 tvg-id="bstbs" tvg-logo="https://static.wikia.nocookie.net/logos/images/d/d4/Celestial_Movies.png/revision/latest?cb=20220325092339&path-prefix=vi" group-title="Quốc Tế", Celestial Movies🇪🇹
 
 #EXTINF:0 tvg-id="" tvg-logo="https://i.ibb.co/Sy3YTxJ/hits-movies-logo.png" group-title="Quốc Tế",HITS
