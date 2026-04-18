@@ -221,11 +221,14 @@ https://bglive.zlylive.com/live/bgtv_blv_tieupao/playlist.m3u8
 #EXTINF:-1 tvg-id="blvtradahd" group-title="khichTV bóng đá" tvg-logo="https://sv1.bugio8.live/logo.png",⚽BU GIOTV 4 FULLHD
 #EXTVLCOPT:http-user-agent=ReactNativeVi8deo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 https://bglive.zlylive.com/live/bgtv_blv_trada/playlist.m3u8
-#EXTINF:-1 tvg-id="kkidshd" group-title="K+" tvg-logo="https://i.ibb.co/kBHnccC/Khich-plus-kids.png", K+ CÒN XAYTV HD
+#EXTINF:-1 tvg-id="kkidshd" group-title="K+" tvg-logo="https://i.ibb.co/V0BRjTbX/logo-khich-Ti-Vi-xaycontv-png.png", K+ CÒN XAYTV HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3 #EXTVLCOPT:http-referer=https://sctvonline.vn/
 https://xclive.zlylive.com/live/xctv_blv_xaycon/playlist.m3u8
-
+#EXTINF:-1 tvg-id="kkidshd" group-title="K+" tvg-logo="https://i.ibb.co/V0BRjTbX/logo-khich-Ti-Vi-xaycontv-png.png", K+ CÒN XAYTV HD
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3 #EXTVLCOPT:http-referer=https://sctvonline.vn/
+https://xclive.zlylive.com/live/xctv_blv_giacatdu/playlist.m3u8
 #******""""""khích TiVi k+sport#***"__"
 
 #EXTINF:0 tvg-id="ksport1hd" group-title="Miễn phí K+" tvg-logo="https://i.ibb.co/qM82fqxb/khich-Ti-Vi-sport1.jpg", K+SPORT1 (HD 9Mbps)
