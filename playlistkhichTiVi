@@ -169,8 +169,8 @@ https://hqlive.zlylive.com/live/hqtv_blv_phancao/playlist.m3u8
 https://cdn-hls.taoxanh.biz/live/69e4d10d203f3_44731/index.m3u8?expire=khichTiVi
 #EXTINF:-1 tvg-id="fptplayhd" group-title="khích TiVi Live" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWt-VtNQjEsQ0aGeXHLNQcJs8YAcMgCf-9ewgyR8IY3g&s",Que Choatv 2 HD
 https://cdn-hls.taoxanh.biz/live/69e4d20e203f3_73445/index.m3u8?expire=khichTiVi
-#EXTINF:-1 tvg-id="fptplayhd" group-title="khích TiVi Live" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQw9QluNJU-FQf3bXorwibZqsLHZJ7Q3XEzVJqkWLMdkA&s=10",Que Choatv 3 HD
-https://cdn-hls.taoxanh.biz/live/69e4cd1142281_28/index.m3u8?expire=khichTiVi 
+#EXTINF:-1 tvg-id="fptplayhd" group-title="khích TiVi Live" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQw9QluNJU-FQf3bXorwibZqsLHZJ7Q3XEzVJqkWLMdkA&s=10",Que Choatv 3 
+https://cdn-hls.taoxanh.biz/live/69e4e73d42281_4908/index.m3u8?expire=khichTiVi 
 #_"_khich Live*""_**#############
 
 #EXTINF:-1 tvg-id="cakhaitvhd" ugroup-title="Live khichVip" tvg-logo="https://i.ibb.co/nNQttm41/cakhai-logo-khichtv.jpg", CAKHAITV 1  FULL HD
