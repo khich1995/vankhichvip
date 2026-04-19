@@ -207,7 +207,7 @@ https://live.inplyr.com/room/168740.m3u8
 #EXTVLCOPT:http-user-agent=Dalvik/2.
 https://live.inplyr.com/room/113906.m3u8
 #EXTINF:-1 tvg-id="fpt4k" group-title="Live" tvg-logo="https://i.ibb.co/b5k1tKNG/logo-khichtv-FPT-Play-4-K.webp", FPT PLAY 4K FULL HD
-https://tinyurl.com/Khichtv80-FPT4k?token/index.m3u8
+http://aismile.dpdns.org/play/14Akq6k5mrt7iwRXq7uVnlPn1OLxcq3cifRJqqNHv4M/ts
 #EXTINF:-1 tvg-id="bvlaphuhd" group-title="khíchTV| Live" tvg-logo="https://sv1.bugio8.live/logo.png", BU GioTV 1 FULL HD
 #EXTVLCOPT:http-user-agent=Dalvi.
 https://bglive.zlylive.com/live/bgtv_blv_aphu/playlist.m3u8
