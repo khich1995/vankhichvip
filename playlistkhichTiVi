@@ -92,8 +92,7 @@ http://hieupq.drayddns.com:9000/udp/225.1.4.9:30120
 https://tinyurl.com/Khich-tivi-liveSCTVphimtonghop?tokey.m3u8
 
 #-""-update khích TiVi*-'-#
-
-#EXTINF:0 tvg-id="vtv1hd" group-title="❤️2️⃣0️⃣/0️⃣4️⃣/2️⃣0️⃣2️⃣6️⃣📡|UPDATE By khích📺" tvg-logo="https://i.ibb.co/grKqtMt/Up-Da-Te-khich-Tivi-png.jpg" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtc1_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8",UPDATE khích TiVi|⏰10:12:53|📆|20/04/2026 FHD
+#EXTINF:0 tvg-id="vtv1hd" group-title="❤️2️⃣1️⃣/0️⃣4️⃣/2️⃣0️⃣2️⃣6️⃣📡|UPDATE By khích📺" tvg-logo="https://i.ibb.co/grKqtMt/Up-Da-Te-khich-Tivi-png.jpg" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtc1_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8",UPDATE khích TiVi|⏰10:12:53|📆|21/04/2026 FHD
 https://live.fptplay53.net/fnxch2/vtv1hd_abr.smil/chunklist_b4200000.m3u8?=khíchTiVi
 
 #-*--THVL FHD-*--#
@@ -327,10 +326,10 @@ http://s1ali.myclip.vn/video1/2024/06/19/15/e338e9ea/e338e9ea-7de6-44cf-afb6-5b7
 https://bom.so/khichtv-vtc12-m3u8
 #EXTINF:-1 tvg-id="vtc13hd" group-title="THỬ NHIỆM - Khích📺" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/01/15/cwoumgm7_vtc13_296_168.webp", KhíchTV BĐ1 FHD
 #EXTVLCOPT:http-user-agent="KhichTV"
-https://live.alilicloud.com/live/4c69adb1260816e20c7de405ba854e72/playlist.m3u8
+https://cdn.inteltelevision.com/4987/go_assp3/playlist.m3u8?t=1776701349&token=df3f0266d7cfa21d7acc08422eaca731
 #https://cdn.jmvstream.com/w/LVW-8410/LVW8410_uiZOVm6vz1/playlist.m3u8
 #EXTINF:-1 tvg-id="vtc13hd" group-title="THỬ NHIỆM - Khích📺" tvg-logo="https://i.ibb.co/NV7xf45/VTC13-4-K-logo-khichtv.png", KhíchTV BĐ2 FHD
-https://live.alilicloud.com/live/513130d0df2ec10c12878cb723a0c41c/playlist.m3u8
+https://cdn.inteltelevision.com/4987/Assp2/playlist.m3u8?t=1776701523&token=63c373f38608c7a11b8af26ebf65ed3c
 #https://vo-live.cdb.cdn.orange.com/Content/Channel/AbuDhabiSportsChannel2/HLS/index.m3u8
 #EXTINF:-1 tvg-id="spotv" group-title="THỬ NHIỆM - Khích📺" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/09/24/fxkg8rfr_vtc-140f85bd0d005d3bd26e9fe41a53bb4408_296_168.webp",VTC14 FHD
 #EXTVLCOPT:http-user-agent="khichTV"
