@@ -1567,7 +1567,8 @@ https://436f59579436473e8168284cac5d725f.mediatailor.us-east-1.amazonaws.com/v1/
 #-'z-phim ma kinh dj-#
 
 #EXTINF:-1 tvg-id="phutho" group-title="Khích TiVi Quốc Tế" tvg-logo="https://i.ibb.co/0j6VZBz/2023-11-23-khichtv-thrill.png",THRILL HD
-https://thriller-rakuten-tv-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6480/master.m3u8
+https://cdn.inteltelevision.com/4987/Thrill/playlist.m3u8?t=1776700879&token=51e256292e3db96c6fa239789604f726
+#https://thriller-rakuten-tv-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6480/master.m3u8
 #EXTINF:-1 group-title="Kênh Jungo (Thử Nghiệm)" tvg-logo="https://i.ibb.co/s3zD2WC/image.png" tvg-id="", Screamflix HD
 https://zylo-screamin-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-zylo-screamin-rakuten/CDN/master.m3u8
 #EXTINF:-1 tvg-id="MY38WSBK.us" tvg-name="khichtv:BOO" tvg-logo="https://i.ibb.co/34psJCd/Kenh-Boo-khich-TV.png"group-title="Malaysia",BOO HD
@@ -1591,11 +1592,11 @@ https://zoomoo-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="hits" group-title="Quốc Tế" tvg-logo="https://i.ibb.co/5cx42Md/hits-khichtv.jpg", HITS
 http://nmk.ioapk.com:5050/4gtv-live620/index.m3u8
 #EXTINF:-1 tvg-id="hits" group-title="Quốc Tế" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/391_144.png",HITS MOVIES
-http://202.80.222.20/cdn/iptv/Tvod/001/channel2000139/1024.m3u8
+https://cdn.inteltelevision.com/4987/Hitsmovie/playlist.m3u8?t=1776700761&token=0989599735d6ac3c466a6980145cd7f2
 #EXTINF:-1 tvg-id="hits" group-title="Quốc Tế" tvg-logo="https://img-zlr1.tv360.vn/image1/2020_09_23/1600822031726/ae85cde5214a_640_360.png", HITS khích TiVi
 https://263.org.vn/Khích-TiVi-Hits-2026?tokey/index.m3u8
 #EXTINF:-1 tvg-id="hits" group-title="Quốc Tế" tvg-logo="https://i.ibb.co/4ZJ47RYV/HITS-Movies-logo-Khich-TV.png",HITS MOVIES khích TV
-https://tv.iill.top/4gtv/4gtv-live620
+https://cdn.inteltelevision.com/4987/Hitsmovie/playlist.m3u8?t=1776700761&token=0989599735d6ac3c466a6980145cd7f2
 #EXTINF: -1 tvg-id = "moviebox" group-title = "📦 Khích TiVi|Movies Box " tvg-logo = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSq80fouu3RHBgf8eQ2AOOgy5L7zLjhKCRhlA&usqp=CAU",Movies Box 
 https://cdn3.skygo.mn/live/disk1/Moviebox/HLS-FTA/Moviebox.m3u8
 #EXTINF: -1 tvg-id = "blueantent" group-title = "🎬 Khích TiVi| Giải trí" tvg-logo = "https://i.ibb.co/z7Thn9r/hbo-mudi-khich-TV.png",HBO MuDi
@@ -1638,6 +1639,7 @@ http://nor3live.win:80/livehttpplay?channel_id=23360
 #EXTINF:-1 tvg-id="cinemax" group-title="❤️| KÊNH Cinexam ASIA" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2022/08/04/ygyxarf0_cinemax_ngang_296_168.webp", CINEMAX 🇨🇳  
 http://nor3live.win:80/livehttpplay?channel_id=23350
 #EXTINF:-1 tvg-id="animax" group-title="❤️| KÊNH Cinexam ASIA" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2022/08/04/ygyxarf0_cinemax_ngang_296_168.webp", CINEMAX
+https://cdn.inteltelevision.com/4987/Cinemax/playlist.m3u8?t=1776701083&token=2abf6b3c6de6763c0c0d311a673c6223
 #EXTINF:-1 tvg-id="axn" group-title="🎬khichtivi| Giải trí" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2022/08/04/0z3i6qi1_axn_ngang6f7ad337e4ecb9e57fffad9974d05061_296_168.webp", AXN HD 🇨🇳
 http://104.250.145.76/livehttpplay?channel_id=23311
 #https://streamer1.nexgen.bz/AXN/index.m3u8
@@ -1835,7 +1837,7 @@ http://66.160.192.241/cineboxcinehd/index.m3u8
 #EXTINF:-1 tvg-id="animaxhd" group-title="🌈KhichTivi | Hoạt hình" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/07/23/8wcri9wb_animax1e3f298dbfc93d461638c8b9594d25a3_296_168.webp", Animax sv1 HD🇻🇳
 #EXTVLCOPT:http-user-agent=KhichTivi
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-http://208.87.242.55/livehttpplay?channel_id=20295
+https://cdn.inteltelevision.com/4987/Animax/playlist.m3u8?t=1776700950&token=e4c0f67aebab2b45452ef54e4bbd987d
 #EXTINF:-1 tvg-id="animaxhd" group-title="🌈KhichTivi | Hoạt hình" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/07/23/8wcri9wb_animax1e3f298dbfc93d461638c8b9594d25a3_296_168.webp", Animax sv2 HD🇻🇳
 #EXTVLCOPT:http-user-agent=Khichtv
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs25&checkedby:iptvcat.com
@@ -2137,22 +2139,21 @@ https://cdn.inteltelevision.com/4987/ch3_pat/playlist.m3u8?t=1776698303&token=f7
 #EXTINF:-1 tvg-id="tv5" group-title="🇹🇭KhichTivi|thai" tvg-logo="https://static.thaicom.io/ch/ch_1.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/travelliving_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8",ดูทีวีออนไลน์ช่อง 5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://639bc5877c5fe.streamlock.net/tv5hdlive/tv5hdlive/playlist.m3u8
-#https://lb1-live-mv.v2h-cdn.com/hls/fffb/5hd/5hd.m3u8
 #EXTINF:-1 tvg-id="workpoint23hd" group-title="🇹🇭KhichTivi|thai" tvg-logo="https://www.workpointtv.com/wp-content/themes/wptv/assets/logo-wptv.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/travelliving_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8",,ดูทีวีออนไลน์ช่อง workpoint 23
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://lb1-live-mv.v2h-cdn.com/hls/ffcb/workpoint/workpoint.m3u8
+https://cdn.inteltelevision.com/krcn/106-tvn/playlist.m3u8?t=1776700554&token=a22af18cebd85d652b431ef5fe493824
 #EXTINF:-1 tvg-id="9mcot30p" group-title="🇹🇭KhichTivi|thai" tvg-logo="https://static.thaicom.io/chbig/big_25_20220817095652.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/travelliving_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8",ดูทีวีออนไลน์ช่อง 9 Mcot 30
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://lb1-live-mv.v2h-cdn.com/hls/ffbb/mcot/mcot.m3u8
+https://mcothd-streaming-edge-cdn.mcot.net/tencentmcot/smil:tencentmcot.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="11nbt" group-title="🇹🇭KhichTivi|thai" tvg-logo="https://farm2.staticflickr.com/1861/29748573107_7c5a581abc_o_d.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/travelliving_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8",ดูทีวีออนไลน์ช่อง 11 NBT
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://cdn-edge-ott.prd.go.th/live_vlc/smil:c30f-97f7-c767-ca64-98aa.smil/playlist.m3u8
 #EXTINF:-1 group-title="Nationtvhd"🇹🇭| Thái Lan" tvg-logo="https://static.thaicom.io/chbig/big_14_20211217071952.png",ดูทีวีออนไลน์ช่อง Nationtv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://nationtv-1jdcjo.cdn.byteark.com/fleetstream/nationtvlive/1080p/index.m3u8
+https://cdn.inteltelevision.com/jpiptv/wprime/playlist.m3u8?t=1776700249&token=7c922f4e6ce2e199ccb22d368a08527d
 #EXTINF:-1 tvg-id="thaipbs" group-title="🇹🇭KhichTivi|thai" tvg-logo="https://static.thaicom.io/image_channel/images_img_chn_big_Chn_4.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/travelliving_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8",ดูทีวีออนไลน์ช่อง Thai PBS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://lb1-live-mv.v2h-cdn.com/hls/ffaf/thairath/thairath.m3u8
+https://cdn.inteltelevision.com/jpiptv/wcinema/playlist.m3u8?t=1776700428&token=842956a4a2777ab6c4dd39498e1db447
 #EXTINF:-1 tvg-id="ch7" group-title="🇹🇭KhichTivi|thai" tvg-logo="https://i.malimarcdn.com/premium-thai7HDF.jpg" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/travelliving_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8",ch7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://cdn.inteltelevision.com/4987/ch7_pat/playlist.m3u8?t=1776698050&token=f8865e0ef0b27254d461b9ae491c0b3f
@@ -2169,7 +2170,7 @@ https://cdn.inteltelevision.com/4987/pptv_pat/playlist.m3u8?t=1776698084&token=d
 https://639bc5877c5fe.streamlock.net/tv5hdlive/tv5hdlive/playlist.m3u
 #EXTINF:-1 tvg-id="tlchd" group-title="🇹🇭KhichTivi|thai" tvg-logo="https://i.malimarcdn.com/premium-thai8HDF.jpg" catchup="append"catchup-days="2" catchup-source="https://livetvcentral.com/country/thailand",ch8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://lb1-live-mv.v2h-cdn.com/hls/ffbe/ch8/ch8.m3u8
+https://cdn-th-vip.livestreaming.in.th/ch8/ch8/playlist.m3u8
 #EXTINF:-1 tvg-id="tlchd" group-title="🇹🇭KhichTivi|thai" tvg-logo="https://i.ibb.co/Q9w6VqQ/Channle-ch8-khichtv.png" catchup="append"catchup-days="2" catchup-source="https://livetvcentral.com/country/thailand",channle ch8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://cdn-th-vip.livestreaming.in.th/ch8/ch8/playlist.m3u8
