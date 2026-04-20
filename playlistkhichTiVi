@@ -278,7 +278,7 @@ http://s4zen.myclip.vn/video1/2023/12/21/09/fe516b9a/fe516b9a-1b63-4474-abb8-08b
 http://s4zen.myclip.vn/video1/2024/02/19/14/799b9ed2/799b9ed2-2ea8-4f0e-9937-2653de4e86e9_4_.m3u8
 #EXTINF:0tvg-id="ksport1hd"group-title="THỬ NHIỆM-KhichTV" tvg-logo="https://i.ibb.co/xtc2fb5F/khich-Ti-Vi-KSP1.jpg" tvg-chno="11" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtc3_1500.stream/chunks_dvr_range-${start}-10800.m3u8", khích TiVi K+SP1 HD
 #EXTVLCOPT:http-user-agent="KHICHTV"
-https://cdn.inteltelevision.com/4987/go_assp4/playlist.m3u8?t=1776701935&token=65954f54f81249113af5cad8f77a24fb
+https://cdn.inteltelevision.com/4987/go_assp4/playlist.m3u8?t=1776704751&token=a60c22bf4e469de0c91bc420d20a5357
 #EXTINF:0 tvg-id="ksport2hd" group-title="THỬ NHIỆM - Khích📺" tvg-logo="https://i.ibb.co/CKSQjymf/khich-Ti-Vi-KSP2.jpg" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtc4_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", Khích Tivi K+SP2 FHD
 #EXTVLCOPT:http-user-agent="KHICHTV"
 https://cdn.inteltelevision.com/4987/go_assp2/playlist.m3u8?t=1776702074&token=99792e94ab69a019c8241c54f4a760fb
