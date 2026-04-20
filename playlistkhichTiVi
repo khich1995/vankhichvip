@@ -342,17 +342,17 @@ https://live.alilicloud.com/live/513130d0df2ec10c12878cb723a0c41c/playlist.m3u8
 #EXTVLCOPT:http-user-agent="KhichTV"
 
 #https://d63fabad.wurl.com/manifest/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWVzX0ZJRkFQbHVzU3BhbmlzaF9ITFM/b77b329f-4d8d-442d-abcc-b534ac879448/0.m3u8
-#EXTINF:-1 tvg-id="vtc17hd" group-title="THỬ NHIỆM KhíchTiVi| MUTV" tvg-logo="https://i.ibb.co/vzWpSpV/mutv.png" catchup="append" catchup-days="2" catchup-source="https://code.hqth.xyz/xemlai/vieon/vtc17-hd/dvr-${start}-${offset}.m3u8",MUTV HD
-http://myxpanel.pro:80/Martin/Martin/709374
+#EXTINF:-1 tvg-id="vtc17hd" group-title="THỬ NHIỆM KhíchTiVi| MUTV" tvg-logo="https://i.ibb.co/vzWpSpV/mutv.png" catchup="append" catchup-days="2" catchup-source="https://code.hqth.xyz/xemlai/vieon/vtc17-hd/dvr-${start}-${offse
+https://cdn.inteltelevision.com/4987/natgeotamil_raj/playlist.m3u8?t=1776703347&token=067407d763c6e3ca20bd6c850a31c5ec
 #EXTINF:-1 tvg-id="vtc18hd" group-title="THỬ NHIỆM💙bóng đá⚽| THỬ NHIỆM" tvg-logo="https://i.imgur.com/wS3BbR3.png" catchup="append" catchup-days="2" catchup-source="https://code.hqth.xyz/xemlai/vieon/vtc18-hd/dvr-${start}-${offset}.m3u8",VTC18HD Bóng Đã Hàng Anh
-
+https://cdn.inteltelevision.com/4987/hollywoodmovies_twn/playlist.m3u8?t=1776703065&token=6db46866df0a6f738d683fde2b7d08c7
 #http://125.209.88.166:45793/BRN/beINSP11.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="vtcab16hd" group-title="THỬ NHIỆM💙Chúc mừng năm 2025 🎆|khích Tivi" tvg-logo="https://i.ibb.co/TmvDyKW/khich-Ti-Vi-online-logo.jpg" catchup="append" catchup-days="2" catchup-source="https://code.hqth.xyz/xemlai/vieon/vtc18-hd/dvr-${start}-${offset}.m3u8", khích TiVi online HAPPY🎆2️⃣0️⃣2️⃣5️⃣
 
 #EXTINF:-1 tvg-id="vtc20hd" group-title=THỬ NHIỆM💙khichTV|TRỰC TIẾP bóng Đa⚽" tvg-logo="https://i.ibb.co/jH7wFYf/khich-Ti-Vi-online-bong-da.jpg" catchup="append" catchup-days="2" catchup-source="https://code.hqth.xyz/xemlai/vieon/vtc18-hd/dvr-${start}-${offset}.m3u8",⚽🏀 TRỰC TIẾP
-http://myxpanel.pro:80/Martin/Martin/709378
+https://cdn.inteltelevision.com/4987/Hbo/playlist.m3u8?t=1776702550&token=fd76c04294ec80c3d05e1768d5d5430d
 #EXTINF:-1 tvg-id="vtc21hd" group-title="THỬ NHIỆM💙khichTV| Bong ĐÁ TRỰC TIẾP " tvg-logo="https://i.ibb.co/h9td1z1/khich-online-bong-da.jpg" catchup="append" catchup-days="2" catchup-source="https://code.hqth.xyz/xemlai/vieon/vtc19-hd/dvr-${start}-${offset}.m3u8",Bong Da TRỰC TIẾP
-http://myxpanel.pro:80/Martin/Martin/709376
+https://cdn.inteltelevision.com/4987/Hbohitshd/playlist.m3u8?t=1776702757&token=fb4e9986a27cf9ca44e168caa7f0fbd7
 
 #-*-Khích📺-HTV&HTVC-*--#
 
