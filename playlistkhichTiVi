@@ -2133,7 +2133,7 @@ http://live.happywatch99.com/livehd11/90ecf35382a7597e553200692c3fc384.sdp/playl
 https://ch3-33-web.cdn.byteark.com/live/playlist_720p/index.m3u8
 #EXTINF:-1 tvg-id="ch3hd" group-title="🇹🇭KhichTivi|thai" tvg-logo="http://www.onlinethailand.net/tv_online/images/ch3hd.jpg" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/travelliving_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8",ดูทีวีออนไลน์ช่อง 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://lb1-live-mv.v2h-cdn.com/hls/ffae/3hd/3hd.m3u8
+https://cdn.inteltelevision.com/4987/ch3_pat/playlist.m3u8?t=1776698303&token=f71959fdc5b90380b549734f36e5375d
 #EXTINF:-1 tvg-id="tv5" group-title="🇹🇭KhichTivi|thai" tvg-logo="https://static.thaicom.io/ch/ch_1.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/travelliving_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8",ดูทีวีออนไลน์ช่อง 5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://639bc5877c5fe.streamlock.net/tv5hdlive/tv5hdlive/playlist.m3u8
@@ -2155,7 +2155,7 @@ https://nationtv-1jdcjo.cdn.byteark.com/fleetstream/nationtvlive/1080p/index.m3u
 https://lb1-live-mv.v2h-cdn.com/hls/ffaf/thairath/thairath.m3u8
 #EXTINF:-1 tvg-id="ch7" group-title="🇹🇭KhichTivi|thai" tvg-logo="https://i.malimarcdn.com/premium-thai7HDF.jpg" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/travelliving_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8",ch7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://lb1-live-mv.v2h-cdn.com/hls/ffac/7hd/7hd.m3u8
+https://cdn.inteltelevision.com/4987/ch7_pat/playlist.m3u8?t=1776698050&token=f8865e0ef0b27254d461b9ae491c0b3f
 #EXTINF:-1 tvg-id="Channel7.mm" tvg-logo="https://i.imgur.com/7xHSikv.png" group-title="General",Channel 7 (1080p)
 https://pplive.comquas.com:5443/LiveApp/streams/CLcBFN71NkF61709008601656.m3u8
 #EXTINF:-1 tvg-id="pptv" group-title="🇹🇭KhichTivi|thai" tvg-logo="https://static.thaicom.io/chbig/big_213_20201222073338.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/travelliving_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8",PPTV FHD
@@ -2163,7 +2163,7 @@ https://pplive.comquas.com:5443/LiveApp/streams/CLcBFN71NkF61709008601656.m3u8
 https://live-us1.thaimomo.com/live-as/chpptv-3/chunklist_w380994443.m3u8
 #EXTINF:-1 tvg-id="tlchd" group-title="🇹🇭KhichTivi|thai" tvg-logo="https://static.thaicom.io/chbig/big_213_20201222073338.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/travelliving_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8",PPTV HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://live-us1.thaimomo.com/live-as/chpptv-3/playlist.m3u8
+https://cdn.inteltelevision.com/4987/pptv_pat/playlist.m3u8?t=1776698084&token=d185089b2b3aff531f5bd3e081582b9d
 #EXTINF:-1 tvg-id="tlchd" group-title="🇹🇭KhichTivi|thai" tvg-logo="https://wwitv.com/tvlogos/65.jpg" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/travelliving_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8",TV5 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36⁶
 https://639bc5877c5fe.streamlock.net/tv5hdlive/tv5hdlive/playlist.m3u
@@ -2175,7 +2175,7 @@ https://lb1-live-mv.v2h-cdn.com/hls/ffbe/ch8/ch8.m3u8
 https://cdn-th-vip.livestreaming.in.th/ch8/ch8/playlist.m3u8
 #EXTINF:-1 tvg-id="tlchd" group-title="🇹🇭KhichTivi|thai" tvg-logo="https://static.thaicom.io/image_channel/images_img_chn_big_Chn_17.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/travelliving_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8",ดูทีวีออนไลน์ช่อง GMM 25
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://lb1-live-mv.v2h-cdn.com/hls/ffbf/gmm25/gmm25.m3u8
+https://cdn.inteltelevision.com/4987/gmmone_pat/playlist.m3u8?t=1776697849&token=4efbde61362a284993ebc9158f8b62ae
 #EXTINF:-1 tvg-id="tlchd" group-title="🇹🇭KhichTivi|thai" tvg-logo="https://static.thaicom.io/image_channel/images_img_chn_big_Chn_29.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/travelliving_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", ดูทีวีออนไลน์ช่องอมรินทร์ทีวี AMARIN ช่อง 34 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://edge6a.v2h-cdn.com/amarinhd/amarinhd.stream/playlist.m3u8
