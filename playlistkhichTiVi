@@ -278,22 +278,23 @@ http://s4zen.myclip.vn/video1/2023/12/21/09/fe516b9a/fe516b9a-1b63-4474-abb8-08b
 http://s4zen.myclip.vn/video1/2024/02/19/14/799b9ed2/799b9ed2-2ea8-4f0e-9937-2653de4e86e9_4_.m3u8
 #EXTINF:0tvg-id="ksport1hd"group-title="THỬ NHIỆM-KhichTV" tvg-logo="https://i.ibb.co/xtc2fb5F/khich-Ti-Vi-KSP1.jpg" tvg-chno="11" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtc3_1500.stream/chunks_dvr_range-${start}-10800.m3u8", khích TiVi K+SP1 HD
 #EXTVLCOPT:http-user-agent="KHICHTV"
-http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:7a:39:a6&stream=31801&extension=ts&play_token=MAaXIbHwPF
-#http://bxtv.3a.ink/api.php?id=axn
+https://cdn.inteltelevision.com/4987/go_assp4/playlist.m3u8?t=1776701935&token=65954f54f81249113af5cad8f77a24fb
 #EXTINF:0 tvg-id="ksport2hd" group-title="THỬ NHIỆM - Khích📺" tvg-logo="https://i.ibb.co/CKSQjymf/khich-Ti-Vi-KSP2.jpg" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtc4_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", Khích Tivi K+SP2 FHD
 #EXTVLCOPT:http-user-agent="KHICHTV"
-http://113.22.174.74:4001/udp/225.1.2.175:30120
+https://cdn.inteltelevision.com/4987/go_assp2/playlist.m3u8?t=1776702074&token=99792e94ab69a019c8241c54f4a760fb
 #https://proshls.wns.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="kcinehd" group-title="THỬ NHIỆM - Khích📺" tvg-logo="https://i.ibb.co/gMfMwFt0/logo-FPT-play-khichtv.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtc5_1000.stream/chunks_dvrqq_range-${start}-${offset}.m3u8",Khích TiVi FPT PLAY FHD
 #EXTVLCOPT:http-user-agent="KHICHTV"
-https://d.org.vn/Khích-TiVi-Live-FPT-PLAY-FHD-2026?token/playlist.m3u8
+https://cdn.inteltelevision.com/4987/Rockentertain/playlist.m3u8?t=1776702408&token=ec8e6a58f53abbbfb59ea3d6f69380cc
 #http://gs.jianghua.fun:7088/udp/239.77.0.122:5146
 #EXTINF:-1 tvg-id="kactionhd" group-title="THỬ NHIỆM - Khích📺" tvg-logo="https://i.ibb.co/20yC1Qh7/kh-ch-Ti-Vi-KSP4.jpg" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtc5_1000.stream/chunks_dvrqq_range-${start}-${offset}.m3u8",Khích Tivi K+SP4 FHD
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://s4zen.myclip.vn/video1/2024/02/28/14/20b89124/20b89124-1e0d-4afd-bd7a-37950442ce5c_4_.m3u8
+https://cdn.inteltelevision.com/4987/Rockaction/playlist.m3u8?t=1776702326&token=a9f4f41610d390c4a5eba7bedbb095ea
+#https://s4zen.myclip.vn/video1/2024/02/28/14/20b89124/20b89124-1e0d-4afd-bd7a-37950442ce5c_4_.m3u8
 #EXTINF:-1 tvg-id="kkidshd" group-title="THỬ NHIỆM - KHICHTV" tvg-logo="https://i.ibb.co/7xCD6KJy/khich-Ti-Vi-KSP5.jpg",Khích Tivi K+SP5 FHD
 #EXTVLCOPT:http-user-agent="KhichTV"
-https://s4zen.myclip.vn/video1/2023/12/21/09/fe516b9a/fe516b9a-1b63-4474-abb8-08bb53d1c731_4_.m3u8
+https://cdn.inteltelevision.com/4987/Dreamworks/playlist.m3u8?t=1776702507&token=e3a9cf0703976b14f7156c6f93ea053e
+#https://s4zen.myclip.vn/video1/2023/12/21/09/fe516b9a/fe516b9a-1b63-4474-abb8-08bb53d1c731_4_.m3u8
 #EXTINF:-1 tvg-id="ksport1hd" group-title="THỬ NHIỆM - KHICHTV" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/01/15/hb4961cy_vtc6_296_168.webp", VTC6 FHD
 #EXTVLCOPT:http-user-agent="KhichTV"
 https://s1ali.myclip.vn/video8/2025/01/24/08/8df1d785/8df1d785-883c-4819-a7c6-6e508b5abcef_4_.m3u8
@@ -301,7 +302,6 @@ https://s1ali.myclip.vn/video8/2025/01/24/08/8df1d785/8df1d785-883c-4819-a7c6-6e
 #EXTVLCOPT:http-user-agent="khichTV"https://canvato.net/bXrbQ?ksport2
 #EXTINF:-1 tvg-id="kcinehd" group-title="THỬ NHIỆM - Khích📺" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/09/24/r0eb2yp2_today-tv4deb69f96536a758c1b560d31adffa57_296_168.webp",VTC7 HD  - todayTV
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-http://myxpanel.pro:80/Martin/Martin/276893
 #EXTINF:-1 tvg-id="kaction" group-title="THỬ NHIỆM - khichTV" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/09/24/2b2ab9vz_vtc-89893d4ad3341d50412dc57325fa2011b_296_168.webp",VTC8 FHD
 #EXTVLCOPT:http-user-agent="KHICHTV"
 http://s1ali.myclip.vn/video1/2024/06/19/15/e338e9ea/e338e9ea-7de6-44cf-afb6-5b7730d93727_4_.m3u8
