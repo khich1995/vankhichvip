@@ -324,11 +324,10 @@ http://s1ali.myclip.vn/video1/2024/06/19/15/e338e9ea/e338e9ea-7de6-44cf-afb6-5b7
 https://bom.so/khichtv-vtc12-m3u8
 #EXTINF:-1 tvg-id="vtc13hd" group-title="THỬ NHIỆM - Khích📺" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/01/15/cwoumgm7_vtc13_296_168.webp", KhíchTV BĐ1 FHD
 #EXTVLCOPT:http-user-agent="KhichTV"
-https://cdn.inteltelevision.com/4987/go_assp3/playlist.m3u8?t=1776701349&token=df3f0266d7cfa21d7acc08422eaca731
+
 #https://cdn.jmvstream.com/w/LVW-8410/LVW8410_uiZOVm6vz1/playlist.m3u8
 #EXTINF:-1 tvg-id="vtc13hd" group-title="THỬ NHIỆM - Khích📺" tvg-logo="https://i.ibb.co/NV7xf45/VTC13-4-K-logo-khichtv.png", KhíchTV BĐ2 FHD
-https://cdn.inteltelevision.com/4987/Assp2/playlist.m3u8?t=1776701523&token=63c373f38608c7a11b8af26ebf65ed3c
-#https://vo-live.cdb.cdn.orange.com/Content/Channel/AbuDhabiSportsChannel2/HLS/index.m3u8
+https://vo-live.cdb.cdn.orange.com/Content/Channel/AbuDhabiSportsChannel2/HLS/index.m3u8
 #EXTINF:-1 tvg-id="spotv" group-title="THỬ NHIỆM - Khích📺" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/09/24/fxkg8rfr_vtc-140f85bd0d005d3bd26e9fe41a53bb4408_296_168.webp",VTC14 FHD
 #EXTVLCOPT:http-user-agent="khichTV"
 
@@ -341,16 +340,15 @@ https://byvn.net/Khich-TiVi-go-sports
 
 #https://d63fabad.wurl.com/manifest/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWVzX0ZJRkFQbHVzU3BhbmlzaF9ITFM/b77b329f-4d8d-442d-abcc-b534ac879448/0.m3u8
 #EXTINF:-1 tvg-id="vtc17hd" group-title="THỬ NHIỆM KhíchTiVi| MUTV" tvg-logo="https://i.ibb.co/vzWpSpV/mutv.png" catchup="append" catchup-days="2" catchup-source="https://code.hqth.xyz/xemlai/vieon/vtc17-hd/dvr-${start}-${offse}.m3u8",VTC17 HD
-https://cdn.inteltelevision.com/4987/natgeotamil_raj/playlist.m3u8?t=1776703347&token=067407d763c6e3ca20bd6c850a31c5ec
+
 #EXTINF:-1 tvg-id="vtc18hd" group-title="THỬ NHIỆM💙bóng đá⚽| THỬ NHIỆM" tvg-logo="https://i.imgur.com/wS3BbR3.png" catchup="append" catchup-days="2" catchup-source="https://code.hqth.xyz/xemlai/vieon/vtc18-hd/dvr-${start}-${offset}.m3u8",VTC18 HD Bóng Đã Hàng Anh
-https://cdn.inteltelevision.com/4987/hollywoodmovies_twn/playlist.m3u8?t=1776703065&token=6db46866df0a6f738d683fde2b7d08c7
-#http://125.209.88.166:45793/BRN/beINSP11.stream/playlist.m3u8
+http://125.209.88.166:45793/BRN/beINSP11.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="vtcab16hd" group-title="THỬ NHIỆM💙Chúc mừng năm 2025 🎆|khích Tivi" tvg-logo="https://i.ibb.co/TmvDyKW/khich-Ti-Vi-online-logo.jpg" catchup="append" catchup-days="2" catchup-source="https://code.hqth.xyz/xemlai/vieon/vtc18-hd/dvr-${start}-${offset}.m3u8", khích TiVi online HAPPY🎆2️⃣0️⃣2️⃣5️⃣
 
 #EXTINF:-1 tvg-id="vtc20hd" group-title=THỬ NHIỆM💙khichTV|TRỰC TIẾP bóng Đa⚽" tvg-logo="https://i.ibb.co/jH7wFYf/khich-Ti-Vi-online-bong-da.jpg" catchup="append" catchup-days="2" catchup-source="https://code.hqth.xyz/xemlai/vieon/vtc18-hd/dvr-${start}-${offset}.m3u8",⚽🏀 TRỰC TIẾP
-https://cdn.inteltelevision.com/4987/Hbo/playlist.m3u8?t=1776702550&token=fd76c04294ec80c3d05e1768d5d5430d
+http://190.117.20.37:8000/play/a08d/index.m3u8
 #EXTINF:-1 tvg-id="vtc21hd" group-title="THỬ NHIỆM💙khichTV| Bong ĐÁ TRỰC TIẾP " tvg-logo="https://i.ibb.co/h9td1z1/khich-online-bong-da.jpg" catchup="append" catchup-days="2" catchup-source="https://code.hqth.xyz/xemlai/vieon/vtc19-hd/dvr-${start}-${offset}.m3u8",Bong Da TRỰC TIẾP
-https://cdn.inteltelevision.com/4987/Hbohitshd/playlist.m3u8?t=1776702757&token=fb4e9986a27cf9ca44e168caa7f0fbd7
+https://rally-tv-live.akamaized.net/hls/live/2117704/RallyTV-Pri/master.m3u8
 
 #-*-Khích📺-HTV&HTVC-*--#
 
