@@ -897,7 +897,7 @@ https://cdnet-cdn-01.onsports.vn/mean/QPTV/index.m3u8
 #EXTINF:-1 tvg-id="travinh" group-title="💛khich📺|Địa phương" tvg-logo="https://i.ibb.co/WKNcFMq/THTV-HD.png", THTV | Truyền Hình Trà Vinh
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;)
-https://live.catvod.com/live.php?id=Rockaction
+https://vtvgolive-ott3.vtvdigital.vn/live/bentretv/playlist.m3u8
 #EXTINF:-1 tvg-id="travinh2" group-title="💛khich📺|Địa phương" tvg-logo="https://i.ibb.co/TcDrQm0/khichtivi-logo-tra-vinh2-hd.png",Trà Vinh 2 HD|Khích📺
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;)
 https://cdnet-cdn-01.onsports.vn/mean/ANNINHTV/index.m3u8
