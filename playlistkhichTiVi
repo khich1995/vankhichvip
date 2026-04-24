@@ -1592,9 +1592,10 @@ http://nmk.ioapk.com:5050/4gtv-live620/index.m3u8
 #EXTINF:-1 tvg-id="hits" group-title="Quốc Tế" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/391_144.png",HITS MOVIES
 
 #EXTINF:-1 tvg-id="hits" group-title="Quốc Tế" tvg-logo="https://img-zlr1.tv360.vn/image1/2020_09_23/1600822031726/ae85cde5214a_640_360.png", HITS khích TiVi
-
+https://cdn10jtedge.indihometv.com/atm/DASH/hits/manifest.mpd
 #EXTINF:-1 tvg-id="hits" group-title="Quốc Tế" tvg-logo="https://i.ibb.co/4ZJ47RYV/HITS-Movies-logo-Khich-TV.png",HITS MOVIES khích TV
-https://cdn.inteltelevision.com/4987/Hitsmovie/playlist.m3u8?t=1776700761&token=0989599735d6ac3c466a6980145cd7f2
+https://cdn10jtedge.indihometv.com/atm/DASH/hitsmovie/manifest.mpd
+#https://cdn.inteltelevision.com/4987/Hitsmovie/playlist.m3u8?t=1776700761&token=0989599735d6ac3c466a6980145cd7f2
 #EXTINF: -1 tvg-id = "moviebox" group-title = "📦 Khích TiVi|Movies Box " tvg-logo = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSq80fouu3RHBgf8eQ2AOOgy5L7zLjhKCRhlA&usqp=CAU",Movies Box 
 https://cdn3.skygo.mn/live/disk1/Moviebox/HLS-FTA/Moviebox.m3u8
 #EXTINF: -1 tvg-id = "blueantent" group-title = "🎬 Khích TiVi| Giải trí" tvg-logo = "https://i.ibb.co/z7Thn9r/hbo-mudi-khich-TV.png",HBO MuDi
@@ -1624,7 +1625,7 @@ https://tv.iill.top/4gtv/4gtv-live138
 #×-==_--÷HBO GO-'"'-#
 
 #EXTINF:-1 tvg-id="hbo" group-title="❤|HBO" tvg-logo="https://i.ibb.co/cx0DcJq/kh-ch-TV-logo-HBO.jpg", HBO FHD🇨🇳
-http://208.87.242.79/livehttpplay?channel_id=20093
+http://104.250.145.76/livehttpplay?channel_id=23356
 #EXTINF:-1 tvg-id="hbo" group-title="❤|HBO" tvg-logo="https://i.ibb.co/f4TSctD/Khichtv-hbo-hd.jpg", HBO HD🇨🇳
 https://cdn10jtedge.indihometv.com/atm/DASH/hbo/manifest.mpd
 #EXTINF:-1 tvg-id="hits" group-title="❤|HBO" tvg-logo="https://i.ibb.co/Tv3RzdF/HBO-HITS-Khich-TV.png", HBO HITS 
@@ -1633,7 +1634,7 @@ https://cdn10jtedge.indihometv.com/atm/DASH/hbohits/manifest.mpd
 #EXTINF:-1 tvg-id="hbofamily" group-title="❤|HBO" tvg-logo="https://i.ibb.co/YfkWh1p/Khich-TV-HBO-FAMILY.png", HBO FAMILY HD🇨🇳
 https://cdn10jtedge.indihometv.com/atm/DASH/hbofamily/manifest.mpd
 #EXTINF:-1 tvg-id="hbosignature" group-title="❤|HBO" tvg-logo="https://i.ibb.co/km8Tfkz/20231219-113613.jpg", HBO SINATUE HD🇨🇳
-https://cdn10jtedge.indihometv.com/atm/DASH/hbosinatue/manifest.mpd
+https://cdn10jtedge.indihometv.com/atm/DASH/hbosignatue/manifest.mpd
 #EXTINF:-1 tvg-id="cinemax" group-title="❤️| KÊNH Cinexam ASIA" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2022/08/04/ygyxarf0_cinemax_ngang_296_168.webp", CINEMAX 🇨🇳  
 https://cdn10jtedge.indihometv.com/atm/DASH/cinemax/manifest.mpd
 #EXTINF:-1 tvg-id="animax" group-title="❤️| KÊNH Cinexam ASIA" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2022/08/04/ygyxarf0_cinemax_ngang_296_168.webp", CINEMAX
