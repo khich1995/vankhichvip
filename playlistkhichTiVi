@@ -1728,7 +1728,7 @@ http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=Kplus
 #EXTINF:0 tvg-id="tvasahi" tvg-name="" tvg-logo="https://i.ibb.co/MZkXS0Q/asiancrush-logo-khichtivi.png" group-title="Khích TiVi Phim",ASIANCRSH🇺🇸
 https://d32khooduen8y3.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-p170vbjf0s68a-ssai-prd/2e874342_9a2c_48e9_9066_7ab3a3284a80/hls/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name
 #EXTINF:0 tvg-id="ntv" tvg-name="" tvg-logo="https://i.ibb.co/52bKffN/hollywood-movies-khich-TV.jpg" group-title="Khích TiVi Phim",OLLYWOOD MOVIES HD
-http://50.7.234.10:8278/hollywoodmovies_twn/playlist.m3u8?tid=MFDF3993740539937405&ct=19234&tsum=9c77fd229b7086f14748debe0f6b4ae6
+http://php.jdshipin.com/smt.php?id=meiyamovie_twn
 #EXTINF:0 tvg-id="Osaka" tvg-name/="" tvg-logo="https://i.ibb.co/c2GnL7q/images.jpg",KhichTV Tổng hợp HD
 http://epg.112114.xyz/douyu/85894
 #EXTINF:0 tvg-id="tbs" tvg-name="" tvg-logo="https://i.ibb.co/c2GnL7q/images.jpg" group-title="Khích TiVi Phim",Giải trí Tổng hợp HD
@@ -1740,9 +1740,7 @@ https://cdn9.163189.xyz/smt3.1.1.php?id=meiyamovie_twn
 #EXTINF:0 tvg-id="tvasahi" tvg-name="" tvg-logo="https://i.ibb.co/tDHKvBy/meiyamovie.jpg" group-title="Khích TiVi Phim",ettvmovie|东森电影
 
 #EXTINF:0 tvg-id="tvasahi" tvg-name="" tvg-logo="https://i.ibb.co/5xnJXwFP/warner-bros-movie-world-logo-twbc-au-by-yellowpen2009-dj3icqe-fullview.png" group-title="Khích TiVi Phim",hollywoodmovies
-h.
-
-
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-actionhollywood-samsungnz/playlist.m3u8
 #EXTINF:-1 tvg-id="tokyomx" group-title="🎬|Khích TiVi"" tvg-logo=" https://kruketwimon.com/wp-content/uploads/2022/04/k-plus.png" group-title="Khích TiVi Phim",K Plus 🇺🇸
 https://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8
 
@@ -1804,9 +1802,9 @@ https://ca-rt.onetv.app/gemdramaplus/index-0.m3u8
 
 #-'-wwe-'-khichTV*#
 #EXTINF:-1 tvg-id="🇺🇲713" tvg-logo="https://i.ibb.co/Y3DD8XX/WWE-khich-TV.png" group-title="Quốc Tế",WWE NETWORK Dự phòng 1
-http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=Wwe&token=b300f503af56d33a1a6c40245ec88e2439290060f849aac6754ce4b3606f1543%3A1763650134%3AMjQwMjo4MDA6NjI3ZDpkZTMwOjFjZTg6NzQ3OTo4NjZmOjVlZjE%3D
+https://cdn9.163189.xyz/smt3.1.1.php?id=meiyamovie_twn?id=Wwe
 #EXTINF:-1 tvg-id="🇺🇲713" tvg-logo="https://i.ibb.co/MSWWmRP/khich-online-logo-WWE.jpg" group-title="Quốc Tế",WWE Dự phòng 2
-http://smt.veryfast.filegear-sg.me/smt3.2.1.php?id=Wwe
+https://cdn9.163189.xyz/smt3.1.1.php?id=Wwe
 #EXTINF:-1 tvg-id="🇺🇲713" tvg-logo="https://i.ibb.co/tstdsB8/khichtivi-wwe.jpg" group-title="Quốc Tế",WWE Dự phòng 3
 
 #EXTINF:-1 tvg-id="🇺🇲Free Online-Plex" tvg-logo="https://images.plex.tv/photo?size=large-1920&scale=1&url=https%3A%2F%2Fprovider-static.plex.tv%2Fepg%2Fcms%2Fproduction%2Fcc877603-18a8-4c48-a80e-2d8bdff0a12b%2FTNAWrestling_Plex_TalentLogo_3840x2160_-_Alex_Tushingham.jpg" group-title="Quốc Tế",TNA
