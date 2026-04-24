@@ -92,7 +92,7 @@ http://hieupq.drayddns.com:9000/udp/225.1.4.9:30120
 https://tinyurl.com/Khich-tivi-liveSCTVphimtonghop?tokey.m3u8
 
 #-""-update khích TiVi*-'-#
-#EXTINF:0 tvg-id="vtv1hd" group-title="❤️2️⃣2️⃣/0️⃣4️⃣/2️⃣0️⃣2️⃣6️⃣📡|UPDATE By khích📺" tvg-logo="https://i.ibb.co/grKqtMt/Up-Da-Te-khich-Tivi-png.jpg" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtc1_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8",UPDATE khích TiVi|⏰10:12:53|📆|22/04/2026 FHD
+#EXTINF:0 tvg-id="vtv1hd" group-title="❤️2️⃣5️⃣/0️⃣4️⃣/2️⃣0️⃣2️⃣6️⃣📡|UPDATE By khích📺" tvg-logo="https://i.ibb.co/grKqtMt/Up-Da-Te-khich-Tivi-png.jpg" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtc1_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8",UPDATE khích TiVi|⏰02:03:53|📆|25/04/2026 FHD
 https://live.fptplay53.net/fnxch2/vtv1hd_abr.smil/chunklist_b4200000.m3u8?=khíchTiVi
 
 #-*--THVL FHD-*--#
@@ -236,21 +236,21 @@ https://xclive.zlylive.com/live/xctv_blv_tholan/playlist.m3u8
 #******""""""khích TiVi k+sport#***"__"
 
 #EXTINF:0 tvg-id="ksport1hd" group-title="Miễn phí K+" tvg-logo="https://i.ibb.co/qM82fqxb/khich-Ti-Vi-sport1.jpg", K+SPORT1 (HD 9Mbps)
-
+https://maymunmatematigi.lol/static/bs1.m3u8
 #http://113.184.187.255:12343/udp/232.84.1.37:8196
 #EXTINF:0 tvg-id="ksport2hd" group-title="Miễn phí K+" tvg-logo="https://i.ibb.co/rKWCqKwN/khich-Ti-Vi-sport2.jpg", K+SPORT2 (HD 9Mbps)
-
+https://maymunmatematigi.lol/static/bs2.m3u8
 #http://113.184.187.255:12343/udp/232.84.1.34:8178
 #EXTVLCOPT:http-user-agent=ExoPlayerLib/2.14.1
 #EXTINF:-1 tvg-id="kcinehd" group-title="Miễn phí| K+" tvg-logo="https://i.ibb.co/fYXLPDSG/khich-Ti-Vi-sport3.jpg",K+SPORT 3 (HD 9Mbps)
 #EXTVLCOPT:http-user-agent=Dalvik/
-
+https://maymunmatematigi.lol/static/bs3.m3u8
 #http://113.184.187.255:12343/udp/232.84.1.38:8202
 #EXTINF:-1 tvg-id="kaction" group-title="Miễn phí| K+" tvg-logo="https://i.ibb.co/SD1dh2gY/khich-Ti-Vi-sport4.jpg", K+SPORT 4 (HD 9Mbps)
-
+https://maymunmatematigi.lol/static/bs4.m3u8
 #http://113.184.187.255:12343/udp/232.84.1.33:8172
 #EXTINF:-1 tvg-id="kkidshd" group-title="Miễn phí|K+" tvg-logo="https://i.ibb.co/CpJVbxHB/khich-Ti-Vi-K-sport5.jpg", K+ SPORT 5 (HD 9Mbps)
-
+https://maymunmatematigi.lol/static/bs5.m3u8
 #http://113.184.187.255:12343/udp/232.84.3.42:11800
 
 #EXTINF:-1 tvg-id="vtvcab4hd" group-title="khichtv " tvg-logo="https://diendantienganh.com/uploads/films-ielts-speaking.jpg",PHIM MOVIE
