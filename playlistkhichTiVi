@@ -53,11 +53,11 @@ https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/vtv9-hd/KenhCoBan.m3u8
 #EXTINF:-1 tvg-id="onviegiaitri" group-title="❤Khích📺2️⃣0️⃣2️⃣6️⃣|VTV" group-logo="https://i.ibb.co/3RhKty7/VTV10-HD-khich-tivi.png" tvg-logo="https://i.ibb.co/3RhKty7/VTV10-HD-khich-tivi.png" ,❤VTV10 HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edge/113.0.1774.57
-https://freem3u.xyz/api/live/play.m3u8?vid=180
+https://sgclient.duckdns.org/source/tv360.m3u8?id=180
 #EXTINF:-1 tvg-id="onviedramas" group-title="❤Khích📺2️⃣0️⃣2️⃣6️⃣| VTV" tvg-logo="https://i.ibb.co/3NQX5SP/VTV11-HD-khich-TV.png", ❤VTV11 HD Vie Dramas
 #EXTVLCOPT:http-user-agent=Dal
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; KhichTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36888888
-https://freem3u.xyz/api/live/play.m3u8?vid=177
+https://sgclient.duckdns.org/source/tv360.m3u8?id=177
 #EXTINF:-1 tvg-id="hue" group-title="🇻🇳Khích📺2️⃣0️⃣2️⃣6️⃣| VTV" tvg-logo="https://i.ibb.co/L5Vh2wc/khichtv-logo-VTV12-HD.png" ,❤VTV12 HD|TRT
 #EXTVLCOPT: http-user-agent = KhichTivi
 #khichtivi=video/120.0.0.0
@@ -65,12 +65,12 @@ https://liveh12.vtvprime.vn/hls/HUE/index.m3u8
 #EXTINF:-1 tvg-id="htv2hd" group-title="❤️Khích📺2️⃣0️⃣2️⃣6️⃣| VTV" tvg-logo="https://i.ibb.co/2smBXgF/VTV13-HD.png" ,❤VTV13 HD|VIE CHANNLES
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; KhichTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://freem3u.xyz/api/live/play.m3u8?vid=191
+https://sgclient.duckdns.org/source/tv360.m3u8?id=191
 #EXTINF:-1 tvg-id="onechannel" group-title="❤Khích📺2️⃣0️⃣2️⃣6️⃣|VTV" tvg-logo="https://i.ibb.co/jTsx7jd/khich-Ti-Vi-online-VTV14.png",❤VTV14 HD EC
 #EXTVLCOPT:http-user-agent=/2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; KhichTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://freem3u.xyz/api/live/play.m3u8?vid=182
+https://sgclient.duckdns.org/source/tv360.m3u8?id=182
 #EXTINF:-1 tvg-id="onsportsplus" group-title="❤Khích📺2️⃣0️⃣2️⃣6️⃣|VTV" tvg-logo="https://i.ibb.co/8LVj3MhK/VTV15-logo-khichtv.png" catchup="append" catchup-days="2" catchup-iik="https://api.vthanhtivi.pw/v1/dvr/vieon/vtvcab6-on-sport-plus/${start}/${offset}", ❤VTV15 HD 0|Thể Thao Tổng hợp
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 
 https://tinyurl.com/Khichtv80-vtv15?=khichtv=&VTV15?token/playlist.m3u8
@@ -83,7 +83,7 @@ https://s.pro.vn/KhichTiVi80-vtv17-HD?token/index.m3u8
 #EXTINF:-1 tvg-id="onsportsnews" group-title="❤2️⃣0️⃣2️⃣6️⃣|LIST KhichTiVi🛠|Box TV số DT 0355050296" tvg-logo="https://i.ibb.co/Xrb01PsV/vtv18-logo-khichtv.webp" catchup="append"catchup-days="2"catchup-source="https://code.khichivi.pw/xemlai/mytv/380/hd/dvr-${start}-${end}.m3u8",VTV18 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://tinyurl.com/khich-TiVi80-VTV18-HD?token/index.m3u8
-#EXTINF:-1 tvg-id="axnhd" group-title="❤2️⃣0️⃣2️⃣6️⃣|LIST KhichTiVi🛠|Box TV số DT 0355050296" tvg-logo="https://i.ibb.co/HTSTDSg0/vtv19-phim-tong-hop.jpg" catchup="append"catchup-days="2"catchup-source="https://code.khichivi.pw/xemlai/mytv/380/hd/dvr-${start}-${end}.m3u8",VTV19 HD
+#EXTINF:-1 tvg-id="axnhd" group-title="❤2️⃣0️⃣2️⃣6️⃣|LIST KhichTiVi🛠|Box TV số DT 0355050296" tvg-logo="https://i.ibb.co/4g1NPrzQ/VTV19-live-khichtv.webp" catchup="append"catchup-days="2"catchup-source="https://code.khichivi.pw/xemlai/mytv/380/hd/dvr-${start}-${end}.m3u8",VTV19 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 http://hieupq.drayddns.com:9000/udp/225.1.4.9:30120
 #http://104.250.145.76/livehttpplay?channel_id=23350
@@ -458,7 +458,7 @@ https://live.fptplay53.net/epzhd1/htvcphunu_vhls.smil/chunklist_b5000000.m3u8
 #EXTVLCOPT: http-user-agent = KhichTivi
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0:=133
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://freem3u.xyz/api/live/play.m3u8?vid=133
+https://sgclient.duckdns.org/source/tv360.m3u8?id=133
 #EXTINF:-1 tvg-id="htvccanhac onhd" group-title="💛Khích📺| HTV" tvg-logo="https://static.vieon.vn/vieplay-image/avatar/2020/12/15/kba10f9g_htvc_ca_nhac.png",HTVC CA NHẠC HD
 #EXTVLCOPT: http-user-agent = KhichTivi
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
@@ -540,7 +540,7 @@ https://global-media.onlive.vn/live/viegiaitri/master.m3u8
 http://dvrfl05.bozztv.com/vch_vchannel4/index.m3u8
 #EXTINF:-1 tvg-id="vtvcab2hd" group-title="VTVcab" tvg-logo="https://i.ibb.co/qFjqvp4k/onphim-viet-logo-khichtv.png" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon/vtvcab2-on-phim-viet/${start}/${offset}", ON VIET NAM FHD
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9)
-https://freem3u.xyz/api/live/play.m3u8?vid=175
+https://sgclient.duckdns.org/source/tv360.m3u8?id=175
 #EXTINF:-1 tvg-id="vtvcab3hd" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2023/06/12/q9t4h7r2_vtvcab3aff1eee1e3d3fe4b30ff5963e00b1305_296_168.webp" group-title="VTVCab" ,ON SPORTS FHD LIVE
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
 http://aismile.dpdns.org/play/14Akq6k5mrt7iwRXq7uVnr08mD8HShgWrogAYupC93E/ts
@@ -551,11 +551,11 @@ https://global-media.onlive.vn/live/ onsports/master.m3u8
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3https://xem.truyenhinh.click/TichHop/OnLive/LIVE/?user=onmovies
 #EXTINF:0 tvg-id="vtvcab4hd" group-title="VTVCab" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/02/16/16/1676540062912/f21d4df5b545_640_360.png" ,ON MOVIES
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.=181
-https://freem3u.xyz/api/live/play.m3u8?vid=181
+https://sgclient.duckdns.org/source/tv360.m3u8?id=181
 #EXTINF:0 tvg-id="vvtvcab5hd" pgroup-title="VTVCab" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2023/06/21/tv61ia9i_vtvcab5c557e8386f9cda54f4215da0e89c0cd7_296_168.webp",VTVCab5 - E Channel
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0=182
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://freem3u.xyz/api/live/play.m3u8?vid=182
+https://sgclient.duckdns.org/source/tv360.m3u8?id=182
 #EXTINF:-1 tvg-id="vtvcab6hd" group-title="VTVCab" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2022/08/02/wtvyhnuq_vtvcab6-on-sports-thumbfc228c44db49351f512be995a0770c3b_296_168.webp",ON SPORTS +
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; KhichTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
@@ -569,20 +569,20 @@ https://global-media.onlive.vn/live/onsportsplus/master.m3u8
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 =135
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3?=
-https://freem3u.xyz/api/live/play.m3u8?vid=135
+https://sgclient.duckdns.org/source/tv360.m3u8?id=135
 #EXTINF:-1 tvg-id="vtvcab8hd" group-title="VTVcab" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2022/12/22/pj2zc5vj_vtvcab-bibi_296_168.webp" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon/vtvcab8-bibi/${start}/${offset}",VTVCAB8
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0=136
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3=178
-https://freem3u.xyz/api/live/play.m3u8?vid=178
+https://sgclient.duckdns.org/source/tv360.m3u8?id=178
 #EXTINF:0 tvg-id="vtvcab8hd" group-title="VTVCab" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2022/12/22/pj2zc5vj_vtvcab-bibi_296_168.webp",ON BIBI
-https://freem3u.xyz/api/live/play.m3u8?vid=178
+https://sgclient.duckdns.org/source/tv360.m3u8?id=178
 #EXTINF:0 tvg-id="vtvcab9hd" group-title="VTVCab" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2023/03/06/muq35ckg_vtvcab972bb1cda7c551a4dca108969ee17fb8a_296_168.webp" ,VTVCab9
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 =189
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://freem3u.xyz/api/live/play.m3u8?vid=189
+https://sgclient.duckdns.org/source/tv360.m3u8?id=189
 #EXTINF:0 tvg-id="vtvcab7hd" group-title="VTVCab" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2022/08/02/53opprfc_vtvcab10-on-cine-thumb_296_168.webp",ON CINE
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9)=176=ExoPlayerLib/2.13.3
-https://freem3u.xyz/api/live/play.m3u8?vid=176
+https://sgclient.duckdns.org/source/tv360.m3u8?id=176
 #EXTINF:-1 group-title="vtvcab10hd" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2023/08/15/6qd3yx7u_echannel_thumb14bb6471bf25a239b0b528ab0f151404_296_168.webp",ON E Channel
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0?=176
 https://toiyeuvietnam.dpdns.org/CoBan/vtvcab-5-e-channel-hd/TuyetDoiKhongKinhDoanh.m3u8
@@ -590,7 +590,7 @@ https://toiyeuvietnam.dpdns.org/CoBan/vtvcab-5-e-channel-hd/TuyetDoiKhongKinhDoa
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #khichtivi=184
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://freem3u.xyz/api/live/play.m3u8?vid=184
+https://sgclient.duckdns.org/source/tv360.m3u8?id=184
 #EXTINF:0 tvg-id="vtvcab12hd" group-title="ON KhíchTiVi|VTVCab" tvg-logo="https://i.ibb.co/WpbcjpQ/on-khich-tivi.jpg" ,VTVCAB12 - STYLE TV FHD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 =184
 http://aismile.dpdns.org/play/14Akq6k5mrt7iwRXq7uVnnvsDhnkkFPif1DvgxPVbvw/ts
@@ -610,7 +610,7 @@ http://aismile.dpdns.org/play/14Akq6k5mrt7iwRXq7uVnrsLOx6vHwCu6lB4fta8h-A/ts
 #EXTINF:0 tvg-id="vtvcab17hd0" group-title="VTVCab" tvg-logo="https://static2.vieon.vn/vieplay-image/avatar/2023/06/27/uhihzd8y_vtvcab17.webp" ,VTVCAB17
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 = 186
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://freem3u.xyz/api/live/play.m3u8?vid=186
+https://sgclient.duckdns.org/source/tv360.m3u8?id=186
 #EXTINF:0 tvg-id="vtvcab17hd" group-title="VTVCab" tvg-logo="https://i.ibb.co/C6bRbMq/vtvcab-khichtv.png" ,VTVCAB 
 #EXTINF:-1 tvg-id="vtvcab18hd" group-title="VTVCab" tvg-logo="https://i.ibb.co/T0CjVtK/ONSPORTSNEWS-KHICH-11-09-24.jpg", ON SPORTS NEWS FHD LIVE
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; (Khích TV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36?=122488
@@ -642,13 +642,13 @@ https://global-media.onlive.vn/live/viedramas/preview/master.m3u8
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #EXTVLCOPT:http-user-agent="khich TV"
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 187
-https://freem3u.xyz/api/live/play.m3u8?vid=187
+https://sgclient.duckdns.org/source/tv360.m3u8?id=187
 #EXTINF:0 tvg-id="vtvcab20hd" group-title="khichtv VTVCab" tvg-logo="https://i.ibb.co/VpMbZfy0/ON-Music-Copyright-by-VTVcab-khichtivi.png",ON MUCIC
 http://aismile.dpdns.org/play/14Akq6k5mrt7iwRXq7uVniHRgpDhpZwlWeS5DbMfAd0/ts
 #EXTINF:-1 tvg-id="vtvcab21hd" group-title="VTVCab" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2022/12/22/apxqcysc_vtvcab-kids_296_168.webp" ,ON KIDS
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 =179
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://freem3u.xyz/api/live/play.m3u8?vid=179
+https://sgclient.duckdns.org/source/tv360.m3u8?id=179
 #EXTINF:-1 tvg-id="haivolohd" group-title="VTVcab" tvg-logo="https://i.ibb.co/3myPY7zR/Vie-Channel-by-Dat-Viet-VAC-logo-khichtv.png" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon/vtvcab21-cartoon-kid/${start}/${offset}", ON vie channel
 
 #EXTINF:-1 tvg-id="happykids" group-title="khichtv| VTVCab" tvg-logo="https://assets-vtvcab.gviet.vn/images/v2/channel/20220613/2022061306/Happykids_150x902_1675158913.webp", HAPPY KIDS
@@ -660,7 +660,7 @@ https://freem3u.xyz/api/live/play.m3u8?vid=179
 #EXTINF:-1 tvg-id="vtvcab22hd" group-title="VTVCab" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2022/12/22/i0zj1wvg_vtvcablife_296_168.webp", ON LIFE
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 =188
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://freem3u.xyz/api/live/play.m3u8?vid=188
+https://sgclient.duckdns.org/source/tv360.m3u8?id=188
 #EXTINF:-1 tvg-id="vtvcab23hd" group-title="🧡| VTVcab" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2022/08/02/j8xthfzb_vtvcab23-on-golf-thumb_296_168.webp" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v2/dvr/vieon2/93fa8edc-c081-43a5-8aad-dd5d4527ccd6/${start}/${offset}", ON GOLF
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
@@ -842,13 +842,13 @@ http://hieupq.drayddns.com:9000/udp/225.1.4.8:30120
 
 #EXTINF:-1 tvg-id="hitv" group-title="💕| HCATV" tvg-logo="https://i.ibb.co/6XdqHYK/Khich-Ti-Vi-Hitv.png", HITV HD
 #EXTVLCOPT:http-user-agent=Khichtivi/2.1
-https://freem3u.xyz/api/live/play.m3u8?vid=32
+https://sgclient.duckdns.org/source/tv360.m3u8?id=32
 #https://1.org.vn/Khichtv-360-32-hitv-mpd
 #http://212.102.60.231/NICK_MUSIC/tracks-v1a1/mono.m3u8 
 #EXTINF:-1 tvg-="youtv" group-title="💕| HCATV" tvg-logo="https://i.ibb.co/Vc45wHD5/You-TV-logo-khichtivi.png", YOUTV
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 #xem miễn phí 0 Động=31
-https://freem3u.xyz/api/live/play.m3u8?vid=31
+https://sgclient.duckdns.org/source/tv360.m3u8?id=31
 #http://113.160.152.31:5050/udp/232.84.1.14:8058
 #EXTINF: -1 tvg-id = "antvhd" group-title = "🌐Khích TiVi|Thiết yếu" tvg-logo = "https://static.vieon.vn/vieplay-image/avatar/2020/12/15/s4xe42nk_an_ninh_tv.png",An Ninh TV FHD
 #EXTVLCOPT:http-user-agent=KhichTivi
