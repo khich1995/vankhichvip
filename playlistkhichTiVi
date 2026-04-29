@@ -1695,8 +1695,7 @@ http://nor3live.win:80/livehttpplay?channel_id=23363
 #EXTINF:-1 tvg-id="inthebox" group-title="📦|KhichTiviMovies" tvg-logo="https://i.ibb.co/B5HJskHv/khich-Ti-Vi-logo-STAR-MOVIES-SELECT.jpg",STAR MOVIES SELECT HD
 http://nor3live.win:80/livehttpplay?channel_id=23360
 #EXTINF:-1 tvg-id="boxhits" group-title="📦|KhichTiviMovies" tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/star-world-hd-logo-300x300.jpg",star world hd
-https://l.lioncdn.net/Discovery-Life/index.m3u8
-
+http://catchup.videoline.ru/cinema/playlist.m3u8
 #"'"''& HBO MY 123@#@₫@@****#@,@
 
 #EXTINF:-1 tvg-id="hbo" group-title="📦|KhichTiviMovies" tvg-logo="https://e7.pngegg.com/pngimages/194/991/png-clipart-logo-hbo-now-design-television-angle.png",HBO
