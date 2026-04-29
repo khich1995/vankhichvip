@@ -84,8 +84,6 @@ https://s.pro.vn/KhichTiVi80-vtv17-HD?token/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://tinyurl.com/khich-TiVi80-VTV18-HD?token/index.m3u8
 #EXTINF:-1 tvg-id="axnhd" group-title="khích TiVi|VTV" tvg-logo="https://i.ibb.co/DBmQgBb/VTV19-logo-2026-logo-khichtv.webp" catchup="append"catchup-days="2"catchup-source="https://code.khichivi.pw/xemlai/mytv/380/hd/dvr-${start}-${end}.m3u8",❤VTV19 HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://byvn.net/KhichTiVi-80-VTV19-phim-HAY?token/index.m3u8
 #http://hieupq.drayddns.com:9000/udp/225.1.4.9:30120
 #http://104.250.145.76/livehttpplay?channel_id=23350
