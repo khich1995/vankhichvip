@@ -273,14 +273,14 @@ https://maymunmatematigi.lol/static/bs4.m3u8
 #http://113.184.187.255:12343/udp/232.84.1.33:8172
 #EXTINF:-1 tvg-id="kkidshd" group-title="Miễn phí|K+" tvg-logo="https://i.ibb.co/CpJVbxHB/khich-Ti-Vi-K-sport5.jpg", K+ SPORT 5 (HD 9Mbps)
 https://maymunmatematigi.lol/static/bs5.m3u8
-#http://113.184.187.255:12343/udp/232.84.3.42:11800
+#http://113.184.187.255:12343/udp/225.1.3.78:30120
 
 #EXTINF:-1 tvg-id="vtvcab4hd" group-title="khichtv " tvg-logo="https://diendantienganh.com/uploads/films-ielts-speaking.jpg",PHIM MOVIE
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Andrhttp://fptdat.truongquocvi.com:4022/tqvudp/225.1.2.249:30120
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Andrhttp://fptdat.truongquocvi.com:4022/tqvudp/225.1.4.20:30120
 #EXTINF:-1 tvg-id="sctvp" group-title="🇻🇳LIST khích TiVi" tvg-logo="https://i.ibb.co/Fq3P9KrY/pop-khichtv-logo.jpg",list iptv khích TiVi POP
 #https://bit.ly/32list-iptv-khichtivi?.m3u8
-http://nor1live.win/livehttpplay?channel_id=23132
+http://fptdat.truongquocvi.com:4022/tqvudp/225.1.2.249:30120
 #EXTINF:-1 tvg-id="sctvp" group-title="🇻🇳group khích TiVi" tvg-logo="https://i.ibb.co/bvw7j8Z/Truong-nhom-iptv-Khich.png",Tham gia group khích tivi
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
