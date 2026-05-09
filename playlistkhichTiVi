@@ -258,6 +258,9 @@ https://yvm80526.edgemaxcdn.org/live/xctv_blv_aco/playlist.m3u8
 #EXTINF:-1 tvg-id="acohd" group-title="K+" tvg-logo="https://i.ibb.co/V0BRjTbX/logo-khich-Ti-Vi-xaycontv-png.png", K+  Người Kiên TV HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://yvm80526.edgemaxcdn.org/live/xctv_blv_nguoikien/playlist.m3u8
+#EXTINF:-1 tvg-id="acohd" group-title="K+" tvg-logo="https://i.ibb.co/V0BRjTbX/logo-khich-Ti-Vi-xaycontv-png.png", K+  chiến ca TV HD
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://yvm80526.edgemaxcdn.org/live/xctv_blv_chienca/playlist.m3u8
 #******""""""khích TiVi k+sport#***"__"
 
 #EXTINF:0 tvg-id="ksport1hd" group-title="Miễn phí K+" tvg-logo="https://i.ibb.co/qM82fqxb/khich-Ti-Vi-sport1.jpg", K+SPORT1 (HD 9Mbps)
