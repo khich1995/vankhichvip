@@ -184,13 +184,13 @@ https://hls.686868.me/live/GIANGPHUNGTIEN/index.m3u8?expire=khíchTiVi
 #EXTINF:-1 tvg-id="bunchatvhd" ugroup-title="Live khichVip" tvg-logo="https://i.ibb.co/9ktnYdCR/cakhaitv-4k-logo-khichtv.png", CAKHAITV 5 FULL HD
 https://hls.686868.me/live/GIANGAKA/index.m3u8?expire=khíchTiVi 
 #EXTINF:-1 tvg-id="thiendinh1hd" group-title="Live khichTV" tvg-logo="https://i.ibb.co/XZHnqGzC/khich-Ti-Vi-Logo-thien-dinhtv-png.png", THIÊN ĐINHTV 1 FULL HD
-https://tdlive.zlylive.com/live/tdtv_blv_taovanhoa/playlist.m3u8
+https://tqlive.yarncdn.live/live/tqtv_blv_trieutulong/playlist.m3u8
 #EXTINF:-1 tvg-id="thiendinh2hd" group-title="khíchTV| Live" tvg-logo="https://i.ibb.co/Swj0W9Zh/thien-dinhtv-logo-khichtv.png", THIÊN ĐINHTV 2 FULL HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://tdlive.zlylive.com/live/tdtv_blv_taomeo/playlist.m3u8
+https://tqlive.yarncdn.live/live/tqtv_blv_coca/playlist.m3u8
 #EXTINF:-1 tvg-id="thiendinh3hd" group-title="khíchTV| Live" tvg-logo="https://i.ibb.co/vCWc4HLv/Khich-Ti-Vi-logo-thiendinhtv3.jpg", THIÊN ĐINHTV 3 FULL HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://w9lt1225.edgemaxcdn.org/live/tdtv_blv_ngochoang/playlist.m3u8
+https://tqlive.yarncdn.live/live/tqtv_blv_masieu/playlist.m3u8
 #EXTINF:-1 tvg-id="thiendinh4hd" group-title="khíchTV| Live" tvg-logo="https://i.ibb.co/vCWc4HLv/Khich-Ti-Vi-logo-thiendinhtv3.jpg", THIÊN ĐINHTV 4 FULL HD
 https://tdlive.zlylive.com/live/tdtv_blv_taoche/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
