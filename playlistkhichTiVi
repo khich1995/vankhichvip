@@ -220,18 +220,9 @@ https://bglive.yarncdn.live/live/bgtv_blv_tieupao/playlist.m3u8
 #EXTINF:-1 tvg-id="blvtradahd" group-title="khichTV bóng đá" tvg-logo="https://bugio8.tv/wp-content/uploads/2025/04/bit-lybugioz.webp",⚽BU GIOTV 4 FULLHD
 #EXTVLCOPT:http-user-agent=ReactNativeVi8deo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 https://bglive.yarncdn.live/live/bgtv_blv_trada/playlist.m3u8
-#EXTINF:-1 tvg-id="bvlaphuhd" group-title="khíchTV| Live" tvg-logo="https://bugio8.tv/wp-content/uploads/2025/04/bit-lybugioz.webp", BU GioTV 1 FULL HD
-#EXTVLCOPT:http-user-agent=Dalvi.
-https://bglive.yarncdn.live/live/bgtv_blv_aphu/playlist.m3u8
-#EXTINF:-1 tvg-id="blvtieungoandong" group-title="khíchTV| K+" tvg-logo="https://bugio8.tv/wp-content/uploads/2025/04/bit-lybugioz.webp", BU GIOTV 2 FULLHD
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0http://aismile.dpdns.org/play/14Akq6k5mrt7iwRXq7uVnscSqc4xAFS0jvkkDDr1Za4/ts
-https://bglive.zlylive.com/live/bgtv_blv_tieungoandong/playlist.m3u8
-#EXTINF:-1 tvg-id="blvtieupaohd" group-title="khichTV bóng đá" tvg-logo="https://bugio8.tv/wp-content/uploads/2025/04/bit-lybugioz.webp",BU GIOTV 3 FULLHD
-#EXTVLCOPT:http-user-agent=ReactNativeVi8deo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://bglive.zlylive.com/live/bgtv_blv_tieupao/playlist.m3u8
-#EXTINF:-1 tvg-id="blvtradahd" group-title="khichTV bóng đá" tvg-logo="https://bugio8.tv/wp-content/uploads/2025/04/bit-lybugioz.webp",⚽BU GIOTV 4 FULLHD
-#EXTVLCOPT:http-user-agent=ReactNativeVi8deo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://bglive.zlylive.com/live/bgtv_blv_trada/playlist.m3u8
+
+#xoy contv#₫_-'#
+
 #EXTINF:-1 tvg-id="xayconhd" group-title="K+" tvg-logo="https://i.ibb.co/V0BRjTbX/logo-khich-Ti-Vi-xaycontv-png.png", K+ XAY CONTV HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3 #EXTVLCOPT:http-referer=https://sctvonline.vn/
