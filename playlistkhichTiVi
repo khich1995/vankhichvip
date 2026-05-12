@@ -606,7 +606,7 @@ https://sgclient.duckdns.org/source/tv360.m3u8?id=189
 https://sgclient.duckdns.org/source/tv360.m3u8?id=176
 #EXTINF:-1 group-title="vtvcab10hd" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2023/08/15/6qd3yx7u_echannel_thumb14bb6471bf25a239b0b528ab0f151404_296_168.webp",ON E Channel
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0?=176
-https://toiyeuvietnam.dpdns.org/CoBan/vtvcab-5-e-channel-hd/TuyetDoiKhongKinhDoanh.m3u8
+https://sgclient.duckdns.org/source/tv360.m3u8?id=176
 #EXTINF:0 tvg-id="vtvcab12hd" group-title="VTVCab" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2023/03/06/zg64gsxt_on-styleb8f508c8edc69dbf75b318ea1bc04f6c_296_168.webp" ,VTVCAB12 - STYLE TV
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #khichtivi=184
