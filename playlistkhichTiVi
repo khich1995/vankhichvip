@@ -92,7 +92,7 @@ https://byvn.net/KhichTiVi-80-VTV19-phim-HAY?token/index.m3u8
 https://tinyurl.com/Khich-tivi-liveSCTVphimtonghop?tokey.m3u8
 
 #-""-update khích TiVi*-'-#
-#EXTINF:0 tvg-id="vtv1hd" group-title="❤️1️⃣4️⃣/0️⃣5️⃣/2️⃣0️⃣2️⃣6️⃣📡|UPDATE By khích📺" tvg-logo="https://i.ibb.co/grKqtMt/Up-Da-Te-khich-Tivi-png.jpg" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtc1_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8",UPDATE khích TiVi|⏰11:03:26|📆|14/05/2026 FHD
+#EXTINF:0 tvg-id="vtv1hd" group-title="❤️1️⃣6️⃣/0️⃣5️⃣/2️⃣0️⃣2️⃣6️⃣📡|UPDATE By khích📺" tvg-logo="https://i.ibb.co/grKqtMt/Up-Da-Te-khich-Tivi-png.jpg" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtc1_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8",UPDATE khích TiVi|⏰11:03:26|📆|16/05/2026 FHD
 https://live.fptplay53.net/fnxch2/vtv1hd_abr.smil/chunklist_b4200000.m3u8?=khíchTiVi
 
 #-*--THVL FHD-*--#
@@ -1854,10 +1854,10 @@ http://66.160.192.241/cineboxcinehd/index.m3u8
 #EXTINF:-1 tvg-id="animaxhd" group-title="🌈KhichTivi | Hoạt hình" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/07/23/8wcri9wb_animax1e3f298dbfc93d461638c8b9594d25a3_296_168.webp", Animax sv1 HD🇻🇳
 #EXTVLCOPT:http-user-agent=KhichTivi
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://cdn10jtedge.indihometv.com/atm/DASH/animax/manifest.mpd?cid=bs15&checkedby:iptvcat.com
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs15&checkedby:iptvcat.com
 #EXTINF:-1 tvg-id="animaxhd" group-title="🌈KhichTivi | Hoạt hình" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/07/23/8wcri9wb_animax1e3f298dbfc93d461638c8b9594d25a3_296_168.webp", Animax sv2 HD🇻🇳
 #EXTVLCOPT:http-user-agent=Khichtv
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs25&checkedby:iptvcat.com
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs23&checkedby:iptvcat.com
 #EXTINF:-1 tvg-id="at-x" group-title="🌈KhichTivi | Hoạt hình" tvg-logo="https://i.ibb.co/Jjm57FMb/khich-Ti-Vi-logo-AT-X-png.png", AT-X HD🇻🇳
 #EXTVLCOPT:http-user-agent=KhichTivi
 https://nl.utako.moe/AT-X/index.m3u8
