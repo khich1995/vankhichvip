@@ -49,7 +49,8 @@ https://live.fptplay53.net/epzhd1/vtv8hd_vhls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="vtv9hd" group-title="Khích📺2️⃣0️⃣2️⃣6️⃣|VTV" tvg-logo="https://i.ibb.co/0QY1kvm/vtv9-hd-khichtivi.png",❤️VTV9 HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 =tv360 8
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://sgclient.duckdns.org/source/tv360.m3u8?id=8
+https://live.fptplay53.net/fnxhd1/vtv9hd_vhls.smil/chunklist_b1800000.m3u8
+#https://sgclient.duckdns.org/source/tv360.m3u8?id=8
 #EXTINF:-1 tvg-id="onviegiaitri" group-title="❤Khích📺2️⃣0️⃣2️⃣6️⃣|VTV" group-logo="https://i.ibb.co/3RhKty7/VTV10-HD-khich-tivi.png" tvg-logo="https://i.ibb.co/3RhKty7/VTV10-HD-khich-tivi.png" ,❤VTV10 HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edge/113.0.1774.57
@@ -92,7 +93,7 @@ https://byvn.net/KhichTiVi-80-VTV19-phim-HAY?token/index.m3u8
 https://tinyurl.com/Khich-tivi-liveSCTVphimtonghop?tokey.m3u8
 
 #-""-update khích TiVi*-'-#
-#EXTINF:0 tvg-id="vtv1hd" group-title="❤️1️⃣6️⃣/0️⃣5️⃣/2️⃣0️⃣2️⃣6️⃣📡|UPDATE By khích📺" tvg-logo="https://i.ibb.co/grKqtMt/Up-Da-Te-khich-Tivi-png.jpg" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtc1_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8",UPDATE khích TiVi|⏰11:03:26|📆|16/05/2026 FHD
+#EXTINF:0 tvg-id="vtv1hd" group-title="❤️2️⃣1️⃣/0️⃣5️⃣/2️⃣0️⃣2️⃣6️⃣📡|UPDATE By khích📺" tvg-logo="https://i.ibb.co/grKqtMt/Up-Da-Te-khich-Tivi-png.jpg" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtc1_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8",UPDATE khích TiVi|⏰11:19:26|📆|21/05/2026 FHD
 https://live.fptplay53.net/fnxch2/vtv1hd_abr.smil/chunklist_b4200000.m3u8?=khíchTiVi
 
 #-*--THVL FHD-*--#
