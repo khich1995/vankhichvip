@@ -701,7 +701,7 @@ https://hoiquan.dpdns.org/VTVGo/?sctv1
 #EXTVLCOPT: http-user-agent = KhichTivi
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://sctvonline.vn
-https://sgclient.duckdns.org/source/tv360.m3u8?id=201
+https://liveh12.vtvprime.vn/hls/SCTV2/03.m3u8
 #EXTINF:-1 tvg-id="sctv3hd" group-title="💚Khich TiVi| SCTV" group-logo="https://pipitv.top/logo/sctv3.png" tvg-logo="https://i.ibb.co/WNWb5whm/SCTV3-logo-khichtivi.png" , SCTV3 HD
 #EXTVLCOPT: http-user-agent = KhichTivi
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
