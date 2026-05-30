@@ -53,10 +53,6 @@ https://live.fptplay53.net/fnxhd1/vtv9hd_vhls.smil/chunklist_b5000000.m3u8
 #https://sgclient.duckdns.org/source/tv360.m3u8?id=8
 #EXTINF:-1 tvg-id="vtv10hd" group-title="Khích📺2️⃣0️⃣2️⃣6️⃣|VTV" group-logo="https://i.ibb.co/23T4Pw13/logo-you-Love-khichtv-png.png" tvg-logo="https://i.ibb.co/B5Lzmxf2/vtv10-logo-khichtv-30-3-2026.jpg", ❤️VTV10 FHD
 https://live.fptplay53.net/fnxch2/vtvcantho_abr.smil/chunklist_b4200000.m3u8
-#EXTINF:-1 tvg-id="onviegiaitri" group-title="❤Khích📺2️⃣0️⃣2️⃣6️⃣|VTV" group-logo="https://i.ibb.co/3RhKty7/VTV10-HD-khich-tivi.png" tvg-logo="https://i.ibb.co/3RhKty7/VTV10-HD-khich-tivi.png" ,❤VTV10 HD
-#EXTVLCOPT:http-user-agent=Dalvik/2.1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edge/113.0.1774.57
-https://sgclient.duckdns.org/source/tv360.m3u8?id=18
 #EXTINF:-1 tvg-id="onviedramas" group-title="❤Khích📺2️⃣0️⃣2️⃣6️⃣| VTV" tvg-logo="https://i.ibb.co/3NQX5SP/VTV11-HD-khich-TV.png", ❤VTV11 HD Vie Dramas
 #EXTVLCOPT:http-user-agent=Dal
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 =177 (Linux; Android 10; KhichTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36888888
@@ -93,6 +89,10 @@ https://byvn.net/KhichTiVi-80-VTV19-phim-HAY?token/index.m3u8
 #EXTINF:-1 tvg-id="sctvhdpth" group-title="🇻🇳2️⃣0️⃣2️⃣6️⃣By Khích TiVi" tvg-logo="https://i.ibb.co/0sf14dc/Sctvphimtonghop.webp",KhichTiVi|SCTV Phim Tổng Hợp
 #EXTVLCOPT:http-user-agent=khíchtivi(Linux;Android 9)khích
 https://tinyurl.com/Khich-tivi-liveSCTVphimtonghop?tokey.m3u8
+#EXTINF:-1 tvg-id="onviegiaitri" group-title="❤Khích📺2️⃣0️⃣2️⃣6️⃣|VTV" group-logo="https://i.ibb.co/3RhKty7/VTV10-HD-khich-tivi.png" tvg-logo="https://i.ibb.co/3RhKty7/VTV10-HD-khich-tivi.png" ,❤VTV20 HD
+#EXTVLCOPT:http-user-agent=Dalvik/2.1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edge/113.0.1774.57
+https://sgclient.duckdns.org/source/tv360.m3u8?id=18
 
 #-""-update khích TiVi*-'-#
 #EXTINF:0 tvg-id="vtv1hd" group-title="❤️3️⃣0️⃣/0️⃣5️⃣/2️⃣0️⃣2️⃣6️⃣📡|UPDATE By khích📺" tvg-logo="https://i.ibb.co/grKqtMt/Up-Da-Te-khich-Tivi-png.jpg" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtc1_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8",UPDATE khích TiVi|⏰11:19:2|📆|30/05/2026 FHD
