@@ -1450,11 +1450,9 @@ http://hieupq.drayddns.com:9000/udp/225.1.4.183:30120
 #EXTINF:-1 tvg-id="hbohitshd" tvg-name="HBO" tvg-logo="https://i.ibb.co/dJrV6SH/kh-ch-Ti-Vi-hbo-hits.jpg" group-title="Quốc Tế",HBO HITS khich TV Online🇻🇳
 #EXTVLCOPT:http-user-age onnt=Dalvik/2.1.2
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-
-https://cdn10jtedge.indihometv.com/atm/DASH/hbohits/manifest.mpd
 #EXTVLCOPT:network-caching=1000
 #https://linear-82.frequency.stream/dist/localnow/82/hls/master/playlist.m3u8
-#https://freem3u.xyz/r/cnjsupng?=khichtivi=hbohits
+https://cdn10jtedge.indihometv.com/atm/DASH/hitsmovie/manifest.mpd
 #EXTINF:-1 group-title="Quốc Tê" tvg-logo="https://i.imgur.com/NzROY7r.png" tvg-id="dabe06d5e4ded0a7f47ed44c1f49c10b",Cinemax FHD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -1480,7 +1478,7 @@ http://aismile.dpdns.org/play/14Akq6k5mrt7iwRXq7uVnoLIf_V8e1RkK1ubFO2-JSs/ts
 #EXTINF:0 tvg-id="AXN" group-title="Quốc Tế" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaQpHIUtT-gc4IOao3FlqkFy3H-gr9xdp6XRcppZ5wpQ&s",AXN HD 🇻🇳
 #EXTVLCOPT:http-user-agent="khichTiVi 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36http://free.cnlive.club/channel/n66e1336b/index.m3u8?q=1752629214236
-http://akasaijr.myftp.org:21585/axn/index.m3u8
+http://hieupq.drayddns.com:9000/udp/225.1.4.9:30120
 #EXTINF:0 tvg-id="AXN" group-title="Quốc Tế" tvg-logo="https://i.ibb.co/5YfsYc8/khichtv-live-axn.png",AXN HD 🇻🇳
 #EXTVLCOPT:http-user-agent="khichTiVi 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
@@ -1488,7 +1486,7 @@ http://aismile.dpdns.org/play/14Akq6k5mrt7iwRXq7uVnnLnqMfqmIjA0p3pfGMU-Eg/ts
 #EXTINF:-1 tvg-id="cinemaworldhd" group-title="🎬Test khichtivi| Giải trí" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/05/27/k40j9xch_cinema-world6b652603623c2f38eb586f156e9f4ac8_296_168.webp", CinemaWorld (HD🇨🇳
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.3
-http://hieupq.drayddns.com:9000/udp/225.1.1.142:30120
+http://hieupq.drayddns.com:9000/udp/225.1.4.9:30120
 #EXTINF:-1 tvg-id="cinemaworldhd" group-title="🎬Test khichtivi| Giải trí" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/05/27/k40j9xch_cinema-world6b652603623c2f38eb586f156e9f4ac8_296_168.webp", CinemaWorld (HD🇻🇳
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36http://aismile.dpdns.org/play/14Akq6k5mrt7iwRXq7uVnhnL29fXRep_QkEtsqIjey0/ts
