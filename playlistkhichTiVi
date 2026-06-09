@@ -866,11 +866,11 @@ https://live.fptplay53.net/epzhd1/vtv5hd_vhls.smil/chunklist.m3u8
 #EXTINF:0 tvg-id="vtv6hd" group-title="khichtv|VTV" tvg-logo="https://i.ibb.co/k2WPxdPQ/VTV6-logo-khichtv-03-06-2026.webp", VTV6+ FHD live
 http://hieupq.drayddns.com:9000/udp/225.1.2.154:30120
 #https://1.org.vn/Khich📺🇻🇳80vtv5HD-LIVE
-#EXTINF:0 tvg-id="vtv7hd" group-title="khichtv|VTV" tvg-logo="https://i.ibb.co/2Y5zSmGN/vietnam-television-vtv7-6959-logo-khich-Ti-Vi.webp",VTV7 + FHD live
+#EXTINF:0 tvg-id="vtv7hd" group-title="khichtv|VTV" tvg-logo="https://i.ibb.co/2Y5zSmGN/vietnam-television-vtv7-6959-logo-khich-Ti-Vi.webp",VTV7+ FHD live
 http://hieupq.drayddns.com:9000/udp/225.1.4.201:30120
-#EXTINF:0 tvg-id="vtv9hd" group-title="khichtv|VTV" tvg-logo="https://i.ibb.co/LXCQTCrd/vtv9-logo-khichtv.png",VTV9 + FHD live
+#EXTINF:0 tvg-id="vtv9hd" group-title="khichtv|VTV" tvg-logo="https://i.ibb.co/LXCQTCrd/vtv9-logo-khichtv.png",VTV9+ FHD live
 http://hieupq.drayddns.com:9000/udp/225.1.4.8:30120
-#EXTINF:0 tvg-id="vtv10hd" group-title="khichtv|VTV" tvg-logo="https://i.ibb.co/LXCQTCrd/vtv9-logo-khichtv.png",VTV10 + FHD live
+#EXTINF:0 tvg-id="vtv10hd" group-title="khichtv|VTV" tvg-logo="https://i.ibb.co/ZnZzwg0/khich-tv-logo-vtv10plus.png",VTV10+ FHD live
 http://hieupq.drayddns.com:9000/udp/225.1.4.108:30120
 #-*--Thiết yếu-*--#
 
