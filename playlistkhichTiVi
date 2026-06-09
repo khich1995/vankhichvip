@@ -861,8 +861,7 @@ https://live.fptplay53.net/fnxch2/vtv2hd_abr.smil/chunklist_b1000000.m3u8
 http://hieupq.drayddns.com:9000/udp/225.1.4.3:30120
 #EXTINF:0 tvg-id="vtv5hd" group-title="Khích📺VTC|VTV"tvg-logo="https://i.ibb.co/Xk44Tnq/khich-online-vtv5-plus.jpg",VTC VTV5+ HD online
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://live.fptplay53.net/epzhd1/vtv5hd_vhls.smil/chunklist.m3u8
-#http://hieupq.drayddns.com:9000/udp/225.1.1.131:30120
+http://hieupq.drayddns.com:9000/udp/225.1.1.131:30120
 #EXTINF:0 tvg-id="vtv6hd" group-title="khichtv|VTV" tvg-logo="https://i.ibb.co/k2WPxdPQ/VTV6-logo-khichtv-03-06-2026.webp", VTV6+ FHD live
 http://hieupq.drayddns.com:9000/udp/225.1.2.154:30120
 #https://1.org.vn/Khich📺🇻🇳80vtv5HD-LIVE
