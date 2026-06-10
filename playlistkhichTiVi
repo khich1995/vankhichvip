@@ -100,7 +100,7 @@ https://liveh12.vtvprime.vn/hls/SCTVPHIM/03.m3u8
 
 #-""-update khích TiVi*-'-
 
-#EXTINF:0 tvg-id="vtv1hd" group-title="❤️1️⃣0️⃣/0️⃣6️⃣/2️⃣0️⃣2️⃣6️⃣📡|UPDATE By khích📺" tvg-logo="https://i.ibb.co/grKqtMt/Up-Da-Te-khich-Tivi-png.jpg" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtc1_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8",UPDATE khích TiVi|⏰06:07:29|📆|10/06/2026 FHD
+#EXTINF:0 tvg-id="vtv1hd" group-title="❤️1️⃣1️⃣/0️⃣6️⃣/2️⃣0️⃣2️⃣6️⃣📡|UPDATE By khích📺" tvg-logo="https://i.ibb.co/grKqtMt/Up-Da-Te-khich-Tivi-png.jpg" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtc1_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8",UPDATE khích TiVi|⏰06:07:29|📆|11/06/2026 FHD
 https://live.fptplay53.net/fnxch2/vtv1hd_abr.smil/chunklist_b4200000.m3u8?=khíchTiVi
 
 #-*--THVL FHD-*--#
@@ -867,7 +867,7 @@ http://hieupq.drayddns.com:9000/udp/225.1.2.154:30120
 #https://1.org.vn/Khich📺🇻🇳80vtv5HD-LIVE
 #EXTINF:0 tvg-id="vtv7hd" group-title="khichtv|VTV" tvg-logo="https://i.ibb.co/V0v33vxZ/VTV7-PLUS-logo-khichtv.webp",VTV7+ FHD live
 http://hieupq.drayddns.com:9000/udp/225.1.4.201:30120
-#EXTINF:0 tvg-id="vtv8hd" group-title="khichtv|VTV" tvg-logo="https://i.ibb.co/V0v33vxZ/VTV7-PLUS-logo-khichtv.webp",VTV8+ FHD live
+#EXTINF:0 tvg-id="vtv8hd" group-title="khichtv|VTV" tvg-logo="https://i.ibb.co/JwfnZ0qS/VTV8plus-logo-khichtv-png.png",VTV8+ FHD live
 http://hieupq.drayddns.com:9000/udp/225.1.3.11:30120
 #EXTINF:0 tvg-id="vtv9hd" group-title="khichtv|VTV" tvg-logo="https://i.ibb.co/LXCQTCrd/vtv9-logo-khichtv.png",VTV9+ FHD live
 http://hieupq.drayddns.com:9000/udp/225.1.4.8:30120
