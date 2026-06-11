@@ -850,12 +850,12 @@ https://tinyurl.com/Khichtivi-live-TVB-vietnam
 
 #EXTINF:0 tvg-id="vtv1hd" group-title="Khích📺VTC|VTV"tvg-logo="https://i.ibb.co/r7MNz50/khich-online-vtv1-plus.jpg",VTC VTV1+ HD online
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 
-https://wowza.danet.vn/live/vtv1/chunklist_w1842600950.m3u8
+http://hieupq.drayddns.com:9000/udp/225.1.4.1:30120
 #https://ott1.nethubtv.vn/live/vtv1/chunklist_1.m3u8
 #EXTINF:0 tvg-id="vtv2hd" group-title="Khích📺|VTV"tvg-logo="https://i.ibb.co/y4xbk7Z/khich-online-vtv2.jpg",khích📺 VTV2+ HD online
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://live.fptplay53.net/fnxch2/vtv2hd_abr.smil/chunklist_b1000000.m3u8
+http://hieupq.drayddns.com:9000/udp/225.1.4.2:30120
 #https://thvip.site/vtv2/index.m3u8
 #EXTINF:0 tvg-id="vtv3hd" group-title="Khích📺|VTV"tvg-logo="https://i.ibb.co/YcjL05p/khichtv-logo-VTV3-PLUS.png",khích📺 VTV3+ HD online
 http://hieupq.drayddns.com:9000/udp/225.1.4.3:30120
