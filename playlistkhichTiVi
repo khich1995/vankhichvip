@@ -76,7 +76,7 @@ https://freem3u.xyz/api/live/play.m3u8?vid=191
 https://freem3u.xyz/api/live/play.m3u8?vid=182
 #EXTINF:-1 tvg-id="onsportsplus" group-title="❤Khích📺2️⃣0️⃣2️⃣6️⃣|VTV" tvg-logo="https://i.ibb.co/8LVj3MhK/VTV15-logo-khichtv.png" catchup="append" catchup-days="2" catchup-iik="https://api.vthanhtivi.pw/v1/dvr/vieon/vtvcab6-on-sport-plus/${start}/${offset}", ❤VTV15 HD 0|Thể Thao Tổng hợp
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 
-https://tinyurl.com/Khichtv80-vtv15?=khichtv=&VTV15?token/playlist.m3u8
+#https://tinyurl.com/Khichtv80-vtv15?=khichtv=&VTV15?token/playlist.m3u8
 http://hieupq.drayddns.com:9000/udp/225.1.4.25:30120
 ##EXTINF:-1 tvg-id="onfootball" group-title="❤Khích📺2️⃣0️⃣2️⃣6️⃣|VTV" tvg-logo="https://i.ibb.co/NBz2jGG/VTV16-logo-khichtivi.webp" catchup="append" catchup-days="2" catchup-iik="https://api.vthanhtivi.pw/v1/dvr/vieon/vtvcab6-on-sport-plus/${start}/${offset}", ❤VTV16 HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
