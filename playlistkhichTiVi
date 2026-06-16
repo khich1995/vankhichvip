@@ -67,7 +67,8 @@ https://freem3u.xyz/api/live/play.m3u8?vid=177
 #EXTINF:-1 tvg-id="hue" group-title="🇻🇳Khích📺2️⃣0️⃣2️⃣6️⃣| VTV" tvg-logo="https://i.ibb.co/L5Vh2wc/khichtv-logo-VTV12-HD.png" ,❤VTV12 HD|TRT
 #EXTVLCOPT: http-user-agent = KhichTivi
 #khichtivi=video/120.0.0.0
-http://hieupq.drayddns.com:9000/udp/225.1.1.161:30120
+https://live.fptplay53.net/epzsd1/hue_hls.smil/chunklist.m3u8
+#http://hieupq.drayddns.com:9000/udp/225.1.1.161:30120
 #EXTINF:-1 tvg-id="htv2hd" group-title="❤️Khích📺2️⃣0️⃣2️⃣6️⃣| VTV" tvg-logo="https://i.ibb.co/2smBXgF/VTV13-HD.png" ,❤VTV13 HD|VIE CHANNLES
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux=191; Android 10; KhichTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
