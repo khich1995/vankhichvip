@@ -271,18 +271,18 @@ https://xclive.yarncdn.live/live/xctv_blv_chienca/playlist.m3u8
 #******""""""khích TiVi k+sport#***"__"
 
 #EXTINF:0 tvg-id="ksport1hd" group-title="Miễn phí K+" tvg-logo="https://i.ibb.co/qM82fqxb/khich-Ti-Vi-sport1.jpg", K+SPORT1 (HD 9Mbps)
-https://maymunmatematigi.lol/static/bs1.m3u8
+https://a62dad94.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0ZJRkFQbHVzRW5nbGlzaF9ITFM/playlist.m3u8
 #http://113.184.187.255:12343/udp/232.84.1.37:8196
 #EXTINF:0 tvg-id="ksport2hd" group-title="Miễn phí K+" tvg-logo="https://i.ibb.co/rKWCqKwN/khich-Ti-Vi-sport2.jpg", K+SPORT2 (HD 9Mbps)
-https://maymunmatematigi.lol/static/bs2.m3u8
+https://customer-gbrbp7ltq327hpsu.cloudflarestream.com/9b5be6d9ebdfce62a3eeb49a43cb1479/manifest/video.m3u8?parentOrigin=https%3A%2F%2Fwww.irtv.website
 #http://113.184.187.255:12343/udp/232.84.1.34:8178
 #EXTVLCOPT:http-user-agent=ExoPlayerLib/2.14.1
 #EXTINF:-1 tvg-id="kcinehd" group-title="Miễn phí| K+" tvg-logo="https://i.ibb.co/fYXLPDSG/khich-Ti-Vi-sport3.jpg",K+SPORT 3 (HD 9Mbps)
 #EXTVLCOPT:http-user-agent=Dalvik/
-https://maymunmatematigi.lol/static/bs3.m3u8
+https://a62dad94.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0ZJRkFQbHVzRW5nbGlzaF9ITFM/playlist.m3u8
 #http://113.184.187.255:12343/udp/232.84.1.38:8202
 #EXTINF:-1 tvg-id="kaction" group-title="Miễn phí| K+" tvg-logo="https://i.ibb.co/SD1dh2gY/khich-Ti-Vi-sport4.jpg", K+SPORT 4 (HD 9Mbps)
-https://maymunmatematigi.lol/static/bs4.m3u8
+https://fxtvhls.wns.live/hls/stream.m3u8
 #http://113.184.187.255:12343/udp/232.84.1.33:8172
 #EXTINF:-1 tvg-id="kkidshd" group-title="Miễn phí|K+" tvg-logo="https://i.ibb.co/CpJVbxHB/khich-Ti-Vi-K-sport5.jpg", K+ SPORT 5 (HD 9Mbps)
 https://maymunmatematigi.lol/static/bs5.m3u8
