@@ -73,7 +73,7 @@ https://live.fptplay53.net/epzsd1/hue_hls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="htv2hd" group-title="❤️Khích📺2️⃣0️⃣2️⃣6️⃣| VTV" tvg-logo="https://i.ibb.co/2smBXgF/VTV13-HD.png" ,❤VTV13 HD|VIE CHANNLES
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux=191; Android 10; KhichTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://freem3u.xyz/api/live/play.m3u8?id=191
+https://tpninosaga.duckdns.org/source/tv360.m3u8?id=191&token=NinoExility
 #EXTINF:-1 tvg-id="onechannel" group-title="❤Khích📺2️⃣0️⃣2️⃣6️⃣|VTV" tvg-logo="https://i.ibb.co/jTsx7jd/khich-Ti-Vi-online-VTV14.png",❤VTV14 HD EC
 #EXTVLCOPT:http-user-agent=/2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; KhichTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
@@ -102,8 +102,8 @@ http://hieupq.drayddns.com:9000/udp/225.1.4.9:30120
 #http://104.250.145.76/livehttpplay?channel_id=23350
 #EXTINF:-1 tvg-id="onviegiaitri" group-title="❤Khích📺2️⃣0️⃣2️⃣6️⃣|VTV" group-logo="https://i.ibb.co/3RhKty7/VTV10-HD-khich-tivi.png" tvg-logo="https://i.ibb.co/tpm2gVpP/VTV20-logo-khichtivi.webp" ,❤VTV20 HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edge/113.0.1774.57
-https://freem3u.xyz/api/live/play.m3u8?id=180
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0;=180 Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edge/113.0.1774.57
+https://tpninosaga.duckdns.org/source/tv360.m3u8?id=180&token=NinoExility
 #EXTINF:-1 tvg-id="sctvhdpth" group-title="🇻🇳2️⃣0️⃣2️⃣6️⃣By Khích TiVi" tvg-logo="https://i.ibb.co/0sf14dc/Sctvphimtonghop.webp",KhichTiVi|SCTV Phim Tổng Hợp
 #EXTVLCOPT:http-user-agent=khíchtivi(Linux;Android 9)khích
 https://liveh12.vtvprime.vn/hls/SCTVPHIM/03.m3u8
