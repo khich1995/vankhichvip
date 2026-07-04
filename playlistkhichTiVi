@@ -277,7 +277,7 @@ https://xclive.yarncdn.live/live/xctv_blv_chienca/playlist.m3u8
 https://a62dad94.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0ZJRkFQbHVzRW5nbGlzaF9ITFM/playlist.m3u8
 #http://113.184.187.255:12343/udp/232.84.1.37:8196
 #EXTINF:0 tvg-id="ksport2hd" group-title="Miễn phí K+" tvg-logo="https://i.ibb.co/rKWCqKwN/khich-Ti-Vi-sport2.jpg", K+SPORT2 (HD 9Mbps)
-https://customer-gbrbp7ltq327hpsu.cloudflarestream.com/9b5be6d9ebdfce62a3eeb49a43cb1479/manifest/video.m3u8?parentOrigin=https%3A%2F%2Fwww.irtv.website
+https://stream.pdtvhd.com/Sports/streams/PDTVHDSports.m3u8
 #http://113.184.187.255:12343/udp/232.84.1.34:8178
 #EXTVLCOPT:http-user-agent=ExoPlayerLib/2.14.1
 #EXTINF:-1 tvg-id="kcinehd" group-title="Miễn phí| K+" tvg-logo="https://i.ibb.co/fYXLPDSG/khich-Ti-Vi-sport3.jpg",K+SPORT 3 (HD 9Mbps)
@@ -308,7 +308,7 @@ http://fptdat.truongquocvi.com:4022/tqvudp/225.1.4.209:30120
 #EXTINF:-1 tvg-id="vtc1hd" tvg-logo="https://i.ibb.co/9vhq4SD/khichtivi-kenh1.jpg" group-title="THỬ NHIỆM-Khích📺", khích TiVi 1 FHD
 #EXTVLCOPT:http-user-agent=khíchtivi(Linux;Android 9)khích
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:7a:39:a6&stream=233715&extension=ts&play_token=klT8fyTCz5
+https://stream.pdtvhd.com/Sports/streams/PDTVHDSports.m3u8
 #http://s4zen.myclip.vn/video1/2024/01/11/12/f275b2d9/f275b2d9-bb6d-4338-8f49-1af7d6382e57_4_.m3u8
 #EXTINF:-1 tvg-id="vtv1hd" tvg-logo="https://i.ibb.co/GfbBM1zS/khich-logo-VTV1-5-1.jpg" group-title="THỬ NHIỆM -Khích📺", khích tivi VTV1 Full HD 5.1
 #https://live.inplyr.com/room/360663.m3u8
@@ -1542,54 +1542,52 @@ http://hieupq.drayddns.com:9000/udp/225.1.1.139:30120
 #EXTVLCOPT:http-user=Gia Hưng
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 #EXTVLCOPT:khíchTV=159
-http://aismile.dpdns.org/play/14Akq6k5mrt7iwRXq7uVnqnoz65ZV6KHD4S_VzS8MUU/ts?vid=159
+
 #EXTINF:-1 tvg-id="hollywoodclassics" group-title="📦| In The Box" tvg-logo="https://i.ibb.co/kTNcLxh/channel-card-hwc-khchtivi.jpg", Hollywood Classics
 #EXTVLCOPT:http-user-agent=Gia Hưng 
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-#EXTVLCOPT:khíchTV=160
-http://aismile.dpdns.org/play/14Akq6k5mrt7iwRXq7uVnmKW1EgtPg88A
-e="📦| In The Box" tvg-logo="https://www.intheboxtv.eu/content/uploads/2018/10/MUSICBOX_KARTICA_V4.jpg", Music Box
+#EXTINF:-1 tvg-id="drfithd" group-title="📦| In The Box" tvg-logo="https://www.intheboxtv.eu/content/uploads/2018/10/MUSICBOX_KARTICA_V4.jpg", Music Box
 #EXTVLCOPT:http-user-agent=Gia Hưng 
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 #EXTVLCOPT:khíchTV:=289
-http://aismile.dpdns.org/play/14Akq6k5mrt7iwRXq7uVnvOh_bzIXq6k1gyj7cdsWR0/ts
+
 #EXTINF:-1 tvg-id="happykid" group-title="📦| In The Box" tvg-logo="https://www.intheboxtv.eu/content/uploads/2019/01/channel_card_happy_kids.jpg", happykid HD
 #EXTVLCOPT:http-user-agent=Gia Hưng 
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 #EXTVLCOPT:=khíchTV/=212
-http://aismile.dpdns.org/play/14Akq6k5mrt7iwRXq7uVnp5daKXmSW7VOEhhjrKu_TI/ts?id=212
+
 #EXTINF:-1 tvg-id="drfithd" group-title="📦| In The Box" tvg-logo="https://www.intheboxtv.eu/content/uploads/2018/10/540x540_FIT3GIRLS_FRUITS.png", Dr.Fit
 #EXTVLCOPT:http-user-agent=Gia Hưng23=162
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-http://aismile.dpdns.org/play/14Akq6k5mrt7iwRXq7uVnhPq_fSj06trHFbdKIiXSws/ts
+
 #EXTINF:-1 xui-id="2026" tvg-id="" tvg-name="Man" tvg-logo="https://i.ibb.co/yBQ42FCM/khich-Ti-Vi-in-the-box-man.jpg"In The Box",Man khích TiVi
-https://263.org.vn/Khich-TiVi-2026-box-man-HD
+
 #EXTINF:-1 tvg-id="planetearthhd" group-title="📦khích TiVi| In The Box" tvg-logo="https://i.ibb.co/qCrPwQS/khichtv-logo-Planet-Earth.png", Planet Earth
 #EXTVLCOPT:khíchTV=135
-http://aismile.dpdns.org/play/14Akq6k5mrt7iwRXq7uVnplUUmNvg02m_Ye6OEQwgTk/ts
+
 #EXTINF:-1 tvg-id="womanhd" group-title="📦| In The Box" tvg-logo="https://i.ibb.co/GQygVYYY/channel-card-woman-khichtivi.jpg",Woman
 #EXTVLCOPT:khíchTV=163
-http://aismile.dpdns.org/play/14Akq6k5mrt7iwRXq7uVnmag3iMV4REFlVp31Ou6vFU/ts
+
 
 #****""'🎞️BOX In The Box *******#####
 
 #EXTINF: -1 tvg-id = "boxmovie1" group-title = "📦 Khích TiVi| In The Box" tvg-logo = "https://i.ibb.co/vkVLJwz/images-1.jpg", Box Movie1 HD👌khíchTV
-http://aismile.dpdns.org/play/14Akq6k5mrt7iwRXq7uVnp5daKXmSW7VOEhhjrKu_TI/ts
+
 #EXTINF: -1 tvg-id = "inthebox" group-title = "📦 Khích TiVi| In The Box" tvg-logo = "https://i.ibb.co/DV1TpCb/images.png", In The Box👌khíchTV
 #EXTVLCOPT:http-user-agent=Gia Hưng23
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 #EXTVLCOPT:http-user-agent=Gia Hưng23
-http://aismile.dpdns.org/play/14Akq6k5mrt7iwRXq7uVnvOh_bzIXq6k1gyj7cdsWR0/ts
+
 #EXTINF: -1 tvg-id = "boxhollywood" group-title = "📦 Khích TiVi| In The Box" tvg-logo = "https://i.ibb.co/b7G07jh/Box1235-vbktv.jpg", Hollywood Classics👌khíchTV
-http://aismile.dpdns.org/play/14Akq6k5mrt7iwRXq7uVnmKW1EgtPg88A5oGxrmaJtQ/ts
+
 #EXTINF: -1 tvg-id = "boxhits" group-title = "📦 Khích TiVi| In The Box" tvg-logo = "https://i.ibb.co/BKMsB5N/images.jpg", Box Hits👌khíchTV
-http://aismile.dpdns.org/play/14Akq6k5mrt7iwRXq7uVnmKW1EgtPg88A5oGxrmaJtQ/ts
+https://live-evg19.tv360.metfone.com.kh/hls/hls-cambodia/playlist.m3u8
 #EXTVLCOPT:http-user-agent=KhichTivi
 #EXTINF:-1 tvg-id="musicbox" group-title="🎞️|IN The Box" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/07/20/10/1689822939536/68d521f6938e_640_360.png" catchup="append" catchup-days="2" catchup-source="https://i.ibb.co/26C0FTb/KARTICA-BOXChannel-V1.jpg",Music Box HD 👌khíchTV
 #EXTVLCOPT:http-user-agent=KhichTivi
-http://aismile.dpdns.org/play/14Akq6k5mrt7iwRXq7uVnrOTW7K9FX9235KMusChmII/ts
+
 #EXTINF:-1 tvg-id="happykids" group-title="🎞️|IN The Box" tvg-logo="https://img-zlr1.tv360.vn/image1/2020_09_23/1600823512270/ee08dd0e8b64_640_360.png" catchup="append" catchup-days="2" catchup-source="https://i.ibb.co/26C0FTb/KARTICA-BOXChannel-V1.jpg",Happykids HD 👌khíchTV
-http://aismile.dpdns.org/play/14Akq6k5mrt7iwRXq7uVnp5daKXmSW7VOEhhjrKu_TI/ts
+
 #EXTINF:-1 tvg-id="boxhtis" group-title="🎞️|IN The Box" tvg-logo="https://i.ibb.co/BKMsB5N/images.jpg" catchup="append" catchup-days="2" catchup-source="https://i.ibb.co/BKMsB5N/images.jpg",Box Hits
 #EXTVLCOPT:http-user-agent=KhichTivi
 https://spstr.abntv.live/hls/psstream.m3u8
