@@ -72,7 +72,7 @@ https://live.fptplay53.net/epzsd1/hue_hls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="htv2hd" group-title="❤️Khích📺2️⃣0️⃣2️⃣6️⃣| VTV" tvg-logo="https://i.ibb.co/2smBXgF/VTV13-HD.png" ,❤VTV13 HD|VIE CHANNLES
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux=191; Android 10; KhichTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://tpninosaga.duckdns.org/source/tv360.m3u8?id=191&token=NinoExility
+https://freem3u.xyz/api/live/play.m3u8?id=191
 #EXTINF:-1 tvg-id="onechannel" group-title="❤Khích📺2️⃣0️⃣2️⃣6️⃣|VTV" tvg-logo="https://i.ibb.co/jTsx7jd/khich-Ti-Vi-online-VTV14.png",❤VTV14 HD EC
 #EXTVLCOPT:http-user-agent=/2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; KhichTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
@@ -110,7 +110,7 @@ https://hoiquan.dpdns.org/VTVGo/?sctvphim
 
 #-""-update khích TiVi*-'-
 
-#EXTINF:0 tvg-id="vtv1hd" group-title="❤️1️⃣0️⃣/0️⃣7️⃣/2️⃣0️⃣2️⃣6️⃣📡|UPDATE By khích📺" tvg-logo="https://i.ibb.co/grKqtMt/Up-Da-Te-khich-Tivi-png.jpg" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtc1_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8",UPDATE khích TiVi|⏰12:04:29|📆|10/07/2026 FHD
+#EXTINF:0 tvg-id="vtv1hd" group-title="❤️1️⃣1️⃣/0️⃣7️⃣/2️⃣0️⃣2️⃣6️⃣📡|UPDATE By khích📺" tvg-logo="https://i.ibb.co/grKqtMt/Up-Da-Te-khich-Tivi-png.jpg" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtc1_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8",UPDATE khích TiVi|⏰12:48:29|📆|11/07/2026 FHD
 https://byvn.net/Khichtivi-vtv1-full-hd?token/index.m3u8
 
 #-*--THVL FHD-*--#
@@ -628,7 +628,7 @@ https://freem3u.xyz/api/live/play.m3u8?id=176
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #khichtivi=184
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://sgclient.duckdns.org/source/tv360.m3u8?id=184
+https://freem3u.xyz/api/live/play.m3u8?id=184
 #EXTINF:0 tvg-id="vtvcab12hd" group-title="ON KhíchTiVi|VTVCab" tvg-logo="https://i.ibb.co/WpbcjpQ/on-khich-tivi.jpg" ,VTVCAB12 - STYLE TV FHD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 =184
 http://aismile.dpdns.org/play/14Akq6k5mrt7iwRXq7uVnnvsDhnkkFPif1DvgxPVbvw/ts
@@ -648,7 +648,7 @@ http://aismile.dpdns.org/play/14Akq6k5mrt7iwRXq7uVnrsLOx6vHwCu6lB4fta8h-A/ts
 #EXTINF:0 tvg-id="vtvcab17hd0" group-title="VTVCab" tvg-logo="https://static2.vieon.vn/vieplay-image/avatar/2023/06/27/uhihzd8y_vtvcab17.webp" ,VTVCAB17
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 = 186
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://sgclient.duckdns.org/source/tv360.m3u8?id=186
+https://freem3u.xyz/api/live/play.m3u8?id=186
 #EXTINF:0 tvg-id="vtvcab17hd" group-title="VTVCab" tvg-logo="https://i.ibb.co/C6bRbMq/vtvcab-khichtv.png" ,VTVCAB 
 #EXTINF:0 tvg-id="vtvcab18hd" group-title="VTVCab" tvg-logo="https://i.ibb.co/T0CjVtK/ONSPORTSNEWS-KHICH-11-09-24.jpg", ON SPORTS NEWS FHD LIVE
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; (Khích TV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36?=122488
@@ -680,7 +680,7 @@ https://global-media.onlive.vn/live/viedramas/preview/master.m3u8
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #EXTVLCOPT:http-user-agent="khich TV"
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 187
-https://vpsttt.vietanhtv.top/tv360/tv360.php?id=187
+https://freem3u.xyz/api/live/play.m3u8?id=187
 #EXTINF:0 tvg-id="vtvcab20hd" group-title="khichtv VTVCab" tvg-logo="https://i.ibb.co/VpMbZfy0/ON-Music-Copyright-by-VTVcab-khichtivi.png",ON MUCIC
 http://aismile.dpdns.org/play/14Akq6k5mrt7iwRXq7uVniHRgpDhpZwlWeS5DbMfAd0/ts
 #EXTINF:-1 tvg-id="vtvcab21hd" group-title="VTVCab" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2022/12/22/apxqcysc_vtvcab-kids_296_168.webp" ,ON KIDS
