@@ -148,10 +148,10 @@ https://live.baoquangninh.vn/qtvlive/tv3live.m3u8
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3https://live05.msdht.app/live//344370.m3u8
 #EXTINF:-1 tvg-id="ksport2hd" group-title="khichTV Bong Da" tvg-logo="https://i.ibb.co/SfRFTrm/b-ng-tr-c-ti-p.png",⚽ Trực tiếp Bóng đá 2 FHD 
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.1
-https://live5.msrktz.app/live/88508431.m3u8
+https://live05.grita.app/live/88508431.m3u8
 #EXTINF:-1 tvg-id="kcinehd" group-title="khichTV Bong Da" tvg-logo="https://i.ibb.co/vDc8r61/cola-tv-2-logo-khichtivi.jpg",⚽ Trực tiếp Bóng đá 3 FHD 
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://live5.msrktz.app/live/90865415.m3u8
+https://live05.grita.app/live/90865415.m3u8
 #EXTINF:-1 tvg-id="kaction" group-title="khichTV bóng đá" tvg-logo="https://i.ibb.co/vDc8r61/cola-tv-2-logo-khichtivi.jpg",⚽ Trực tiếp Bóng đá 4 FHD 
 #EXTVLCOPT:http-user-agent ko on on Oct=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 https://hls.cdnok9.com/live/LYUNG1/index.m3u8?expire=khíchtivi
@@ -161,7 +161,7 @@ https://hls.cdnok9.com/live/KEVILL/index.m3u8?expire=khíchtivi
 #EXTINF:-1 tvg-id="kkidshd" group-title="khichTV Bong Da" tvg-logo="https://i.ibb.co/Tx02n6Pk/khich-Ti-Vi-bong-da-live-6.jpg",⚽ Trực tiếp Bóng đá 6 FHD
 https://live05.msdht.app/live/24561735.m3u8
 #EXTINF:-1 tvg-id="kkidshd" group-title="khichTV Bong Da" tvg-logo="https://i.ibb.co/Y7hXTNxd/playlist-khich-Ti-Vi-Bong-da-live-7.jpg",⚽ Trực tiếp Bóng đá 7  FHD 
-https://live5.msrktz.app/live/43612277.m3u8
+https://live05.grita.app/live/43612277.m3u8
 #EXTINF:-1 tvg-id="kkidshd" group-title="khichTV Bong Da" tvg-logo="https://i.ibb.co/Y7hXTNxd/playlist-khich-Ti-Vi-Bong-da-live-7.jpg",⚽ Trực tiếp Bóng đá 8  FHD 
 https://hls-ls.cdnok9.com/live/YENTHANH1/index.m3u8?expire=1788427256&sign=a79cc8d996707223a0011d33d04d4582
 #,',khichtivi Mytv K+,"",**********###
@@ -193,52 +193,52 @@ https://hls-ls.cdnok9.com/live/YENTHANH1/index.m3u8?expire=1788427256&sign=a79cc
 #_"_khich Live*""_**#############
 
 #EXTINF:-1 tvg-id="cakhaitvhd" ugroup-title="Live khichVip" tvg-logo="https://i.ibb.co/nNQttm41/cakhai-logo-khichtv.jpg", CAKHAITV 1  FULL HD
-https://hls.686868.me/live/GIANGAHUP/index.m3u8?expire=khíchtivi
+
 #EXTINF:-1 tvg-id="cakhaitvhd" ugroup-title="Live khichVip" tvg-logo="https://i.ibb.co/21FLJXhr/Cakhiatv-logo-khichtv.png", CAKHAITV 2 FULL HD
-https://hls.686868.me/live/AKHOAI/index.m3u8?expire=khíchtivi
+
 #EXTINF:-1 tvg-id="bunchatvhd" ugroup-title="Live khichVip" tvg-logo="https://i.ibb.co/9ktnYdCR/cakhaitv-4k-logo-khichtv.png", CAKHAITV 3 FULL HD
-https://hls.686868.me/live/giangaphe/index.m3u8?expire=1783173180&sign=khíchtivi
+
 #EXTINF:-1 tvg-id="bunchatvhd" ugroup-title="Live khichVip" tvg-logo="https://i.ibb.co/9ktnYdCR/cakhaitv-4k-logo-khichtv.png", CAKHAITV 4 FULL HD
-https://hls.686868.me/live/GIANGPHUNGTIEN/index.m3u8?expire=khíchTiVi
+
 #EXTINF:-1 tvg-id="bunchatvhd" ugroup-title="Live khichVip" tvg-logo="https://i.ibb.co/9ktnYdCR/cakhaitv-4k-logo-khichtv.png", CAKHAITV 5 FULL HD
-https://hls.686868.me/live/GIANGAKA/index.m3u8?expire=khíchTiVi 
+
 #EXTINF:-1 tvg-id="thiendinh1hd" group-title="Live khichTV" tvg-logo="https://i.ibb.co/XZHnqGzC/khich-Ti-Vi-Logo-thien-dinhtv-png.png", THIÊN ĐINHTV 1 FULL HD
-https://tqlive.yarncdn.live/live/tqtv_blv_trieutulong/playlist.m3u8
+
 #EXTINF:-1 tvg-id="thiendinh2hd" group-title="khíchTV| Live" tvg-logo="https://i.ibb.co/Swj0W9Zh/thien-dinhtv-logo-khichtv.png", THIÊN ĐINHTV 2 FULL HD
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://tqlive.yarncdn.live/live/tqtv_blv_coca/playlist.m3u8
+#EXTVLCOPT:http-user-agent=Dalvik/2
+
 #EXTINF:-1 tvg-id="thiendinh3hd" group-title="khíchTV| Live" tvg-logo="https://i.ibb.co/vCWc4HLv/Khich-Ti-Vi-logo-thiendinhtv3.jpg", THIÊN ĐINHTV 3 FULL HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://tqlive.yarncdn.live/live/tqtv_blv_masieu/playlist.m3u8
+
 #EXTINF:-1 tvg-id="thiendinh4hd" group-title="khíchTV| Live" tvg-logo="https://i.ibb.co/vCWc4HLv/Khich-Ti-Vi-logo-thiendinhtv3.jpg", THIÊN ĐINHTV 4 FULL HD
-https://tdlive.zlylive.com/live/tdtv_blv_taoche/playlist.m3u8
+
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #EXTINF:-1 tvg-id="8sport1hd" group-title="khíchTV| Live" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-n9OAIZzuF_KmX5Bns1SBFa8wfhioJG2EzNbUzbMS2Q&s=10", bún chảTV1 FULL HD
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://hls.cdnok9.com/live/NHIKA1/index.m3u8?expire&sign=khichtv
+#EXTVLCOPT:http-user-agent=Dalvik/2.1
+
 #EXTINF:-1 tvg-id="8sport2hd" group-title="khíchTV| Live" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-n9OAIZzuF_KmX5Bns1SBFa8wfhioJG2EzNbUzbMS2Q&s=10", bún chảTV2 FULL HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://hls.cdnok9.com/live/PHONGVAN/index.m3u8?expire=KhichTV
+
 #EXTINF:-1 tvg-id="8sport3hd" group-title="khíchTV| Live" tvg-logo="https://i.ibb.co/RkYqkDpf/8sportlive.png", 8SPORT 3 FULL HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1
-https://live.inplyr.com/room/168740.m3u8
+
 #EXTINF:-1 tvg-id="8sport4hd" group-title="khíchTV| Live" tvg-logo="https://i.ibb.co/RkYqkDpf/8sportlive.png", 8SPORT 4 FULL HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.
-https://live.inplyr.com/room/113906.m3u8
+
 #EXTINF:-1 tvg-id="fpt4k" group-title="Live" tvg-logo="https://i.ibb.co/b5k1tKNG/logo-khichtv-FPT-Play-4-K.webp", FPT PLAY 4K FULL HD
 
 #EXTINF:-1 tvg-id="bvlaphuhd" group-title="khíchTV| Live" tvg-logo="https://bugio8.tv/wp-content/uploads/2025/04/bit-lybugioz.webp", BU GioTV 1 FULL HD
 #EXTVLCOPT:http-user-agent=Dalvi.
-https://bglive.yarncdn.live/live/bgtv_blv_aphu/playlist.m3u8
+
 #EXTINF:-1 tvg-id="blvtieungoandong" group-title="khíchTV| K+" tvg-logo="https://bugio8.tv/wp-content/uploads/2025/04/bit-lybugioz.webp", BU GIOTV 2 FULLHD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0http://aismile.dpdns.org/play/14Akq6k5mrt7iwRXq7uVnscSqc4xAFS0jvkkDDr1Za4/ts
-https://bglive.yarncdn.live/live/bgtv_blv_tieungoandong/playlist.m3u8
+
 #EXTINF:-1 tvg-id="blvtieupaohd" group-title="khichTV bóng đá" tvg-logo="https://bugio8.tv/wp-content/uploads/2025/04/bit-lybugioz.webp",BU GIOTV 3 FULLHD
 #EXTVLCOPT:http-user-agent=ReactNativeVi8deo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://bglive.yarncdn.live/live/bgtv_blv_tieupao/playlist.m3u8
+
 #EXTINF:-1 tvg-id="blvtradahd" group-title="khichTV bóng đá" tvg-logo="https://bugio8.tv/wp-content/uploads/2025/04/bit-lybugioz.webp",⚽BU GIOTV 4 FULLHD
 #EXTVLCOPT:http-user-agent=ReactNativeVi8deo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://bglive.yarncdn.live/live/bgtv_blv_trada/playlist.m3u8
+
 
 #xoy contv#₫_-'#
 
