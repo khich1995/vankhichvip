@@ -112,7 +112,7 @@ https://hoiquan.dpdns.org/VTVGo/?sctvphim
 
 #-""-update khích TiVi*-'-
 
-#EXTINF:0 tvg-id="vtv1hd" group-title="❤️1️⃣1️⃣/0️⃣7️⃣/2️⃣0️⃣2️⃣6️⃣📡|UPDATE By khích📺" tvg-logo="https://i.ibb.co/grKqtMt/Up-Da-Te-khich-Tivi-png.jpg" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtc1_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8",UPDATE khích TiVi|⏰12:48:29|📆|11/07/2026 FHD
+#EXTINF:0 tvg-id="vtv1hd" group-title="❤️1️⃣2️⃣/0️⃣7️⃣/2️⃣0️⃣2️⃣6️⃣📡|UPDATE By khích📺" tvg-logo="https://i.ibb.co/grKqtMt/Up-Da-Te-khich-Tivi-png.jpg" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtc1_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8",UPDATE khích TiVi|⏰12:48:29|📆|12/07/2026 FHD
 https://byvn.net/Khichtivi-vtv1-full-hd?token/index.m3u8
 
 #-*--THVL FHD-*--#
@@ -154,16 +154,16 @@ https://live05.grita.app/live/88508431.m3u8
 https://live05.grita.app/live/90865415.m3u8
 #EXTINF:-1 tvg-id="kaction" group-title="khichTV bóng đá" tvg-logo="https://i.ibb.co/vDc8r61/cola-tv-2-logo-khichtivi.jpg",⚽ Trực tiếp Bóng đá 4 FHD 
 #EXTVLCOPT:http-user-agent ko on on Oct=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://hls.cdnok9.com/live/LYUNG1/index.m3u8?expire=khíchtivi
+https://hls.cdnfaster-a.live/live/LYUNG1/index.m3u8?expire=khíchtivi
 #EXTINF:-1 tvg-id="kkidshd" group-title="khichTV Bong Da" tvg-logo="https://i.ibb.co/wx01Dnx/khichtvbong-da-live-2026.jpg",⚽ Trực tiếp Bóng đá 5  FHD 
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://hls.cdnok9.com/live/KEVILL/index.m3u8?expire=khíchtivi
+https://hls.cdnfaster-a.live/live/live/KEVILL/index.m3u8?expire=khíchtivi
 #EXTINF:-1 tvg-id="kkidshd" group-title="khichTV Bong Da" tvg-logo="https://i.ibb.co/Tx02n6Pk/khich-Ti-Vi-bong-da-live-6.jpg",⚽ Trực tiếp Bóng đá 6 FHD
 https://live05.msdht.app/live/24561735.m3u8
 #EXTINF:-1 tvg-id="kkidshd" group-title="khichTV Bong Da" tvg-logo="https://i.ibb.co/Y7hXTNxd/playlist-khich-Ti-Vi-Bong-da-live-7.jpg",⚽ Trực tiếp Bóng đá 7  FHD 
 https://live05.grita.app/live/43612277.m3u8
 #EXTINF:-1 tvg-id="kkidshd" group-title="khichTV Bong Da" tvg-logo="https://i.ibb.co/Y7hXTNxd/playlist-khich-Ti-Vi-Bong-da-live-7.jpg",⚽ Trực tiếp Bóng đá 8  FHD 
-https://hls-ls.cdnok9.com/live/YENTHANH1/index.m3u8?expire=1788427256&sign=a79cc8d996707223a0011d33d04d4582
+https://hls.cdnfaster-a.live/live/YENTHANH1/index.m3u8?expire=1788427256&sign=a79cc8d996707223a0011d33d04d4582
 #,',khichtivi Mytv K+,"",**********###
 
 
