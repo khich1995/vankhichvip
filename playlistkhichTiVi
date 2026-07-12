@@ -91,15 +91,18 @@ http://hieupq.drayddns.com:9000/udp/225.1.2.233:30120
 #https://tinyurl.com/Khich-tivi-live-VTV16
 #EXTINF:-1 tvg-id="boomerang" group-title="❤Khích📺2️⃣0️⃣2️⃣6️⃣|VTV" tvg-logo="https://i.ibb.co/TqdkWhBL/VTV17-logo-khichtv.webp" catchup="append" catchup-days="2" catchup-iik="https://api.vthanhtivi.pw/v1/dvr/vieon/vtvcab6-on-sport-plus/${start}/${offset}", ❤VTV17 HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-http://hieupq.drayddns.com:9000/udp/225.1.4.25:30120
+https://live.eac-news.com/wewatch/streams/cartoonnetwork.m3u8
+#http://hieupq.drayddns.com:9000/udp/225.1.4.25:30120
 #https://s.pro.vn/KhichTiVi80-vtv17-HD?token/index.m3u8
 #EXTINF:-1 tvg-id="onsportsnews" group-title="❤2️⃣0️⃣2️⃣6️⃣|LIST KhichTiVi🛠|Box TV số DT 0355050296" tvg-logo="https://i.ibb.co/Xrb01PsV/vtv18-logo-khichtv.webp" catchup="append"catchup-days="2"catchup-source="https://code.khichivi.pw/xemlai/mytv/380/hd/dvr-${start}-${end}.m3u8",❤VTV18 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-http://hieupq.drayddns.com:9000/udp/225.1.3.78:30120
+https://live.eac-news.com/wewatch/streams/cartoonito.m3u8
+#http://hieupq.drayddns.com:9000/udp/225.1.3.78:30120
 #https://tinyurl.com/khich-TiVi80-VTV18-HD?token/index.m3u8
 #EXTINF:-1 tvg-id="axnhd" group-title="khích TiVi|VTV" tvg-logo="https://i.ibb.co/DBmQgBb/VTV19-logo-2026-logo-khichtv.webp" catchup="append"catchup-days="2"catchup-source="https://code.khichivi.pw/xemlai/mytv/380/hd/dvr-${start}-${end}.m3u8",❤VTV19 HD
 #https://byvn.net/KhichTiVi-80-VTV19-phim-HAY?token/index.m3u8
-http://hieupq.drayddns.com:9000/udp/225.1.4.9:30120
+https://restream.pdtvhd.com/memfs/9d8ab217-94af-467e-9e52-cdc125b99ccd.m3u8
+#http://hieupq.drayddns.com:9000/udp/225.1.4.9:30120
 #http://104.250.145.76/livehttpplay?channel_id=23350
 #EXTINF:-1 tvg-id="onviegiaitri" group-title="❤Khích📺2️⃣0️⃣2️⃣6️⃣|VTV" group-logo="https://i.ibb.co/3RhKty7/VTV10-HD-khich-tivi.png" tvg-logo="https://i.ibb.co/tpm2gVpP/VTV20-logo-khichtivi.webp" ,❤VTV20 HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1 180
@@ -296,14 +299,16 @@ https://3rscartoonmovies.elektriko4444.workers.dev/kolet.m3u8
 #EXTINF:-1 tvg-id="vtvcab4hd" group-title="khichtv " tvg-logo="https://diendantienganh.com/uploads/films-ielts-speaking.jpg",PHIM MOVIE
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Andr
-http://fptdat.truongquocvi.com:4022/tqvudp/225.1.4.90:30120
+https://live.eac-news.com/wewatch/streams/rockaction.m3u8
+#http://fptdat.truongquocvi.com:4022/tqvudp/225.1.4.90:30120
 #EXTINF:-1 tvg-id="sctvp" group-title="🇻🇳LIST khích TiVi" tvg-logo="https://i.ibb.co/Fq3P9KrY/pop-khichtv-logo.jpg",list iptv khích TiVi POP
 #https://bit.ly/32list-iptv-khichtivi?.m3u8
 https://3rsmoviebox.elektriko4444.workers.dev/moon.m3u8
 #EXTINF:-1 tvg-id="sctvp" group-title="🇻🇳group khích TiVi" tvg-logo="https://i.ibb.co/bvw7j8Z/Truong-nhom-iptv-Khich.png",Tham gia group khích tivi
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-http://fptdat.truongquocvi.com:4022/tqvudp/225.1.4.209:30120
+https://live.eac-news.com/wewatch/streams/rockentertainment.m3u8
+#http://fptdat.truongquocvi.com:4022/tqvudp/225.1.4.209:30120
 
 #--*Khích TiVi 2025*--#
 
