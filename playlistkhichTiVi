@@ -2362,17 +2362,21 @@ http://38.75.136.137:98/gslb/dsdqpub/cetv4.m3u8?auth=testpub
 
 #EXTINF: -1 tvg-id = "KhichTivi  FM" group-title = "khichTivi 📟" tvg-logo = "https://foxxradio.com/upload/vi/1671787010.png" , 📻 khich tivVOV1 FM
 #EXTVLCOPT: http-user-agent = khichTivi
-https://stream.vovmedia.vn/vov1
+https://audio-lss.vov.vn/live/vov1.m3u8
 #EXTINF: -1 tvg-id = "KhichTivi Phím Hãy" group-title = "khichTivi 📻FM" tvg-logo = "https://foxxradio.com/upload/vi/1671787175.png" , 📻khich tivi VOV2 FM 
-https://audio-lss.vov.vn/han/live/vov2/audio/haudio-eng.m3u8
+https://audio-lss.vov.vn/live/vov2.m3u8
 #EXTINF: -1 tvg-id = "KhichTivi Phím Hãy" group-title = "khichTivi 📻FM" tvg-logo = "https://media.vov.vn/sites/default/files/2020-12/vov3_2.png" , 📻 khich tivi VOV3 FM
-https://audio-lss.vov.vn/han/live/vov3/audio/haudio-eng.m3u8
+https://audio-lss.vov.vn/live/vov3.m3u8
+#EXTINF: -1 tvg-id = "KhichTivi Phím Hãy" group-title = "khichTivi 📻FM" tvg-logo = "https://vov.vn/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fvovphathanhquocte.3f5ae88f.jpg&w=3840&q=75" , 📻 khich tivi VOV5 FM
+https://audio-lss.vov.vn/live/vov5.m3u8
+#EXTINF: -1 tvg-id = "KhichTivi Phím Hãy" group-title = "khichTivi 📻FM" tvg-logo = "https://vov.vn/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fvovgiaothong.3dde5020.jpg&w=3840&q=75" , 📻 khich tivi VOV Giao thông FM
+https://audio-lss.vov.vn/live/giao_thong_ha_noi.m3u8
 #EXTINF: -1 tvg-id = "KhichTivi Phím Hãy" group-title = "khichTivi 📻FM" tvg-logo = "https://cdn.webrad.io/images/logos/vietnamradio-org/voh-fm.png" , 📻 khich TiVi VOH FM1
-https://strm.voh.com.vn/radio/channel3/playlist.m3u8
+https://1011337676.vnns.net/-eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmkiOiIvaHR2Yy9WT0gtRk04Ny43LmFkbS50bXMvIiwiZXhwIjoxOTI0OTI1MjI4fQ.uqGbd46T32wvTu5qrL2cOng9Vsf7ZHbSTE10PHpP2bE-/htvc/VOH-FM87.7.adm.tms/chunks.m3u8
 #EXTINF: -1 tvg-id = "KhichTivi FM" group-title = "khichTivi 📻" tvg-logo = "https://cdn.webrad.io/images/logos/vietnamradio-org/voh-fm-95-6.png" , 📻 khich TiVi VOH FM 2
-https://strm.voh.com.vn/radio/channel1/playlist.m3u8
+https://1011337676.vnns.net/-eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmkiOiIvaHR2Yy9WT0gtRk05NS42LmFkbS50bXMvIiwiZXhwIjoxOTI0OTI1MjI4fQ.isr2nlUkXOPGSxT-KT8FcZQFCcXn58RZrCyqoB3zDGg-/htvc/VOH-FM95.6.adm.tms/playlist.m3u8
 #EXTINF: -1 tvg-id = "khichTiVi FM" group-title = "khichTivi 📻FM" tvg-logo = "https://cdn.webrad.io/images/logos/vietnamradio-org/voh.png" ,📻 khich tivi VOH 3
-https://strm.voh.com.vn/radio/channel2/playlist.m3u8
+https://1011337676.vnns.net/-eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmkiOiIvaHR2Yy9WT0gtQU02MTAuYWRtLnRtcy8iLCJleHAiOjE5MjQ5MjUyMjh9.dAa1es3LlAVnvQ-oLGNBqfEI0yz7fPrjEML_rJAklMQ-/htvc/VOH-AM610.adm.tms/playlist.m3u8
 #EXTINF:-1 group-title="Radio" tvg-logo="https://mixbox.live/assets/img/mixbox_white.ac549d2.png", Mixbox Live Jpop
 
 #EXTINF:-1 group-title="Radio" tvg-logo="https://photo-zmp3.zmdcdn.me/cover_rect/9/b/3/6/9b360620bb90cd4d5bb9ea4fda45d946.jpg", Xone Radio
