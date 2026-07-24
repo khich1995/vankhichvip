@@ -87,8 +87,7 @@ https://freem3u.xyz/api/live/play.m3u8?vid=181
 http://hieupq.drayddns.com:9000/udp/225.1.3.85:30120
 #EXTINF:-1 tvg-id="onfootball" group-title="❤Khích📺2️⃣0️⃣2️⃣6️⃣|VTV" tvg-logo="https://i.ibb.co/NBz2jGG/VTV16-logo-khichtivi.webp" catchup="append" catchup-days="2" catchup-iik="https://api.vthanhtivi.pw/v1/dvr/vieon/vtvcab6-on-sport-plus/${start}/${offset}", ❤VTV16 HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://playklive1cc.kliveplayer.net/live/5543_1784306895.m3u8?txSecret=b04dbe4afad28901f3a7764c45427728&txTime=6A5A6AF8
-#http://hieupq.drayddns.com:9000/udp/225.1.2.233:30120
+http://hieupq.drayddns.com:9000/udp/225.1.2.233:30120
 #https://tinyurl.com/Khich-tivi-live-VTV16
 #EXTINF:-1 tvg-id="boomerang" group-title="❤Khích📺2️⃣0️⃣2️⃣6️⃣|VTV" tvg-logo="https://i.ibb.co/TqdkWhBL/VTV17-logo-khichtv.webp" catchup="append" catchup-days="2" catchup-iik="https://api.vthanhtivi.pw/v1/dvr/vieon/vtvcab6-on-sport-plus/${start}/${offset}", ❤VTV17 HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
