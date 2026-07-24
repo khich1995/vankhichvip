@@ -83,9 +83,8 @@ https://freem3u.xyz/api/live/play.m3u8?vid=181
 #EXTINF:-1 tvg-id="onsportsplus" group-title="❤Khích📺2️⃣0️⃣2️⃣6️⃣|VTV" tvg-logo="https://i.ibb.co/8LVj3MhK/VTV15-logo-khichtv.png" catchup="append" catchup-days="2" catchup-iik="https://api.vthanhtivi.pw/v1/dvr/vieon/vtvcab6-on-sport-plus/${start}/${offset}", ❤VTV15 HD 0|Thể Thao Tổng hợp
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 
 #https://tinyurl.com/Khichtv80-vtv15?=khichtv=&VTV15?token/playlist.m3u8
-https://playklive1cc.kliveplayer.net/live/218_1784306435.m3u8?txSecret=5884f1373d580a6d2547cfcfbe2c7a46&txTime=6A5A6A49
 #http://dvrfl05.bozztv.com/vch_vchannel17/index.m3u8
-#http://hieupq.drayddns.com:9000/udp/225.1.3.85:30120
+http://hieupq.drayddns.com:9000/udp/225.1.3.85:30120
 #EXTINF:-1 tvg-id="onfootball" group-title="❤Khích📺2️⃣0️⃣2️⃣6️⃣|VTV" tvg-logo="https://i.ibb.co/NBz2jGG/VTV16-logo-khichtivi.webp" catchup="append" catchup-days="2" catchup-iik="https://api.vthanhtivi.pw/v1/dvr/vieon/vtvcab6-on-sport-plus/${start}/${offset}", ❤VTV16 HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://playklive1cc.kliveplayer.net/live/5543_1784306895.m3u8?txSecret=b04dbe4afad28901f3a7764c45427728&txTime=6A5A6AF8
@@ -93,18 +92,16 @@ https://playklive1cc.kliveplayer.net/live/5543_1784306895.m3u8?txSecret=b04dbe4a
 #https://tinyurl.com/Khich-tivi-live-VTV16
 #EXTINF:-1 tvg-id="boomerang" group-title="❤Khích📺2️⃣0️⃣2️⃣6️⃣|VTV" tvg-logo="https://i.ibb.co/TqdkWhBL/VTV17-logo-khichtv.webp" catchup="append" catchup-days="2" catchup-iik="https://api.vthanhtivi.pw/v1/dvr/vieon/vtvcab6-on-sport-plus/${start}/${offset}", ❤VTV17 HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://playklive1cc.kliveplayer.net/live/5069_1784307093.m3u8?txSecret=047926c87216d8f6543ce5cf9623af1b&txTime=6A5A6C37
-#http://hieupq.drayddns.com:9000/udp/225.1.4.25:30120
+http://hieupq.drayddns.com:9000/udp/225.1.4.25:30120
 #https://s.pro.vn/KhichTiVi80-vtv17-HD?token/index.m3u8
 #EXTINF:-1 tvg-id="onsportsnews" group-title="❤2️⃣0️⃣2️⃣6️⃣|LIST KhichTiVi🛠|Box TV số DT 0355050296" tvg-logo="https://i.ibb.co/Xrb01PsV/vtv18-logo-khichtv.webp" catchup="append"catchup-days="2"catchup-source="https://code.khichivi.pw/xemlai/mytv/380/hd/dvr-${start}-${end}.m3u8",❤VTV18 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://live.eac-news.com/wewatch/streams/cartoonito.m3u8
-#http://hieupq.drayddns.com:9000/udp/225.1.3.78:30120
+http://hieupq.drayddns.com:9000/udp/225.1.3.78:30120
 #https://tinyurl.com/khich-TiVi80-VTV18-HD?token/index.m3u8
 #EXTINF:-1 tvg-id="axnhd" group-title="khích TiVi|VTV" tvg-logo="https://i.ibb.co/DBmQgBb/VTV19-logo-2026-logo-khichtv.webp" catchup="append"catchup-days="2"catchup-source="https://code.khichivi.pw/xemlai/mytv/380/hd/dvr-${start}-${end}.m3u8",❤VTV19 HD
 #https://byvn.net/KhichTiVi-80-VTV19-phim-HAY?token/index.m3u8
-https://restream.pdtvhd.com/memfs/9d8ab217-94af-467e-9e52-cdc125b99ccd.m3u8
-#http://hieupq.drayddns.com:9000/udp/225.1.4.9:30120
+#https://restream.pdtvhd.com/memfs/9d8ab217-94af-467e-9e52-cdc125b99ccd.m3u8
+http://hieupq.drayddns.com:9000/udp/225.1.4.9:30120
 #http://104.250.145.76/livehttpplay?channel_id=23350
 #EXTINF:-1 tvg-id="onviegiaitri" group-title="❤Khích📺2️⃣0️⃣2️⃣6️⃣|VTV" group-logo="https://i.ibb.co/3RhKty7/VTV10-HD-khich-tivi.png" tvg-logo="https://i.ibb.co/tpm2gVpP/VTV20-logo-khichtivi.webp" ,❤VTV20 HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1 180
@@ -117,7 +114,7 @@ https://hoiquan.dpdns.org/VTVGo/?sctvphim
 
 #-""-update khích TiVi*-'-
 
-#EXTINF:0 tvg-id="vtv1hd" group-title="❤️1️⃣9️⃣/0️⃣7️⃣/2️⃣0️⃣2️⃣6️⃣📡|UPDATE By khích📺" tvg-logo="https://i.ibb.co/grKqtMt/Up-Da-Te-khich-Tivi-png.jpg" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtc1_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8",UPDATE khích TiVi|⏰12:48:29|📆|19/07/2026 FHD
+#EXTINF:0 tvg-id="vtv1hd" group-title="❤️2️⃣5️⃣/0️⃣7️⃣/2️⃣0️⃣2️⃣6️⃣📡|UPDATE By khích📺" tvg-logo="https://i.ibb.co/grKqtMt/Up-Da-Te-khich-Tivi-png.jpg" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtc1_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8",UPDATE khích TiVi|⏰12:48:29|📆|25/07/2026 FHD
 https://byvn.net/Khichtivi-vtv1-full-hd?token/index.m3u8
 
 #-*--THVL FHD-*--#
