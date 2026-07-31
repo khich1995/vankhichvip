@@ -53,7 +53,8 @@ https://live.fptplay53.net/fnxhd1/vtv8hd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="vtv9hd" group-title="Khích📺2️⃣0️⃣2️⃣6️⃣|VTV" tvg-logo="https://i.ibb.co/0QY1kvm/vtv9-hd-khichtivi.png",❤️VTV9 HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 =tv360 8
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://live.fptplay53.net/live/media/v9abr/live247-hls-avc/v9abr-avc1_5600000=10000-mp4a_140800_vie=20000.m3u8
+#EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36 Edge/12.246"
+https://live.fptplay53.net/live/media/vtv9/live247-hls-avc/index.m3u8
 #http://hieupq.drayddns.com:9000/udp/225.1.4.8:30120
 #https://sgclient.duckdns.org/source/tv360.m3u8?id=8
 #EXTINF:-1 tvg-id="vtv10hd" group-title="Khích📺2️⃣0️⃣2️⃣6️⃣|VTV" group-logo="https://i.ibb.co/23T4Pw13/logo-you-Love-khichtv-png.png" tvg-logo="https://i.ibb.co/B5Lzmxf2/vtv10-logo-khichtv-30-3-2026.jpg", ❤️VTV10 FHD
