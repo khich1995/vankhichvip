@@ -43,7 +43,7 @@ https://live.fptplay53.net/live/media/v6abr/live247-hls-avc/v6abr-avc1_5600000=1
 #EXTINF:0 tvg-id="vtv7hd" group-title="Khích📺2️⃣0️⃣2️⃣6️⃣KhíchTV|VTV"tvg-logo="https://i.ibb.co/NNXFYRh/vtv7-hd-khichtv.png",❤️VTV7 HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 =6 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://live.fptplay53.net/live/media/v7abr/live247-hls-avc/v7abr-avc1_5600000=10000-mp4a_140800_vie=20000.m3u8
+https://live.fptplay53.net/live/media/vtv7/live247-hls-avc/index.m3u8
 #http://hieupq.drayddns.com:9000/udp/225.1.4.201:30120
 #EXTINF:-1 tvg-id="vtv8hd" group-title="Khích📺2️⃣0️⃣2️⃣6️⃣KhíchTV|VTV" tvg-logo="https://i.ibb.co/gLTmWbtc/VTV8-Logo-khichtv.png",❤️VTV8 HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 115
