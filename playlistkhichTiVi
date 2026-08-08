@@ -112,7 +112,7 @@ https://hoiquan.dpdns.org/VTVGo/?sctvphim
 
 #-""-update khích TiVi*-'-
 
-#EXTINF:0 tvg-id="vtv1hd" group-title="❤️0️⃣7️⃣/0️⃣8️⃣/2️⃣0️⃣2️⃣6️⃣📡|UPDATE By khích📺" tvg-logo="https://i.ibb.co/grKqtMt/Up-Da-Te-khich-Tivi-png.jpg" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtc1_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8",UPDATE khích TiVi|⏰12:48:29|📆|07/08/2026 FHD
+#EXTINF:0 tvg-id="vtv1hd" group-title="❤️0️⃣8️⃣/0️⃣8️⃣/2️⃣0️⃣2️⃣6️⃣📡|UPDATE By khích📺" tvg-logo="https://i.ibb.co/grKqtMt/Up-Da-Te-khich-Tivi-png.jpg" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtc1_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8",UPDATE khích TiVi|⏰12:48:29|📆|09/08/2026 FHD
 https://byvn.net/Khichtivi-vtv1-full-hd?token/index.m3u8
 
 #-*--THVL FHD-*--#
@@ -144,7 +144,7 @@ https://live.baoquangninh.vn/qtvlive/tv3live.m3u8
 
 #EXTINF:-1 tvg-id="ksport1hd" group-title="khichTV Bong Da" tvg-logo="https://i.ibb.co/4mTxLdD/khich-Ti-Vi-Bong-da-hanh-anh.jpg", ⚽ Trực tiếp Bóng đá 1 FHD
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3https://live05.msdht.app/live//344370.m3u8
-
+https://live05.meung.app/live/90865415.m3u8?_t=1786205931225
 #EXTINF:-1 tvg-id="ksport2hd" group-title="khichTV Bong Da" tvg-logo="https://i.ibb.co/SfRFTrm/b-ng-tr-c-ti-p.png",⚽ Trực tiếp Bóng đá 2 FHD 
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.1
 
