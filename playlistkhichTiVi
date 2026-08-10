@@ -84,7 +84,7 @@ https://freem3u.xyz/api/live/play.m3u8?vid=187
 #http://dvrfl05.bozztv.com/vch_vchannel6/index.m3u8
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 
 #http://dvrfl05.bozztv.com/vch_vchannel17/index.m3u8
-https://freem3u.xyz/api/live/play.m3u8?vid=187
+#https://freem3u.xyz/api/live/play.m3u8?vid=187
 #EXTINF:-1 tvg-id="onfootball" group-title="❤Khích📺2️⃣0️⃣2️⃣6️⃣|VTV" tvg-logo="https://i.ibb.co/NBz2jGG/VTV16-logo-khichtivi.webp" catchup="append" catchup-days="2" catchup-iik="https://api.vthanhtivi.pw/v1/dvr/vieon/vtvcab6-on-sport-plus/${start}/${offset}", ❤VTV16 HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://freem3u.xyz/api/live/play.m3u8?vid=189
