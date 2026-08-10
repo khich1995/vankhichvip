@@ -600,7 +600,7 @@ http://aismile.dpdns.org/play/14Akq6k5mrt7iwRXq7uVnusXI78xg3sCLWbFV8zCVj4/ts
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; (Khích TV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-user-agent=Mozilla?&onlive=122483
-https://global-media.onlive.vn/live/onsportsplus/master.m3u8
+https://liveh12vng.vtvprime.vn/hls/ONSPORT3/04.m3u8
 #EXTINF:-1 tvg-id="vtvcab7hd" group-title="| VTVcab" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2023/03/21/zpx4hq02_vtvcab7eec7b524f840cba47a6266583660a9ec_296_168.webp" ,ON O2TV
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 =135
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
@@ -636,7 +636,7 @@ http://aismile.dpdns.org/play/14Akq6k5mrt7iwRXq7uVnnvsDhnkkFPif1DvgxPVbvw/ts
 https://vnshort.com/Vuong-bao-khichTV-vtvcab15-hd
 #EXTINF:-1 tvg-id="vtvcab16hd" tvg-logo="https://i.ibb.co/syvqgF8/ON-Football-vbktv.jpg" group-title="VTVCab" ,ON FOOTBALL FHD LIVE
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; (Khích TV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36?onlive=122487
-http://hieupq.drayddns.com:9000/rtp/232.84.1.138:8802
+
 #EXTINF:-1 tvg-id="vtvcab16hd" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2023/03/22/7bzwc1y8_vtvcab16d94c489eda7dd7690cc161c53595f2d9_296_168.webp" group-title="VTVCab" ,ON FOOTBALL HD
 #EXTVLCOPT:http-user-agent=Mozilla
 https://liveh12vng.vtvprime.vn/hls/ONSPORT1/04.m3u8
@@ -655,8 +655,7 @@ https://freem3u.xyz/api/live/play.m3u8?id=186
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://api.sgchill.io.vn/v2/hsd29012025/keys.xml8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; K) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/127.0.6533.103 Mobile Safari/537.36
-http://aismile.dpdns.org/play/14Akq6k5mrt7iwRXq7uVnh7TIkEtOPLH_id8bEPoc1o/ts
-#https://freem3u.xyz/api/live/play.m3u8?oid=onsportsnews
+https://liveh12vng.vtvprime.vn/hls/ONSPORT2/04.m3u8
 #EXTINF:0 tvg-id="vtvcab19hd" group-title="VTVCab" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2022/08/02/dywma2yi_vtvcab19-vie-dramas-thumb6cf81a4fbaabcda8918e331d669342b8_296_168.webp" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v2/dvr/vieon/vie-dramas-hd/${start}/${offset}",VTVCAB19 FHD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
