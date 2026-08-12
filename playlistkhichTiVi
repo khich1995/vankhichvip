@@ -527,7 +527,7 @@ https://live.fptplay53.net/epzhd1/htvcplus_vhls.smil/chunklist_b5000000.m3u8
 #EXTVLCOPT: http-user-agent = KhichTivi
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://live.relentlessinnovations.net:1936/vietsky/vietsky/playlist.m3u8
+http://dvrfl05.bozztv.com/vch_vchannel13/index.m3u8
 #EXTINF: -1 tvg-id = "htv2hd" group-title = "💛Khích📺|HTV" tvg-logo = "https://vietprocast.relentlessinnovations.dev/uploads/tv_image/sm/lstv.png",HTVC Sài Gòn TV
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 10) ExoPlayerLib/2.13.3
 https://59d39900ebfb8.streamlock.net/8298/8298/playlist.m3u8
