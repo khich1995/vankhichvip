@@ -918,7 +918,7 @@ https://fr-1.galaxyott.com/streamer/ttq/playlist.m3u8
 https://live.fptplay53.net/fnxhd1/vntoday_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="vtv1hd" tvg-logo="https://images.danet.vn/images/thumbs/960x540/3e/28c/a291015a5e02a648ece30e5e5ee51fd2.jpg",VTV1 DANET
 #EXTVLCOPT:http-user-agent=KhichTivi
-https://wowza.danet.vn/live/vtv1/chunklist_w265924937.m3u8
+https://wowza.danet.vn/live/vtv1.stream/playlist.m3u8?khichtivi_tokey
 #EXTINF:0 tvg-id="quochoi" group-title="KÊNH CHUYÊN BIỆT" tvg-logo="https://i.ibb.co/qrQ8fJM/qhtv-khichTV.png",QUỐC HỘI
 #EXTVLCOPT:http-user-agent=KhichTivi
 htt@ps://live.fptplay53.net/fnxhd2/quochoivn_vhls.smil/chunklist_b5000000.m3u8
