@@ -108,7 +108,7 @@ https://vmttv.dpdns.org/VTVGo/?sctvphim
 
 #-""-update khích TiVi*-'-
 
-#EXTINF:0 tvg-id="vtv1hd" group-title="❤️2️⃣0️⃣/0️⃣8️⃣/2️⃣0️⃣2️⃣6️⃣📡|UPDATE By khích📺" tvg-logo="https://i.ibb.co/grKqtMt/Up-Da-Te-khich-Tivi-png.jpg" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtc1_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8",UPDATE khích TiVi|⏰12:48:29|📆|20/08/2026 FHD
+#EXTINF:0 tvg-id="vtv1hd" group-title="❤️2️⃣6️⃣/0️⃣8️⃣/2️⃣0️⃣2️⃣6️⃣📡|UPDATE By khích📺" tvg-logo="https://i.ibb.co/grKqtMt/Up-Da-Te-khich-Tivi-png.jpg" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtc1_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8",UPDATE khích TiVi|⏰12:48:29|📆|26/08/2026 FHD
 https://byvn.net/Khichtivi-vtv1-full-hd?token/index.m3u8
 
 #-*--THVL FHD-*--#
@@ -723,7 +723,7 @@ https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/sctv4/master.m3u8
 #EXTINF:-1 tvg-id="sctv4k" group-title="💚Khich TiVi|SCTV" tvg-logo="https://i.ibb.co/DDwRr6xS/sctv4k-logo-khichtivi.jpg", SCTV4K HD 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://sctvonline.vn
-https://vmttv.dpdns.org/VTVGo/?sctv4k
+https://vietanhtv.id.vn/sctv/sctv-4k/index.m3u8
 #EXTINF: -1 group-title = "💚Khich TiVi SCTV" tvg-logo = "https://i.ibb.co/8DRHnDp2/SCTV5-logo-khichtivi.png", SCTV5 HD - SCJ
 #EXTVLCOPT: http-user-agent = KhichTivi
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
