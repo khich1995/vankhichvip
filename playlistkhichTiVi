@@ -887,13 +887,13 @@ https://dethich.pw/vtv10/index.m3u8
 
 #EXTINF:-1 tvg-id="hitv" group-title="💕| HCATV" tvg-logo="https://i.ibb.co/6XdqHYK/Khich-Ti-Vi-Hitv.png", HITV HD
 #EXTVLCOPT:http-user-agent=Khichtivi/2.1
-https://freem3u.xyz/api/live/play.m3u8?id=32
+https://vmttv.dpdns.org/tv360/?id=hitv
 #https://1.org.vn/Khichtv-360-32-hitv-mpd
 #http://212.102.60.231/NICK_MUSIC/tracks-v1a1/mono.m3u8 
 #EXTINF:-1 tvg-="youtv" group-title="💕| HCATV" tvg-logo="https://i.ibb.co/Vc45wHD5/You-TV-logo-khichtivi.png", YOUTV
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 #xem miễn phí 0 Động=31
-https://freem3u.xyz/api/live/play.m3u8?id=31
+https://freem3u.xyz/api/live/play.m3u8?vid=31
 #http://113.160.152.31:5050/udp/232.84.1.14:8058
 #EXTINF: -1 tvg-id = "antvhd" group-title = "🌐Khích TiVi|Thiết yếu" tvg-logo = "https://static.vieon.vn/vieplay-image/avatar/2020/12/15/s4xe42nk_an_ninh_tv.png",An Ninh TV FHD
 #EXTVLCOPT:http-user-agent=KhichTivi
