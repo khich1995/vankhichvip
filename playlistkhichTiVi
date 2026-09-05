@@ -293,7 +293,7 @@ https://3rscartoonmovies.elektriko4444.workers.dev/kolet.m3u8
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Andr
 https://gcinemahls.wns.live/hls/stream.m3u8
 #http://fptdat.truongquocvi.com:4022/tqvudp/225.1.4.90:30120
-#EXTINF:-1 tvg-id="sctvp" group-title="🇻🇳LIST khích TiVi" tvg-logo="https://i.ibb.co/bjxLnsBp/Ekran-Movies-logo-khichtv.png",khích TiVi EkranMovies
+#EXTINF:-1 tvg-id="sctvp" group-title="🇻🇳LIST khích TiVi" tvg-logo="https://i.ibb.co/9mKtVSSR/Ekran-Movies-logo-khichtv.png",khích TiVi EkranMovies
 #https://bit.ly/32list-iptv-khichtivi?.m3u8
 https://spf-onetv-9i4j.cfcross.workers.dev/?url=https://ca-rt.onetv.app/EkranMovies/index-0.m3u8
 #EXTINF:-1 tvg-id="sctvp" group-title="🇻🇳group khích TiVi" tvg-logo="https://i.ibb.co/bvw7j8Z/Truong-nhom-iptv-Khich.png",Tham gia group khích tivi
