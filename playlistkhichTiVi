@@ -108,7 +108,7 @@ https://vmttv.dpdns.org/VTVGo/?sctvphim
 
 #-""-update khích TiVi*-'-
 
-#EXTINF:0 tvg-id="vtv1hd" group-title="❤️0️⃣4️⃣/0️⃣9️⃣/2️⃣0️⃣2️⃣6️⃣📡|UPDATE By khích📺" tvg-logo="https://i.ibb.co/grKqtMt/Up-Da-Te-khich-Tivi-png.jpg" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtc1_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8",UPDATE khích TiVi|⏰12:48:29|📆|04/9/2026
+#EXTINF:0 tvg-id="vtv1hd" group-title="❤️0️⃣6️⃣/0️⃣9️⃣/2️⃣0️⃣2️⃣6️⃣📡|UPDATE By khích📺" tvg-logo="https://i.ibb.co/grKqtMt/Up-Da-Te-khich-Tivi-png.jpg" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtc1_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8",UPDATE khích TiVi|⏰12:48:29|📆|06/09/2026
 /09/2026 FHD
 https://byvn.net/Khichtivi-vtv1-full-hd?token/index.m3u8
 
@@ -293,7 +293,7 @@ https://3rscartoonmovies.elektriko4444.workers.dev/kolet.m3u8
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Andr
 https://gcinemahls.wns.live/hls/stream.m3u8
 #http://fptdat.truongquocvi.com:4022/tqvudp/225.1.4.90:30120
-#EXTINF:-1 tvg-id="sctvp" group-title="🇻🇳LIST khích TiVi" tvg-logo="https://i.ibb.co/Fq3P9KrY/pop-khichtv-logo.jpg",list iptv khích TiVi POP
+#EXTINF:-1 tvg-id="sctvp" group-title="🇻🇳LIST khích TiVi" tvg-logo="https://i.ibb.co/bjxLnsBp/Ekran-Movies-logo-khichtv.png",khích TiVi EkranMovies
 #https://bit.ly/32list-iptv-khichtivi?.m3u8
 https://spf-onetv-9i4j.cfcross.workers.dev/?url=https://ca-rt.onetv.app/EkranMovies/index-0.m3u8
 #EXTINF:-1 tvg-id="sctvp" group-title="🇻🇳group khích TiVi" tvg-logo="https://i.ibb.co/bvw7j8Z/Truong-nhom-iptv-Khich.png",Tham gia group khích tivi
