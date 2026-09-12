@@ -174,12 +174,12 @@ https://live05.meung.app/live/78905744.m3u8
 #EXTINF:-1 tvg-id="hoiquantv3hd" group-title="khichTV Bong Da" tvg-logo="https://i.ibb.co/zh8cR8wq/hoi-quan-tong-hop-khong-nen-khichtv.webp", Hội QuánTV 3 HD
 https://live2.felnorastreamvault.com/live/channel1.m3u8
 #EXTINF:0 tvg-id="ksport1hd" group-title="khichTiVi Live" tvg-logo="https://i.ibb.co/cXr88b3V/khich-Ti-Vi-Logo-hoi-quantv.webp", Hội QuánTV 4 HD
-
+https://live1.quickscoreboardz.com/live/channel15/playlist.m3u8?khichtv
 #https://1.org.vn/Khichtv-80-k-sport1-FHD
 #http://113.177.113.147:4022/rtp/232.84.1.98:8562
 #https://canvato.net/9bRvp?=get:khichtivi=&k+ksport1hd
 #EXTINF:0 tvg-id="ksport2hd" group-title="khichTiVi Live" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsxJCS0HA0Band2yoeotwYAoR90ac2RzT_Y60M3fw85g&s=10",Quê ChoaTV 1 HD
-
+https://live1.quickscoreboardz.com/live/channel5/playlist.m3u8?Khichtivi
 #EXTINF:-1 tvg-id="fptplayhd" group-title="khích TiVi Live" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWt-VtNQjEsQ0aGeXHLNQcJs8YAcMgCf-9ewgyR8IY3g&s",Que Choatv 2 HD
 
 #EXTINF:-1 tvg-id="fptplayhd" group-title="khích TiVi Live" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQw9QluNJU-FQf3bXorwibZqsLHZJ7Q3XEzVJqkWLMdkA&s=10",Que Choatv 3 
