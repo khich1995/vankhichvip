@@ -723,7 +723,7 @@ https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/sctv4/master.m3u8
 #EXTINF:-1 tvg-id="sctv4k" group-title="💚Khich TiVi|SCTV" tvg-logo="https://i.ibb.co/DDwRr6xS/sctv4k-logo-khichtivi.jpg", SCTV4K HD 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://sctvonline.vn
-https://vietanhtv.id.vn/sctv/sctv-4k/index.m3u8
+http://aismile.dpdns.org/play/e-ku3QGf82cJqb8UGPwn4pQlb4Na4FHY5wg_qzDXDto/ts
 #EXTINF: -1 group-title = "💚Khich TiVi SCTV" tvg-logo = "https://i.ibb.co/8DRHnDp2/SCTV5-logo-khichtivi.png", SCTV5 HD - SCJ
 #EXTVLCOPT: http-user-agent = KhichTivi
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
