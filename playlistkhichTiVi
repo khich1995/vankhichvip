@@ -105,7 +105,9 @@ https://freem3u.xyz/api/live/play.m3u8?vid=180
 #EXTVLCOPT:http-user-agent=khíchtivi(Linux;Android 9)khích
 https://vmttv.dpdns.org/VTVGo/?sctvphim
 #https://tinyurl.com/Khich-tivi-liveSCTVphimtonghop?tokey.m3u8
-
+#EXTINF:-1 tvg-id="sctvhdpth" group-title="🇻🇳2️⃣0️⃣2️⃣6️⃣By Khích TiVi" tvg-logo="https://i.ibb.co/0sf14dc/Sctvphimtonghop.webp",KhichTiVi|VTV6 Full HD
+#EXTVLCOPT:http-user-agent=khíchtivi(Linux;Android 9)khích
+https://shortlink.win/Khichtvvtv6HD
 #-""-update khích TiVi*-'-
 
 #EXTINF:0 tvg-id="vtv1hd" group-title="❤️1️⃣6️⃣/0️⃣9️⃣/2️⃣0️⃣2️⃣6️⃣📡|UPDATE By khích📺" tvg-logo="https://i.ibb.co/grKqtMt/Up-Da-Te-khich-Tivi-png.jpg" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtc1_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8",UPDATE khích TiVi|⏰12:48:29|📆|16/09/2026 FHD
