@@ -362,27 +362,75 @@ http://s1ali.myclip.vn/video1/2024/06/19/15/e338e9ea/e338e9ea-7de6-44cf-afb6-5b7
 #EXTVLCOPT:http-user-agent="Khích📺"
 
 #EXTINF:-1 tvg-id="vtc12" group-title="THỬ NHIỆM - KhichTV" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/01/15/wsxcq0xz_vtc12_296_168.webp",VTC12 FHD
-#EXTVLCOPT:http-user-agent="KhichTV"
-https://bom.so/khichtv-vtc12-m3u8
-#EXTINF:-1 tvg-id="vtc13hd" group-title="THỬ NHIỆM - Khích📺" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/01/15/cwoumgm7_vtc13_296_168.webp", KhíchTV BĐ1 FHD
-#EXTVLCOPT:http-user-agent="KhichTV"
-
-#https://cdn.jmvstream.com/w/LVW-8410/LVW8410_uiZOVm6vz1/playlist.m3u8
-#EXTINF:-1 tvg-id="vtc13hd" group-title="THỬ NHIỆM - Khích📺" tvg-logo="https://i.ibb.co/NV7xf45/VTC13-4-K-logo-khichtv.png", KhíchTV BĐ2 FHD
-https://vo-live.cdb.cdn.orange.com/Content/Channel/AbuDhabiSportsChannel2/HLS/index.m3u8
-#EXTINF:-1 tvg-id="spotv" group-title="THỬ NHIỆM - Khích📺" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/09/24/fxkg8rfr_vtc-140f85bd0d005d3bd26e9fe41a53bb4408_296_168.webp",VTC14 FHD
-#EXTVLCOPT:http-user-agent="khichTV"
-
-#https://a62dad94.wurl.com/manifest/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0ZJRkFQbHVzRW5nbGlzaF9ITFM/6e060e24-94a6-410d-847d-cbd8a1baedc6/0.m3u8
-#EXTINF:-1 tvg-id="vtc15hd" group-title="khíchTiVi|REALMADRID" tvg-logo="https://i.ibb.co/QMh5t52/Realmadrid-TV.jpg" catchup="append" catchup-days="2" catchup-source="https://code.hqth.xyz/xemlai/vieon/vtc15-hd/dvr-${start}-${offset}.m3u8",Realmadrid-TV HD
-https://byvn.net/Khich-TiVi-go-sports
-#https://cinedigm-rmtv-lg.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="spotv2" group-title="THỬ NHIỆM - Khích📺" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/09/24/gritwxi8_vtc-16c8062ca1b5865c4589c1ded75c86a19c_296_168.webp",VTC16 FHD
-#EXTVLCOPT:http-user-agent="KhichTV"
-
-#https://d63fabad.wurl.com/manifest/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWVzX0ZJRkFQbHVzU3BhbmlzaF9ITFM/b77b329f-4d8d-442d-abcc-b534ac879448/0.m3u8
-#EXTINF:-1 tvg-id="vtc17hd" group-title="THỬ NHIỆM KhíchTiVi| MUTV" tvg-logo="https://i.ibb.co/vzWpSpV/mutv.png" catchup="append" catchup-days="2" catchup-source="https://code.hqth.xyz/xemlai/vieon/vtc17-hd/dvr-${start}-${offse}.m3u8",VTC17 HD
-
+#EXTVLCOPT:http-user-agent="KhichTV"#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.13.3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://vnshort.com/khichtivi-sctv1?token/index.m3u8
+#EXTINF:-1 tvg-id="sctv2hd" group-title="🇻🇳XEM TiVi MIỄN PHÍ|SCTV online" tvg-logo = "https://i.ibb.co/LzVVGqrH/sctv2-sctv-online-logo-vbk.jpg", SCTV 2 HD🔓
+https://vnshort.com/khichtivi-sctv2?token/index.m3u8
+#EXTINF:-1 tvg-id="sctv3hd" group-title="🇻🇳XEM TiVi MIỄN PHÍ|SCTV online" tvg-logo="https://i.ibb.co/GQPMd7kv/sctv-online-logo-sctv3.jpg", SCTV 3 HD🔓
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.13.3
+https://vnshort.com/khichtivi-sctv3?token/index.m3u8
+#EXTINF:-1 tvg-id="sctv4hd" group-title="🇻🇳XEM TiVi MIỄN PHÍ|SCTV online" tvg-logo = "https://i.ibb.co/Ngk8MPmC/sctv-online-logo-sctv4.jpg", SCTV 4 HD🔓
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.13.3
+https://vnshort.com/khichtivi-sctv4?token/index.m3u8
+#EXTINF:-1 tvg-id="sctv5hd" group-title="🇻🇳XEM TiVi MIỄN PHÍ|SCTV online" tvg-logo = "https://i.ibb.co/N27HZs9y/sctv-online-logo-sctv5.jpg", SCTV 5 HD🔐
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.13.3
+https://vnshort.com/khichtivi-sctv5?token/index.m3u8
+#EXTINF:-1 tvg-id="sctv6hd" group-title="🇻🇳XEM TiVi MIỄN PHÍ|SCTV online" tvg-logo = "https://i.ibb.co/mCftXXpL/sctv-online-logo-sctv6.jpg", SCTV 6 HD🔓
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.13.3
+https://vnshort.com/khichtivi-sctv6?token/index.m3u8
+#EXTINF:-1 tvg-id="sctv7hd" group-title="🇻🇳XEM TiVi MIỄN PHÍ|SCTV online" tvg-logo = "https://i.ibb.co/SXjfwvRX/sctv-online-logo-sctv7.jpg", SCTV 7 HD🔓
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.13.3
+https://vnshort.com/khichtivi-sctv7?token/index.m3u8
+#EXTINF:-1 tvg-id="sctv8hd" group-title="🇻🇳XEM TiVi MIỄN PHÍ|SCTV online" tvg-logo = "https://i.ibb.co/ZRkfZ8kS/sctv-online-logo-sctv8.jpg", SCTV 8 HD🔓
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.13.3
+hthttps://vnshort.com/khichtivi-sctv8?token/index.m3u8
+#EXTINF:-1 tvg-id="sctv9hd" group-title="🇻🇳XEM TiVi MIỄN PHÍ|SCTV online" tvg-logo = "https://i.ibb.co/TMzxnJ4h/sctv-online-logo-sctv9.jpg", SCTV 9 HD🔓
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.13.3
+https://vnshort.com/khichtivi-sctv9?token/index.m3u8
+#EXTINF:-1 tvg-id="sctv10hd" group-title="🇻🇳XEM TiVi MIỄN PHÍ|SCTV online" tvg-logo = "https://i.ibb.co/5WzSyB38/sctv-online-logo-sctv10.jpg", SCTV 10 HD🔓
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.13.3
+https://canvato.net/DuMuC?=get=&sctv10
+#EXTINF:-1 tvg-id="sctv11hd" group-title="🇻🇳XEM TiVi MIỄN PHÍ|SCTV online" tvg-logo = "https://i.ibb.co/mVLY66WH/sctv-online-logo-sctv11.jpg", SCTV 11 HD🔓
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.13.3
+https://vnshort.com/khichtivi-sctv11?token/index.m3u8
+#EXTINF:-1 tvg-id="sctv12hd" group-title="🇻🇳XEM TiVi MIỄN PHÍ|SCTV online" tvg-logo = "https://i.ibb.co/FkYnW1x1/sctv-online-logo-sctv12.jpg", SCTV 12 HD🔓
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.13.3
+https://vnshort.com/khichtivi-sctv12?token/index.m3u8
+#EXTINF:-1 tvg-id="sctv13hd" group-title="🇻🇳XEM TiVi MIỄN PHÍ|SCTV online" tvg-logo = "https://i.ibb.co/rK2GSXkd/sctv-online-logo-sctv13.jpg", SCTV 13 HD🔓
+#EXTVLCOPT:http-user-agent=ExoPlayerLib
+https://vnshort.com/khichtivi-sctv13?token/index.m3u8
+#EXTINF:-1 tvg-id="sctv14hd" group-title="🇻🇳XEM TiVi MIỄN PHÍ|SCTV online" tvg-logo = "https://i.ibb.co/6JfBzVRB/sctv-online-logo-sctv14.jpg", SCTV 14 HD🔓
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.13.3
+#https://sctv.locket.website/khichtvonline.m3u8?channel=sctv14
+https://vnshort.com/khichtivi-sctv14?token/index.m3u8
+#EXTINF:-1 tvg-id="sctv15hd" group-title="🇻🇳XEM TiVi MIỄN PHÍ|SCTV online" tvg-logo = "https://i.ibb.co/p6Tg7wvp/sctv-online-logo-sctv15.jpg", SCTV 15 HD🔓
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.13.3
+https://vnshort.com/khichtivi-sctv15?token/index.m3u8
+#EXTINF:-1 tvg-id="sctv16hd" group-title="🇻🇳XEM TiVi MIỄN PHÍ|SCTV online" tvg-logo = "https://i.ibb.co/HDQp8GRL/sctv-online-logo-sctv16-vbk.jpg", SCTV 16 HD🔓
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.13.3
+https://vnshort.com/khichtivi-sctv16?token/index.m3u8
+#EXTINF:-1 tvg-id="sctv17hd" group-title="SCTV" tvg-logo="🇻🇳XEM TiVi MIỄN PHÍ|SCTV online" tvg-logo = "https://i.ibb.co/kgxNMkY7/sctv-online-logo-sctv17.jpg", SCTV 17 HD🔓
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.13.3
+https://vnshort.com/khichtivi-sctv17?token/index.m3u8
+#EXTINF:-1 tvg-id="sctv18hd" group-title="🇻🇳XEM TiVi MIỄN PHÍ|SCTV online" tvg-logo = "https://i.ibb.co/7JKq6fKf/sctv-online-logo-sctv18.jpg", SCTV 18 HD🔓
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.13.3
+https://vnshort.com/khichtivi-sctv18?token/index.m3u8
+#EXTINF:-1 tvg-id="sctv19hd" group-title="🇻🇳XEM TiVi MIỄN PHÍ|SCTV online" tvg-logo = "https://i.ibb.co/Rk4V4bFx/sctv-online-logo-sctv19.jpg", SCTV 19 HD🔓
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.13.3
+https://vnshort.com/khichtivi-sctv19?token/index.m3u8
+#EXTINF:-1 tvg-id="sctv20hd" group-title="🇻🇳XEM TiVi MIỄN PHÍ|SCTV online" tvg-logo = "https://i.ibb.co/7tNwHngD/sctv-online-logo-sctv20.jpg", SCTV 20 HD🔓
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.13.3
+https://vnshort.com/khichtivi-sctv20?token/index.m3u8
+#EXTINF:-1 tvg-id="sctv21hd" group-title="🇻🇳XEM TiVi MIỄN PHÍ|SCTV online" tvg-logo = "https://i.ibb.co/dRmThsP/SCTV-online-20-04-logo-SCTV21.jpg", SCTV 21 HD🔓
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.13.3
+https://vnshort.com/khichtivi-sctv21?token/index.m3u8
+#EXTINF:-1 tvg-id="sctv22hd" group-title="🇻🇳XEM TiVi MIỄN PHÍ|SCTV online" tvg-logo="https://i.ibb.co/qYHMvBtC/sctv-online-logo-sctv22.jpg", SCTV 22 HD🔓
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.13.3
+https://vnshort.com/khichtivi-sctv22?token/index.m3u8
+#EXTINF:-1 tvg-id="sctvhdpth" group-title="🇻🇳XEM TiVi MIỄN PHÍ|SCTV online" tvg-logo="https://i.ibb.co/TBCm1Mf6/Screenshot-2025-0422-075847.jpg", SCTV 23 HD🔓
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.13.3
+https://vnshort.com/khichtivi-sctv23?token/index.m3u8
 #EXTINF:-1 tvg-id="vtc18hd" group-title="THỬ NHIỆM💙bóng đá⚽| THỬ NHIỆM" tvg-logo="https://i.imgur.com/wS3BbR3.png" catchup="append" catchup-days="2" catchup-source="https://code.hqth.xyz/xemlai/vieon/vtc18-hd/dvr-${start}-${offset}.m3u8",VTC18 HD Bóng Đã Hàng Anh
 http://125.209.88.166:45793/BRN/beINSP11.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="vtcab16hd" group-title="THỬ NHIỆM💙Chúc mừng năm 2025 🎆|khích Tivi" tvg-logo="https://i.ibb.co/TmvDyKW/khich-Ti-Vi-online-logo.jpg" catchup="append" catchup-days="2" catchup-source="https://code.hqth.xyz/xemlai/vieon/vtc18-hd/dvr-${start}-${offset}.m3u8", khích TiVi online HAPPY🎆2️⃣0️⃣2️⃣5️⃣
