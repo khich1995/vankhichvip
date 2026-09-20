@@ -361,8 +361,7 @@ http://s1ali.myclip.vn/video1/2024/06/19/15/e338e9ea/e338e9ea-7de6-44cf-afb6-5b7
 #EXTINF:-1 fileid="vtc11" group-title="THỬ NHIỆM - Khích📺" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/09/24/z9b9cvne_kids-family-tvc19224d3ab441b38e0872a45d49e46b3_296_168.webp", VTC11 FHD
 #EXTVLCOPT:http-user-agent="Khích📺"
 
-#EXTINF:-1 tvg-id="vtc12" group-title="THỬ NHIỆM - KhichTV" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/01/15/wsxcq0xz_vtc12_296_168.webp",VTC12 FHD
-#EXTVLCOPT:http-user-agent="KhichTV"#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.13.3
+#EXTINF:-1 tvg-id="sctv1hd"group-title="🇻🇳XEM TiVi MIỄN PHÍ|SCTV online"tvg-logo="https://i.ibb.co/VYwbLBRt/sctv-online-logo-vbk.jpg", SCTV 1 HD🔓
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://vtvgolive-sctvdrm.vtvdigital.vn/mKGWC_Gm1TFDhlh1PGtV5g/1789886305/manifest/sctv1/playlist_480p.m3u8
 #EXTINF:-1 tvg-id="sctv2hd" group-title="🇻🇳XEM TiVi MIỄN PHÍ|SCTV online" tvg-logo = "https://i.ibb.co/LzVVGqrH/sctv2-sctv-online-logo-vbk.jpg", SCTV 2 HD🔓
