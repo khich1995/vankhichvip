@@ -111,7 +111,7 @@ https://vtvgolive-vtv02.vtvdigital.vn/TW7z-ZT_NvvoWSJJOVchhw/1782750595/hls/vtv/
 
 #-""-update khích TiVi*-'-
 
-#EXTINF:0 tvg-id="vtv1hd" group-title="❤️1️⃣7️⃣/0️⃣9️⃣/2️⃣0️⃣2️⃣6️⃣📡|UPDATE By khích📺" tvg-logo="https://i.ibb.co/grKqtMt/Up-Da-Te-khich-Tivi-png.jpg" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtc1_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8",UPDATE khích TiVi|⏰12:48:29|📆|17/09/2026 FHD
+#EXTINF:0 tvg-id="vtv1hd" group-title="❤️2️⃣0️⃣/0️⃣9️⃣/2️⃣0️⃣2️⃣6️⃣📡|UPDATE By khích📺" tvg-logo="https://i.ibb.co/grKqtMt/Up-Da-Te-khich-Tivi-png.jpg" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtc1_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8",UPDATE khích TiVi|⏰12:48:29|📆|20/09/2026 FHD
 https://byvn.net/Khichtivi-vtv1-full-hd?token/index.m3u8
 
 #-*--THVL FHD-*--#
@@ -364,73 +364,73 @@ http://s1ali.myclip.vn/video1/2024/06/19/15/e338e9ea/e338e9ea-7de6-44cf-afb6-5b7
 #EXTINF:-1 tvg-id="vtc12" group-title="THỬ NHIỆM - KhichTV" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/01/15/wsxcq0xz_vtc12_296_168.webp",VTC12 FHD
 #EXTVLCOPT:http-user-agent="KhichTV"#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.13.3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://vnshort.com/khichtivi-sctv1?token/index.m3u8
+https://vtvgolive-sctvdrm.vtvdigital.vn/mKGWC_Gm1TFDhlh1PGtV5g/1789886305/manifest/sctv1/playlist_480p.m3u8
 #EXTINF:-1 tvg-id="sctv2hd" group-title="🇻🇳XEM TiVi MIỄN PHÍ|SCTV online" tvg-logo = "https://i.ibb.co/LzVVGqrH/sctv2-sctv-online-logo-vbk.jpg", SCTV 2 HD🔓
-https://vnshort.com/khichtivi-sctv2?token/index.m3u8
+https://vtvgolive-sctvdrm.vtvdigital.vn/mKGWC_Gm1TFDhlh1PGtV5g/1789886305/manifest/sctv2/playlist_480p.m3u8
 #EXTINF:-1 tvg-id="sctv3hd" group-title="🇻🇳XEM TiVi MIỄN PHÍ|SCTV online" tvg-logo="https://i.ibb.co/GQPMd7kv/sctv-online-logo-sctv3.jpg", SCTV 3 HD🔓
 #EXTVLCOPT:http-user-agent=ExoPlayerLib/2.13.3
-https://vnshort.com/khichtivi-sctv3?token/index.m3u8
+https://vtvgolive-sctvdrm.vtvdigital.vn/mKGWC_Gm1TFDhlh1PGtV5g/1789886305/manifest/sctv3/playlist_480p.m3u8
 #EXTINF:-1 tvg-id="sctv4hd" group-title="🇻🇳XEM TiVi MIỄN PHÍ|SCTV online" tvg-logo = "https://i.ibb.co/Ngk8MPmC/sctv-online-logo-sctv4.jpg", SCTV 4 HD🔓
 #EXTVLCOPT:http-user-agent=ExoPlayerLib/2.13.3
-https://vnshort.com/khichtivi-sctv4?token/index.m3u8
+https://vtvgolive-sctvdrm.vtvdigital.vn/mKGWC_Gm1TFDhlh1PGtV5g/1789886305/manifest/sctv4/playlist_480p.m3u8
 #EXTINF:-1 tvg-id="sctv5hd" group-title="🇻🇳XEM TiVi MIỄN PHÍ|SCTV online" tvg-logo = "https://i.ibb.co/N27HZs9y/sctv-online-logo-sctv5.jpg", SCTV 5 HD🔐
 #EXTVLCOPT:http-user-agent=ExoPlayerLib/2.13.3
-https://vnshort.com/khichtivi-sctv5?token/index.m3u8
+https://vtvgolive-sctvdrm.vtvdigital.vn/mKGWC_Gm1TFDhlh1PGtV5g/1789886305/manifest/sctv5/playlist_480p.m3u8
 #EXTINF:-1 tvg-id="sctv6hd" group-title="🇻🇳XEM TiVi MIỄN PHÍ|SCTV online" tvg-logo = "https://i.ibb.co/mCftXXpL/sctv-online-logo-sctv6.jpg", SCTV 6 HD🔓
 #EXTVLCOPT:http-user-agent=ExoPlayerLib/2.13.3
-https://vnshort.com/khichtivi-sctv6?token/index.m3u8
+https://vtvgolive-sctvdrm.vtvdigital.vn/mKGWC_Gm1TFDhlh1PGtV5g/1789886305/manifest/sctv6/playlist_480p.m3u8
 #EXTINF:-1 tvg-id="sctv7hd" group-title="🇻🇳XEM TiVi MIỄN PHÍ|SCTV online" tvg-logo = "https://i.ibb.co/SXjfwvRX/sctv-online-logo-sctv7.jpg", SCTV 7 HD🔓
 #EXTVLCOPT:http-user-agent=ExoPlayerLib/2.13.3
-https://vnshort.com/khichtivi-sctv7?token/index.m3u8
+https://vtvgolive-sctvdrm.vtvdigital.vn/mKGWC_Gm1TFDhlh1PGtV5g/1789886305/manifest/sctv7/playlist_480p.m3u8
 #EXTINF:-1 tvg-id="sctv8hd" group-title="🇻🇳XEM TiVi MIỄN PHÍ|SCTV online" tvg-logo = "https://i.ibb.co/ZRkfZ8kS/sctv-online-logo-sctv8.jpg", SCTV 8 HD🔓
 #EXTVLCOPT:http-user-agent=ExoPlayerLib/2.13.3
-hthttps://vnshort.com/khichtivi-sctv8?token/index.m3u8
+https://vtvgolive-sctvdrm.vtvdigital.vn/mKGWC_Gm1TFDhlh1PGtV5g/1789886305/manifest/sctv8/playlist_480p.m3u8
 #EXTINF:-1 tvg-id="sctv9hd" group-title="🇻🇳XEM TiVi MIỄN PHÍ|SCTV online" tvg-logo = "https://i.ibb.co/TMzxnJ4h/sctv-online-logo-sctv9.jpg", SCTV 9 HD🔓
 #EXTVLCOPT:http-user-agent=ExoPlayerLib/2.13.3
-https://vnshort.com/khichtivi-sctv9?token/index.m3u8
+https://vtvgolive-sctvdrm.vtvdigital.vn/mKGWC_Gm1TFDhlh1PGtV5g/1789886305/manifest/sctv9/playlist_480p.m3u8
 #EXTINF:-1 tvg-id="sctv10hd" group-title="🇻🇳XEM TiVi MIỄN PHÍ|SCTV online" tvg-logo = "https://i.ibb.co/5WzSyB38/sctv-online-logo-sctv10.jpg", SCTV 10 HD🔓
 #EXTVLCOPT:http-user-agent=ExoPlayerLib/2.13.3
-https://canvato.net/DuMuC?=get=&sctv10
+https://vtvgolive-sctvdrm.vtvdigital.vn/mKGWC_Gm1TFDhlh1PGtV5g/1789886305/manifest/sctv10/playlist_480p.m3u8
 #EXTINF:-1 tvg-id="sctv11hd" group-title="🇻🇳XEM TiVi MIỄN PHÍ|SCTV online" tvg-logo = "https://i.ibb.co/mVLY66WH/sctv-online-logo-sctv11.jpg", SCTV 11 HD🔓
 #EXTVLCOPT:http-user-agent=ExoPlayerLib/2.13.3
-https://vnshort.com/khichtivi-sctv11?token/index.m3u8
+https://vtvgolive-sctvdrm.vtvdigital.vn/mKGWC_Gm1TFDhlh1PGtV5g/1789886305/manifest/sctv11/playlist_480p.m3u8
 #EXTINF:-1 tvg-id="sctv12hd" group-title="🇻🇳XEM TiVi MIỄN PHÍ|SCTV online" tvg-logo = "https://i.ibb.co/FkYnW1x1/sctv-online-logo-sctv12.jpg", SCTV 12 HD🔓
 #EXTVLCOPT:http-user-agent=ExoPlayerLib/2.13.3
-https://vnshort.com/khichtivi-sctv12?token/index.m3u8
+https://vtvgolive-sctvdrm.vtvdigital.vn/mKGWC_Gm1TFDhlh1PGtV5g/1789886305/manifest/sctv12/playlist_480p.m3u8
 #EXTINF:-1 tvg-id="sctv13hd" group-title="🇻🇳XEM TiVi MIỄN PHÍ|SCTV online" tvg-logo = "https://i.ibb.co/rK2GSXkd/sctv-online-logo-sctv13.jpg", SCTV 13 HD🔓
 #EXTVLCOPT:http-user-agent=ExoPlayerLib
-https://vnshort.com/khichtivi-sctv13?token/index.m3u8
+https://vtvgolive-sctvdrm.vtvdigital.vn/mKGWC_Gm1TFDhlh1PGtV5g/1789886305/manifest/sctv13/playlist_480p.m3u8
 #EXTINF:-1 tvg-id="sctv14hd" group-title="🇻🇳XEM TiVi MIỄN PHÍ|SCTV online" tvg-logo = "https://i.ibb.co/6JfBzVRB/sctv-online-logo-sctv14.jpg", SCTV 14 HD🔓
 #EXTVLCOPT:http-user-agent=ExoPlayerLib/2.13.3
 #https://sctv.locket.website/khichtvonline.m3u8?channel=sctv14
-https://vnshort.com/khichtivi-sctv14?token/index.m3u8
+https://vtvgolive-sctvdrm.vtvdigital.vn/mKGWC_Gm1TFDhlh1PGtV5g/1789886305/manifest/sctv14/playlist_480p.m3u8
 #EXTINF:-1 tvg-id="sctv15hd" group-title="🇻🇳XEM TiVi MIỄN PHÍ|SCTV online" tvg-logo = "https://i.ibb.co/p6Tg7wvp/sctv-online-logo-sctv15.jpg", SCTV 15 HD🔓
 #EXTVLCOPT:http-user-agent=ExoPlayerLib/2.13.3
-https://vnshort.com/khichtivi-sctv15?token/index.m3u8
+https://vtvgolive-sctvdrm.vtvdigital.vn/mKGWC_Gm1TFDhlh1PGtV5g/1789886305/manifest/sctv15/playlist_480p.m3u8
 #EXTINF:-1 tvg-id="sctv16hd" group-title="🇻🇳XEM TiVi MIỄN PHÍ|SCTV online" tvg-logo = "https://i.ibb.co/HDQp8GRL/sctv-online-logo-sctv16-vbk.jpg", SCTV 16 HD🔓
 #EXTVLCOPT:http-user-agent=ExoPlayerLib/2.13.3
-https://vnshort.com/khichtivi-sctv16?token/index.m3u8
+https://vtvgolive-sctvdrm.vtvdigital.vn/mKGWC_Gm1TFDhlh1PGtV5g/1789886305/manifest/sctv16/playlist_480p.m3u8
 #EXTINF:-1 tvg-id="sctv17hd" group-title="SCTV" tvg-logo="🇻🇳XEM TiVi MIỄN PHÍ|SCTV online" tvg-logo = "https://i.ibb.co/kgxNMkY7/sctv-online-logo-sctv17.jpg", SCTV 17 HD🔓
 #EXTVLCOPT:http-user-agent=ExoPlayerLib/2.13.3
-https://vnshort.com/khichtivi-sctv17?token/index.m3u8
+https://vtvgolive-sctvdrm.vtvdigital.vn/mKGWC_Gm1TFDhlh1PGtV5g/1789886305/manifest/sctv17/playlist_480p.m3u8
 #EXTINF:-1 tvg-id="sctv18hd" group-title="🇻🇳XEM TiVi MIỄN PHÍ|SCTV online" tvg-logo = "https://i.ibb.co/7JKq6fKf/sctv-online-logo-sctv18.jpg", SCTV 18 HD🔓
 #EXTVLCOPT:http-user-agent=ExoPlayerLib/2.13.3
-https://vnshort.com/khichtivi-sctv18?token/index.m3u8
+https://vtvgolive-sctvdrm.vtvdigital.vn/mKGWC_Gm1TFDhlh1PGtV5g/1789886305/manifest/sctv18/playlist_480p.m3u8
 #EXTINF:-1 tvg-id="sctv19hd" group-title="🇻🇳XEM TiVi MIỄN PHÍ|SCTV online" tvg-logo = "https://i.ibb.co/Rk4V4bFx/sctv-online-logo-sctv19.jpg", SCTV 19 HD🔓
 #EXTVLCOPT:http-user-agent=ExoPlayerLib/2.13.3
-https://vnshort.com/khichtivi-sctv19?token/index.m3u8
+https://vtvgolive-sctvdrm.vtvdigital.vn/mKGWC_Gm1TFDhlh1PGtV5g/1789886305/manifest/sctv19/playlist_480p.m3u8
 #EXTINF:-1 tvg-id="sctv20hd" group-title="🇻🇳XEM TiVi MIỄN PHÍ|SCTV online" tvg-logo = "https://i.ibb.co/7tNwHngD/sctv-online-logo-sctv20.jpg", SCTV 20 HD🔓
 #EXTVLCOPT:http-user-agent=ExoPlayerLib/2.13.3
-https://vnshort.com/khichtivi-sctv20?token/index.m3u8
+https://vtvgolive-sctvdrm.vtvdigital.vn/mKGWC_Gm1TFDhlh1PGtV5g/1789886305/manifest/sctv20/playlist_480p.m3u8
 #EXTINF:-1 tvg-id="sctv21hd" group-title="🇻🇳XEM TiVi MIỄN PHÍ|SCTV online" tvg-logo = "https://i.ibb.co/dRmThsP/SCTV-online-20-04-logo-SCTV21.jpg", SCTV 21 HD🔓
 #EXTVLCOPT:http-user-agent=ExoPlayerLib/2.13.3
-https://vnshort.com/khichtivi-sctv21?token/index.m3u8
+https://vtvgolive-sctvdrm.vtvdigital.vn/mKGWC_Gm1TFDhlh1PGtV5g/1789886305/manifest/sctv21/playlist_480p.m3u8
 #EXTINF:-1 tvg-id="sctv22hd" group-title="🇻🇳XEM TiVi MIỄN PHÍ|SCTV online" tvg-logo="https://i.ibb.co/qYHMvBtC/sctv-online-logo-sctv22.jpg", SCTV 22 HD🔓
 #EXTVLCOPT:http-user-agent=ExoPlayerLib/2.13.3
-https://vnshort.com/khichtivi-sctv22?token/index.m3u8
+https://vtvgolive-sctvdrm.vtvdigital.vn/mKGWC_Gm1TFDhlh1PGtV5g/1789886305/manifest/sctv22/playlist_480p.m3u8
 #EXTINF:-1 tvg-id="sctvhdpth" group-title="🇻🇳XEM TiVi MIỄN PHÍ|SCTV online" tvg-logo="https://i.ibb.co/TBCm1Mf6/Screenshot-2025-0422-075847.jpg", SCTV 23 HD🔓
 #EXTVLCOPT:http-user-agent=ExoPlayerLib/2.13.3
-https://vnshort.com/khichtivi-sctv23?token/index.m3u8
+https://vtvgolive-sctvdrm.vtvdigital.vn/mKGWC_Gm1TFDhlh1PGtV5g/1789886305/manifest/sctvpt/playlist_480p.m3u8
 #EXTINF:-1 tvg-id="vtc18hd" group-title="THỬ NHIỆM💙bóng đá⚽| THỬ NHIỆM" tvg-logo="https://i.imgur.com/wS3BbR3.png" catchup="append" catchup-days="2" catchup-source="https://code.hqth.xyz/xemlai/vieon/vtc18-hd/dvr-${start}-${offset}.m3u8",VTC18 HD Bóng Đã Hàng Anh
 http://125.209.88.166:45793/BRN/beINSP11.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="vtcab16hd" group-title="THỬ NHIỆM💙Chúc mừng năm 2025 🎆|khích Tivi" tvg-logo="https://i.ibb.co/TmvDyKW/khich-Ti-Vi-online-logo.jpg" catchup="append" catchup-days="2" catchup-source="https://code.hqth.xyz/xemlai/vieon/vtc18-hd/dvr-${start}-${offset}.m3u8", khích TiVi online HAPPY🎆2️⃣0️⃣2️⃣5️⃣
