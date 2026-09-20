@@ -429,7 +429,7 @@ https://vtvgolive-sctvdrm.vtvdigital.vn/mKGWC_Gm1TFDhlh1PGtV5g/1789886305/manife
 https://vtvgolive-sctvdrm.vtvdigital.vn/mKGWC_Gm1TFDhlh1PGtV5g/1789886305/manifest/sctv22/playlist_480p.m3u8
 #EXTINF:-1 tvg-id="sctvhdpth" group-title="🇻🇳XEM TiVi MIỄN PHÍ|SCTV online" tvg-logo="https://i.ibb.co/TBCm1Mf6/Screenshot-2025-0422-075847.jpg", SCTV 23 HD🔓
 #EXTVLCOPT:http-user-agent=ExoPlayerLib/2.13.3
-https://vtvgolive-sctvdrm.vtvdigital.vn/mKGWC_Gm1TFDhlh1PGtV5g/1789886305/manifest/sctvpt/playlist_480p.m3u8
+https://vtvgolive-sctvdrm.vtvdigital.vn/p-B8rOb6PT_N2h7B5YC0CA/1789888083/manifest/sctvpth/playlist_480p.m3u8
 #EXTINF:-1 tvg-id="vtc18hd" group-title="THỬ NHIỆM💙bóng đá⚽| THỬ NHIỆM" tvg-logo="https://i.imgur.com/wS3BbR3.png" catchup="append" catchup-days="2" catchup-source="https://code.hqth.xyz/xemlai/vieon/vtc18-hd/dvr-${start}-${offset}.m3u8",VTC18 HD Bóng Đã Hàng Anh
 http://125.209.88.166:45793/BRN/beINSP11.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="vtcab16hd" group-title="THỬ NHIỆM💙Chúc mừng năm 2025 🎆|khích Tivi" tvg-logo="https://i.ibb.co/TmvDyKW/khich-Ti-Vi-online-logo.jpg" catchup="append" catchup-days="2" catchup-source="https://code.hqth.xyz/xemlai/vieon/vtc18-hd/dvr-${start}-${offset}.m3u8", khích TiVi online HAPPY🎆2️⃣0️⃣2️⃣5️⃣
