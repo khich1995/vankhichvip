@@ -308,7 +308,7 @@ https://stream.pdtvhd.com/live/streams/ctv9_hd_playlist.m3u8
 
 #@*",,sctv vtvgo_--_
 #EXTINF:-1 tvg-id="sctv1hd"group-title="🇻🇳XEM TiVi MIỄN PHÍ|SCTV VTVGO"tvg-logo="https://i.ibb.co/VYwbLBRt/sctv-online-logo-vbk.jpg", SCTV 1 HD🔓
-https://vmttv.dpdns.org/VTVGo/?sctv1
+https://vtvgolive-sctv.vtvdigital.vn/a8o2kTfzBA5TzzAJ3qp-KA/1789895322/asdfasdvgas2vtvsctv/1/masterh264.m3u8
 #EXTINF:-1 tvg-id="sctv2hd" group-title="🇻🇳XEM TiVi MIỄN PHÍ|SCTV online" tvg-logo = "https://i.ibb.co/LzVVGqrH/sctv2-sctv-online-logo-vbk.jpg", SCTV 2 HD🔓
 https://vtvgolive-sctvdrm.vtvdigital.vn/mKGWC_Gm1TFDhlh1PGtV5g/1789886305/manifest/sctv2/playlist_480p.m3u8
 #EXTINF:-1 tvg-id="sctv3hd" group-title="🇻🇳XEM TiVi MIỄN PHÍ|SCTV online" tvg-logo="https://i.ibb.co/GQPMd7kv/sctv-online-logo-sctv3.jpg", SCTV 3 HD🔓
