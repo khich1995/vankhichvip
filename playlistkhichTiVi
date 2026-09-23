@@ -315,7 +315,8 @@ https://vtvgolive-sctvdrm.vtvdigital.vn/mKGWC_Gm1TFDhlh1PGtV5g/1789886305/manife
 https://vtvgolive-sctvdrm.vtvdigital.vn/mKGWC_Gm1TFDhlh1PGtV5g/1789886305/manifest/sctv3/playlist_480p.m3u8
 #EXTINF:-1 tvg-id="sctv4hd" group-title="🇻🇳XEM TiVi MIỄN PHÍ|SCTV online" tvg-logo = "https://i.ibb.co/Ngk8MPmC/sctv-online-logo-sctv4.jpg", SCTV 4 HD🔓
 #EXTVLCOPT:http-user-agent=ExoPlayerLib/2.13.3
-https://vtvgolive-sctvdrm.vtvdigital.vn/mKGWC_Gm1TFDhlh1PGtV5g/1789886305/manifest/sctv4/playlist_480p.m3u8
+https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/sctv4/master.m3u8
+#https://vtvgolive-sctvdrm.vtvdigital.vn/mKGWC_Gm1TFDhlh1PGtV5g/1789886305/manifest/sctv4/playlist_480p.m3u8
 #EXTINF:-1 tvg-id="sctv4khd" group-title="🇻🇳XEM TiVi MIỄN PHÍ|SCTV online" tvg-logo = "https://i.ibb.co/N27HZs9y/sctv-online-logo-sctv5.jpg", SCTV 5 HD🔐
 #EXTVLCOPT:http-user-agent=ExoPlayerLib/2.13.3
 http://aismile.dpdns.org/play/e-ku3QGf82cJqb8UGPwn4pQlb4Na4FHY5wg_qzDXDto/ts
