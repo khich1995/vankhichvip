@@ -111,7 +111,7 @@ https://byvn.net/Khich-tivi-vtv6-FHD?&=1782750595/hls/vtv/live/vtv6__vtv1080p-h2
 
 #-""-update khích TiVi*-'-
 
-#EXTINF:0 tvg-id="vtv1hd" group-title="❤️0️⃣3️⃣/1️⃣0️⃣/2️⃣0️⃣2️⃣6️⃣📡|UPDATE By khích📺" tvg-logo="https://i.ibb.co/grKqtMt/Up-Da-Te-khich-Tivi-png.jpg" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtc1_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8",UPDATE khích TiVi|⏰1:7:29|📆|03/10/2026 FHD
+#EXTINF:0 tvg-id="vtv1hd" group-title="❤️0️⃣6️⃣/1️⃣0️⃣/2️⃣0️⃣2️⃣6️⃣📡|UPDATE By khích📺" tvg-logo="https://i.ibb.co/grKqtMt/Up-Da-Te-khich-Tivi-png.jpg" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtc1_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8",UPDATE khích TiVi|⏰1:7:29|📆|06/10/2026 FHD
 https://byvn.net/Khichtivi-vtv1-full-hd?token/index.m3u8
 
 #-*--THVL FHD-*--#
@@ -185,8 +185,8 @@ https://live1.quickscoreboardz.com/live/channel15/playlist.m3u8?khichtv
 https://live1.quickscoreboardz.com/live/channel5/playlist.m3u8?Khichtivi
 #EXTINF:-1 tvg-id="fptplayhd" group-title="khích TiVi Live" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWt-VtNQjEsQ0aGeXHLNQcJs8YAcMgCf-9ewgyR8IY3g&s",Que Choatv 2 HD
 https://live2.zundrixmediapipeline.com/live/channel1.m3u8
-#EXTINF:-1 tvg-id="fptplayhd" group-title="khích TiVi Live" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQw9QluNJU-FQf3bXorwibZqsLHZJ7Q3XEzVJqkWLMdkA&s=10",Que Choatv 3 
-
+#EXTINF:-1 tvg-id="fptplayhd" group-title="khích TiVi Live" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQw9QluNJU-FQf3bXorwibZqsLHZJ7Q3XEzVJqkWLMdkA&s=10", gg88 HD
+https://cdn.livekjc.net/klive2/gg88-Live-melon_6ab511bb7546cfcb94890a4c/index.m3u8?expire=khichtv
 #_"_khich Live cakhai*""_**#############
 
 #EXTINF:-1 tvg-id="cakhaitvhd" ugroup-title="Live khichVip" tvg-logo="https://i.ibb.co/nNQttm41/cakhai-logo-khichtv.jpg", CAKHAITV 1  FULL HD
