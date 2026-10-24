@@ -149,7 +149,7 @@ https://live1.quickscoreboardz.com/live/channel6/playlist.m3u8?Khichtivi
 https://playback.livetl002.com/live/69aa9525f5ec459ae275b43f.m3u8
 #EXTINF:-1 tvg-id="kcinehd" group-title="khichTV Bong Da" tvg-logo="https://i.ibb.co/vDc8r61/cola-tv-2-logo-khichtivi.jpg",⚽ Trực tiếp Bóng đá 3 FHD 
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://playback.livetl004.com/live/69aa9525f5ec459ae275b43f.m3u8
+https://playback.livetl004.com/live/6a9a5525864ea536c2577392.m3u8
 #EXTINF:-1 tvg-id="kaction" group-title="khichTV bóng đá" tvg-logo="https://i.ibb.co/vDc8r61/cola-tv-2-logo-khichtivi.jpg",⚽ Trực tiếp Bóng đá 4 FHD 
 #EXTVLCOPT:http-user-agent ko on on Oct=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 https://live05.meung.app/live/87379114.m3u8?_t=khichtivi
