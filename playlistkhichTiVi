@@ -111,7 +111,7 @@ https://byvn.net/Khich-tivi-vtv6-FHD?&=1782750595/hls/vtv/live/vtv6__vtv1080p-h2
 
 #-""-update khích TiVi*-'-
 
-#EXTINF:0 tvg-id="vtv1hd" group-title="❤️0️⃣6️⃣/1️⃣0️⃣/2️⃣0️⃣2️⃣6️⃣📡|UPDATE By khích📺" tvg-logo="https://i.ibb.co/grKqtMt/Up-Da-Te-khich-Tivi-png.jpg" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtc1_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8",UPDATE khích TiVi|⏰1:7:29|📆|06/10/2026 FHD
+#EXTINF:0 tvg-id="vtv1hd" group-title="❤️2️⃣5️⃣/1️⃣0️⃣/2️⃣0️⃣2️⃣6️⃣📡|UPDATE By khích📺" tvg-logo="https://i.ibb.co/grKqtMt/Up-Da-Te-khich-Tivi-png.jpg" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtc1_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8",UPDATE khích TiVi|⏰1:7:29|📆|25/10/2026 FHD
 https://byvn.net/Khichtivi-vtv1-full-hd?token/index.m3u8
 
 #-*--THVL FHD-*--#
@@ -143,13 +143,13 @@ https://live.baoquangninh.vn/qtvlive/tv3live.m3u8
 
 #EXTINF:-1 tvg-id="ksport1hd" group-title="khichTV Bong Da" tvg-logo="https://i.ibb.co/4mTxLdD/khich-Ti-Vi-Bong-da-hanh-anh.jpg", ⚽ Trực tiếp Bóng đá 1 FHD
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3https://live05.msdht.app/live//344370.m3u8
-https://live05.meung.app/live/90865415.m3u8?_khichtivi
+https://live1.quickscoreboardz.com/live/channel6/playlist.m3u8?Khichtivi
 #EXTINF:-1 tvg-id="ksport2hd" group-title="khichTV Bong Da" tvg-logo="https://i.ibb.co/SfRFTrm/b-ng-tr-c-ti-p.png",⚽ Trực tiếp Bóng đá 2 FHD 
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.1
-https://live05.meung.app/live/59444581.m3u8?_khichtivi
+https://playback.livetl002.com/live/69aa9525f5ec459ae275b43f.m3u8
 #EXTINF:-1 tvg-id="kcinehd" group-title="khichTV Bong Da" tvg-logo="https://i.ibb.co/vDc8r61/cola-tv-2-logo-khichtivi.jpg",⚽ Trực tiếp Bóng đá 3 FHD 
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://live05.meung.app/live/16226575.m3u8?_t=1786221285243
+https://playback.livetl004.com/live/69aa9525f5ec459ae275b43f.m3u8
 #EXTINF:-1 tvg-id="kaction" group-title="khichTV bóng đá" tvg-logo="https://i.ibb.co/vDc8r61/cola-tv-2-logo-khichtivi.jpg",⚽ Trực tiếp Bóng đá 4 FHD 
 #EXTVLCOPT:http-user-agent ko on on Oct=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 https://live05.meung.app/live/87379114.m3u8?_t=khichtivi
