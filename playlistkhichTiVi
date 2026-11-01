@@ -138,7 +138,8 @@ https://live.fptplay53.net/epzhd2/vinhlong4-hd_vhls.smil/chunklist_b5000000.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537
 https://vips-livecdn.fptplay.net/MzI5OTA3OXx2aW5obG9uZzVoZF92aGxzLnNtaWx8dmlldHRlbHwxNzkzNTQ2NzEyfDI3LjY4LjE1Mi4xODZ8MTY3MmE3ZTc4MzMxMjI4YjBkZGFkYjU5MDIzNjMyMzg/epzhd2/vinhlong5hd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF: -1 tvg-id = "quangninh1" group-title = "🇻🇳 Khích TiVi| QTV" tvg-logo = "https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/11/08/urogkht3_quangninh1_296_168.webp", QTV1 HD | TH Quảng Ninh
-https://live.baoquangninh.vn/qtvlive/tv1live.m3u8
+https://freem3u.xyz/api/live/play.m3u8?vid=82
+#https://live.baoquangninh.vn/qtvlive/tv1live.m3u8
 #EXTINF: -1 tvg-id = "quangninh3" group-title = "🇻🇳 Khích TiVi| Địa phương" tvg-logo = "https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/11/08/wb15fvsx_quangninh3_296_168.webp", QTV3 HD | TH Quảng Ninh
 https://live.baoquangninh.vn/qtvlive/tv3live.m3u8
 #--*khichTV Bong*--#
