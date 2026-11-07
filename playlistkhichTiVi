@@ -1190,7 +1190,7 @@ https://dethich.pw/thvl2/index.m3u8
 https://dethich.pw/thvl3/index.m3u8
 #EXTINF:0 tvg-id="vinhlong4hd" group-title="khichtvi" tvg-logo="https://i.imgur.com/xYalJzh.png",THVL4 HD _ TH Vĩnh Long
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://dethich.pw/travinh1/index.m3u8
+https://dethich.pw/thvl4/index.m3u8
 #EXTINF: -1 tvg-id = "hagiang" group-title = "🇻🇳 Khích TiVi| Địa phương" tvg-logo = "https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/10/28/pkpzjr52_hagiang_296_168.webp",Hà Giang HD
 #EXTVLCOPT: http-user-agent = KhichTivi
 #EXTVLCOPT:http-user-agent=khichtivi
@@ -1281,7 +1281,7 @@ https://cdn10jtedge.indihometv.com/atm/DASH/hbohits/manifest.mpd
 #EXTINF: -1 tvg-id = "kontum" group-title = "🇻🇳 Khích TiVi| Địa phương" tvg-logo = "https://i.ibb.co/s9kGBfw/khichtv-logo-KRT-HD.jpg", KRT HD | TH Kon Tum
 #EXTVLCOPT: http-user-agent = KhichTivi
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://live.fptplay53.net/epzsd1/kontum_hls.smil/chunklist_b2500000.m3u8
+
 #EXTINF: -1 tvg-id = "laichau" group-title = "🇻🇳 Khích TiVi| Địa phương" tvg-logo = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRH40L5k4ze4bBP9bGv-2-qbhocedNG4PUZLgSwvOI&s", LTV HD | TH Lai Châu
 #EXTVLCOPT:http-user-agent=khichtivi
 #XTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
@@ -1360,7 +1360,7 @@ https://linear-493.frequency.stream/dist/glewedtv/493/hls/master/playlist.m3u8
 #EXTINF: -1 tvg-id = "ninhthuan" group-title = "🇻🇳 Khích TiVi| Địa phương" tvg-logo = "https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/03/22/nt29fpd8_ninhthuan_296_168.png", NTV HD | TH Ninh Thuận
 https://live.mediatech.vn/live/28597f8fd7ea5064d0f84ab00b3699dfd86/playlist.m3u8
 #EXTINF: -1 tvg-id = "phutho" group-title = "🇻🇳 Khích TiVi| Địa phương" tvg-logo = "https://i.ibb.co/NS3HKWY/khichtv-logo-PTV-HD.png", PTV HD | TH Phú Thọ
-http://bentre5.hoangai.vn:502/stream?url=https://cdn.3ssoft.vn/live/phuthotv/phuthotv/index.m3u8
+https://cdn.3ssoft.vn/live/phuthotv/phuthotv/index.m3u8
 #EXTINF: -1 tvg-id = "phuyen" group-title = "🇻🇳 Khích TiVi| Địa phương" tvg-logo = "https://i.ibb.co/1Q8wzmV/khichtv-logo-phu-yen.jpg", PTP HD sv1 | TH Phú Yên
 #EXTVLCOPT: http-user-agent khíchTivi
 https://1253218859.e.cdneverest.net/JX2fbhhxPSju-odQDzWc7w/1770089303/live/285f5449d7d7d2946e0bd2d54b7e60f25a4/playlist.m3u8
@@ -1389,7 +1389,7 @@ https://cdn10jtedge.indihometv.com/atm/DASH/hbohits/manifest.mpd
 https://live.mediatech.vn/live/285aaa79b4b265a457d81bb72bc32e2c114/chunklist.m3u8
 #EXTINF: -1 tvg-id = "quangngai" group-title = "🇻🇳 Khích TiVi| Địa phương" tvg-logo = "https://i.ibb.co/jP7JjDRm/QNg-TV1-logo-2026-khichtv.webp", PTQ1 HD FPT| TH Quảng Ngãi
 #EXTVLCOPT:http-user-agent=khichtiv
-
+https://live.mediatech.vn/live/285aaa79b4b265a457d81bb72bc32e2c114/playlist.m3u8
 #EXTINF:-1 tvg-id="quangngai2" group-title="🇻🇳 Khích TiVi|Địa phương" tvg-logo="https://i.ibb.co/M5Jm7mjH/QNg-TV2-logo-2026-khichtv.webp", QNgTV2 HD KhichTV | TH Quảng Ngãi
 #EXTVLCOPT:http-user-agent=khichtivi
 https://vtvgolive-ott3.vtvdigital.vn/live/bentretv/playlist.m3u8
@@ -1399,19 +1399,19 @@ https://vtvgolive-ott3.vtvdigital.vn/live/bentretv/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 http://hieupq.drayddns.com:9000/udp/225.1.1.36:30120
 #https://luuchieu.truyenhinhso.vn/media/live/B143BF88CC03AC5CD5D64E04/index.m3u8
-#EXTINF: -1 tvg-id = "quangninh3" group-title = "🇻🇳 Khích TiVi| QTV" tvg-logo = "https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/11/08/urogkht3_quangninh1_296_168.webp", QTV1 HD | TH Quảng Ninh
-
-#EXTINF: -1 tvg-id = "quangninh1" group-title = "🇻🇳 Khích TiVi| Địa phương" tvg-logo = "https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/11/08/wb15fvsx_quangninh3_296_168.webp", QTV3 HD | TH Quảng Ninh
+#EXTINF: -1 tvg-id = "quangninh1" group-title = "🇻🇳 Khích TiVi| QTV" tvg-logo = "https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/11/08/urogkht3_quangninh1_296_168.webp", QTV1 HD | TH Quảng Ninh
+https://cdn.baoquangninh.vn/live/285f5e4256ea38d48eebdc6175909c847fe/playlist.m3u8
+#EXTINF: -1 tvg-id = "quangninh3" group-title = "🇻🇳 Khích TiVi| Địa phương" tvg-logo = "https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/11/08/wb15fvsx_quangninh3_296_168.webp", QTV3 HD | TH Quảng Ninh
 https://bom.so/khichtv-live-QN3-fhd?key/index.m3u8
 #EXTINF: -1 tvg-id = "thainguyen" group-title = "🇻🇳 Khích TiVi| Địa phương" tvg-logo = "https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/10/28/78i2i4aw_thainguyen_296_168.webp", TN1 HD | TH Thái Nguyên
 https://streaming.thainguyentv.vn/hls/livestream.m3u8
 #EXTINF:-1 tvg-id="vtvcab10hd" group-title="🧡|Khích TiVi TN2" tvg-logo="https://i.ibb.co/XyXNKxW/TN2-HD-logo-2017.png", Thái Nguyên 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;)
-https://live.fptplay53.net/fnxsd1/thainguyen_hls.smil/chunklist_b2500000.m3u8
+
 #EXTINF: -1 tvg-id = "thanhhoa" group-title = "🇻🇳 Khích TiVi| Địa phương" tvg-logo = "https://static2.vieon.vn/vieplay-image/thumbnail_v4/2022/03/24/60jv709d_thanh-hoa_296_168.webp", TTV HD SV1 | TH Thanh Hóa
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT: http-referrer=https://hoiquan.click/
-
+https://d2.dhcn.vn/hls/bth_th/720p/index.m3u8
 #EXTINF: -1 tvg-id = "thanhhoa" group-title = "🇻🇳 Khích TiVi| Địa phương" tvg-logo = "https://static2.vieon.vn/vieplay-image/thumbnail_v4/2022/03/24/60jv709d_thanh-hoa_296_168.webp", TTV HD | TH Thanh Hóa
 #EXTINF: -1 tvg-id = "thanhhoa" group-title = "🇻🇳 Khích TiVi| Địa phương" tvg-logo = "https://static2.vieon.vn/vieplay-image/thumbnail_v4/2022/03/24/60jv709d_thanh-hoa_296_168.webp", Thanh Hóa SV2 khích TV live
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;)
@@ -1422,7 +1422,7 @@ https://live.fptplay53.net/fnxsd1/thainguyen_hls.smil/chunklist_b2500000.m3u8
 https://streaming.tuyenquangtv.vn/channel/tuyenquang/chunks.m3u8
 #EXTINF: -1 tvg-id = "tuyenquang" group-title = "🇻🇳 Khích TiVi| Địa phương" tvg-logo = "https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/03/22/y3k1ecmp_tuyenquang_296_168.webp", TTV FHD | TH Tuyên Quang sv2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; 
-
+https://live.mediatech.vn/live/2858e0e3ef3174443ae90f26ba4a8f0643f/playlist.m3u8
 #http://42.116.143.51:13579/udp/225.1.2.188:30120
 #EXTINF: -1 tvg-id = "hue" group-title = "🇻🇳 Khích TiVi| Địa phương" tvg-logo = "https://i.ibb.co/HtJpyxw/trt1-hd-khichtv.png", TRT1 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
