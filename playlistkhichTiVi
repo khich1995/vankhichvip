@@ -1023,11 +1023,11 @@ https://lives.antv.gov.vn/channel/antv/channel/antv_720p/chunks.m3u8
 #EXTVLCOPT: http-user-agent = khichTivi
 #EXTVLCOPT:http-user-agent=khichtivi
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; KhichTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-
+http://stream.mcquack.net/169/index.m3u8
 #EXTINF: -1 tvg-id = "binhduong2" group-title = "🇻🇳Khích TiVi|Địa phương" tvg-logo = "https://static2.vieon.vn/vieplay-image/avatar/2020/12/15/g4ovu8f3_binh_duong_2.webp",Bình Dương 2 HD
 #EXTVLCOPT: http-user-agent = khichTivi
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; KhichTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-
+http://stream.mcquack.net/168/index.m3u8
 #EXTINF: -1 group-title = "🇻🇳 Khích TiVi| Địa phương" tvg-logo = "https://i.ibb.co/Brsz0XR/Btv3-hd-khichtv.png", Bình Dương 3 HD
 #EXTVLCOPT: http-user-agent = KhichTivi
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
@@ -1039,7 +1039,7 @@ https://jmp2.uk/plu-6728d2be529ac9000830dc15.m3u8
 #EXTINF:-1 tvg-id="btv5hd" group-title="💚Khích TiVi|KÊNH ĐỊA PHƯƠNG" tvg-logo="https://i.ibb.co/P66BsJx/Binh-duong-5-khichtivi.png",Bình Dương 5 HD
 #EXTVLCOPT:http-user-agent=KhíchTivi
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-
+http://stream.mcquack.net/167/index.m3u8
 #EXTINF: -1 tvg-id = "binhduong6" group-title = "🇻🇳Khích TiVi|Địa phương" tvg-logo = "https://static.vieon.vn/vieplay-image/avatar/2021/03/15/pzr6bcmt_binhduong6.png",Bình Dương 6 HD
 #EXTVLCOPT: http-user-agent = KhichTivi
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
@@ -1218,19 +1218,19 @@ https://bom.so/Khichtv-hanoi2-hd-full?tokey/playlist.m3u8
 #EXTVLCOPT:http-user-agent=khichtivi
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
-https://wse.hatinhtv.net/live/httv1/playlist.m3u8
+
 #EXTINF: -1 tvg-id = "haiduong" group-title = "🇻🇳 Khích TiVi| Địa phương" tvg-logo = "https://i.ibb.co/h7y9GXk/hai-duong-khichtv.jpg", THD HD | TH hải dương
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://live.fptplay53.net/fnxsd1/haiphongplus_hls.smil/chunklist_b2500000.m3u8
+
 #EXTINF:-1 tvg-id="haiduong" group-title="Địa phương" tvg-logo="https://i.ibb.co/19x8KjC/144.png",Hải Dương HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #EXTVLCOPT:khichtivi=59
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://live.haiduongtv.vn/live/285857e204bb558402db3b431e183b6638d/playlist.m3u8
+
 #EXTINF: -1 tvg-id = "haiphong" group-title = "🇻🇳Khích TiVi|Địa phương" tvg-logo = "https://i.ibb.co/m83wrLb/hai-phong-khichtv.jpg", THP HD | TH Hải Phòng HD
 #EXTVLCOPT:khichtivi=60
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://live.fptplay53.net/fnxsd1/haiphong_hls.smil/chunklist_b1800000.m3u8
+
 #EXTINF: -1 tvg-id = "haiphongplus" group-title = "🇻🇳Khích TiVi|Địa phương" tvg-logo = "https://i.ibb.co/Cz3s9my/hai-phong-khichtv-146.jpg", THP + HD | TH Hải Phòng
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://live.mediatech.vn/live/285a4c99665fdf84e94956c66bc7dc7eb5d/playlist.m3u8
