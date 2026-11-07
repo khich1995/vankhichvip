@@ -1178,20 +1178,19 @@ https://cdn10jtedge.indihometv.com/atm/DASH/hbo/manifest.mpd
 #EXTINF:-1 tvg-id="gialai" tvg-logo="https://static.vieon.vn/vieplay-image/avatar/2021/03/22/xuq618a5_gialai.png",GIA LAI FHD
 #EXTVLCOPT: http-user-agent = KhichTivi
 #EXTVLCOPT:http-user-agent=Moliza
-https://live.fptplay53.net/epzsd1/gialai01_hls.smil/chunklist_b2500000.m3u8
-#https://tv.gialaitv.vn/tv.m3u8
+https://tv.gialaitv.vn/tv.m3u8
 #EXTINF:0 tvg-id="vinhlong1hd" group-title="khichtivi" tvg-logo="https://i.imgur.com/gvPtTR2.png",THVL1 HD _ TH Vĩnh Long
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://live.fptplay53.net/epzch2/vinhlong1_abr.smil/chunklist_b4200000.m3u8
+https://dethich.pw/thvl1/index.m3u8
 #EXTINF:0 tvg-id="vinhlong2hd" group-title="khichtivi" tvg-logo="https://i.imgur.com/wYadDFn.png",THVL2 HD _ TH Vĩnh Long
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://live.fptplay53.net/epzhd2/vinhlong2_vhls.smil/chunklist_b5000000.m3u8
+https://dethich.pw/thvl2/index.m3u8
 #EXTINF:0 tvg-id="vinhlong3hd" group-title="khichtivi" tvg-logo="https://i.imgur.com/B8S0dyG.png",THVL3 HD _ TH Vĩnh Long
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://live.fptplay53.net/epzhd2/vinhlong3_vhls.smil/chunklist_b5000000.m3u8
+https://dethich.pw/thvl3/index.m3u8
 #EXTINF:0 tvg-id="vinhlong4hd" group-title="khichtvi" tvg-logo="https://i.imgur.com/xYalJzh.png",THVL4 HD _ TH Vĩnh Long
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://live.fptplay53.net/epzhd2/vinhlong4hd_vhls.smil/chunklist_b5000000.m3u8
+https://dethich.pw/travinh1/index.m3u8
 #EXTINF: -1 tvg-id = "hagiang" group-title = "🇻🇳 Khích TiVi| Địa phương" tvg-logo = "https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/10/28/pkpzjr52_hagiang_296_168.webp",Hà Giang HD
 #EXTVLCOPT: http-user-agent = KhichTivi
 #EXTVLCOPT:http-user-agent=khichtivi
