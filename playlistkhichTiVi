@@ -956,11 +956,11 @@ https://cdnet-cdn-01.onsports.vn/mean/ANNINHTV/index.m3u8
 #-*--Địa phương-*--#
 #EXTINF: -1 tvg-id = "angiang1" group-title = "🇻🇳 | Địa phương" tvg-logo = "https://angiangtv.vn/wp-content/uploads/2025/06/H4.png",An Giang 1 HD
 #EXTVLCOPT: http-user-agent = khíchTivi
-#EXTVLCOPT:http-user-agent=Moliza
-https://tv.angiangtv.vn/live/kgtv/kgtv.m3u8
+#EXTVLCOPT:http-user-agent=Moliza=66
+https://freem3u.xyz/api/live/play.m3u8?vid=66
 #EXTINF: -1 tvg-id = "angiang2" group-title = "🇻🇳 | Địa phương" tvg-logo = "https://angiangtv.vn/wp-content/uploads/2025/07/atv2.png",An Giang 2 HD
-#EXTVLCOPT: http-user-agent = khíchTivi
-https://tv.angiangtv.vn/live/kgtv2/kgtv2.m3u8
+#EXTVLCOPT: http-user-agent =35 khíchTivi
+https://freem3u.xyz/api/live/play.m3u8?vid=35
 #EXTINF: -1 tvg-id = "angiang3" group-title = "🇻🇳 | Địa phương" tvg-logo = "https://angiangtv.vn/wp-content/uploads/2025/06/H5.png",An Giang 3 HD
 #EXTVLCOPT: http-user-agent = khíchTivi
 #EXTVLCOPT:http-user-agent=Moliza
