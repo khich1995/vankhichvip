@@ -107,9 +107,7 @@ https://vmttv.dpdns.org/VTVGo/?sctvphim
 #https://tinyurl.com/Khich-tivi-liveSCTVphimtonghop?tokey.m3u8
 #EXTINF:-1 tvg-id="vtv6hd" group-title="🇻🇳2️⃣0️⃣2️⃣6️⃣By Khích TiVi" tvg-logo="https://i.ibb.co/RTxZTX6x/VTV6-logo-khichtivi.webp",KhichTiVi|VTV6 Full HD
 #EXTVLCOPT:http-user-agent=khíchtivi(Linux;Android 9)
-https://vips-livecdn.fptplay.net/live/media/fptplay/live247-hls-avc/fptplay-avc1_5600000=10000-mp4a_131600=20000.m3u8?sign=1793572580-NDAzMjAzOA-0-c8da2976ceb32783f80368781f83f2ac
-https://byvn.net/Khich-tivi-vtv6-FHD?&=1782750595/hls/vtv/live/vtv6__vtv1080p-h264/index.m3u8
-
+https://dethich.pw/vtv6/index.m3u8
 #-""-update khích TiVi*-'-
 
 #EXTINF:0 tvg-id="vtv1hd" group-title="❤️0️⃣8️⃣/1️⃣1️⃣/2️⃣0️⃣2️⃣6️⃣📡|UPDATE By khích📺" tvg-logo="https://i.ibb.co/grKqtMt/Up-Da-Te-khich-Tivi-png.jpg" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtc1_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8",UPDATE khích TiVi|⏰1:7:29|📆|08/11/2026 FHD
@@ -136,7 +134,7 @@ https://dethich.pw/thvl4/index.m3u8
 #EXTINF:-1 tvg-id="vinhlong5hd" group-title="Khích TiVi" tvg-logo="https://i.ibb.co/TDKgK3ZC/khich-Ti-Vi-logo-thvl5.jpg",Vĩnh Long 5 FHD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537
-https://vips-livecdn.fptplay.net/MzI5OTA3OXx2aW5obG9uZzVoZF92aGxzLnNtaWx8dmlldHRlbHwxNzkzNTQ2NzEyfDI3LjY4LjE1Mi4xODZ8MTY3MmE3ZTc4MzMxMjI4YjBkZGFkYjU5MDIzNjMyMzg/epzhd2/vinhlong5hd_vhls.smil/chunklist_b5000000.m3u8
+https://dethich.pw/travinh1/index.m3u8
 #EXTINF: -1 tvg-id = "quangninh1" group-title = "🇻🇳 Khích TiVi| QTV" tvg-logo = "https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/11/08/urogkht3_quangninh1_296_168.webp", QTV1 HD | TH Quảng Ninh
 https://freem3u.xyz/api/live/play.m3u8?vid=82
 #https://live.baoquangninh.vn/qtvlive/tv1live.m3u8
