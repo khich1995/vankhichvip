@@ -443,9 +443,9 @@ https://freem3u.xyz/api/live/play.m3u8?vid=194
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #EXTINF:-1 tvg-id="htv9hd" group-title="💛|Khích📺 HTV" tvg-logo="https://static.vieon.vn/vieplay-image/avatar/2020/12/15/fumnfkgr_htv9hd.png",HTV9 HD
 #EXTVLCOPT: http-user-agent = KhichTivi
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0=194
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.1
-https://tinyurl.com/VuongBaoKhichTV-HTV9-HD?token/index.m3u8
+https://freem3u.xyz/api/live/play.m3u8?vid=194
 #EXTINF: -1 tvg-id = "htvcoop" group-title = "💛Khích📺|HTV" tvg-logo = "https://static.vieon.vn/vieplay-image/avatar/2020/12/15/ef3k8dni_htv_coop.png",HTV CO.OP
 #EXTVLCOPT: http-user-agent = KhichTivi
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
@@ -466,12 +466,12 @@ https://dethich.pw/htvthethao/index.m3u8
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.:=195
 
 #EXTINF:-1 tvg-id="htvcthuanviet" group-title="💛|Khích📺 HTV" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/8/8c/HTVC_thuanviet.png",HTVC THUẦN VIỆT
-https://live.fptplay53.net/epzhd1/htvcthuanviethd_vhls.smil/chunklist_b5000000.m3u8
+https://dethich.pw/htvcthuanviet/index.m3u8
 #EXTINF:-1 tvg-id="htvcthuanviethd" group-title="💛|Khích📺 HTV" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2022/03/31/f1awhyku_htvcthuanviet_296_168.webp",HTVC THUẦN VIỆT HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-#EXTVLCOPT: http-user-agen= KhichTivi
+#EXTVLCOPT: http-user-agen=13 KhichTivi
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://dethich.pw/htvctuanviet/index.m3u8
+https://freem3u.xyz/api/live/play.m3u8?vid=13
 #EXTINF:-1 tvg-id="htvcgiadinhhd" group-tile="💛Khích📺| HTV" tvg-logo="https://static.vieon.vn/vieplay-image/avatar/2020/12/15/8gqjv4o5_htvc_gia_dinh.png",HTVC GIA ĐÌNH FHD
 #EXTVLCOPT: http-user-agent = KhichTivi
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
@@ -485,7 +485,7 @@ https://liveh34.vtvprime.vn/hls/HTVGIADINH/03.m3u8
 #EXTVLCOPT: http-user-agent = KhichTivi
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://toiyeuvietnam.dpdns.org/CoBan/htvc-phu-nu/TuyetDoiKhongKinhDoanh.m3u8
+https://freem3u.xyz/api/live/play.m3u8?vid=191
 #EXTINF:-1 group-title="💛Khích📺| HTV" tvg-id="htvcphunuhd" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2022/03/31/962h3dtj_htvcphunu_296_168.webp", HTVC PHỤ NỮ FHD
 #EXTVLCOPT: http-user-agent = KhichTivi
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
@@ -507,7 +507,7 @@ https://freem3u.xyz/api/live/play.m3u8?vid=15
 #EXTINF:-1 tvg-id="htvcphimhd ViettelTV" group-title="HTVc" tvg-logo="https://img-zlr1.tv360.vn/image1/2020/12/25/10/160886616399/c002b68d052e_640_360.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/htvcmovieshd_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", HTVC PLUS
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; KhichTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://toiyeuvietnam.dpdns.org/CoBan/htvc/TuyetDoiKhongKinhDoanh.m3u8
+https://dethich.pw/htvcphim/index.m3u8
 #EXTINF:-1 tvg-id="htvcphimhd" group-title="HTV Online" tvg-logo="https://img-zlr1.tv360.vn/image1/2021/07/01/15/1625129239161/48401c7a9ce3_640_360.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/htvcmovieshd_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", HTVC PHIM HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
@@ -520,7 +520,7 @@ http://aismile.dpdns.org/play/e-ku3QGf82cJqb8UGPwn4txQdzKVhIIntYB6WOJyZ44/ts
 #EXTVLCOPT: http-user-agent = KhichTivi
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://live.fptplay53.net/epzhd1/htvcplus_vhls.smil/chunklist_b5000000.m3u8
+https://dethich.pw/htvcplus/index.m3u8
 #EXTINF:-1 tvg-id="htvcplushd" group-title="💛Khích📺| HTV" tvg-logo="https://procasttv.com/app/uploads/tv_image/sm/viet-sky.png",VIỆT SKYTV HD
 #EXTVLCOPT: http-user-agent = KhichTivi
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
