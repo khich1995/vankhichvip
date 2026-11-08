@@ -906,7 +906,7 @@ https://live.fptplay53.net/fnxhd2/anninhtv_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF: -1 tvg-id = "antvhd" group-title = "🌐Khích TiVi|Thiết yếu" tvg-logo = "https://static.vieon.vn/vieplay-image/avatar/2020/12/15/s4xe42nk_an_ninh_tv.png",An Ninh TV HD
 #EXTVLCOPT:http-user-agent=KhichTivi
 #EXTVLCOPT:http-user-agent=Moliza
-http://antvlive.ab5c6921.cdnviet.com/antv/chunklist.m3u8
+https://lives.antv.gov.vn/channel/antv/channel/antv_1080p/chunks.m3u8
 #EXTINF:-1 tvg-id="antg" group-title="💕| Hanoicab" tvg-logo="https://i.ibb.co/FBhhd6q/ANTGTV-khichtivi.png", An Ninh Thế Giới
 http://connectiktv.ddns.net:5000/mytvchannel/@mytvchannel/playlist.m3u8
 #EXTINF:-1 tvg-id="phimhayhd" group-title="💕| HCATV" tvg-logo="https://i.ibb.co/mhXPq5n/Phim-hay-logo-khichtivi.png", HCATV - Phim Hãy FHD
@@ -923,7 +923,7 @@ https://live.fptplay53.net/fnxhd1/vntoday_vhls.smil/chunklist_b5000000.m3u8
 https://wowza.danet.vn/live/vtv1.stream/playlist.m3u8?khichtivi_tokey
 #EXTINF:0 tvg-id="quochoi" group-title="KÊNH CHUYÊN BIỆT" tvg-logo="https://i.ibb.co/qrQ8fJM/qhtv-khichTV.png",QUỐC HỘI
 #EXTVLCOPT:http-user-agent=KhichTivi
-htt@ps://live.fptplay53.net/fnxhd2/quochoivn_vhls.smil/chunklist_b5000000.m3u8
+
 #EXTINF:0 tvg-id="quochoi" group-title="KÊNH CHUYÊN BIỆT" tvg-logo="https://i.ibb.co/qrQ8fJM/qhtv-khichTV.png",QUỐC HỘI
 #EXTVLCOPT:http-user-agent=KhichTivi
 
@@ -931,11 +931,11 @@ htt@ps://live.fptplay53.net/fnxhd2/quochoivn_vhls.smil/chunklist_b5000000.m3u8
 #EXTVLCOPT:http-user-agent=KhichTivi
 https://wowza.danet.vn/live/quocphong/playlist.m3u8
 #EXTINF:-1 tvg-id="qpvnhd" tvg-logo="https://static.vieon.vn/vieplay-image/avatar/2020/12/15/y9fdxa11_quoc_phong_vn.png",Quốc Phòng HD
-https://dethich.pw/quocphong/index.m3u8
+https://dethich.pw/qptv/index.m3u8
 #EXTINF:-1 tvg-id="antvhd" tvg-logo="https://i.ibb.co/1nX3zfC/An-ninhtv-khichtv.jpg",AN NNH HD
 https://dethich.pw/anninh/index.m3u8
 #EXTINF:-1 tvg-id="qpvntvhd" group-title="QPTV" tvg-logo="https://i.ibb.co/4mgNwrV/truyenhinh-Qu-n-Khu7.jpg", QUỐC PHONG HD
- https://qpvn.vn/live/qpvn/index.m3u8
+ https://qpvn.vn/live/qpvn/1080p.m3u8
 #EXTINF:-1 tvg-id="qpvnhd" tvg-logo="https://static.vieon.vn/vieplay-image/avatar/2020/12/15/y9fdxa11_quoc_phong_vn.png",Quốc Phòng
  
 #EXTINF:-1 tvg-id="vovtvhd" group-title="Thiết Yếu" tvg-logo="https://i.ibb.co/pQCygJC/organizational-structure-of-the-voice-of-vietnam-2211155315.webp", VOVTV FHD-25
