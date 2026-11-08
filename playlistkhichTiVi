@@ -900,13 +900,13 @@ https://freem3u.xyz/api/live/play.m3u8?vid=31
 #EXTINF: -1 tvg-id = "antvhd" group-title = "🌐Khích TiVi|Thiết yếu" tvg-logo = "https://static.vieon.vn/vieplay-image/avatar/2020/12/15/s4xe42nk_an_ninh_tv.png",An Ninh TV FHD
 #EXTVLCOPT:http-user-agent=KhichTivi
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-#EXTVLCOPT:http-user-agent=Moliza
-https://live.fptplay53.net/fnxhd2/anninhtv_vhls.smil/chunklist_b5000000.m3u8
+#EXTVLCOPT:http-user-agent=Moliz=20
+https://freem3u.xyz/api/live/play.m3u8?vid=20
 #https://wowza.danet.vn/live/antv/playlist.m3u8
 #EXTINF: -1 tvg-id = "antvhd" group-title = "🌐Khích TiVi|Thiết yếu" tvg-logo = "https://static.vieon.vn/vieplay-image/avatar/2020/12/15/s4xe42nk_an_ninh_tv.png",An Ninh TV HD
 #EXTVLCOPT:http-user-agent=KhichTivi
 #EXTVLCOPT:http-user-agent=Moliza
-https://lives.antv.gov.vn/channel/antv/channel/antv_1080p/chunks.m3u8
+
 #EXTINF:-1 tvg-id="antg" group-title="💕| Hanoicab" tvg-logo="https://i.ibb.co/FBhhd6q/ANTGTV-khichtivi.png", An Ninh Thế Giới
 http://connectiktv.ddns.net:5000/mytvchannel/@mytvchannel/playlist.m3u8
 #EXTINF:-1 tvg-id="phimhayhd" group-title="💕| HCATV" tvg-logo="https://i.ibb.co/mhXPq5n/Phim-hay-logo-khichtivi.png", HCATV - Phim Hãy FHD
