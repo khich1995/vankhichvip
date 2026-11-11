@@ -917,7 +917,7 @@ https://abr.de1se01.v2beat.live/live/live6/chunks.m3u8
 https://fr-1.galaxyott.com/streamer/ttq/playlist.m3u8
 #EXTINF:-1 tvg-id="vietnamtoday" tvg-logo="https://i.ibb.co/mCQh7HDy/khichtv-logo-vietnamtoday.jpg",VIÊT NAM TODOY HD
 #EXTVLCOPT:http-user-agent=KhichTivi
-https://live.fptplay53.net/fnxhd1/vntoday_vhls.smil/chunklist_b5000000.m3u8
+https://amg01923-amg01923c162-amgplt0456.playout.now3.amagi.tv/playlist_1e4d76a3_1300913690581300487.m3u8
 #EXTINF:-1 tvg-id="vtv1hd" tvg-logo="https://images.danet.vn/images/thumbs/960x540/3e/28c/a291015a5e02a648ece30e5e5ee51fd2.jpg",VTV1 DANET
 #EXTVLCOPT:http-user-agent=KhichTivi
 https://wowza.danet.vn/live/vtv1.stream/playlist.m3u8?khichtivi_tokey
