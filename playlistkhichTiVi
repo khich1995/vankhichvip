@@ -110,7 +110,7 @@ https://vmttv.dpdns.org/VTVGo/?sctvphim
 https://dethich.pw/vtv6/index.m3u8
 #-""-update khích TiVi*-'-
 
-#EXTINF:0 tvg-id="vtv1hd" group-title="❤️1️⃣3️⃣/1️⃣1️⃣/2️⃣0️⃣2️⃣6️⃣📡|UPDATE By khích📺" tvg-logo="https://i.ibb.co/grKqtMt/Up-Da-Te-khich-Tivi-png.jpg" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtc1_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8",UPDATE khích TiVi|⏰1:7:29|📆|13/11/2026 FHD
+#EXTINF:0 tvg-id="vtv1hd" group-title="❤️1️⃣6️⃣/1️⃣1️⃣/2️⃣0️⃣2️⃣6️⃣📡|UPDATE By khích📺" tvg-logo="https://i.ibb.co/grKqtMt/Up-Da-Te-khich-Tivi-png.jpg" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtc1_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8",UPDATE khích TiVi|⏰1:7:29|📆|17/11/2026 FHD
 https://dethich.pw/vtv1/index.m3u8
 #https://byvn.net/Khichtivi-vtv1-full-hd?token/index.m3u8
 
@@ -997,7 +997,7 @@ http://123.31.36.68/live.m3u8?c=vstv360&q=high&type=tv&token=LX-ibJYRUq9pflRtYAx
 #EXTINF: -1 tvg-id = "baclieu" group-title = "🇻Khích TiVi🇳|Địa phương" tvg-logo = "https://thbl.vn/wp-content/themes/daith2019/assets/img/logo.png",Bạc Liêu
 #EXTVLCOPT: http-user-agent = KhichTivi
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://live.fptplay53.net/epzsd1/baclieu_hls.smil/chunklist_b1800000.m3u8 
+
 #EXTINF: -1 tvg-id = "baclieu" group-title = "🇻Khích TiVi🇳|Địa phương" tvg-logo = "https://static.vieon.vn/vieplay-image/avatar/2020/12/15/xqmy3zen_bac_lieu.png",Bạc Liêu
 #EXTVLCOPT:http-user-agent=Moliza
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
@@ -1048,7 +1048,7 @@ https://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8
 #EXTVLCOPT: http-user-agent = KhichTivi
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://live.fptplay53.net/fnxsd1/btv9_hls.smil/chunklist_b2500000.m3u8
+
 #EXTINF: -1 tvg-id = "binhduong9" group-title = "🇻🇳Khích TiVi|Địa phương" tvg-logo = "https://static2.vieon.vn/vieplay-image/avatar/2025/01/17/h8s9hwc5_thumb.webp",Bình Dương 9 HD
 #EXTVLCOPT: http-user-agent = KhichTivi
 #EXTVLCOPT: http-user-agent = KhichTivi
@@ -1058,7 +1058,7 @@ https://byvn.net/Khichtiviget80-BTV9-HD-mpd
 #EXTINF: -1 tvg-id = "binhduong11" group-title = "🇻🇳Khích TiVi|Địa phương" tvg-logo = "https://static.vieon.vn/vieplay-image/avatar/2020/12/15/mov5ar52_binh_duong_11.png",Bình Dương 11
 #EXTVLCOPT: http-user-agent = KhichTivi
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://live.fptplay53.net/fnxsd1/vtvhyundai_hls.smil/chunklist_b2500000.m3u8
+#https://live.fptplay53.net/fnxsd1/vtvhyundai_hls.smil/chunklist_b2500000.m3u8
 #EXTINF: -1 tvg-id = "binhphuoc1" group-title = "🇻Khích TiVi🇳|Địa phương" tvg-logo = "https://static.vieon.vn/vieplay-image/avatar/2020/12/15/wz9i5h9w_binh_phuoc_1.png",Bình Phước 1 HD
 #EXTVLCOPT: http-user-agent = KhichTivi
 
@@ -1086,7 +1086,7 @@ https://qpvn.vn/live/qpvn/master.m3u8
 #EXTINF: -1 tvg-id = "camau" group-title = "🇻🇳Khích TiVi|Địa phương" tvg-logo = "https://static.vieon.vn/vieplay-image/avatar/2021/03/15/azxwra5f_camautv.png",Cà Mau HD
 #EXTVLCOPT: http-user-agent = KhichTivi
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://live.fptplay53.net/epzsd1/camau_hls.smil/chunklist_b1800000.m3u8
+#https://live.fptplay53.net/epzsd1/camau_hls.smil/chunklist_b1800000.m3u8
 #EXTINF: -1 tvg-id = "camau" group-title = "🇻🇳Khích TiVi|Địa phương" tvg-logo = "https://static.vieon.vn/vieplay-image/avatar/2021/03/15/azxwra5f_camautv.png",Cà Mau FHD
 #EXTVLCOPT: http-user-agent = KhichTivi
 #EXTVLCOPT:http-user-agent=Moliza
