@@ -379,7 +379,7 @@ https://vtvgolive-sctvdrm.vtvdigital.vn/p-B8rOb6PT_N2h7B5YC0CA/1789888083/manife
 #EXTINF:-1 tvg-id="vtc18hd" group-title="THỬ NHIỆM💙bóng đá⚽| THỬ NHIỆM" tvg-logo="https://i.imgur.com/wS3BbR3.png" catchup="append" catchup-days="2" catchup-source="https://code.hqth.xyz/xemlai/vieon/vtc18-hd/dvr-${start}-${offset}.m3u8",VTC18 HD Bóng Đã Hàng Anh
 http://125.209.88.166:45793/BRN/beINSP11.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="vtcab16hd" group-title="THỬ NHIỆM💙Chúc mừng năm 2025 🎆|khích Tivi" tvg-logo="https://i.ibb.co/TmvDyKW/khich-Ti-Vi-online-logo.jpg" catchup="append" catchup-days="2" catchup-source="https://code.hqth.xyz/xemlai/vieon/vtc18-hd/dvr-${start}-${offset}.m3u8", khích TiVi online HAPPY🎆2️⃣0️⃣2️⃣5️⃣
-
+http://nas01.misaka.show:5000/rtp/239.61.2.176:9044
 #EXTINF:-1 tvg-id="vtc20hd" group-title=THỬ NHIỆM💙khichTV|TRỰC TIẾP bóng Đa⚽" tvg-logo="https://i.ibb.co/jH7wFYf/khich-Ti-Vi-online-bong-da.jpg" catchup="append" catchup-days="2" catchup-source="https://code.hqth.xyz/xemlai/vieon/vtc18-hd/dvr-${start}-${offset}.m3u8",⚽🏀 TRỰC TIẾP
 http://190.117.20.37:8000/play/a08d/index.m3u8
 #EXTINF:-1 tvg-id="vtc21hd" group-title="THỬ NHIỆM💙khichTV| Bong ĐÁ TRỰC TIẾP " tvg-logo="https://i.ibb.co/h9td1z1/khich-online-bong-da.jpg" catchup="append" catchup-days="2" catchup-source="https://code.hqth.xyz/xemlai/vieon/vtc19-hd/dvr-${start}-${offset}.m3u8",Bong Da TRỰC TIẾP
