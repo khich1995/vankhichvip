@@ -191,15 +191,15 @@ https://live2.zundrixmediapipeline.com/live/channel1.m3u8
 https://cdn.livekjc.net/klive2/gg88-Live-melon_6ab511bb7546cfcb94890a4c/index.m3u8?expire=khichtv
 #_"_khich Live cakhai*""_**#############
 
-#EXTINF:-1 tvg-id="cakhaitvhd" ugroup-title="Live khichVip" tvg-logo="https://static.90phutqq.cc/images/logo-90phut.png", 90phut 1  FULL HD
+#EXTINF:-1 tvg-id="90phuttvhd" ugroup-title="Live khichVip" tvg-logo="https://static.90phutqq.cc/images/logo-90phut.png", 90phut 1  FULL HD
 https://live2.jorvakstreamcache.com/live/channel6.m3u8
-#EXTINF:-1 tvg-id="cakhaitvhd" ugroup-title="Live khichVip" tvg-logo="https://static.90phutqq.cc/images/logo-90phut.png", 90phut 2 FULL HD
+#EXTINF:-1 tvg-id="90phuttvhd" ugroup-title="Live khichVip" tvg-logo="https://static.90phutqq.cc/images/logo-90phut.png", 90phut 2 FULL HD
 https://live2.jorvakstreamcache.com/live/channel2.m3u8
-#EXTINF:-1 tvg-id="bunchatvhd" ugroup-title="Live khichVip" tvg-logo="https://static.90phutqq.cc/images/logo-90phut.png", 90phut 3 FULL HD
+#EXTINF:-1 tvg-id="90phuttvhd" ugroup-title="Live khichVip" tvg-logo="https://static.90phutqq.cc/images/logo-90phut.png", 90phut 3 FULL HD
 https://live2.jorvakstreamcache.com/live/channel1.m3u8
-#EXTINF:-1 tvg-id="bunchatvhd" ugroup-title="Live khichVip" tvg-logo="https://static.90phutqq.cc/images/logo-90phut.png", 90phut 4 FULL HD
-https://playback.livetl002.com/live/6a9776215126529dede9bf51.m3u8
-#EXTINF:-1 tvg-id="bunchatvhd" ugroup-title="Live khichVip" tvg-logo="https://i.ibb.co/9ktnYdCR/cakhaitv-4k-logo-khichtv.png", CAKHAITV 5 FULL HD
+#EXTINF:-1 tvg-id="90phuttvhd" ugroup-title="Live khichVip" tvg-logo="https://static.90phutqq.cc/images/logo-90phut.png", 90phut 4 FULL HD
+https://live2.jorvakstreamcache.com/live/channel21.m3u8
+#EXTINF:-1 tvg-id="90phuttvhd" ugroup-title="Live khichVip" tvg-logo="https://i.ibb.co/9ktnYdCR/cakhaitv-4k-logo-khichtv.png", CAKHAITV 5 FULL HD
 https://playback.livetl002.com/live/6a5b13ceb36a14387baeddaa.m3u8
 #EXTINF:-1 tvg-id="thiendinh1hd" group-title="Live khichTV" tvg-logo="https://i.ibb.co/XZHnqGzC/khich-Ti-Vi-Logo-thien-dinhtv-png.png", THIÊN ĐINHTV 1 FULL HD
 
