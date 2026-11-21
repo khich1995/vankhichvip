@@ -136,12 +136,12 @@ https://freem3u.xyz/api/live/play.m3u8?vid=219
 #EXTINF:-1 tvg-id="vinhlong4hd" group-title="Khích TiVi" tvg-logo="https://i.imgur.com/9IldS0L.jpg",Vĩnh Long 4 FHD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537
-
+https://freem3u.xyz/api/live/play.m3u8?vid=220
 #https://dethich.pw/thvl4/index.m3u8
 #EXTINF:-1 tvg-id="vinhlong5hd" group-title="Khích TiVi" tvg-logo="https://i.ibb.co/TDKgK3ZC/khich-Ti-Vi-logo-thvl5.jpg",Vĩnh Long 5 FHD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537
-
+https://freem3u.xyz/api/live/play.m3u8?vid=220
 #https://dethich.pw/travinh1/index.m3u8
 #EXTINF: -1 tvg-id = "quangninh1" group-title = "🇻🇳 Khích TiVi| QTV" tvg-logo = "https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/11/08/urogkht3_quangninh1_296_168.webp", QTV1 HD | TH Quảng Ninh
 https://freem3u.xyz/api/live/play.m3u8?vid=82
